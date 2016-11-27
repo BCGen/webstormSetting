@@ -5,6 +5,9 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="ConfigureIcs">
+    <keyboard-shortcut first-keystroke="alt z" second-keystroke="alt s" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
