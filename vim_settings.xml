@@ -230,10 +230,11 @@
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/Card.js" timestamp="1479737173598">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480516271607">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480520837430">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="39" />
+        <mark key="^" line="15" column="39" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/LoginForm.js" timestamp="1479731654218">
         <mark key="[" line="53" column="53" />
@@ -288,19 +289,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW50ZXJmYQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW50ZXJmYQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVzaXplVG8oKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -309,27 +310,19 @@
         <text encoding="base64">ICAgIHJlc2l6ZVRvKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIE5PVEU6IHRoZSBsaW5lIGJlbG93IGlzIG5vdyBhbiBhcnJvdyBmdW5jCg==</text>
+        <text encoding="base64">ICAgIHJlc2l6ZVRvKCkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmxldCBkZWNrID0gewogIHN1aXRzOiBbJ2hlYXJ0cycsICdzcGFkZXMnLCAnY2x1YnMnLCAnZGlhbW9uZHMnXSwKICBjYXJkczogQXJyYXkoNTIpLAogIGNyZWF0ZUNhcmRQaWNrZXI6IGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIGZ1bmN0aW9uKCkgewogICAgICBsZXQgcGlja2VkQ2FyZCA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIDUyKTsKICAgICAgbGV0IHBpY2tlZFN1aXQgPSBNYXRoLmZsb29yKHBpY2tlZENhcmQgLyAxMyk7CgogICAgICByZXR1cm4ge3N1aXQ6IHRoaXMuc3VpdHNbcGlja2VkU3VpdF0sIGNhcmQ6IHBpY2tlZENhcmQgJSAxM307CiAgICB9OwogIH0KfTsKCmxldCBjYXJkUGlja2VyID0gZGVjay5jcmVhdGVDYXJkUGlja2VyKCk7CmxldCBwaWNrZWRDYXJkID0gY2FyZFBpY2tlcigpOwoKYWxlcnQoJ2NhcmQ6ICcgKyBwaWNrZWRDYXJkLmNhcmQgKyAnIG9mICcgKyBwaWNrZWRDYXJkLnN1aXQpOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>function buildName(firstName: string, ...restOfName: string[]) {
-  return firstName + ' ' + restOfName.join(' ');
-}
-
-let employeeName = buildName('Hoseph', 'Samul', 'Lucas', 'Mackinzie');</text>
+        <text encoding="base64">aW50ZXJmYWNlIENhcmQgewogIHN1aXQ6IHN0cmluZzsKICBjYXJkOiBudW1iZXI7Cn0KCmludGVyZmFjZSBEZWNrIHsKICBzdWl0czogc3RyaW5nW107CiAgY2FyZHM6IG51bWJlcltdOwogIGNyZWF0ZUNhcmRQaWNrZXIodGhpczogRGVjayk6ICgpID0+IENhcmQ7Cn0KCmxldCBkZWNrID0gewogIHN1aXRzOiBbJ2hlYXJ0cycsICdzcGFkZXMnLCAnY2x1YnMnLCAnZGlhbW9uZHMnXSwKICBjYXJkczogQXJyYXkoNTIpLAogIGNyZWF0ZUNhcmRQaWNrZXI6IGZ1bmN0aW9uICh0aGlzOiBEZWNrKSB7CiAgICByZXR1cm4gKCkgPT4gewogICAgICBsZXQgcGlja2VkQ2FyZCA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIDUyKTsKICAgICAgbGV0IHBpY2tlZFN1aXQgPSBNYXRoLmZsb29yKHBpY2tlZENhcmQgLyAxMyk7CgogICAgICByZXR1cm4ge3N1aXQ6IHRoaXMuc3VpdHNbcGlja2VkU3VpdF0sIGNhcmQ6IHBpY2tlZENhcmQgJSAxM307CiAgICB9OwogIH0KfTs=</text>
       </register>
-      <register name="9" type="4">
-        <text>function buildName(firstName: string, ...restOfName: string[]) {
-  return firstName + ' ' + restOfName.join(' ');
-}
-
-let employeeName = buildName('Hoseph', 'Samul', 'Lucas', 'Mackinzie');</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHt9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
