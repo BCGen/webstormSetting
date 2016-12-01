@@ -230,11 +230,11 @@
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/Card.js" timestamp="1479737173598">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480586428267">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="42" />
-        <mark key="." line="1" column="42" />
-        <mark key="^" line="1" column="42" />
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480588209414">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/LoginForm.js" timestamp="1479731654218">
         <mark key="[" line="53" column="53" />
@@ -289,40 +289,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cGVyc29uLmhlbGwoJ3dvcmxkJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cGVyc29uLmhlbGwoJ3dvcmxkJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gaGVsbG8odGhpbmcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IHN1aXRzID0gWydoZWFydHMnLCAnc3BhZGVzJywgJ2NsdWJzJywgJ2RpYW1vbmRzJ107CgpmdW5jdGlvbiBwaWNrQ2FyZCh4OiB7IHN1aXQ6IHN0cmluZzsgY2FyZDogbnVtYmVyOyB9W10pOiBudW1iZXI7CgpmdW5jdGlvbiBwaWNrQ2FyZCh4OiBudW1iZXIpOiB7c3VpdDogc3RyaW5nOyBjYXJkOiBudW1iZXI7IH07CgpmdW5jdGlvbiBwaWNrQ2FyZCh4KTogYW55IHsKICBpZiAodHlwZW9mIHggPT09ICdvYmplY3QnKSB7CiAgICBsZXQgcGlja2VkQ2FyZCA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHgubGVuZ3RoKTsKICAgIHJldHVybiBwaWNrZWRDYXJkOwoKICB9IGVsc2UgaWYgKHRwZW9mIHggPT09ICdudW1iZXInKSB7CiAgICBsZXQgcGlja2VkU3VpdCA9IE1hdGguZmxvb3IoeCAvIDEzKTsKICAgIHJldHVybiB7c3VpdDogc3VpdHNbcGlja2VkU3VpdF0sIGNhcmQ6IHggJSAxM307CiAgfQp9CgpsZXQgbXlEZWNrID0gW3sgc3VpdDogJ2RpYW1vbmRzJywgY2FyZDogMiB9LCB7IHN1aXQ6ICdzcGFuZHMnLCBjYXJkOiAxMCB9LCB7IHN1aXQ6ICdoZWFydHMnLCBjYXJkOiA0fV07CgpsZXQgcGlja2VkQ2FyZDEgPSBteURlY2tbcGlja0NhcmQobXlEZWNrKV07Cg==</text>
+        <text encoding="base64">cGVyc29uLmhlbGwgPSBoZWxsbzsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">bGV0IHBlcnNvbiA9IHsKICBuYW1lOiAnQnJlbmRhbiBFaWNoJywKICBoZWxsbzogZnVuY3Rpb24odGhpbmcpIHsKICAgIGNvbnNvbGUubG9nKHRoaXMgKyAnIHNheXMgaGVsbG8nICsgdGhpbmcpOwogIH0KfTsKCi8vIHRoaXM6CnBlcnNvbi5oZWxsbygnd29ybGQnKTsKCi8vIGRlc3VnYXJzIHRvIHRoaXM6CnBlcnNvbi5oZWxsby5jYWxsKHBlcnNvbiwgJ3dvcmxkJyk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>function hello(thing) {
+  console.log(this + ' says hello ' + thing);
+}
+
+hello('world');
+
+//hello.call(window, 'world');</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aGVsbG8oJ3dvcmxkJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc2l6ZVRvKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc2l6ZVRvKCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
