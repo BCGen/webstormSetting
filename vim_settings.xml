@@ -230,11 +230,11 @@
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/Card.js" timestamp="1479737173598">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480588209414">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480591209886">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/LoginForm.js" timestamp="1479731654218">
         <mark key="[" line="53" column="53" />
@@ -288,47 +288,41 @@
       <jump line="11" column="14" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGVyc29uLmhlbGwoJ3dvcmxkJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGVyc29uLmhlbGwoJ3dvcmxkJyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IHBlcnNvbiA9IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGVyc29uLmhlbGwgPSBoZWxsbzsK</text>
+        <text encoding="base64">ICBuYW1lOiAnQWxleCBSdXNzZWxsJywK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">bGV0IHBlcnNvbiA9IHsKICBuYW1lOiAnQnJlbmRhbiBFaWNoJywKICBoZWxsbzogZnVuY3Rpb24odGhpbmcpIHsKICAgIGNvbnNvbGUubG9nKHRoaXMgKyAnIHNheXMgaGVsbG8nICsgdGhpbmcpOwogIH0KfTsKCi8vIHRoaXM6CnBlcnNvbi5oZWxsbygnd29ybGQnKTsKCi8vIGRlc3VnYXJzIHRvIHRoaXM6CnBlcnNvbi5oZWxsby5jYWxsKHBlcnNvbiwgJ3dvcmxkJyk7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBoZWxsbzogZnVuY3Rpb24oKSB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>function hello(thing) {
-  console.log(this + ' says hello ' + thing);
-}
-
-hello('world');
-
-//hello.call(window, 'world');</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubmFtZSArICdzYXlzIGhlbGxvIHdyb2xkJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aGVsbG8oJ3dvcmxkJyk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">JCgnI3NvbWQtZGl2JykuY2xpY2soKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
