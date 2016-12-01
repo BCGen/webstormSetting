@@ -230,11 +230,11 @@
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/Card.js" timestamp="1479737173598">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480615484272">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="2" />
-        <mark key="^" line="3" column="2" />
-        <mark key="." line="3" column="2" />
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480617089483">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/LoginForm.js" timestamp="1479731654218">
         <mark key="[" line="53" column="53" />
@@ -288,68 +288,41 @@
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="1" type="4">
-        <text>interface Named {
-  name: string;
-}
-
-let x: Named;
-
-let y = { name: 'Alice', location: 'Seattle' };
-
-function greet(n: Named) {
-  alert('Hello, ' + n.name);
-}
-
-greet(x);</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eCA9IHk7Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>interface Named {
-  namee: string;
-}
-
-class Person {
-  name: string;
-}
-
-let p: Named;
-
-p = new Person();</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW50ZXJmYWNlIE1vdXNlRXZlbnQgZXh0ZW5kcyBFdmVudCB7IHg6IG51bWJlcjsgeTogbnVtYmVyOyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Owo=</text>
       </register>
-      <register name="5" type="4">
-        <text>enum Enum {
-  A
-}
-
-let a = Enum.A;
-let nameOfA = Enum[Enum.A];</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y2xhc3MgQmVlS2VlcGVyIHsKICBoYXNNYXNrOiBib29sZWFuOwp9CgpjbGFzcyBab29LZWVwZXIgewogIG5hbWV0YWc6IHN0cmluZzsKfQoKY2xhc3MgQW5pbWFsIHsKICBudW1MZWdzOiBudW1iZXI7Cn0KCmNsYXNzIEJlZSBleHRlbmRzIEFuaW1hbCB7CiAga2VlcGVyOiBCZWVLZWVwZXI7Cn0KCmNsYXNzIExpb24gZXh0ZW5kcyBBbmltYWwgewogIGtlZXBlcjogWm9vS2VlcGVyOwp9CgpmdW5jdGlvbiBmaW5kS2VlcGVyPEEgZXh0ZW5kcyBBbmltYWwsIEs+CihhOiB7bmV3KCk6IEE7IHByb3RvdHlwZToge2tlZXBlcjogS319KTogSyB7CiAgcmV0dXJuIGEucHJvdG90eXBlLmtlZXBlcjsKfQoKY29uc29sZS5sb2coZmluZEtlZXBlcihMaW9uKS5uYW1ldGFnLnRvU3RyaW5nKCkpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">bGV0IHggPSAoKSA9PiAoe25hbWU6ICdBbGljZSd9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmluZEtlZXBlcihMaW9uKS5uYW1ldGFnOwo=</text>
+        <text encoding="base64">bGV0IHkgPSAoKSA9PiAoe25hbWU6ICdBbGljZScsIGxvY2F0aW9uOiAnU2VhdHRsZSd9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">eCA9IHk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlPFQ+KGM6IHtuZXcoKTogVDsgfSk6IFQgewogIHJldHVybiBuZXcgYygpOwp9</text>
+      <register name="9" type="2">
+        <text encoding="base64">eSA9IHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
