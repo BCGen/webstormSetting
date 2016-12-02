@@ -230,11 +230,11 @@
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/Card.js" timestamp="1479737173598">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480617089483">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480672089295">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/LoginForm.js" timestamp="1479731654218">
         <mark key="[" line="53" column="53" />
@@ -288,41 +288,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZAo=</text>
+      <register name="&quot;" type="4">
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIE1vdXNlRXZlbnQgZXh0ZW5kcyBFdmVudCB7IHg6IG51bWJlcjsgeTogbnVtYmVyOyB9Cg==</text>
+        <text encoding="base64">ICBmb3IgKGxldCBpZCBpbiBmaXJzdCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Owo=</text>
+      <register name="4" type="4">
+        <text>enum EventType { Mouse, KeyBoard }
+interface Event { timestamp: number; }
+interface MouseEvent extends Event {
+  x: number;
+  y: number;
+}
+
+interface K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGV0IHggPSAoKSA9PiAoe25hbWU6ICdBbGljZSd9KTsK</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IHkgPSAoKSA9PiAoe25hbWU6ICdBbGljZScsIGxvY2F0aW9uOiAnU2VhdHRsZSd9KTsK</text>
+        <text encoding="base64">aW50ZXJmYWNlIE1vdXNlRXZlbnQgZXh0ZW5kcyBFdmVudCB7IHg6IG51bWJlcjsgeTogbnVtYmVyOyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eCA9IHk7Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eSA9IHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
