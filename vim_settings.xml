@@ -230,6 +230,12 @@
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/Card.js" timestamp="1479737173598">
         <mark key="[" line="6" column="46" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480686865983">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/LoginForm.js" timestamp="1479731654218">
         <mark key="[" line="53" column="53" />
         <mark key="]" line="54" column="20" />
@@ -283,7 +289,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW50ZXJmYWNlIFBhZGRlciB7CiAgZ2V0UGFkZGluZ1N0cmluZygpOiBzdHJpbmc7Cn0KCmNsYXNzIFNwYWNlUmVwZWF0aW5nUGFkZGVyIGltcGxlbWVudHMgUGFkZGVyIHsKICBjb25zdHJ1Y3Rvcihwcml2YXRlIG51bVNwYWNlczogbnVtYmVyKSB7IH0KICBnZXRQYWRkaW5nU3RyaW5nKCkgewogICAgcmV0dXJuIEFycmF5KHRoaXMubnVtU3BhY2VzICsgMSkuam9pbignICcpOwogIH0KfQoKY2xhc3MgU3RyaW5nUGFkZGVyIGltcGxlbWVudHMgUGFkZGVyIHsKICBjb25zdHJ1Y3Rvcihwcml2YXRlIHZhbHVlOiBzdHJpbmcpIHsgfQogIGdldFBhZGRpbmdTdHJpbmcoKSB7CiAgICByZXR1cm4gdGhpcy52YWx1ZTsKICB9Cn0KCmZ1bmN0aW9uIGdldFJhbmRvbVBhZGRlcigpIHsKICByZXR1cm4gTWF0aC5yYW5kb20oKSA8IDAuNSA/CiAgICBuZXcgU3BhY2VSZXBlYXRpbmdQYWRkZXIoNCkgOgogICAgbmV3IFN0cmluZ1BhZGRlcignICcpOwp9CgpsZXQgcGFkZGVyOiBQYWRkZXIgPSBnZXRSYW5kb21QYWRkZXIoKTsKCmlmIChwYWRkZXIgaW5zdGFuY2VvZiBTcGFjZVJlcGVhdGluZ1BhZGRlcikgewogIHBhZGRlcjsKfQoKaWYgKHBhZGRlciBpbnN0YW5jZW9mIFN0cmluZ1BhZGRlcikgewogIHBhZGRlcjsKfQ==</text>
+        <text>const getClassNameSymbol = Symbol();
+
+class C {
+  [getClassNameSymbol](){
+    return &quot;C&quot;;
+  }
+}
+
+let c = new C();
+let className = c[getClassNameSymbol](); // &quot;C&quot;</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -292,31 +307,48 @@
         <text>&quot;</text>
       </register>
       <register name="1" type="4">
+        <text>const getClassNameSymbol = Symbol();
+
+class C {
+  [getClassNameSymbol](){
+    return &quot;C&quot;;
+  }
+}
+
+let c = new C();
+let className = c[getClassNameSymbol](); // &quot;C&quot;</text>
+      </register>
+      <register name="2" type="4">
+        <text>type Easing = 'ease-in' | 'ease-out' | 'ease-in-out';
+
+class UIElement {
+  animate(dx: number, dy: number, easing: Easing) {
+    if (easing === 'ease-in') {
+      
+    }
+  }
+}</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">aW50ZXJmYWNlIFBhZGRlciB7CiAgZ2V0UGFkZGluZ1N0cmluZygpOiBzdHJpbmc7Cn0KCmNsYXNzIFNwYWNlUmVwZWF0aW5nUGFkZGVyIGltcGxlbWVudHMgUGFkZGVyIHsKICBjb25zdHJ1Y3Rvcihwcml2YXRlIG51bVNwYWNlczogbnVtYmVyKSB7IH0KICBnZXRQYWRkaW5nU3RyaW5nKCkgewogICAgcmV0dXJuIEFycmF5KHRoaXMubnVtU3BhY2VzICsgMSkuam9pbignICcpOwogIH0KfQoKY2xhc3MgU3RyaW5nUGFkZGVyIGltcGxlbWVudHMgUGFkZGVyIHsKICBjb25zdHJ1Y3Rvcihwcml2YXRlIHZhbHVlOiBzdHJpbmcpIHsgfQogIGdldFBhZGRpbmdTdHJpbmcoKSB7CiAgICByZXR1cm4gdGhpcy52YWx1ZTsKICB9Cn0KCmZ1bmN0aW9uIGdldFJhbmRvbVBhZGRlcigpIHsKICByZXR1cm4gTWF0aC5yYW5kb20oKSA8IDAuNSA/CiAgICBuZXcgU3BhY2VSZXBlYXRpbmdQYWRkZXIoNCkgOgogICAgbmV3IFN0cmluZ1BhZGRlcignICcpOwp9CgpsZXQgcGFkZGVyOiBQYWRkZXIgPSBnZXRSYW5kb21QYWRkZXIoKTsKCmlmIChwYWRkZXIgaW5zdGFuY2VvZiBTcGFjZVJlcGVhdGluZ1BhZGRlcikgewogIHBhZGRlcjsKfQoKaWYgKHBhZGRlciBpbnN0YW5jZW9mIFN0cmluZ1BhZGRlcikgewogIHBhZGRlcjsKfQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBnZXQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBnZXQK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIHBhZExlZnQodmFsdWU6IHN0cmluZywgcGFkZGluZzogc3RyaW5nIHwgbnVtYmVyKSB7CiAgCiAgaWYgKHR5cGVvZiBwYWRkaW5nID09PSAnbnVtYmVyJykgewogICAgcmV0dXJuIEFycmF5KHBhZGRpbmcgKyAxKS5qb2luKCcgJykgKyB2YWx1ZTsKICB9CiAgaWYgKHR5cGVvZiBwYWRkaW5nID09PSAnc3RyaW5nJykgewogICAgcmV0dXJuIHBhZGRpbmcgKyB2YWx1ZTsKICB9Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gaXNOdW1iZXIoeDogYW55KTogeCBpcyBudW1iZXIgewo=</text>
+        <text encoding="base64">ICBnZXQK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gdHlwZW9mIHggPT09ICdudW1iZXInOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIHBhZExlZnQodmFsdWU6IHN0cmluZywgcGFkZGluZzogc3RyaW5nIHwgbnVtYmVyKSB7CiAgCiAgaWYgKHR5cGVvZiBwYWRkaW5nID09PSAnbnVtYmVyJykgewogICAgcmV0dXJuIEFycmF5KHBhZGRpbmcgKyAxKS5qb2luKCcgJykgKyB2YWx1ZTsKICB9CiAgaWYgKHR5cGVvZiBwYWRkaW5nID09PSAnc3RyaW5nJykgewogICAgcmV0dXJuIHBhZGRpbmcgKyB2YWx1ZTsKICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gaXNOdW1iZXIoeDogYW55KTogeCBpcyBudW1iZXIgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gdHlwZW9mIHggPT09ICdzdHJpbmcnOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gdHlwZW9mIHggPT09ICdudW1iZXInOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gaXNTdHJpbmcoeDogYW55KTogeCBpcyBzdHJpbmcgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
