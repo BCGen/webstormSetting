@@ -140,10 +140,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/ZipCodeValidator.ts" timestamp="1480691862223">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/ZipCodeValidator.ts" timestamp="1480701500444">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/tech_stack/index.ios.js" timestamp="1479374720523">
         <mark key="[" line="0" column="0" />
@@ -223,11 +224,10 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/ParseIntBasedZipCodeValidator.ts" timestamp="1480692081310">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="56" />
-        <mark key="." line="6" column="56" />
-        <mark key="^" line="6" column="56" />
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/ParseIntBasedZipCodeValidator.ts" timestamp="1480701395391">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/android/app/build.gradle" timestamp="1479748399911">
         <mark key="[" line="1" column="0" />
@@ -237,10 +237,11 @@
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/Card.js" timestamp="1479737173598">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480692369099">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480701458597">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+        <mark key="^" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/LoginForm.js" timestamp="1479731654218">
         <mark key="[" line="53" column="53" />
@@ -265,7 +266,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/AllValidators.ts" timestamp="1480692147236">
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/AllValidators.ts" timestamp="1480701400275">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -299,41 +300,41 @@
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdmFsaWRhdG9yIGZyb20gJy4vWmlwQ29kZVZhbGlkYXRvcic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ZipCodeValidator</text>
       </register>
       <register name="-" type="4">
-        <text>ZCV</text>
+        <text>ZipCodeValidator</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdmFsaWRhdG9yIGZyb20gJy4vWmlwQ29kZVZhbGlkYXRvcic7Cg==</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9TdHInCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHsgWmlwQ29kZVZhbGlkYXRvciBhcyBSZWdFeHBCYXNlZFppcENvZGVWYWxpZGF0b3IgfSBmcm9tICcuL1ppcENvZGVWYWxpZGF0b3InOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IG15VmFsaWRhdG9yID0gbmV3IHZhbGlkYXRvci5aaXBDb2RlVmFsaWRhdG9yKCk7Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgbnVtYmRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHsgWmlwQ29kZVZhbGlkYXRvciBhcyBtYWluVmFsaWRhdG9yIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WmlwQ29kZVZhbGlkYXRvcgo=</text>
+        <text encoding="base64">ZXhwb3J0IHsgWmlwQ29kZVZhbGlkYXRvciB9Owo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICcuLycK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IG51bWJlclJlZ2V4cCA9IC9eWzAtOV0rJC87CgpleHBvcnQgY2xhc3MgWmlwQ29kZVZhbGlkYXRvciBpbXBsZW1lbnRzIFN0cmluZ1ZhbGlkYXRvciB7CiAgaXNBY2NlcHRhYmxlKHM6IHN0cmluZykgewogICAgcmV0dXJuIHMubGVuZ3RoID09PSA1ICYmIG51bWJlclJlZ2V4cC50ZXN0KHMpOwogIH0KfWRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGQK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzLmxlbmd0aCA9PT0gNSAmJiBudW1iZXJSZWdleHAudGVzdChzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
