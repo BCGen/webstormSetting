@@ -243,11 +243,12 @@
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/Card.js" timestamp="1479737173598">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480774934582">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="16" />
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480779755949">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="35" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/LoginForm.js" timestamp="1479731654218">
         <mark key="[" line="53" column="53" />
@@ -304,79 +305,44 @@
       <jump line="11" column="14" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
       <jump line="2" column="8" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
+      <jump line="30" column="0" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>interface Food {
-  name: string;
-  calories: number;
-}
-
-function speak(food: Food): void {
-  console.log('Our ' + food.name + ' has ' + food.calories + ' calories.');
-}
-
-let ice_cream = {
-  name: 'ice cream',
-  calories: 200
-};
-
-speak(ice_cream);</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="1" type="4">
-        <text>interface Food {
-  name: string;
-  calories: number;
-}
-
-function speak(food: Food): void {
-  console.log('Our ' + food.name + ' has ' + food.calories + ' calories.');
-}
-
-let ice_cream = {
-  name: 'ice cream',
-  calories: 200
-};
-
-speak(ice_cream);</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y2xhc3MgTWVudSB7CiAgaXRlbXM6IEFycmF5PHN0cmluZz47CiAgcGFnZXM6IG51bWJlcjsKCiAgY29uc3RydWN0b3IoaXRlbV9saXN0OiBBcnJheTxzdHJpbmc+LCB0b3RhbF9wYWdlczogbnVtYmVyKSB7CiAgICB0aGlzLml0ZW1zID0gaXRlbV9saXN0OwogICAgdGhpcy5wYWdlcyA9IHRvdGFsX3BhZ2VzOwogIH0KCiAgbGlzdCgpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKCdPdXIgbWVudSBmb3IgdG9kYXk6Jyk7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHRoaXMuaXRlbXMubGVuZ3RoOyBpKyspIHsKICAgICAgY29uc29sZS5sb2codGhpcy5pdGVtc1tpXSk7CiAgICB9CiAgfQp9CgpjbGFzcyBIYXBweU1lYWwgZXh0ZW5kcyBNZW51IHsKCiAgY29uc3RydWN0b3IoaXRlbV9saXN0OiBBcnJheTxzdHJpbmc+LCB0b3RhbF9wYWdlczogbnVtYmVyKSB7CiAgICBzdXBlcihpdGVtX2xpc3QsIHRvdGFsX3BhZ2VzKTsKICB9CgogIGxpc3QoKTogdm9pZCB7CiAgICBjb25zb2xlLmxvZygnT3VyIHNwZWNpYWwgbWVudSBmb3IgY2hpbGRyZW46Jyk7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHRoaXMuaXRlbXMubGVuZ3RoOyBpKyspIHsKICAgICAgY29uc29sZS5sb2codGhpcy5pdGVtc1tpXSk7CiAgICB9CiAgfQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3BlYWsoKQo=</text>
+        <text encoding="base64">bWVudV9mb3JfY2hpbGRyZW4ubGlzdCgpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>let burger: string   = 'hamburger',
-    calories: number = 300,
-    tasty: boolean   = 'd';
-
-function speak(food: string, energy: number): void {
-  console.log('Our ' + food + 'has ' + energy + ' calories.');
-}
-
-speak(burger, calories);</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRhc3R5OiAK</text>
+        <text encoding="base64">bGV0IG1lbnVfZm9yX2NoaWxkcmVuID0gbmV3IEhhcHB5TWVhbChbJ2NhbmR5JywgJ2RyaW5rJywgJ3RveSddLCAxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RyaW5nVmFsaWRhdG9yIH0gZnJvbSAnLi9WYWxpZGF0aW9uJzsKaW1wb3J0IHsgWmlwQ29kZVZhbGlkYXRvciB9IGZyb20gJy4vWmlwQ29kZVZhbGlkYXRvcic7CmltcG9ydCB7IExldHRlcnNPbmx5VmFsaWRhdG9yIH0gZnJvbSAnLi9MZXR0ZXJzT25seVZhbGlkYXRvcic7CgpsZXQgc3RyaW5ncyA9IFsnSGVvb2wnLCAnOTgwNTInLCAnMTAxJ107CgpsZXQgdmFsaWRhdG9yczogeyBbczogc3RyaW5nXTogU3RyaW5nVmFsaWRhdG9yOyB9ID0ge307CnZhbGlkYXRvcnNbJ1pJUCBjb2RlJ10gPSBuZXcgWmlwQ29kZVZhbGlkYXRvcigpOwp2YWxpZGF0b3JzWydMZXR0ZXJzIG9ubHknXSA9IG5ldyBMZXR0ZXJzT25seVZhbGlkYXRvcigpOwoKc3RyaW5ncy5mb3JFYWNoKHMgPT4gewogIGZvciAobGV0IG5hbWUgaW4gdmFsaWRhdG9ycykgewogICAgY29uc29sZS5sb2coYCIkeyBzIH0iIC0gJHsgdmFsaWRhdG9yc1tuYW1lXS5pc0FjY2VwdGFibGUocykgPyAibWF0Y2hlcyIgOiAiZG9lcyBub3QgbWF0Y2giIH0gJHsgbmFtZSB9YCk7CiAgfQp9KTsKZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">bGV0IHN1bmRheU1lbnUgPSBuZXcgTWVudShbJ3BhbmNha2VzJywgJ3dhZmZsZXMnLCAnb3JhbmdlIGp1aWNlJ10sIDEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgJyR7IHMgfSAtICR7IHZhbGlkYXRvci5pc0FjY2VwdGFibGUocykgPyAgJ21hdGNoZXMnIDogJ2RvZXMgbm90IG1hdGNoJyB9YCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RyaW5ncy5mb3JFYWNoKHMgPT4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VuZGF5TWVudS5saXN0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
