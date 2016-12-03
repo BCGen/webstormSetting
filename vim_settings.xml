@@ -243,11 +243,11 @@
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/Card.js" timestamp="1479737173598">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480768793377">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480770782694">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/LoginForm.js" timestamp="1479731654218">
         <mark key="[" line="53" column="53" />
@@ -307,40 +307,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhc3R5OiAK</text>
+        <text encoding="base64">c3BlYWsoKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RyaW5nVmFsaWRhdG9yIH0gZnJvbSAnLi9WYWxpZGF0aW9uJzsKaW1wb3J0IHsgWmlwQ29kZVZhbGlkYXRvciB9IGZyb20gJy4vWmlwQ29kZVZhbGlkYXRvcic7CmltcG9ydCB7IExldHRlcnNPbmx5VmFsaWRhdG9yIH0gZnJvbSAnLi9MZXR0ZXJzT25seVZhbGlkYXRvcic7CgpsZXQgc3RyaW5ncyA9IFsnSGVvb2wnLCAnOTgwNTInLCAnMTAxJ107CgpsZXQgdmFsaWRhdG9yczogeyBbczogc3RyaW5nXTogU3RyaW5nVmFsaWRhdG9yOyB9ID0ge307CnZhbGlkYXRvcnNbJ1pJUCBjb2RlJ10gPSBuZXcgWmlwQ29kZVZhbGlkYXRvcigpOwp2YWxpZGF0b3JzWydMZXR0ZXJzIG9ubHknXSA9IG5ldyBMZXR0ZXJzT25seVZhbGlkYXRvcigpOwoKc3RyaW5ncy5mb3JFYWNoKHMgPT4gewogIGZvciAobGV0IG5hbWUgaW4gdmFsaWRhdG9ycykgewogICAgY29uc29sZS5sb2coYCIkeyBzIH0iIC0gJHsgdmFsaWRhdG9yc1tuYW1lXS5pc0FjY2VwdGFibGUocykgPyAibWF0Y2hlcyIgOiAiZG9lcyBub3QgbWF0Y2giIH0gJHsgbmFtZSB9YCk7CiAgfQp9KTsKZAo=</text>
+      <register name="2" type="4">
+        <text>let burger: string   = 'hamburger',
+    calories: number = 300,
+    tasty: boolean   = 'd';
+
+function speak(food: string, energy: number): void {
+  console.log('Our ' + food + 'has ' + energy + ' calories.');
+}
+
+speak(burger, calories);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgIHRhc3R5OiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgJyR7IHMgfSAtICR7IHZhbGlkYXRvci5pc0FjY2VwdGFibGUocykgPyAgJ21hdGNoZXMnIDogJ2RvZXMgbm90IG1hdGNoJyB9YCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RyaW5nVmFsaWRhdG9yIH0gZnJvbSAnLi9WYWxpZGF0aW9uJzsKaW1wb3J0IHsgWmlwQ29kZVZhbGlkYXRvciB9IGZyb20gJy4vWmlwQ29kZVZhbGlkYXRvcic7CmltcG9ydCB7IExldHRlcnNPbmx5VmFsaWRhdG9yIH0gZnJvbSAnLi9MZXR0ZXJzT25seVZhbGlkYXRvcic7CgpsZXQgc3RyaW5ncyA9IFsnSGVvb2wnLCAnOTgwNTInLCAnMTAxJ107CgpsZXQgdmFsaWRhdG9yczogeyBbczogc3RyaW5nXTogU3RyaW5nVmFsaWRhdG9yOyB9ID0ge307CnZhbGlkYXRvcnNbJ1pJUCBjb2RlJ10gPSBuZXcgWmlwQ29kZVZhbGlkYXRvcigpOwp2YWxpZGF0b3JzWydMZXR0ZXJzIG9ubHknXSA9IG5ldyBMZXR0ZXJzT25seVZhbGlkYXRvcigpOwoKc3RyaW5ncy5mb3JFYWNoKHMgPT4gewogIGZvciAobGV0IG5hbWUgaW4gdmFsaWRhdG9ycykgewogICAgY29uc29sZS5sb2coYCIkeyBzIH0iIC0gJHsgdmFsaWRhdG9yc1tuYW1lXS5pc0FjY2VwdGFibGUocykgPyAibWF0Y2hlcyIgOiAiZG9lcyBub3QgbWF0Y2giIH0gJHsgbmFtZSB9YCk7CiAgfQp9KTsKZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RyaW5ncy5mb3JFYWNoKHMgPT4gewo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgJyR7IHMgfSAtICR7IHZhbGlkYXRvci5pc0FjY2VwdGFibGUocykgPyAgJ21hdGNoZXMnIDogJ2RvZXMgbm90IG1hdGNoJyB9YCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IHZhbGlkYXRvciA9IG5ldyB6aXAoKTsK</text>
+        <text encoding="base64">c3RyaW5ncy5mb3JFYWNoKHMgPT4gewo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aW1wb3J0IHppcCA9IHJlcXVpcmUoJy4vWmlwQ29kZVZhbGlkYXRvcicpOwoKbGV0IHN0cmluZ3MgPSBbJ0hlb29sJywgJzk4MDUyJywgJzEwMSddOwoKbGV0IHZhbGlkYXRvciA9IG5ldyB6aXAoKTsKCnN0cmluZ3MuZm9yRWFjaChzID0+IHsKICBjb25zb2xlLmxvZyhgJyR7IHMgfSAtICR7IHZhbGlkYXRvci5pc0FjY2VwdGFibGUocykgPyAnbWF0Y2hlcycgOiAnZG9lcyBub3QgbWF0Y2gnIH1gKTsKfSk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IHZhbGlkYXRvciA9IG5ldyB6aXAoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
