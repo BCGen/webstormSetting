@@ -117,11 +117,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/tsconfig.json" timestamp="1480786481427">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="23" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/tsconfig.json" timestamp="1480788049112">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/actions/EmployrrActions.js" timestamp="1479734370020">
         <mark key="[" line="2" column="16" />
@@ -203,6 +202,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/src/index.tsx" timestamp="1480788280978">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/CardSection.js" timestamp="1479737303630">
         <mark key="[" line="5" column="45" />
@@ -315,43 +317,44 @@
       <jump line="2" column="8" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/typings/index.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJjb21waWxlT25TYXZlIjogdHJ1ZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJjb21waWxlT25TYXZlIjogdHJ1ZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2VuZXJpY0Z1bmM8VD4oYXJndW1lbnQ6IFQpOiBUW10gewogIGxldCBhcnJheU9mVDogVFtdID0gW107CiAgYXJyYXlPZlQucHVzaChhcmd1bWVudCk7CiAgcmV0dXJuIGFycmF5T2ZUOwp9CgpsZXQgYXJyYXlGcm9tU3RyaW5nID0gZ2VuZXJpY0Z1bmM8c3RyaW5nPignYmVlcCcpOwpjb25zb2xlLmxvZyhhcnJheUZyb21TdHJpbmdbMF0pOwpjb25zb2xlLmxvZyh0eXBlb2YgYXJyYXlGcm9tU3RyaW5nWzBdKTsKCmxldCBhcnJheUZyb21OdW1iZXIgPSBnZW5lcmljRnVuYyg0Mik7CmNvbnNvbGUubG9nKGFycmF5RnJvbVN0cmluZ1swXSk7CmNvbnNvbGUubG9nKHR5cGVvZiBhcnJheUZyb21OdW1iZXJbMF0pOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTWVudSB7CiAgaXRlbXM6IEFycmF5PHN0cmluZz47CiAgcGFnZXM6IG51bWJlcjsKCiAgY29uc3RydWN0b3IoaXRlbV9saXN0OiBBcnJheTxzdHJpbmc+LCB0b3RhbF9wYWdlczogbnVtYmVyKSB7CiAgICB0aGlzLml0ZW1zID0gaXRlbV9saXN0OwogICAgdGhpcy5wYWdlcyA9IHRvdGFsX3BhZ2VzOwogIH0KCiAgbGlzdCgpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKCdPdXIgbWVudSBmb3IgdG9kYXk6Jyk7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHRoaXMuaXRlbXMubGVuZ3RoOyBpKyspIHsKICAgICAgY29uc29sZS5sb2codGhpcy5pdGVtc1tpXSk7CiAgICB9CiAgfQp9CgpjbGFzcyBIYXBweU1lYWwgZXh0ZW5kcyBNZW51IHsKCiAgY29uc3RydWN0b3IoaXRlbV9saXN0OiBBcnJheTxzdHJpbmc+LCB0b3RhbF9wYWdlczogbnVtYmVyKSB7CiAgICBzdXBlcihpdGVtX2xpc3QsIHRvdGFsX3BhZ2VzKTsKICB9CgogIGxpc3QoKTogdm9pZCB7CiAgICBjb25zb2xlLmxvZygnT3VyIHNwZWNpYWwgbWVudSBmb3IgY2hpbGRyZW46Jyk7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHRoaXMuaXRlbXMubGVuZ3RoOyBpKyspIHsKICAgICAgY29uc29sZS5sb2codGhpcy5pdGVtc1tpXSk7CiAgICB9CiAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWVudV9mb3JfY2hpbGRyZW4ubGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICJjb21waWxlT25TYXZlIjogZmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAibW9kdWxlIjogImVzMjAxNSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGV0IG1lbnVfZm9yX2NoaWxkcmVuID0gbmV3IEhhcHB5TWVhbChbJ2NhbmR5JywgJ2RyaW5rJywgJ3RveSddLCAxKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2VuZXJpY0Z1bmM8VD4oYXJndW1lbnQ6IFQpOiBUW10gewogIGxldCBhcnJheU9mVDogVFtdID0gW107CiAgYXJyYXlPZlQucHVzaChhcmd1bWVudCk7CiAgcmV0dXJuIGFycmF5T2ZUOwp9CgpsZXQgYXJyYXlGcm9tU3RyaW5nID0gZ2VuZXJpY0Z1bmM8c3RyaW5nPignYmVlcCcpOwpjb25zb2xlLmxvZyhhcnJheUZyb21TdHJpbmdbMF0pOwpjb25zb2xlLmxvZyh0eXBlb2YgYXJyYXlGcm9tU3RyaW5nWzBdKTsKCmxldCBhcnJheUZyb21OdW1iZXIgPSBnZW5lcmljRnVuYyg0Mik7CmNvbnNvbGUubG9nKGFycmF5RnJvbVN0cmluZ1swXSk7CmNvbnNvbGUubG9nKHR5cGVvZiBhcnJheUZyb21OdW1iZXJbMF0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IHN1bmRheU1lbnUgPSBuZXcgTWVudShbJ3BhbmNha2VzJywgJ3dhZmZsZXMnLCAnb3JhbmdlIGp1aWNlJ10sIDEpOwo=</text>
+        <text encoding="base64">Y2xhc3MgTWVudSB7CiAgaXRlbXM6IEFycmF5PHN0cmluZz47CiAgcGFnZXM6IG51bWJlcjsKCiAgY29uc3RydWN0b3IoaXRlbV9saXN0OiBBcnJheTxzdHJpbmc+LCB0b3RhbF9wYWdlczogbnVtYmVyKSB7CiAgICB0aGlzLml0ZW1zID0gaXRlbV9saXN0OwogICAgdGhpcy5wYWdlcyA9IHRvdGFsX3BhZ2VzOwogIH0KCiAgbGlzdCgpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKCdPdXIgbWVudSBmb3IgdG9kYXk6Jyk7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHRoaXMuaXRlbXMubGVuZ3RoOyBpKyspIHsKICAgICAgY29uc29sZS5sb2codGhpcy5pdGVtc1tpXSk7CiAgICB9CiAgfQp9CgpjbGFzcyBIYXBweU1lYWwgZXh0ZW5kcyBNZW51IHsKCiAgY29uc3RydWN0b3IoaXRlbV9saXN0OiBBcnJheTxzdHJpbmc+LCB0b3RhbF9wYWdlczogbnVtYmVyKSB7CiAgICBzdXBlcihpdGVtX2xpc3QsIHRvdGFsX3BhZ2VzKTsKICB9CgogIGxpc3QoKTogdm9pZCB7CiAgICBjb25zb2xlLmxvZygnT3VyIHNwZWNpYWwgbWVudSBmb3IgY2hpbGRyZW46Jyk7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHRoaXMuaXRlbXMubGVuZ3RoOyBpKyspIHsKICAgICAgY29uc29sZS5sb2codGhpcy5pdGVtc1tpXSk7CiAgICB9CiAgfQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWVudV9mb3JfY2hpbGRyZW4ubGlzdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
@@ -422,6 +425,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
