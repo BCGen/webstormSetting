@@ -19,6 +19,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/build/index.jsx" timestamp="1480798490760">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/Flows/jk.js" timestamp="1480001149575">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -47,6 +52,9 @@
         <mark key="[" line="40" column="10" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/typings/globals/react-native/index.d.ts" timestamp="1480796132246">
+        <mark key="'" line="4232" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager1/src/App.js" timestamp="1480236321252">
         <mark key="[" line="15" column="0" />
@@ -117,10 +125,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/tsconfig.json" timestamp="1480788049112">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/tsconfig.json" timestamp="1480798477368">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/actions/EmployrrActions.js" timestamp="1479734370020">
         <mark key="[" line="2" column="16" />
@@ -144,6 +152,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/build/index.js.map" timestamp="1480795160377" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/App1/MyScene.js" timestamp="1479022613669">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -203,8 +212,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/src/index.tsx" timestamp="1480788280978">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/src/index.tsx" timestamp="1480798970267">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/CardSection.js" timestamp="1479737303630">
         <mark key="[" line="5" column="45" />
@@ -229,6 +241,7 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/typings/globals/react/index.d.ts" timestamp="1480796123054" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/index.ios.js" timestamp="1479630246728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -246,6 +259,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/index.ios.js" timestamp="1480797013219">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="49" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/android/app/build.gradle" timestamp="1479748399911">
         <mark key="[" line="1" column="0" />
@@ -318,43 +337,102 @@
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/typings/index.d.ts" />
+      <jump line="4232" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/typings/globals/react-native/index.d.ts" />
+      <jump line="4" column="2" filename="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/index.android.js" />
+      <jump line="15" column="31" filename="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/build/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJjb21waWxlT25TYXZlIjogdHJ1ZSwK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJjb21waWxlT25TYXZlIjogdHJ1ZSwK</text>
+      <register name="1" type="4">
+        <text>import React, { Component } from 'react';
+import { StyleSheet, Text, View } from 'react-native';
+export default class App extends Component {
+    render() {
+        return (React.createElement(View, {style: styles.constructor}, 
+            React.createElement(Text, {style: styles.text}, &quot;Welcome to React Native!!&quot; + ' ' + &quot;Hello Paul!!!&quot;)
+        ));
+    }
+}
+const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#F5FCFF',
+    },
+    text: {
+        fontSize: 20,
+        textAlign: 'center',
+        margin: 10,
+    },
+});</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzdHlsZT86IFJlYWN0LlZpZXdTdHlsZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgU3R5bGVTaGVldCwgVGV4dCwgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7CmV4cG9ydCBkZWZhdWx0IGNsYXNzIEFwcCBleHRlbmRzIENvbXBvbmVudCB7CiAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuICg8VmlldyBzdHlsZT17c3R5bGVzLmNvbnN0cnVjdG9yfT4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRleHR9PgogICAgICAgICAgV2VsY29tZSB0byBSZWFjdCBOYXRpdmUhIQogICAgICAgICAgbGxvIFBhdSEhIQogICAgICAgIDwvVGV4dD4KICAgICAgPC9WaWV3Pik7CiAgICB9Cn0KY29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogICAgY29udGFpbmVyOiB7CiAgICAgICAgZmxleDogMSwKICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicKICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRjVGQ0ZGJywKICAgIH0sCiAgICB0ZXh0OiB7CiAgICAgICAgZm9udFNpemU6IDIwLAogICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgbWFyZ2luOiAxMCwKICAgIH0sCn0pOwovLyMgc291cmNlTWFwcGluZ1VSTD1pbmRleC5qc3gubWFwCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJjb21waWxlT25TYXZlIjogZmFsc2UK</text>
+      <register name="4" type="4">
+        <text>import React, { Component } from 'react';
+import { StyleSheet, Text, View } from 'react-native';
+export default class App extends Component {
+    render() {
+        return (React.createElement(View, {style: styles.constructor},
+            React.createElement(Text, {style: styles.text}, &quot;Welcome to React Native!!&quot; + ' ' + &quot;Hello Paul!!!&quot;)
+        ));
+    }
+}
+const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#F5FCFF',
+    },
+    text: {
+        fontSize: 20,
+        textAlign: 'center',
+        margin: 10,
+    },
+});
+//# sourceMappingURL=index.js.map</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAibW9kdWxlIjogImVzMjAxNSIsCg==</text>
+        <text encoding="base64">QXBwUmVnaXN0cnkucmVnaXN0ZXJDb21wb25lbnQoJ1JOVFMnLCAoKSA9PiBSTlRTKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2VuZXJpY0Z1bmM8VD4oYXJndW1lbnQ6IFQpOiBUW10gewogIGxldCBhcnJheU9mVDogVFtdID0gW107CiAgYXJyYXlPZlQucHVzaChhcmd1bWVudCk7CiAgcmV0dXJuIGFycmF5T2ZUOwp9CgpsZXQgYXJyYXlGcm9tU3RyaW5nID0gZ2VuZXJpY0Z1bmM8c3RyaW5nPignYmVlcCcpOwpjb25zb2xlLmxvZyhhcnJheUZyb21TdHJpbmdbMF0pOwpjb25zb2xlLmxvZyh0eXBlb2YgYXJyYXlGcm9tU3RyaW5nWzBdKTsKCmxldCBhcnJheUZyb21OdW1iZXIgPSBnZW5lcmljRnVuYyg0Mik7CmNvbnNvbGUubG9nKGFycmF5RnJvbVN0cmluZ1swXSk7CmNvbnNvbGUubG9nKHR5cGVvZiBhcnJheUZyb21OdW1iZXJbMF0pOwo=</text>
+        <text encoding="base64">ICBzdHlsZT86IFJlYWN0LlZpZXdTdHlsZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgTWVudSB7CiAgaXRlbXM6IEFycmF5PHN0cmluZz47CiAgcGFnZXM6IG51bWJlcjsKCiAgY29uc3RydWN0b3IoaXRlbV9saXN0OiBBcnJheTxzdHJpbmc+LCB0b3RhbF9wYWdlczogbnVtYmVyKSB7CiAgICB0aGlzLml0ZW1zID0gaXRlbV9saXN0OwogICAgdGhpcy5wYWdlcyA9IHRvdGFsX3BhZ2VzOwogIH0KCiAgbGlzdCgpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKCdPdXIgbWVudSBmb3IgdG9kYXk6Jyk7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHRoaXMuaXRlbXMubGVuZ3RoOyBpKyspIHsKICAgICAgY29uc29sZS5sb2codGhpcy5pdGVtc1tpXSk7CiAgICB9CiAgfQp9CgpjbGFzcyBIYXBweU1lYWwgZXh0ZW5kcyBNZW51IHsKCiAgY29uc3RydWN0b3IoaXRlbV9saXN0OiBBcnJheTxzdHJpbmc+LCB0b3RhbF9wYWdlczogbnVtYmVyKSB7CiAgICBzdXBlcihpdGVtX2xpc3QsIHRvdGFsX3BhZ2VzKTsKICB9CgogIGxpc3QoKTogdm9pZCB7CiAgICBjb25zb2xlLmxvZygnT3VyIHNwZWNpYWwgbWVudSBmb3IgY2hpbGRyZW46Jyk7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHRoaXMuaXRlbXMubGVuZ3RoOyBpKyspIHsKICAgICAgY29uc29sZS5sb2codGhpcy5pdGVtc1tpXSk7CiAgICB9CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">bWVudV9mb3JfY2hpbGRyZW4ubGlzdCgpOwo=</text>
+      <register name="9" type="4">
+        <text>const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#F5FCFF',
+  } as React.ViewStyle,
+
+  text: {
+    fontSize: 20,
+    textAlign: 'center',
+    margin: 10,
+  } as React.TextStyle,
+});</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
