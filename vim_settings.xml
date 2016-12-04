@@ -14,6 +14,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/index.ios.js" timestamp="1480844490662">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/package.json" timestamp="1480843478868">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="17" />
@@ -161,6 +166,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/index.android.js" timestamp="1480844507836">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/App1/MyScene.js" timestamp="1479022613669">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -230,6 +241,11 @@
         <mark key="]" line="5" column="45" />
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/tsconfig.json" timestamp="1480844127030">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/s.js" timestamp="1480269686823">
         <mark key="[" line="0" column="0" />
@@ -346,86 +362,44 @@
       <jump line="4232" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/typings/globals/react-native/index.d.ts" />
       <jump line="4" column="2" filename="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/index.android.js" />
       <jump line="15" column="31" filename="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/build/index.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/index.android.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBTdHlsZVNoZWV0LAogIFRleHQsCiAgVmlldwp9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBBbGJ1bSBleHRlbmRzIENvbXBvbmVudCB7CiAgcmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMud2VsY29tZX0+CiAgICAgICAgICBXZWxjb21lIHRvIFJlYWN0IE5hdGl2ZSEKICAgICAgICA8L1RleHQ+CiAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5pbnN0cnVjdGlvbnN9PgogICAgICAgICAgVG8gZ2V0IHN0YXJ0ZWQsIGVkaXQgaW5kZXguYW5kcm9pZC5qcwogICAgICAgIDwvVGV4dD4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmluc3RydWN0aW9uc30+CiAgICAgICAgICBEb3VibGUgdGFwIFIgb24geW91ciBrZXlib2FyZCB0byByZWxvYWQseydcbid9CiAgICAgICAgICBTaGFrZSBvciBwcmVzcyBtZW51IGJ1dHRvbiBmb3IgZGV2IG1lbnUKICAgICAgICA8L1RleHQ+CiAgICAgIDwvVmlldz4KICAgICk7CiAgfQp9Cgpjb25zdCBzdHlsZXMgPSBTdHlsZVNoZWV0LmNyZWF0ZSh7CiAgY29udGFpbmVyOiB7CiAgICBmbGV4OiAxLAogICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRjVGQ0ZGJywKICB9LAogIHdlbGNvbWU6IHsKICAgIGZvbnRTaXplOiAyMCwKICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICBtYXJnaW46IDEwLAogIH0sCiAgaW5zdHJ1Y3Rpb25zOiB7CiAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgY29sb3I6ICcjMzMzMzMzJywKICAgIG1hcmdpbkJvdHRvbTogNSwKICB9LAp9KTsKCmtBcHBSZWdpc3RyeS5yZWdpc3RlckNvbXBvbmVudCgnQWxidW0nLCAoKSA9PiBBbGJ1bSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>import React, { Component } from 'react';
-import { StyleSheet, Text, View } from 'react-native';
-export default class App extends Component {
-    render() {
-        return (React.createElement(View, {style: styles.constructor}, 
-            React.createElement(Text, {style: styles.text}, &quot;Welcome to React Native!!&quot; + ' ' + &quot;Hello Paul!!!&quot;)
-        ));
-    }
-}
-const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-        justifyContent: 'center',
-        alignItems: 'center',
-        backgroundColor: '#F5FCFF',
-    },
-    text: {
-        fontSize: 20,
-        textAlign: 'center',
-        margin: 10,
-    },
-});</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBBcHBSZWdpc3RyeSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdHlsZT86IFJlYWN0LlZpZXdTdHlsZTsK</text>
+        <text encoding="base64">aW1wb3J0IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgU3R5bGVTaGVldCwgVGV4dCwgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7CmV4cG9ydCBkZWZhdWx0IGNsYXNzIEFwcCBleHRlbmRzIENvbXBvbmVudCB7CiAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuICg8VmlldyBzdHlsZT17c3R5bGVzLmNvbnN0cnVjdG9yfT4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRleHR9PgogICAgICAgICAgV2VsY29tZSB0byBSZWFjdCBOYXRpdmUhIQogICAgICAgICAgbGxvIFBhdSEhIQogICAgICAgIDwvVGV4dD4KICAgICAgPC9WaWV3Pik7CiAgICB9Cn0KY29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogICAgY29udGFpbmVyOiB7CiAgICAgICAgZmxleDogMSwKICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicKICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRjVGQ0ZGJywKICAgIH0sCiAgICB0ZXh0OiB7CiAgICAgICAgZm9udFNpemU6IDIwLAogICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgbWFyZ2luOiAxMCwKICAgIH0sCn0pOwovLyMgc291cmNlTWFwcGluZ1VSTD1pbmRleC5qc3gubWFwCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>import React, { Component } from 'react';
-import { StyleSheet, Text, View } from 'react-native';
-export default class App extends Component {
-    render() {
-        return (React.createElement(View, {style: styles.constructor},
-            React.createElement(Text, {style: styles.text}, &quot;Welcome to React Native!!&quot; + ' ' + &quot;Hello Paul!!!&quot;)
-        ));
-    }
-}
-const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-        justifyContent: 'center',
-        alignItems: 'center',
-        backgroundColor: '#F5FCFF',
-    },
-    text: {
-        fontSize: 20,
-        textAlign: 'center',
-        margin: 10,
-    },
-});
-//# sourceMappingURL=index.js.map</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQGZsb3cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QXBwUmVnaXN0cnkucmVnaXN0ZXJDb21wb25lbnQoJ1JOVFMnLCAoKSA9PiBSTlRTKTsK</text>
+        <text encoding="base64">ICogaHR0cHM6Ly9naXRodWIuY29tL2ZhY2Vib29rL3JlYWN0LW5hdGl2ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICogU2FtcGxlIFJlYWN0IE5hdGl2ZSBBcHAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdHlsZT86IFJlYWN0LlZpZXdTdHlsZTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
