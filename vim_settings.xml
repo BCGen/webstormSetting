@@ -19,11 +19,6 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/package.json" timestamp="1480843478868">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/src/components/Button.js" timestamp="1479280818140">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -38,9 +33,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1480786484974">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/Card.tsx" timestamp="1480856330481">
         <mark key="[" line="4" column="10" />
@@ -118,7 +110,6 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/album/src/components/Header.js" timestamp="1480848974449" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/actions/index.js" timestamp="1479735289921">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="34" />
@@ -213,6 +204,7 @@
         <mark key="." line="2" column="55" />
         <mark key="^" line="2" column="55" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/typings/globals/axios/index.d.ts" timestamp="1480858952285" />
       <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/Flows/index.android.js" timestamp="1479984493049">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -234,6 +226,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/album/package.json" timestamp="1480858221191" />
       <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/Validation.ts" timestamp="1480691742763">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -266,10 +259,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/index.tsx" timestamp="1480854974654">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/index.tsx" timestamp="1480858600282">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="17" column="37" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/CardSection.js" timestamp="1479737303630">
         <mark key="[" line="5" column="45" />
@@ -304,9 +298,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/package.json" timestamp="1480061454912">
-        <mark key="[" line="14" column="29" />
-      </file>
       <file name="$USER_HOME$/.WebStorm2016.3/webstorm64.exe.vmoptions" timestamp="1480286764934">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="4" />
@@ -328,8 +319,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/Card.js" timestamp="1479737173598">
-        <mark key="[" line="6" column="46" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/AlbumList.tsx" timestamp="1480859092042">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="22" column="5" />
+        <mark key="^" line="22" column="5" />
+        <mark key="." line="22" column="5" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/app.ts" timestamp="1480784666680">
         <mark key="[" line="0" column="0" />
@@ -401,40 +395,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gewo=</text>
+        <text encoding="base64">CiAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9IAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBoZWFkZXJDb250ZW50U3R5bGU6IHsK</text>
+        <text encoding="base64">ICB9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBoZWFkZXJDb250ZW50U3R5bGU6IHsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgQWxidW1EZXRhaWwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
