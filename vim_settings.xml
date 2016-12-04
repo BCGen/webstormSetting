@@ -42,6 +42,12 @@
       <file name="/a.dummy" timestamp="1480786484974">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/Card.tsx" timestamp="1480854950905">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+      </file>
       <file name="$USER_HOME$/tslint.json" timestamp="1480162132461">
         <mark key="[" line="13" column="30" />
         <mark key="]" line="13" column="30" />
@@ -248,10 +254,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/index.tsx" timestamp="1480853517903">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="29" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/index.tsx" timestamp="1480854974654">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/CardSection.js" timestamp="1479737303630">
         <mark key="[" line="5" column="45" />
@@ -382,11 +388,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/index.android.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -395,28 +401,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICkgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50IH0K</text>
+        <text encoding="base64">IGRlY29kZVVSSSgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IENvbXBvbmVudCA9IF9fUmVhY3QuQ29tcG9uZW50Owo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtUZXh0fSBmcm9tICdyZWFjdC1uYXRpdmUnOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHRTdGF0dXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIFJlYWN0ID0gcmVxdWlyZSgncmVhY3QtbmF0aXZlJyk7Cg==</text>
+        <text encoding="base64">ICBqamtkZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWMK</text>
+        <text encoding="base64">Y29uc3QgQ2FyZCA9ICgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
