@@ -107,6 +107,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/album/src/components/Header.js" timestamp="1480886563077">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/actions/index.js" timestamp="1479735289921">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="34" />
@@ -410,11 +416,11 @@
       <jump line="27" column="34" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/AlbumList.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpZAo=</text>
+      <register name="&quot;" type="4">
+        <text>center</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
