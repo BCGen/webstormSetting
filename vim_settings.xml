@@ -215,11 +215,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/src/index.tsx" timestamp="1480799364865">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="26" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/src/index.tsx" timestamp="1480842816121">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/CardSection.js" timestamp="1479737303630">
         <mark key="[" line="5" column="45" />
@@ -344,8 +343,8 @@
       <jump line="15" column="31" filename="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/build/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -353,7 +352,10 @@
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="4">
         <text>import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 export default class App extends Component {
@@ -377,13 +379,13 @@ const styles = StyleSheet.create({
     },
 });</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBzdHlsZT86IFJlYWN0LlZpZXdTdHlsZTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgU3R5bGVTaGVldCwgVGV4dCwgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7CmV4cG9ydCBkZWZhdWx0IGNsYXNzIEFwcCBleHRlbmRzIENvbXBvbmVudCB7CiAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuICg8VmlldyBzdHlsZT17c3R5bGVzLmNvbnN0cnVjdG9yfT4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRleHR9PgogICAgICAgICAgV2VsY29tZSB0byBSZWFjdCBOYXRpdmUhIQogICAgICAgICAgbGxvIFBhdSEhIQogICAgICAgIDwvVGV4dD4KICAgICAgPC9WaWV3Pik7CiAgICB9Cn0KY29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogICAgY29udGFpbmVyOiB7CiAgICAgICAgZmxleDogMSwKICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicKICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRjVGQ0ZGJywKICAgIH0sCiAgICB0ZXh0OiB7CiAgICAgICAgZm9udFNpemU6IDIwLAogICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgbWFyZ2luOiAxMCwKICAgIH0sCn0pOwovLyMgc291cmNlTWFwcGluZ1VSTD1pbmRleC5qc3gubWFwCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 export default class App extends Component {
@@ -408,33 +410,17 @@ const styles = StyleSheet.create({
 });
 //# sourceMappingURL=index.js.map</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">QXBwUmVnaXN0cnkucmVnaXN0ZXJDb21wb25lbnQoJ1JOVFMnLCAoKSA9PiBSTlRTKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdHlsZT86IFJlYWN0LlZpZXdTdHlsZTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzdHlsZT86IFJlYWN0LlZpZXdTdHlsZTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  } as React.ViewStyle,
-
-  text: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  } as React.TextStyle,
-});</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
