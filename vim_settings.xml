@@ -148,11 +148,10 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/AlbumDetail.tsx" timestamp="1480868767217">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="1" column="19" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/AlbumDetail.tsx" timestamp="1480869499496">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/App1/StatusBar.js" timestamp="1479026904140">
         <mark key="[" line="3" column="8" />
@@ -392,8 +391,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/index.android.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Alert</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdyZWFjdC1uYXRpdmUtYnV0dG9uJzsK</text>
       </register>
       <register name="-" type="4">
         <text>Alert</text>
@@ -402,31 +401,31 @@
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8SW1hZ2U+PC9JbWFnZT4K</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdyZWFjdC1uYXRpdmUtYnV0dG9uJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdyZWFjdC1uYXRpdmUtYnUnCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8L0J1dHRvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICA8SW1hZ2U+PC9JbWFnZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZWFkZXJDb250ZW50U3R5bGU6IHsK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
