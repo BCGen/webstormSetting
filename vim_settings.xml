@@ -14,6 +14,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/package.json" timestamp="1480843478868">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/src/components/Button.js" timestamp="1479280818140">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -343,11 +348,11 @@
       <jump line="15" column="31" filename="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/build/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
