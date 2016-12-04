@@ -42,8 +42,8 @@
       <file name="/a.dummy" timestamp="1480786484974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/Card.tsx" timestamp="1480854950905">
-        <mark key="[" line="9" column="9" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/Card.tsx" timestamp="1480856330481">
+        <mark key="[" line="4" column="10" />
         <mark key="]" line="9" column="37" />
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
@@ -157,6 +157,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/AlbumDetail.tsx" timestamp="1480857403554">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="48" />
+        <mark key="^" line="22" column="48" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/App1/StatusBar.js" timestamp="1479026904140">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="8" />
@@ -232,6 +238,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/CardSection.tsx" timestamp="1480856338930">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/album/index.android.js" timestamp="1480850012134">
         <mark key="[" line="1" column="8" />
@@ -388,8 +400,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/index.android.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -398,31 +410,31 @@
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICkgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IGRlY29kZVVSSSgK</text>
+        <text encoding="base64">ICB9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBoZWFkZXJDb250ZW50U3R5bGU6IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHRTdGF0dXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBqamtkZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgQ2FyZCA9ICgpCg==</text>
+        <text encoding="base64">Y29uc3QgQWxidW1EZXRhaWwK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
