@@ -29,6 +29,9 @@
   <action id="JS.TypeScript.Compile">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="MinimizeCurrentWindow">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt m" />
+  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt d" />
   </action>
