@@ -70,6 +70,7 @@
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/typings/globals/redux/index.d.ts" timestamp="1480935214724" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/UI/view/utils.js" timestamp="1479061919440">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="25" />
@@ -174,11 +175,10 @@
         <mark key="^" line="7" column="43" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/Header.tsx" timestamp="1480930960721">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="25" />
-        <mark key="." line="7" column="25" />
-        <mark key="^" line="38" column="21" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/Header.tsx" timestamp="1480934990829">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/src/components/Card.js" timestamp="1479280206194">
         <mark key="[" line="12" column="0" />
@@ -272,10 +272,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/index.tsx" timestamp="1480878616988">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/index.tsx" timestamp="1480935965883">
+        <mark key="[" line="21" column="55" />
+        <mark key="]" line="21" column="64" />
+        <mark key="." line="21" column="64" />
+        <mark key="^" line="21" column="64" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/components/common/CardSection.js" timestamp="1479737303630">
         <mark key="[" line="5" column="45" />
@@ -419,41 +420,41 @@
       <jump line="27" column="34" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/AlbumList.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHJlZHVjZXJzIGZyb20gJ3JlZHVjZXJzJzsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>StoreCreator</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZAo=</text>
+        <text encoding="base64">aW1wb3J0IHJlZHVjZXJzIGZyb20gJ3JlZHVjZXJzJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgfSA8Zm9tPjwvZm9tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUHJvdmlkZXIgfSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU3RvcmUsIGFwcGx5TWlkZGxld2FyZSB9IGZyb20gJ3JlZHV4JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGJ1bXM6IGFueQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3JlYScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyB9KQo=</text>
+        <text encoding="base64">ICAgIHdpZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
