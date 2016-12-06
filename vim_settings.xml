@@ -161,6 +161,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/redux_practice/index.android.js" timestamp="1481033481553">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="58" />
+        <mark key="." line="3" column="58" />
+        <mark key="^" line="3" column="58" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/reducers/AuthReducer.js" timestamp="1479755157191">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="9" column="25" />
@@ -222,11 +228,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/redux_practice/tsconfig.json" timestamp="1481032820732">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="33" column="25" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/redux_practice/tsconfig.json" timestamp="1481033654853">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/src/components/Card.js" timestamp="1479280206194">
         <mark key="[" line="12" column="0" />
@@ -376,6 +382,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/redux_practice/src/App.tsx" timestamp="1481033666281">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/index.ios.js" timestamp="1479630246728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -456,6 +467,12 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/redux_practice/index.ios.js" timestamp="1481033085267">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/RT/src/index.tsx" timestamp="1480060990619">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -519,43 +536,44 @@
       <jump line="27" column="34" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/AlbumList.tsx" />
       <jump line="5" column="10" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/reducers/DetailReducer.ts" />
       <jump line="1" column="12" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/components/helloWorld.tsx" />
+      <jump line="12" column="22" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/redux_practice/index.ios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAidHlwaW5ncy9pbmRleC5kLnRzIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>View</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAidHlwaW5ncy9pbmRleC5kLnRzIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVmkgIH0gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCBmcm9tICdyZWFjdCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcnIGZyb20gJ3JlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBzdG9yZTogYW55Cg==</text>
+        <text encoding="base64">LyoqCiAqIFNhbXBsZSBSZWFjdCBOYXRpdmUgQXBwCiAqIGh0dHBzOi8vZ2l0aHViLmNvbS9mYWNlYm9vay9yZWFjdC1uYXRpdmUKICogQGZsb3cKICovCgppbXBvcnQgUmVhY3QsIHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnOwppbXBvcnQgewogIEFwcFJlZ2lzdHJ5LAogIFN0eWxlU2hlZXQsCiAgVGV4dCwKICBWaWV3Cn0gZnJvbSAncmVhY3QtbmF0aXZlJzsKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIHJlZHV4X3ByYWN0aWNlIGV4dGVuZHMgQ29tcG9uZW50IHsKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0+CiAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy53ZWxjb21lfT4KICAgICAgICAgIFdlbGNvbWUgdG8gUmVhY3QgTmF0aXZlIQogICAgICAgIDwvVGV4dD4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmluc3RydWN0aW9uc30+CiAgICAgICAgICBUbyBnZXQgc3RhcnRlZCwgZWRpdCBpbmRleC5pb3MuanMKICAgICAgICA8L1RleHQ+CiAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5pbnN0cnVjdGlvbnN9PgogICAgICAgICAgUHJlc3MgQ21kK1IgdG8gcmVsb2FkLHsnXG4nfQogICAgICAgICAgQ21kK0Qgb3Igc2hha2UgZm9yIGRldiBtZW51CiAgICAgICAgPC9UZXh0PgogICAgICA8L1ZpZXc+CiAgICApOwogIH0KfQoKY29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGNvbnRhaW5lcjogewogICAgZmxleDogMSwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgYmFja2dyb3VuZENvbG9yOiAnI0Y1RkNGRicsCiAgfSwKICB3ZWxjb21lOiB7CiAgICBmb250U2l6ZTogMjAsCiAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgbWFyZ2luOiAxMCwKICB9LAogIGluc3RydWN0aW9uczogewogICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgIGNvbG9yOiAnIzMzMzMzMycsCiAgICBtYXJnaW5Cb3R0b206IDUsCiAgfSwKfSk7CgpBcHBSZWdpc3RyeS5yZWdpc3RlckNvbXBvbmVudCgncmVkdXhfcHJhY3RpY2UnLCAoKSA9PiByZWR1eF9wcmFjdGljZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+        <text encoding="base64">ICogU2FtcGxlIFJlYWN0IE5hdGl2ZSBBcHAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wczogYW55KSB7Cg==</text>
+        <text encoding="base64">ICogaHR0cHM6Ly9naXRodWIuY29tL2ZhY2Vib29rL3JlYWN0LW5hdGl2ZQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIH07CiAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICogQGZsb3cK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
