@@ -52,7 +52,6 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/node_modules/@types/redux/package.json" timestamp="1481013580414" />
       <file name="$USER_HOME$/tslint.json" timestamp="1480162132461">
         <mark key="[" line="13" column="30" />
         <mark key="]" line="13" column="30" />
@@ -222,6 +221,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/redux_practice/tsconfig.json" timestamp="1481032820732">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="33" column="25" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/src/components/Card.js" timestamp="1479280206194">
         <mark key="[" line="12" column="0" />
@@ -516,8 +521,8 @@
       <jump line="1" column="12" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/components/helloWorld.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAidHlwaW5ncy9pbmRleC5kLnRzIiwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -526,7 +531,7 @@
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAidHlwaW5ncy9pbmRleC5kLnRzIiwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -535,22 +540,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBzdG9yZTogYW55Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzdG9yZTogYW55Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wczogYW55KSB7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIH07CiAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>

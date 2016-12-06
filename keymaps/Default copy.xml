@@ -35,6 +35,9 @@
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt d" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt f" />
+  </action>
   <action id="NewTypeScriptFile">
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="alt t" />
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt t" />
