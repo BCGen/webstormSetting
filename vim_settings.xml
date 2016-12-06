@@ -15,11 +15,10 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/App.tsx" timestamp="1480984363296">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/App.tsx" timestamp="1481013626649">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/auth/src/App.js" timestamp="1479656953868">
         <mark key="[" line="13" column="26" />
@@ -52,6 +51,7 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/node_modules/@types/redux/package.json" timestamp="1481013580414" />
       <file name="$USER_HOME$/tslint.json" timestamp="1480162132461">
         <mark key="[" line="13" column="30" />
         <mark key="]" line="13" column="30" />
@@ -200,11 +200,11 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/components/counter.tsx" timestamp="1480980069826">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="34" column="67" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/components/counter.tsx" timestamp="1481014622930">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/App1/StatusBar.js" timestamp="1479026904140">
         <mark key="[" line="3" column="8" />
@@ -514,48 +514,41 @@
       <jump line="1" column="12" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/components/helloWorld.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>state</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>state</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;typeRoots&quot;: [
-            &quot;node_modules/@types/&quot;
-        ],
-        &quot;types&quot;: [
-            &quot;react&quot;,
-            &quot;react-native&quot;,
-            &quot;redux&quot;
-        ]</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRoaXMudW5zdWJzY3JpYmUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICBjb20gKCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlZHV4Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlYWN0IiwK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAidHlwZXMiOiBbCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBjb3VudGVyOiB0aGlzLnN0YXRlLmNvdW50ZXIgKyBieSB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zgo=</text>
+        <text encoding="base64">ICBpbmNyKGJ5OiBudW1iZXIpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlZHV4Igo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7IGNvdW50ZXI6IDAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
