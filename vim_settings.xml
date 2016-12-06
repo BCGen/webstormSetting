@@ -15,7 +15,7 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/App.tsx" timestamp="1481019581918">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/App.tsx" timestamp="1481044067447">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="20" column="16" />
         <mark key="." line="20" column="16" />
@@ -211,10 +211,10 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/components/counter.tsx" timestamp="1481035277780">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/components/counter.tsx" timestamp="1481044059126">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/App1/StatusBar.js" timestamp="1479026904140">
@@ -549,8 +549,8 @@
       <jump line="12" column="22" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/redux_practice/index.ios.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>View</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICcuL0J1dHRvbic7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>View</text>
@@ -559,31 +559,31 @@
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QtbmF0aXZlIjogIl4wLjM3LjEiLAo=</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICcuL0J1dHRvbic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QiOiAiXjAuMTQuNTMiLAo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QtbmF0aXZlIjogIl4wLjM3LjEiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">InByZXNldHMiOiBbInJlYWN0LW5hdGl2ZSJdCg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QiOiAiXjAuMTQuNTMiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVhY3RUZXh0fSBmcm9tICdAdHlwZXMvcmVhY3QtbmF0aXZlJzsK</text>
+        <text encoding="base64">InByZXNldHMiOiBbInJlYWN0LW5hdGl2ZSJdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVhY3RUZXh0fSBmcm9tICdAdHlwZXMvcmVhY3QtbmF0aXZlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5vZGVfbW9kdWxlcy9AdHlwZXMiCg==</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAidHlwZVJvb3RzIjogWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm5vZGVfbW9kdWxlcy9AdHlwZXMiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAidHlwZVJvb3RzIjogWwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ0B0eXBlcy9yZWFjdCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
