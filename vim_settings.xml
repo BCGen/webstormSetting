@@ -178,11 +178,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/App.tsx" timestamp="1480946733787">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="38" />
-        <mark key="." line="27" column="38" />
-        <mark key="^" line="27" column="38" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/App.tsx" timestamp="1481020695924">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="18" column="33" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/RNTS/tsconfig.json" timestamp="1480799134562">
         <mark key="[" line="2" column="21" />
@@ -201,7 +201,7 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/components/counter.tsx" timestamp="1481019744670">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/components/counter.tsx" timestamp="1481020055865">
         <mark key="[" line="22" column="64" />
         <mark key="]" line="22" column="64" />
         <mark key="." line="22" column="64" />
@@ -516,40 +516,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGVbcHJvcHMuZmllbGRdIHx8IA==</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGVbcHJvcHMuZmllbGRdIHx8IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Q291bnRlciBmaWVsZD0naGVpZ2h0JyBzdGVwPXsxMH0gLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzdG9yZTogYW55Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29udGV4dDogYW55OwogIHN0YXRpYyBjb250ZXh0VHlwZXMgPSB7CiAgICBzdG9yZTogUmVhY3QuUHJvcFR5cGVzLm9iamVjdAogIH07CgogIHByaXZhdGUgdW5zdWJzY3JpYmU6IEZ1bmN0aW9uOwoKICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMudW5zdWJzY3JpYmUgPSB0aGlzLmNvbnRleHQuc3RvcmUuc3Vic2NyaWJlKCgpID0+IHRoaXMuZm9yY2VVcGRhdGUoKSk7CiAgfQoKICBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAgIHRoaXMudW5zdWJzY3JpYmUoKTsKICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9IAo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wczogYW55KSB7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBkZWNyOiAoKSA9IHsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIH07CiAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKHsgdHlwZTogJ0lOQ1InLCBieTogLTEgfSk7Cg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
