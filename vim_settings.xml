@@ -111,11 +111,11 @@
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/reducers.ts" timestamp="1481052104116">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="43" column="22" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/reducers.ts" timestamp="1481055748025">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="22" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="29" column="22" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/src/components/Card.js" timestamp="1479280206194">
         <mark key="[" line="12" column="0" />
@@ -154,11 +154,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/actions.ts" timestamp="1481048363141">
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="46" />
-        <mark key="^" line="30" column="46" />
-        <mark key="." line="30" column="46" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/actions.ts" timestamp="1481055915352">
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/tsconfig.json" timestamp="1480878102355">
         <mark key="[" line="0" column="1" />
@@ -238,11 +238,11 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/App.tsx" timestamp="1481054359968">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/App.tsx" timestamp="1481056246696">
+        <mark key="[" line="25" column="74" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/auth/src/App.js" timestamp="1479656953868">
         <mark key="[" line="13" column="26" />
@@ -581,43 +581,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uIAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uIAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgayAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0b3JlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RvcmUuZ2V0U3RhdGUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>interface IState {
-  visibilityFilter ?: string;
-  todos ?: any[];
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
