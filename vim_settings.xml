@@ -9,6 +9,12 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/index.ts" timestamp="1481135605065">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/index.ios.js" timestamp="1480942687170">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="0" column="11" />
@@ -30,11 +36,11 @@
         <mark key="]" line="17" column="6" />
         <mark key="." line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/index.android.js" timestamp="1481131862378">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/index.android.js" timestamp="1481133524799">
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="3" column="49" />
+        <mark key="^" line="3" column="49" />
+        <mark key="." line="3" column="49" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/e.tsx" timestamp="1480983479680">
         <mark key="[" line="0" column="16" />
@@ -169,11 +175,11 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/App.tsx" timestamp="1481133151940">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/App.tsx" timestamp="1481136354204">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/UI/view/Day1.js" timestamp="1479062867023">
         <mark key="[" line="6" column="0" />
@@ -643,41 +649,41 @@
       <jump line="12" column="22" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/redux_practice/index.ios.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5vZGVfbW9kdWxlcy9AdHlwZXMiCg==</text>
+        <text encoding="base64">ICAgIG5ldyBmaXJlYmFzZSgpLmluCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAidHlwZVJvb3RzIjogWwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIEhlbGxvIQo=</text>
+        <text encoding="base64">ICAgIGZpcmViYXNlLmluaXRpYWxpemVBcHAoY29uZmlnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAidHlwaW5ncy9pbmRleC5kLnRzIiwK</text>
+        <text encoding="base64">ICAgIG5ldyBmaXJlYmFzZSgpLmluCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpcmUgPSBuZXcgZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3ZpZGVyID0gUmVhY3RSZWR1eC5Qcm92aWRlcjsK</text>
+        <text encoding="base64">ICAgIGZpcmUuaW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGZpcmViYXNlLmluaXRpYWxpemVBcHAoY29uZmlnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIGZpcmViYXNlLmluaXQK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
@@ -751,6 +757,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
