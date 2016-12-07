@@ -30,6 +30,12 @@
         <mark key="]" line="17" column="6" />
         <mark key="." line="17" column="6" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/index.android.js" timestamp="1481131862378">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/e.tsx" timestamp="1480983479680">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
@@ -144,6 +150,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/scr/App.tsx" timestamp="1481132048804">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/reducers/EmployeeFormReducer.js" timestamp="1479754863997">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="11" />
@@ -227,6 +239,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/tsconfig.json" timestamp="1481132042659">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager/src/actions/EmployeeActions.js" timestamp="1479756015245">
         <mark key="[" line="37" column="1" />
@@ -618,8 +636,8 @@
       <jump line="12" column="22" filename="$USER_HOME$/OneDrive/Documents/GitHub/myTest/redux_practice/index.ios.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dispatch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3JlYWN0LXJlZCcK</text>
       </register>
       <register name="-" type="4">
         <text>dispatch</text>
@@ -628,31 +646,31 @@
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3JlYWN0LXJlZCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7JywgJ30K</text>
+        <text encoding="base64">aW1wb3J0IHsgUHJvdmlkfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8L1RleHQ+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoqCiAqIFNhbXBsZSBSZWFjdCBOYXRpdmUgQXBwCiAqIGh0dHBzOi8vZ2l0aHViLmNvbS9mYWNlYm9vay9yZWFjdC1uYXRpdmUKICogQGZsb3cKICovCgppbXBvcnQgUmVhY3QsIHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnOwppbXBvcnQgewogIEFwcFJlZ2lzdHJ5LAogIFN0eWxlU2hlZXQsCiAgVGV4dCwKICBWaWV3Cn0gZnJvbSAncmVhY3QtbmF0aXZlJzsKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIE1hbmFnZXIgZXh0ZW5kcyBDb21wb25lbnQgewogIHJlbmRlcigpIHsKICAgIHJldHVybiAoCiAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29udGFpbmVyfT4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLndlbGNvbWV9PgogICAgICAgICAgV2VsY29tZSB0byBSZWFjdCBOYXRpdmUhCiAgICAgICAgPC9UZXh0PgogICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuaW5zdHJ1Y3Rpb25zfT4KICAgICAgICAgIFRvIGdldCBzdGFydGVkLCBlZGl0IGluZGV4LmFuZHJvaWQuanMKICAgICAgICA8L1RleHQ+CiAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5pbnN0cnVjdGlvbnN9PgogICAgICAgICAgRG91YmxlIHRhcCBSIG9uIHlvdXIga2V5Ym9hcmQgdG8gcmVsb2FkLHsnXG4nfQogICAgICAgICAgU2hha2Ugb3IgcHJlc3MgbWVudSBidXR0b24gZm9yIGRldiBtZW51CiAgICAgICAgPC9UZXh0PgogICAgICA8L1ZpZXc+CiAgICApOwogIH0KfQoKY29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGNvbnRhaW5lcjogewogICAgZmxleDogMSwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgYmFja2dyb3VuZENvbG9yOiAnI0Y1RkNGRicsCiAgfSwKICB3ZWxjb21lOiB7CiAgICBmb250U2l6ZTogMjAsCiAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgbWFyZ2luOiAxMCwKICB9LAogIGluc3RydWN0aW9uczogewogICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgIGNvbG9yOiAnIzMzMzMzMycsCiAgICBtYXJnaW5Cb3R0b206IDUsCiAgfSwKfSk7CgpBcHBSZWdpc3RyeS5yZWdpc3RlckNvbXBvbmVudCgnTWFuYWdlcicsICgpID0+IE1hbmFnZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsiICJ9Cg==</text>
+        <text encoding="base64">aW0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNob3c6Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JywgJ30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8VGV4dD4K</text>
+        <text encoding="base64">ICA8L1RleHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU3RvcmUgfSBmcm9tICdyZWR1eCc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IHN0b3JlID0gY3JlYXRlU3RvcmUodG9kb0FwcCk7Cg==</text>
+        <text encoding="base64">ICAgIHsiICJ9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
