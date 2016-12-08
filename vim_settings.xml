@@ -313,8 +313,8 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481221557037">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481222189337">
+        <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -715,7 +715,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sbwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>'email_changed',</text>
@@ -724,31 +724,31 @@
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sbwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFN0YXRlIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBlbWFpbDogc3RyaW5nOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW50ZXJmYWNlIFN0YXRlIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBlbWFpbDogc3RyaW5nOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiYW5hbmE6ICgpID0+IFsxXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBiYW5hbmE6ICgpID0+IFsxXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICBiYW5hbmE6ICgpID0+IFsxXQo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
