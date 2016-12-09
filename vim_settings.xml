@@ -3,15 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481320794736">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481323552547">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="11" />
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481323336879">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXIK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>E</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgc3RhdGUuIAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>E</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
