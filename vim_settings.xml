@@ -9,11 +9,11 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/index.ts" timestamp="1481232603357">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/index.ts" timestamp="1481311801057">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/index.ios.js" timestamp="1480942687170">
         <mark key="[" line="3" column="24" />
@@ -281,11 +281,11 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/actions/index.ts" timestamp="1481307477367">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/actions/index.ts" timestamp="1481310254440">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="39" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/tsconfig.json" timestamp="1480878102355">
         <mark key="[" line="0" column="1" />
@@ -395,10 +395,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481294946453">
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="15" column="50" />
-        <mark key="." line="15" column="50" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481309728166">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/in.ts" timestamp="1480952428181">
         <mark key="[" line="13" column="2" />
@@ -621,11 +622,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481296597534">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="5" column="27" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481311765480">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="44" />
+        <mark key="." line="23" column="44" />
+        <mark key="^" line="23" column="44" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/ZipCodeValidator.ts" timestamp="1480703272675">
         <mark key="[" line="0" column="47" />
@@ -887,43 +888,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0ZXh0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFBBU1NXT1JEX0NIQU5HRUQgPSAnUEFTU1dPUkRfQ0hBTkdFRCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25DaGFuZ2VUZXh0PXt0aGlzLm9uRW1haWxDaGFuZ2UuYmluZCh0aGlzKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0ZXh0KTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CmludGVyZmFjZSBTdGF0ZSB7CiAgYXV0aDogewogICAgZW1haWw6IHN0cmluZzsKICAgIHBhc3N3b3JkOiBzdHJpbmc7CiAgfTsKfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb25DaGFuZ2VUZXh0PXthbmdlLmJpbmQodGhpcyl9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEVNQUlMX0NIQU5HRUQgPSAnRU1BSUxfQ0hBTkdFRCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXQgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wbwo=</text>
+        <text encoding="base64">ICBwYXlsb2FkOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">ICB0eXBlOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIEFjdGlvbiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1kZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
