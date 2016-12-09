@@ -281,11 +281,11 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/actions/index.ts" timestamp="1481294699714">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="12" column="39" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/actions/index.ts" timestamp="1481295412120">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/tsconfig.json" timestamp="1480878102355">
         <mark key="[" line="0" column="1" />
@@ -395,10 +395,10 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481294753719">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481294946453">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="15" column="50" />
+        <mark key="." line="15" column="50" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/untitled1/src/in.ts" timestamp="1480952428181">
         <mark key="[" line="13" column="2" />
@@ -621,11 +621,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481275298412">
-        <mark key="[" line="3" column="60" />
-        <mark key="]" line="3" column="59" />
-        <mark key="." line="3" column="59" />
-        <mark key="^" line="3" column="59" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481295222008">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/IdeaProjects/untitled/ZipCodeValidator.ts" timestamp="1480703272675">
         <mark key="[" line="0" column="47" />
@@ -887,10 +887,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>EMAIL_CHANGED</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>EMAIL_CHANGED</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -899,31 +899,31 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFBBU1NXT1JEX0NIQU5HRUQgPSAnUEFTU1dPUkRfQ0hBTkdFRCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEVNQUlMX0NIQU5HRUQgPSAnRU1BSUxfQ0hBTkdFRCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXQgCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEVNQUlMX0NIQU5HRUQgPSAnRU1BSUxfQ0hBTkdFRCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wbwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">aW1wbwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1kZAo=</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9kCg==</text>
+        <text encoding="base64">aW1kZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAobW9kdWxlLmhvdCkK</text>
+        <text encoding="base64">Ly9kCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;/'/g</text>
