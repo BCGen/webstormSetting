@@ -3,32 +3,57 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481324270649">
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="17" column="11" />
-        <mark key="^" line="17" column="11" />
-        <mark key="." line="17" column="11" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/index.ts" timestamp="1481370532793">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481323336879">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="28" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/node_modules/redux/index.d.ts" timestamp="1481370556684" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481370247805">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="36" />
+        <mark key="^" line="23" column="36" />
+        <mark key="." line="23" column="36" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481370748189">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wbwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBqampqago=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBhdXRoOiBhdXRoCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXIK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgc3RhdGUuIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>u</text>
       </register>
     </registers>
     <search>
@@ -41,6 +66,16 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
