@@ -9,11 +9,10 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/model.ts" timestamp="1481378052258">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/model.ts" timestamp="1481397188906">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/rootReducer.ts" timestamp="1481377545124">
         <mark key="[" line="4" column="23" />
@@ -27,17 +26,16 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actions.ts" timestamp="1481394790213">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actions.ts" timestamp="1481396932103">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actionTypes.ts" timestamp="1481378231371">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="20" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actionTypes.ts" timestamp="1481397261537">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/constants.ts" timestamp="1481377220718">
         <mark key="[" line="0" column="26" />
@@ -45,11 +43,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/reducer.ts" timestamp="1481378154694">
-        <mark key="[" line="10" column="60" />
-        <mark key="]" line="10" column="64" />
-        <mark key="." line="10" column="64" />
-        <mark key="^" line="10" column="64" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/reducer.ts" timestamp="1481397210718">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/Store/store.ts" timestamp="1481377665227">
         <mark key="[" line="3" column="22" />
@@ -57,6 +55,7 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/node_modules/@types/redux-actions/index.d.ts" timestamp="1481396647474" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/components/reselect" timestamp="1481378932989">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="22" />
@@ -99,38 +98,54 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
+      <register name="1" type="4">
+        <text>// export type EmailChange = {
+//   type: EMAIL_CHANGED,
+//   payload: string
+// };
+
+// export type PasswordChange = {
+//   type: PASSWORD_CHANGED,
+//   payload: string
+// };</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>// export type EmailChange = {
+//   type: EMAIL_CHANGED,
+//   payload: string
+// };
+
+// export type PasswordChange = {
+//   type: PASSWORD_CHANGED,
+//   payload: string
+// };</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgUEFTU1dPUkRfQ0hOR0VEID0gJ1BBU1NXT1JEX0NIQU5HRUQnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgRU1BSUxfQ0hBTkdFRCA9ICdFTUFJTF9DSEFOR0VEJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAneCd8J2QnOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1dGg6IEF1dGgsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBleHBvcnQgdHlwZSBBbGwgPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">Ly8gfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiBzdHJpbmcsCg==</text>
+        <text encoding="base64">Ly8gICB9Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>EMAIL_CHANGED</text>
+        <text>D</text>
       </register>
     </registers>
     <search>
