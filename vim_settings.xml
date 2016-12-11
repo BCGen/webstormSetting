@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index1.js" timestamp="1481458446010" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/index.ts" timestamp="1481377605198">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
@@ -14,6 +15,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index2.js" timestamp="1481458510330" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/rootReducer.ts" timestamp="1481377545124">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="21" />
@@ -26,11 +28,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/models/count.js" timestamp="1481457975888">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="3" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/models/count.js" timestamp="1481458399050" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index.html" timestamp="1481458542752">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actions.ts" timestamp="1481402701334">
         <mark key="[" line="0" column="21" />
@@ -67,7 +69,7 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/components/count.js" timestamp="1481451289555">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/components/count.js" timestamp="1481458377759">
         <mark key="[" line="8" column="66" />
         <mark key="]" line="8" column="66" />
         <mark key="." line="8" column="66" />
@@ -83,6 +85,12 @@
         <mark key="]" line="5" column="58" />
         <mark key="^" line="5" column="58" />
         <mark key="." line="5" column="58" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index.js" timestamp="1481458774273">
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="40" column="39" />
+        <mark key="." line="40" column="39" />
+        <mark key="^" line="40" column="39" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481373286020">
         <mark key="[" line="3" column="56" />
@@ -102,41 +110,59 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/node_modules/dva/index.d.ts" timestamp="1481458789647" />
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgeAo=</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGZyb20gJy4vaW5kZXgubGVzcyc7Cg==</text>
+      <register name="2" type="4">
+        <text>import './index.html';
+import './index.css';
+import dva from 'dva';
+
+// 1. Initialize
+const app = dva();
+
+// 2. Plugins
+//app.use({});
+
+// 3. Model
+//app.model(require('./models/example'));
+
+// 4. Router
+app.router(require('./router'));
+
+// 5. Start
+app.start('#root');</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgeAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZyb20gJy4vaW5kZXgubGVzcyc7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gZXhwb3J0IGRlZmF1bHQgKHN0YXRlID0gSU5JVElBTF9TVEFURSwgYWN0aW9uOiBBdXRoQWN0aW9uKTogYW55ID0+IHsKLy8gICBzd2l0Y2ggKGFjdGlvbi50eXBlKSB7Ci8vICAgICBjYXNlIEVNQUlMX0NIQU5HRUQ6Ci8vICAgICAgIHJldHVybiB7IC4uLnN0YXRlLCBlbWFpbDogYWN0aW9uLnBheWxvYWQgfTsKLy8gICAgIGNhc2UgUEFTU1dPUkRfQ0hBTkdFRDoKLy8gICAgICAgcmV0dXJuIHsgLi4uc3RhdGUsIHBhc3N3b3JkOiBhY3Rpb24ucGF5bG9hZCB9OwovLyAgICAgZGVmYXVsdDoKLy8gICAgICAgcmV0dXJuIHN0YXRlOwovLyAgIH0KLy8gfTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Ly8gZXhwb3J0IGRlZmF1bHQgKHN0YXRlID0gSU5JVElBTF9TVEFURSwgYWN0aW9uOiBBdXRoQWN0aW9uKTogYW55ID0+IHsKLy8gICBzd2l0Y2ggKGFjdGlvbi50eXBlKSB7Ci8vICAgICBjYXNlIEVNQUlMX0NIQU5HRUQ6Ci8vICAgICAgIHJldHVybiB7IC4uLnN0YXRlLCBlbWFpbDogYWN0aW9uLnBheWxvYWQgfTsKLy8gICAgIGNhc2UgUEFTU1dPUkRfQ0hBTkdFRDoKLy8gICAgICAgcmV0dXJuIHsgLi4uc3RhdGUsIHBhc3N3b3JkOiBhY3Rpb24ucGF5bG9hZCB9OwovLyAgICAgZGVmYXVsdDoKLy8gICAgICAgcmV0dXJuIHN0YXRlOwovLyAgIH0KLy8gfTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgIEVtYWlsQ2hhbmdlID0gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>u</text>
       </register>
     </registers>
     <search>
@@ -161,6 +187,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
