@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index1.js" timestamp="1481458446010" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index1.js" timestamp="1481459780015" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/index.ts" timestamp="1481377605198">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
@@ -75,6 +75,11 @@
         <mark key="." line="8" column="66" />
         <mark key="^" line="8" column="66" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index.css" timestamp="1481460500522">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/reselect.ts" timestamp="1481379095796">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -86,11 +91,11 @@
         <mark key="^" line="5" column="58" />
         <mark key="." line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index.js" timestamp="1481458774273">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="39" />
-        <mark key="." line="40" column="39" />
-        <mark key="^" line="40" column="39" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index.js" timestamp="1481460413094">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481373286020">
         <mark key="[" line="3" column="56" />
@@ -114,55 +119,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gMy4gTW9kZWwK</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">CjpnbG9iYWwgewogIGh0bWwsIGJvZHksICNyb290IHsKICAgIGhlaWdodDogMTAwJTsKICB9Cn0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text encoding="base64">CjpnbG9iYWwgewogIGh0bWwsIGJvZHksICNyb290IHsKICAgIGhlaWdodDogMTAwJTsKICB9Cn0=</text>
       </register>
-      <register name="2" type="4">
-        <text>import './index.html';
-import './index.css';
-import dva from 'dva';
-
-// 1. Initialize
-const app = dva();
-
-// 2. Plugins
-//app.use({});
-
-// 3. Model
-//app.model(require('./models/example'));
-
-// 4. Router
-app.router(require('./router'));
-
-// 5. Start
-app.start('#root');</text>
+      <register name="2" type="2">
+        <text encoding="base64">Oy8vIDQuIFJvdXRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgeAo=</text>
+        <text encoding="base64">YXBwLnJvdXRlcigoe2hpc3Rvcnl9KSA9Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZyb20gJy4vaW5kZXgubGVzcyc7Cg==</text>
+        <text encoding="base64">ICA8Um91dGVyIGhpc3Rvcnk9e2hpc3Rvcnl9Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPSIvIiBjb21wb25lbnQ9e0hvbWVQYWdlfS8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8L1JvdXRlcj4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8gZXhwb3J0IGRlZmF1bHQgKHN0YXRlID0gSU5JVElBTF9TVEFURSwgYWN0aW9uOiBBdXRoQWN0aW9uKTogYW55ID0+IHsKLy8gICBzd2l0Y2ggKGFjdGlvbi50eXBlKSB7Ci8vICAgICBjYXNlIEVNQUlMX0NIQU5HRUQ6Ci8vICAgICAgIHJldHVybiB7IC4uLnN0YXRlLCBlbWFpbDogYWN0aW9uLnBheWxvYWQgfTsKLy8gICAgIGNhc2UgUEFTU1dPUkRfQ0hBTkdFRDoKLy8gICAgICAgcmV0dXJuIHsgLi4uc3RhdGUsIHBhc3N3b3JkOiBhY3Rpb24ucGF5bG9hZCB9OwovLyAgICAgZGVmYXVsdDoKLy8gICAgICAgcmV0dXJuIHN0YXRlOwovLyAgIH0KLy8gfTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gNC4gUm91dGVyCg==</text>
+      </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text />
       </register>
     </registers>
     <search>
