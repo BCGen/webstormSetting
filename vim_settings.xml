@@ -155,6 +155,12 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/models/user.ts" timestamp="1481494723691">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="27" column="20" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -162,40 +168,37 @@
         <text encoding="base64">ICBoaXN0b3J5OiBIaXN0b3J5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBiNTQ4OSBvbiAyMDE2LzEyLzEyLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEEgewo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb3VudDogYW55Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkaXNwYXRjaDogYW4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIEEgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3VudDogYW55Owo=</text>
       </register>
-      <register name="8" type="4">
-        <text>interface A {
-  count: any;
-  dispatch: any;
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkaXNwYXRjaDogYW4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>'</text>
       </register>
     </registers>
     <search>
