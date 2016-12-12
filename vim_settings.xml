@@ -54,6 +54,12 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/routes/Users.tsx" timestamp="1481539652823">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/Store/store.ts" timestamp="1481377665227">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="35" />
@@ -69,6 +75,12 @@
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index.css" timestamp="1481460500522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/routes/router.ts" timestamp="1481538592524">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/reselect.ts" timestamp="1481379095796">
@@ -88,16 +100,15 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/tsconfig.json" timestamp="1481489427731">
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="9" />
-        <mark key="^" line="17" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/tsconfig.json" timestamp="1481539292860">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/node_modules/dva/router.d.ts" timestamp="1481492136986">
         <mark key="[" line="50" column="1" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/index.tsx" timestamp="1481534770410">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/index.tsx" timestamp="1481539602922">
         <mark key="[" line="23" column="3" />
         <mark key="]" line="35" column="21" />
         <mark key="." line="35" column="21" />
@@ -119,6 +130,18 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/router.ts" timestamp="1481538740484">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/router.tsx" timestamp="1481539268860">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/components/reselect" timestamp="1481378932989">
         <mark key="[" line="0" column="6" />
@@ -155,10 +178,10 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/models/user.ts" timestamp="1481494723691">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/models/user.ts" timestamp="1481539424766">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
         <mark key="^" line="27" column="20" />
       </file>
     </filemarks>
@@ -168,37 +191,37 @@
         <text encoding="base64">ICBoaXN0b3J5OiBIaXN0b3J5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>d</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBiNTQ4OSBvbiAyMDE2LzEyLzEyLgo=</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgVXNlciBSb3V0ZXIgQ29tcG9uZW50Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEEgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb3VudDogYW55Owo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBkaXNwYXRjaDogYW4K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICJkYXNoYm9hcmQvKiovKiIsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAidHNfc3JjLyoqLyoiLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDwvUm91dGVyPgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxSb3V0ZXIgaGlzdG9yeSA9IHtoaXN0b3J5fSA+Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>d</text>
       </register>
     </registers>
     <search>
