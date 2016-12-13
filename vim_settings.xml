@@ -57,10 +57,11 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/index.android.js" timestamp="1481635512279">
-        <mark key="[" line="59" column="1" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/index.android.js" timestamp="1481637429023">
+        <mark key="[" line="62" column="22" />
+        <mark key="]" line="62" column="22" />
+        <mark key="." line="62" column="22" />
+        <mark key="^" line="62" column="24" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/Store/store.ts" timestamp="1481377665227">
         <mark key="[" line="3" column="22" />
@@ -187,13 +188,28 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Y29uCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YXBwLnJvdXRlcigoKSA9PiA8QXBwIC8+KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCB7ZGlzcGF0Y2gsIGNvdW50fSA9IHByb3BzOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Y29ubmVjdChtYXBTdGF0ZVRvUHJvcHMpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -203,26 +219,11 @@
   },
 });</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuL2J1aWxkL2luZGV4JzsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fSBmcm9tICdyZWFjdC1uYXRpdmUnOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBBcHBSZWdpc3RyeSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CkFwcFJlZ2lzdHJ5LnJlZ2lzdGVyQ29tcG9uZW50KCdkYXNoYm9hcmRfYW5kcm9pZCcsICgpID0+IEFwcCk7Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>c</text>
       </register>
     </registers>
     <search>
