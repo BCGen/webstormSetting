@@ -73,8 +73,10 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481619457461">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481620667800">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/node_modules/antd-mobile/lib/picker/PropsType.d.ts" timestamp="1481590453446">
         <mark key="[" line="5" column="20" />
@@ -253,6 +255,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/tsconfig.json" timestamp="1481621603965">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actionTypes.ts" timestamp="1481399148878">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -269,11 +276,11 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/tsconfig.json" timestamp="1481619442759">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="34" />
-        <mark key="^" line="20" column="34" />
-        <mark key="." line="20" column="34" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/tsconfig.json" timestamp="1481621630972">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="32" />
+        <mark key="^" line="17" column="32" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/AlbumList.tsx" timestamp="1481590053071">
         <mark key="[" line="45" column="35" />
@@ -315,38 +322,37 @@
         <text encoding="base64">ICBoaXN0b3J5OiBIaXN0b3J5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAic3JjLyoqLyoudHN4Igo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGZyb20gJ3JlYWN0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAiLi9kYXNoYm8iCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDxDb250YWluZXI+CiAgICAgICAgPEhlYWRlcj4KICAgICAgICAgIDxUaXRsZT5IZWFkZXI8L1RpdGxlPgogICAgICAgIDwvSGVhZGVyPgoKICAgICAgICA8Q29udGVudD4KICAgICAgICAgIDxUZXh0PkhlbGxvPC9UZXh0PgogICAgICAgIDwvQ29udGVudD4KCiAgICAgICAgPEZvb3Rlcj4KICAgICAgICAgIDxGb290ZXJUYWI+CiAgICAgICAgICAgIDxCdXR0b24gdHJhbnNwYXJlbnQ+CiAgICAgICAgICAgICAgPEljb24gbmFtZT0naW9zLW1lbnUnLz4KICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8L0Zvb3RlclRhYj4KICAgICAgICA8L0Zvb3Rlcj4KCiAgICAgIDwvQ29udGFpbmVyPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBJY29uIG5hbWU9J2lvcy1jYWxsJyAK</text>
+        <text encoding="base64">ICAgICAgICAic3JjIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIEhpCg==</text>
+        <text encoding="base64">ICAgICAgICAiZGFzaGJvYXJkX2FuZHJvaWQvKiovKiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9Gb290ZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAiZGFzaGJvYXJkX2FuZHJvaWQvc3JjLyoiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPEZvb3Rlcj4K</text>
+        <text encoding="base64">ICAgICAgICAiZGFzaGJvYXJkX2FuZHJvaWQvKiovKiIsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>import { Title } from 'native-base';
-import { Footer } from 'native-base';</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAic3JjLyoqLyoudHN4Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGVhZGVyIH0gZnJvbSAnbmF0aXZlLWJhc2UnOwo=</text>
+        <text encoding="base64">aW1wb3J0IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>c</text>
       </register>
     </registers>
     <search>
