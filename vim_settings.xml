@@ -121,11 +121,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481631716824">
-        <mark key="[" line="2" column="50" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-        <mark key="^" line="2" column="50" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481633200560">
+        <mark key="[" line="36" column="53" />
+        <mark key="]" line="36" column="52" />
+        <mark key="^" line="36" column="52" />
+        <mark key="." line="36" column="52" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actionTypes.ts" timestamp="1481399148878">
         <mark key="[" line="2" column="0" />
@@ -138,8 +138,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/tsconfig.json" timestamp="1481631731620">
-        <mark key="[" line="17" column="39" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/tsconfig.json" timestamp="1481632460427">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/src/index.js" timestamp="1481475544020">
         <mark key="[" line="11" column="22" />
@@ -170,6 +173,12 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/node_modules/dva/index.d.ts" timestamp="1481633579247">
+        <mark key="[" line="72" column="11" />
+        <mark key="]" line="72" column="11" />
+        <mark key="." line="72" column="11" />
+        <mark key="^" line="9" column="8" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -177,37 +186,37 @@
         <text encoding="base64">Ly8gMy4gTW9kZWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wCg==</text>
+        <text encoding="base64">Y2xhc3MgQXBwIGV4dGVuZHMgQ29tcG9uZW50PGNjbnksIGFueT4gewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGVhZGVyIH0gZnJvbSAnbmF0aXZlLWJhc2UnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGUsIFJvdXRlciB9IGZyb20gJ2R2YS9yb3V0ZXInOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGl0bGUgfSBmcm9tICduYXRpdmUtYmFzZSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8VGl0bGU+SGxsbzwvVGl0bGU+Cg==</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtUZXh0fSBmcm9tICdyZWFjdC1uYXRpdmUnOwo=</text>
+        <text encoding="base64">ICA8L1JvdXRlcj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPFRleHQ+aGVsbG88L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgIDxSb3V0ZS8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9Db250YWluZXI+Cg==</text>
+        <text encoding="base64">ICA8Um91dGVyIGhpc3Rvcnk9e2hpc3Rvcnl9Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
