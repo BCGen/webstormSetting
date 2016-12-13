@@ -57,12 +57,8 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/index.android.js" timestamp="1481637429023">
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="62" column="22" />
-        <mark key="." line="62" column="22" />
-        <mark key="^" line="62" column="24" />
-      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/index.android.js" timestamp="1481639521006" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager1/src/App.js" timestamp="1481638841711" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/Store/store.ts" timestamp="1481377665227">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="35" />
@@ -103,6 +99,7 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Album/manager1/src/Router.js" timestamp="1481639161171" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/index.tsx" timestamp="1481482001839">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="12" column="3" />
@@ -121,11 +118,22 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481635209755">
-        <mark key="[" line="70" column="21" />
-        <mark key="]" line="70" column="21" />
-        <mark key="." line="70" column="21" />
-        <mark key="^" line="70" column="21" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/index.ios.js" timestamp="1481639629352">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/in.tsx" timestamp="1481640016525">
+        <mark key="[" line="37" column="3" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481639994935">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="49" column="55" />
+        <mark key="^" line="49" column="55" />
+        <mark key="." line="49" column="55" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actionTypes.ts" timestamp="1481399148878">
         <mark key="[" line="2" column="0" />
@@ -173,7 +181,7 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/node_modules/dva/index.d.ts" timestamp="1481633579247">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/node_modules/dva/index.d.ts" timestamp="1481639421477">
         <mark key="[" line="72" column="11" />
         <mark key="]" line="72" column="11" />
         <mark key="." line="72" column="11" />
@@ -186,44 +194,37 @@
         <text encoding="base64">Ly8gMy4gTW9kZWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgQXBwID0gY29ubmVjdCgoe2NvdW50fSkgPT4gKHtjb3VudH0pKSgocHJvcHMpID0+IHsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gY29uc3QgQXBwID0gY29ubmVjdCgoe2NvdW50fSkgPT4gKHtjb3VudH0pKSgocHJvcHMpID0+IHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uCg==</text>
+        <text encoding="base64">ICBCdXR0b24sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uCg==</text>
+        <text encoding="base64">ICBTdHlsZVNoZWV0LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLnJvdXRlcigoKSA9PiA8QXBwIC8+KTsK</text>
+        <text encoding="base64">ICBBcHBSZWdpc3RyeSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCB7ZGlzcGF0Y2gsIGNvdW50fSA9IHByb3BzOwo=</text>
+        <text encoding="base64">ICBCdXR0b24sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBcHBSZWdpc3RyeSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29ubmVjdChtYXBTdGF0ZVRvUHJvcHMpCg==</text>
+        <text encoding="base64">ICBTdHlsZVNoZWV0LAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-});</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuL2J1aWxkL2luZGV4JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
