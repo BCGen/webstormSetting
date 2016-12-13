@@ -79,11 +79,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Users/UserList.tsx" timestamp="1481656052028">
-        <mark key="[" line="56" column="14" />
-        <mark key="]" line="56" column="14" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="56" column="14" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Users/UserList.tsx" timestamp="1481658039434">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Users/UserModal.tsx" timestamp="1481645880557">
         <mark key="[" line="3" column="32" />
@@ -209,9 +208,11 @@
         <mark key="^" line="0" column="101" />
         <mark key="." line="0" column="101" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/routers/Users.tsx" timestamp="1481656042309">
-        <mark key="[" line="14" column="15" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/routers/Users.tsx" timestamp="1481656243395">
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/components/LoginForm.tsx" timestamp="1481399161010">
         <mark key="[" line="3" column="47" />
@@ -229,40 +230,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gMy4gTW9kZWwK</text>
+        <text encoding="base64">ICAgICAgPENvbCBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJyNEOTU0ZDcnLCBoZWlnaHQ6IDIwMH19PjxUZXh0PmRmc2FkZjwvVGV4dD48L0NvbD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICA8L0dyaWQ+Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICA8R3JpZD4K</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgPENvbCBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJyNEOTU0ZDcnLCBoZWlnaHQ6IDIwMH19PjxUZXh0PmRmc2FkZjwvVGV4dD48L0NvbD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7dGV4dDogJ09LJywgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29ubmVjdCgpKHVzZXJSKTsK</text>
+        <text encoding="base64">Y29uc3QgZCA9ICgpID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFVzZXJTZWFyY2ggZnJvbSAnLi4vY29tcG9uZW50cy9Vc2VyL1VzZXJTZWFyY2gnOwo=</text>
+        <text encoding="base64">ICAgICAgPGQvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxUZXh0PlVzZXIgUm91dGVyIENvbXBvbmVudDwvVGV4dD4K</text>
+        <text encoding="base64">ICAgICAgPGQgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAge2R9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>{</text>
       </register>
     </registers>
     <search>
