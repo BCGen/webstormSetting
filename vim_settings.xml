@@ -57,11 +57,10 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/index.android.js" timestamp="1481634508739">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="9" column="41" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="9" column="41" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/index.android.js" timestamp="1481635512279">
+        <mark key="[" line="59" column="1" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/Store/store.ts" timestamp="1481377665227">
         <mark key="[" line="3" column="22" />
@@ -121,7 +120,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481634407909">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481635209755">
         <mark key="[" line="70" column="21" />
         <mark key="]" line="70" column="21" />
         <mark key="." line="70" column="21" />
@@ -186,37 +185,44 @@
         <text encoding="base64">Ly8gMy4gTW9kZWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuL2J1aWxkL2luZGV4JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuL2J1aWxkL2luZGV4JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29ubmVjdChtYXBTdGF0ZVRvUHJvcHMpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">fSBmcm9tICdyZWFjdC1uYXRpdmUnOwo=</text>
+      <register name="3" type="4">
+        <text>const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#F5FCFF',
+  },
+});</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBBcHBSZWdpc3RyeSwK</text>
+        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuL2J1aWxkL2luZGV4JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CkFwcFJlZ2lzdHJ5LnJlZ2lzdGVyQ29tcG9uZW50KCdkYXNoYm9hcmRfYW5kcm9pZCcsICgpID0+IEFwcCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">fSBmcm9tICdyZWFjdC1uYXRpdmUnOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBBcHBSZWdpc3RyeSwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdAo=</text>
+        <text encoding="base64">aW1wb3J0IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQXBwIGV4dGVuZHMgQ29tcG9uZW50PGNjbnksIGFueT4gewo=</text>
+        <text encoding="base64">CkFwcFJlZ2lzdHJ5LnJlZ2lzdGVyQ29tcG9uZW50KCdkYXNoYm9hcmRfYW5kcm9pZCcsICgpID0+IEFwcCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
