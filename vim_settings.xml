@@ -61,11 +61,14 @@
         <mark key="." line="37" column="52" />
         <mark key="^" line="37" column="52" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/App.tsx" timestamp="1481590003054">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="25" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/App.tsx" timestamp="1481590847766">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="29" column="13" />
         <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+        <mark key="." line="29" column="13" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/node_modules/antd-mobile/lib/picker/PropsType.d.ts" timestamp="1481590453446">
+        <mark key="[" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/router.ts" timestamp="1481538740484">
         <mark key="[" line="6" column="1" />
@@ -94,6 +97,7 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/src/components/AlbumDetail.tsx" timestamp="1481590494825" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/components/Users/UserList.tsx" timestamp="1481557102256">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="11" />
@@ -104,6 +108,9 @@
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/node_modules/antd-mobile/lib/icon/index.web.d.ts" timestamp="1481590433661">
+        <mark key="[" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/public/index.html" timestamp="1481472179797">
         <mark key="[" line="18" column="16" />
@@ -131,6 +138,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/node_modules/antd-mobile/lib/popover/PropsType.d.ts" timestamp="1481590466420">
+        <mark key="[" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index.html" timestamp="1481458542752">
         <mark key="[" line="12" column="18" />
@@ -190,10 +200,10 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/tsconfig.json" timestamp="1481590116568">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/tsconfig.json" timestamp="1481590324848">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/components/Users/UserMadal.tsx" timestamp="1481541066104">
         <mark key="[" line="2" column="42" />
@@ -253,6 +263,9 @@
         <mark key="^" line="0" column="101" />
         <mark key="." line="0" column="101" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Album/node_modules/antd-mobile/lib/stepper/PropsType.d.ts" timestamp="1481590484738">
+        <mark key="[" line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/components/LoginForm.tsx" timestamp="1481399161010">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="51" />
@@ -274,8 +287,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAidHlwaW5ncy9pbmRleC5kLnRzIiwK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAidHlwaW5ncy9pbmRleC5kLnRzIiwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBjb24K</text>
@@ -302,7 +315,7 @@
         <text encoding="base64">ICAgICAgICA8QnV0dG9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
