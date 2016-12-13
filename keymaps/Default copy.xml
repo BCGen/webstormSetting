@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivatenpmToolWindow">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>

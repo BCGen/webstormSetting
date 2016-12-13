@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="reselect" type="TypeScript" />
+      <mapping pattern="UserList" type="TypeScript JSX" />
       <mapping pattern="App" type="TypeScript JSX" />
       <mapping pattern="LoginForm" type="TypeScript JSX" />
     </extensionMap>
