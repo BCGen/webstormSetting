@@ -9,6 +9,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/models/users.ts" timestamp="1481816909617">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/rootReducer.ts" timestamp="1481377545124">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="21" />
@@ -62,8 +68,8 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/models/user.ts" timestamp="1481811879724">
-        <mark key="[" line="50" column="48" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/models/user.ts" timestamp="1481814262302">
+        <mark key="[" line="7" column="19" />
         <mark key="]" line="50" column="48" />
         <mark key="^" line="50" column="48" />
         <mark key="." line="50" column="48" />
@@ -80,11 +86,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481645749587">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="10" column="29" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481814758370">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Common/index.ts" timestamp="1481808938476">
         <mark key="[" line="1" column="28" />
@@ -92,11 +98,11 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/router.tsx" timestamp="1481652733692">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="10" column="37" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/router.tsx" timestamp="1481814712143">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/components/reselect" timestamp="1481378932989">
         <mark key="[" line="0" column="6" />
@@ -127,11 +133,12 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/routers/Users.tsx" timestamp="1481811920707">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/routers/Users.tsx" timestamp="1481816759045">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="53" />
+        <mark key="]" line="25" column="53" />
+        <mark key="^" line="23" column="13" />
+        <mark key="." line="25" column="53" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/build/routers/Users.js" timestamp="1481747350651">
         <mark key="[" line="1" column="34" />
@@ -191,7 +198,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Users/UserList.tsx" timestamp="1481811028778">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Users/UserList.tsx" timestamp="1481815177613">
         <mark key="'" line="28" column="21" />
         <mark key="j" line="55" column="8" />
         <mark key="[" line="6" column="10" />
@@ -280,43 +287,45 @@
       <jump line="72" column="5" filename="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Users/UserList.tsx" />
       <jump line="65" column="44" filename="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Common/Table.tsx" />
       <jump line="29" column="21" filename="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Users/UserList.tsx" />
+      <jump line="2" column="3" filename="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/routers/Users.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/routers/Users.tsx" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVG91Y2hhYmxlT3BhY2l0eSB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHVzZXJNb2RlbCBmcm9tICcuL21vZGVscy91c2Vycyc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
+        <text>.</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHRvdGFsOiAzLAogICAgY3VycmVudDogMSwKICAgIGxvYWRpbmc6IGZhbHNlLAogICAgZGF0YVNvdXJjZTogWwogICAgICB7CiAgICAgICAgbmFtZTogJz+kVCcsCiAgICAgICAgYWdlOiAyMywKICAgICAgICBhZGRyZXNzOiAnpqizoycsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBuYW1lOiAnp/WlfCcsCiAgICAgICAgYWdlOiAyNCwKICAgICAgICBhZGRyZXNzOiAnqkOmeycsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBuYW1lOiAnpP2krScsCiAgICAgICAgYWdlOiAyNSwKICAgICAgICBhZGRyZXNzOiAnpFeu/CcsCiAgICAgIH0sCiAgICBdLA==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWxlcnQgfSBmcm9tICdyZWFjdC1uYXRpdmUnOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y29uc3QgVXNlcnMgPSAocHJvcHM6IFByb3BzKSA9PiB7CgogIAp9Ow==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BzID0gUmVhY3QuUHJvcHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8KLy8gPFRvdWNoYWJsZU9wYWNpdHkgb25QcmVzcz17KCkgPT4gQWxlcnQuYWxlcnQoCi8vICAgICAgICAgICAnQWxlcnQgVGl0bGUnLAovLyAgICAgICAgICAgJ0FyZSB5b3UgU3VyZSBEZWxldGUgPycsCi8vICAgICAgICAgICBbCi8vICAgICAgICAgICAgIHsgdGV4dDogJ0NhbmNlbCcsIG9uUHJlc3M6ICgpID0+IHt9IH0sCi8vICAgICAgICAgICAgIHsgdGV4dDogJ09LJywgb25QcmVzczogKCkgPT4ge30gfQovLyAgICAgICAgICAgXQovLyAgICAgICAgICl9PgovLyAgIDxUZXh0PqdSsKM8L1RleHQ+Ci8vIDwvVG91Y2hhYmxlT3BhY2l0eT4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQge30gPSAK</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICdBcmUgeW91IFN1cmUgRGVsZXRlID8nLAo=</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
