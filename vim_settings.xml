@@ -9,10 +9,10 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/models/users.ts" timestamp="1481835234388">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/models/users.ts" timestamp="1481838705848">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/rootReducer.ts" timestamp="1481377545124">
         <mark key="[" line="4" column="23" />
@@ -93,7 +93,7 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481814758370">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481836343990">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="39" />
         <mark key="." line="1" column="0" />
@@ -140,12 +140,12 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/routers/Users.tsx" timestamp="1481816759045">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/routers/Users.tsx" timestamp="1481838856035">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="53" />
-        <mark key="]" line="25" column="53" />
-        <mark key="^" line="23" column="13" />
-        <mark key="." line="25" column="53" />
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/build/routers/Users.js" timestamp="1481747350651">
         <mark key="[" line="1" column="34" />
@@ -194,11 +194,11 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/te.js" timestamp="1481835887053">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/te.js" timestamp="1481836001822">
         <mark key="[" line="4" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/node_modules/@shoutem/ui/components/View.js" timestamp="1481705804020">
         <mark key="[" line="22" column="16" />
@@ -242,12 +242,13 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/utils/request.ts" timestamp="1481835252085">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/utils/request.ts" timestamp="1481837759705">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/services/users.ts" timestamp="1481821313739">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/services/users.ts" timestamp="1481836962867">
         <mark key="[" line="4" column="54" />
         <mark key="]" line="4" column="54" />
         <mark key="^" line="4" column="54" />
@@ -319,37 +320,37 @@
         <text encoding="base64">aW1wb3J0IHVzZXJNb2RlbCBmcm9tICcuL21vZGVscy91c2Vycyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgbW9jayA9IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBzdWJzY3JpcHRpb25zOiB7CiAgICBzZXR1cCh7IGRpc3BhdGNoLCBoaXN0b3J5IH0pIHsKICAgICAgaGlzdG9yeS5saXN0ZW4obG9jYXRpb24gPT4gewogICAgICAgIGlmIChsb2NhdGlvbi5wYXRobmFtZSA9PT0gJy91c2VycycpIHsKICAgICAgICAgIGRpc3BhdGNoKHsKICAgICAgICAgICAgdHlwZTogJ3F1ZXJ5JywKICAgICAgICAgICAgcGF5bG9hZDoge30KICAgICAgICAgIH0pOwogICAgICAgIH0KICAgICAgfSk7CiAgICB9LAogIH0s</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjCg==</text>
+        <text encoding="base64">aW1wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlcnJvci4K</text>
+        <text encoding="base64">aW0K</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
