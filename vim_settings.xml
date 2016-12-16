@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/common/Input.tsx" timestamp="1481897206173">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="19" column="5" />
-        <mark key="." line="19" column="5" />
-        <mark key="^" line="19" column="5" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/common/Input.tsx" timestamp="1481899281012">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="11" column="6" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/index.ts" timestamp="1481377605198">
         <mark key="[" line="3" column="30" />
@@ -172,11 +172,11 @@
         <mark key="]" line="44" column="22" />
         <mark key="." line="44" column="22" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/Example.tsx" timestamp="1481896493426">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="14" column="18" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/Example.tsx" timestamp="1481899706244">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Common/Table.tsx" timestamp="1481810692089">
         <mark key="[" line="74" column="42" />
@@ -308,6 +308,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/common/Inpute.tsx" timestamp="1481899694406">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/index.ios.js" timestamp="1481639629352">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -374,37 +379,37 @@
         <text encoding="base64">ICAgICAgICAgICA8VGV4dD5kPC9UZXh0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLz4gIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0aWkK</text>
+        <text encoding="base64">ICAgIC8vICAgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWMK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWN1cgo=</text>
+        <text encoding="base64">ICAgIC8vICAgPElucHV0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtUZXh0SW5wdXR9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
+        <text encoding="base64">ICAgIC8vIDwvSW5wdXRHcm91cD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFRleHRJbnB1dAo=</text>
+        <text encoding="base64">ICAgIHsvKjxJbnB1dEdyb3VwPiovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2VjdXJlVGV4dEVudHJ5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9UZXh0SW5wdXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgPGRlPjwvZGU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgIDxkZT48L2RlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
