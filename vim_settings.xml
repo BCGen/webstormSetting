@@ -78,9 +78,6 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/.flowconfig" timestamp="1481835527053">
-        <mark key="[" line="16" column="9" />
-      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/models/user.ts" timestamp="1481814262302">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="50" column="48" />
@@ -122,7 +119,6 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/package.json" timestamp="1481881751756" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/router.tsx" timestamp="1481814712143">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -164,17 +160,11 @@
         <mark key="]" line="44" column="22" />
         <mark key="." line="44" column="22" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/build/routers/Users.js" timestamp="1481747350651">
-        <mark key="[" line="1" column="34" />
-      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Common/Table.tsx" timestamp="1481810692089">
         <mark key="[" line="74" column="42" />
         <mark key="]" line="74" column="42" />
         <mark key="." line="74" column="42" />
         <mark key="^" line="10" column="14" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1481624441759">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/model.ts" timestamp="1481397188906">
         <mark key="[" line="3" column="0" />
@@ -201,10 +191,16 @@
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/package.json" timestamp="1481890979475" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/.babelrc" timestamp="1481747935180">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="3" />
         <mark key="." line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/index.ios.js" timestamp="1481891229631">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/constants.ts" timestamp="1481377220718">
         <mark key="[" line="0" column="26" />
@@ -224,6 +220,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/index.android.js" timestamp="1481891217755">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/node_modules/@shoutem/ui/components/View.js" timestamp="1481705804020">
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="15" />
@@ -234,13 +235,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Users/UserList.tsx" timestamp="1481815177613">
-        <mark key="'" line="28" column="21" />
-        <mark key="j" line="55" column="8" />
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/dva_starter_kit/src/index.tsx" timestamp="1481889563494">
         <mark key="[" line="6" column="11" />
@@ -364,8 +358,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>dva_starter_kit</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAidHlwZXMiOiBbIm5vZGUiXSwK</text>
@@ -392,7 +386,7 @@
         <text encoding="base64">aW1wb3J0IGZyb20gJycK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>dva_starter_kit</text>
       </register>
     </registers>
     <search>
