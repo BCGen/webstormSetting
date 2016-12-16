@@ -73,10 +73,11 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/router.tsx" timestamp="1481905916745">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/router.tsx" timestamp="1481907562135">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/untitled/package.json" timestamp="1481882152572">
         <mark key="[" line="13" column="0" />
@@ -112,6 +113,7 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/tsconfig.json" timestamp="1481906984104" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/in.tsx" timestamp="1481644210839">
         <mark key="[" line="78" column="38" />
         <mark key="]" line="1" column="0" />
@@ -160,11 +162,11 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/App.tsx" timestamp="1481906061473">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="8" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="8" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/App.tsx" timestamp="1481906875892">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/public/index.html" timestamp="1481472179797">
         <mark key="[" line="18" column="16" />
@@ -209,6 +211,11 @@
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/Auth.tsx" timestamp="1481907575687">
+        <mark key="[" line="45" column="41" />
+        <mark key="]" line="45" column="41" />
+        <mark key="." line="45" column="41" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/dva_starter_kit/package.json" timestamp="1481888251263">
         <mark key="[" line="13" column="0" />
@@ -393,7 +400,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>p</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICA8SW5wdXQgbGFiZWw9J2RkJy8+Cg==</text>
@@ -420,7 +427,7 @@
         <text encoding="base64">ICAgICAgPC9JbnB1dEdyb3VwPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>p</text>
       </register>
     </registers>
     <search>
@@ -464,7 +471,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
