@@ -135,11 +135,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" timestamp="1481979020303">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="0" column="29" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" timestamp="1481979911817">
+        <mark key="'" line="22" column="76" />
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="26" column="10" />
+        <mark key="." line="26" column="10" />
+        <mark key="^" line="26" column="10" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481836343990">
         <mark key="[" line="1" column="0" />
@@ -232,7 +233,12 @@
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/Auth.tsx" timestamp="1481979060883" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/Auth.tsx" timestamp="1481979209398">
+        <mark key="[" line="45" column="10" />
+        <mark key="]" line="45" column="10" />
+        <mark key="." line="45" column="10" />
+        <mark key="^" line="42" column="16" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/dva_starter_kit/package.json" timestamp="1481912438667">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="26" />
@@ -423,43 +429,44 @@
       <jump line="29" column="21" filename="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Users/UserList.tsx" />
       <jump line="2" column="3" filename="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/routers/Users.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/routers/Users.tsx" />
+      <jump line="28" column="76" filename="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICA8SW5wdXQgbGFiZWw9J2RkJy8+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZmlyZWJhc2UuYXV0aCgpLnNpZ25JbldpdGhFbWFpbEFuZFBhc3N3b3JkKGVtYWlsLCBwYXNzd29yZCkKICAudGhlbih1c2VyID0+IGNvbnNvbGUubG9nKHVzZXIpKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIpKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaXJlYmFzZS5hdXRoKCkuc2lnbkluV2l0aEVtYWlsQW5kUGFzc3dvcmQoZW1haWwsIHBhc3N3b3JkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIC50aGVuKHVzZXIgPT4gY29uc29sZS5sb2codXNlcikpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAvLwogIC8vICAgY29uc3QgY29uZmlnID0gewogIC8vICAgICBhcGlLZXkgICAgICAgICAgIDogJ0FJemFTeUE2OW1hQURQVERKMkZYNG9Qcld0Nlk5NUo4OWVSR1kxRScsCiAgLy8gICAgIGF1dGhEb21haW4gICAgICAgOiAnbWFuYWdlci0xNWI2NS5maXJlYmFzZWFwcC5jb20nLAogIC8vICAgICBkYXRhYmFzZVVSTCAgICAgIDogJ2h0dHBzOi8vbWFuYWdlci0xNWI2NS5maXJlYmFzZWlvLmNvbScsCiAgLy8gICAgIHN0b3JhZ2VCdWNrZXQgICAgOiAnbWFuYWdlci0xNWI2NS5hcHBzcG90LmNvbScsCiAgLy8gICAgIG1lc3NhZ2luZ1NlbmRlcklkOiAnMjg5NjY3MTkzMjQyJwogIC8vICAgfTsKICAvLwogIC8vICAgZmlyZWJhc2UuaW5pdGlhbGl6ZUFwcChjb25maWcpOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZmlyZWJhc2UuYXV0aCgpLnNpZ25JbldpdGhFbWFpbEFuZFBhc3N3b3JkKGVtYWlsLCBwYXNzd29yZCkKICAudGhlbih1c2VyID0+IGNvbnNvbGUubG9nKHVzZXIpKTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhdXRoOiBhbnk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYXNzd29yZDogYW55Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>{</text>
       </register>
     </registers>
     <search>
