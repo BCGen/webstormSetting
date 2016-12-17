@@ -135,12 +135,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" timestamp="1481988250070">
-        <mark key="'" line="21" column="76" />
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="18" column="10" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" timestamp="1481990661323">
+        <mark key="[" line="21" column="90" />
+        <mark key="]" line="21" column="88" />
+        <mark key="." line="21" column="88" />
+        <mark key="^" line="21" column="88" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481836343990">
         <mark key="[" line="1" column="0" />
@@ -436,37 +435,37 @@
         <text encoding="base64">ICAgICAgICAgICA8SW5wdXQgbGFiZWw9J2RkJy8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LnRoZW4odXNlciA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZyhhY3Rpb24pOwogICAgICAgICAgcHV0KHsgdHlwZTogJ2xvZ2luVXNlclN1Y2Nlc3MnLCBwYXlsb2FkOiB1c2VyIH0pOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgLy8gZmlyZWJhc2UuYXV0aCgpLnNpZ25JbldpdGhFbWFpbEFuZFBhc3N3b3JkKCd0ZXN0QHRlc3QuY29tJywgJ3Rlc3R0ZXN0JykKICAgICAgLy8gICAudGhlbih1c2VyID0+IHsKICAgICAgLy8gICAgIGNvbnNvbGUubG9nKGFjdGlvbik7CiAgICAgIC8vICAgICBwdXQoeyB0eXBlOiAnbG9naW5Vc2VyU3VjY2VzcycsIHBheWxvYWQ6IHVzZXIgfSk7CiAgICAgIC8vICAgfSk7CiAgICAgIC8vIHlpZWxkIGNhbGwoCiAgICAgIC8vCiAgICAgIC8vICk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>l</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IC50aGVuKHVzZXIgPT4gewogICAgICAgICAgY29uc29sZS5sb2coYWN0aW9uKTsKICAgICAgICAgIHB1dCh7IHR5cGU6ICdsb2dpblVzZXJTdWNjZXNzJywgcGF5bG9hZDogdXNlciB9KTs=</text>
+        <text encoding="base64">LnRoZW4odXNlciA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZyhhY3Rpb24pOwogICAgICAgICAgcHV0KHsgdHlwZTogJ2xvZ2luVXNlclN1Y2Nlc3MnLCBwYXlsb2FkOiB1c2VyIH0pOwogICAgICAgIH0=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IC50aGVuKHVzZXIgPT4gewogICAgICAgICAgY29uc29sZS5sb2coYWN0aW9uKTsKICAgICAgICAgIHB1dCh7IHR5cGU6ICdsb2dpblVzZXJTdWNjZXNzJywgcGF5bG9hZDogdXNlciB9KTs=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgLy8gZmlyZWJhc2UuYXV0aCgpLnNpZ25JbldpdGhFbWFpbEFuZFBhc3N3b3JkKCd0ZXN0QHRlc3QuY29tJywgJ3Rlc3R0ZXN0JykKICAgICAgLy8gICAudGhlbih1c2VyID0+IGNvbnNvbGUubG9nKHVzZXIpKTs=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIpKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBmaXJlYmFzZS5hdXRoKCkuc2lnbkluV2l0aEVtYWlsQW5kUGFzc3dvcmQoZW1haWwsIHBhc3N3b3JkKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgIC50aGVuKHVzZXIgPT4gY29uc29sZS5sb2codXNlcikpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAvLwogIC8vICAgY29uc3QgY29uZmlnID0gewogIC8vICAgICBhcGlLZXkgICAgICAgICAgIDogJ0FJemFTeUE2OW1hQURQVERKMkZYNG9Qcld0Nlk5NUo4OWVSR1kxRScsCiAgLy8gICAgIGF1dGhEb21haW4gICAgICAgOiAnbWFuYWdlci0xNWI2NS5maXJlYmFzZWFwcC5jb20nLAogIC8vICAgICBkYXRhYmFzZVVSTCAgICAgIDogJ2h0dHBzOi8vbWFuYWdlci0xNWI2NS5maXJlYmFzZWlvLmNvbScsCiAgLy8gICAgIHN0b3JhZ2VCdWNrZXQgICAgOiAnbWFuYWdlci0xNWI2NS5hcHBzcG90LmNvbScsCiAgLy8gICAgIG1lc3NhZ2luZ1NlbmRlcklkOiAnMjg5NjY3MTkzMjQyJwogIC8vICAgfTsKICAvLwogIC8vICAgZmlyZWJhc2UuaW5pdGlhbGl6ZUFwcChjb25maWcpOw==</text>
-      </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
