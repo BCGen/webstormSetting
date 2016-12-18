@@ -90,10 +90,11 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/router.tsx" timestamp="1482083092907">
-        <mark key="[" line="20" column="86" />
-        <mark key="]" line="20" column="86" />
-        <mark key="." line="20" column="86" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/router.tsx" timestamp="1482098602595">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/index.tsx" timestamp="1482094644177">
         <mark key="[" line="5" column="19" />
@@ -147,12 +148,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" timestamp="1482098140481">
-        <mark key="'" line="25" column="2" />
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="23" />
-        <mark key="." line="24" column="23" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" timestamp="1482098833405">
+        <mark key="'" line="27" column="2" />
+        <mark key="[" line="48" column="50" />
+        <mark key="]" line="48" column="50" />
+        <mark key="." line="48" column="50" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481836343990">
         <mark key="[" line="1" column="0" />
@@ -479,10 +479,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblVzZXJcPg==</text>
@@ -491,31 +491,31 @@
         <text encoding="base64">ICAgICAgPFRleHQ+RW1wbG95ZWUgTGlzdDwvVGV4dD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGUgICA6ICdhdXRoL2VtYWlsQ2hhbmdlJywK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBlID0gJ2VtcGxveWVlTGlzdCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gCg==</text>
+        <text encoding="base64">YSA9ICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZSA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGUgICA6ICdhdXRoL2VtYWlsQ2hhbmdlJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZVsnMSddID0gMTsK</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZCA9IGVbJzFkZCddCg==</text>
+        <text encoding="base64">Y29uc3QgZSA9IFtdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZVsnKmMnXSA9IDE7Cg==</text>
+        <text encoding="base64">ZVsnMSddID0gMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaCA9ICdhdXRoLyc7Cg==</text>
+        <text encoding="base64">Y29uc3QgZCA9IGVbJzFkZCddCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgIAo=</text>
+        <text encoding="base64">ZVsnKmMnXSA9IDE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y29uc3QgaCA9ICdhdXRoLyc7Cg==</text>
       </register>
     </registers>
     <search>
