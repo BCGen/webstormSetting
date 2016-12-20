@@ -165,7 +165,6 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/node_modules/dva/src/createDva.js" timestamp="1482094211903" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/router.tsx" timestamp="1481814712143">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -365,12 +364,11 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/node_modules/react-native-router-flux/index.d.ts" timestamp="1482227398251" />
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeList.ts" timestamp="1482250954833">
-        <mark key="[" line="39" column="10" />
-        <mark key="]" line="39" column="15" />
-        <mark key="." line="39" column="15" />
-        <mark key="^" line="39" column="15" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeList.ts" timestamp="1482251682632">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="24" />
+        <mark key="^" line="40" column="24" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/index.tsx" timestamp="1481482001839">
         <mark key="[" line="12" column="3" />
@@ -478,7 +476,6 @@
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" timestamp="1482150047965" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481371528152">
         <mark key="[" line="0" column="90" />
         <mark key="]" line="0" column="101" />
@@ -509,10 +506,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblVzZXJcPg==</text>
@@ -521,31 +518,31 @@
         <text encoding="base64">Y29uc3QgeyBlbXBsb3llZUxpc3ROUywgX0VNUExPWUVFX0ZFVENIfSA9IGVtcGxveWVlTGlzdFJlZHVjZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdoaScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdoaScpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVmLm9uKCd2YWx1ZScsICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVmKTsK</text>
+        <text encoding="base64">ICAgICAgcmVmLm9uKCd2YWx1ZScsICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJlZiA9IGZpcmViYXNlRGIucmVmKGAvdXNlcnMvJHtjdXJyZW50VXNlci51aWR9L2VtcGxveWVlc2ApOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVmKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgbGV0IHJlZiA9IGZpcmViYXNlRGIucmVmKGAvdXNlcnMvJHtjdXJyZW50VXNlci51aWR9L2VtcGxveWVlc2ApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgcGF5bG9hZDogc25hcHNob3QudmFsKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgdHlwZSAgIDogZW1wbG95ZWVMaXN0UmVkdWNlci5FTVBMT1lFRVNfRkVUQ0hfU1VDQ0VTUywK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgcGF5bG9hZDogc25hcHNob3QudmFsKCkK</text>
       </register>
     </registers>
     <search>
