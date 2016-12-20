@@ -27,11 +27,10 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/EmployeeList.tsx" timestamp="1482233870490">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="21" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/EmployeeList.tsx" timestamp="1482239352536">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actions.ts" timestamp="1481402701334">
         <mark key="[" line="0" column="21" />
@@ -147,10 +146,10 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" timestamp="1482233650222">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" timestamp="1482239277361">
+        <mark key="[" line="79" column="39" />
+        <mark key="]" line="79" column="39" />
+        <mark key="." line="79" column="39" />
         <mark key="^" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481836343990">
@@ -263,12 +262,6 @@
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/Auth.tsx" timestamp="1482219326802">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/dva_starter_kit/package.json" timestamp="1481912438667">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="26" />
@@ -325,12 +318,7 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeCreate.ts" timestamp="1482234994673">
-        <mark key="[" line="35" column="69" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="11" />
-        <mark key="^" line="36" column="11" />
-      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeCreate.ts" timestamp="1482240131091" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/reselect.ts" timestamp="1481379095796">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -367,11 +355,11 @@
         <mark key="^" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/node_modules/react-native-router-flux/index.d.ts" timestamp="1482227398251" />
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeList.ts" timestamp="1482235042728">
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="30" column="14" />
-        <mark key="." line="30" column="14" />
-        <mark key="^" line="30" column="14" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeList.ts" timestamp="1482240384890">
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="32" column="14" />
+        <mark key="." line="32" column="14" />
+        <mark key="^" line="23" column="59" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/index.tsx" timestamp="1481482001839">
         <mark key="[" line="12" column="3" />
@@ -510,43 +498,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblVzZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBjYWxsKGdvU2NlbmUsIGtleS5tYWluKTsK</text>
+        <text encoding="base64">Y29uc3QgeyBlbXBsb3llZUxpc3ROUywgX0VNUExPWUVFX0ZFVENIfSA9IGVtcGxveWVlTGlzdFJlZHVjZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGZpcmViYXNlRGF0YWJhc2UucmVmKGAvdXNlci8ke2N1cnJlbnRVc2VyLnVpZH0vZW1wbG95ZWVzYCkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBjYWxsKCgpID0+IHsKICAgICAgICBmaXJlYmFzZURhdGFiYXNlKCkucmVmKGAvdXNlcnMvJGApIAogICAgICB9KQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBuYW1lOiAnZGYnLCBwaG9uZTogJ2RlJywgc2hpZnQ6ICdNb25kYXknCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHsgY3VycmVudFVzZXIgfSA9IGZpcmViYXNlQXV0aDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnB1c2goewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHsgY3VycmVudFVzZXIgfSA9IGZpcmViYXNlQXV0aDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBjdXJyZW50VXNlciB9ID0gZmlyZWJhc2VBdXRoOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGZpcmViYXNlRGF0YWJhc2UucmVmKGAvdXNlci8ke2N1cnJlbnRVc2VyLnVpZH0vZW1wbG95ZWVzYCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L0VtcGxveWVlTGlzdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgamprCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuYW1lOiAnZGYnLCBwaG9uZTogJ2RlJywgc2hpZnQ6ICdNb25kYXknCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnB1c2goewo=</text>
       </register>
     </registers>
     <search>
