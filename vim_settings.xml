@@ -147,11 +147,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" timestamp="1482255091308">
-        <mark key="[" line="79" column="39" />
-        <mark key="]" line="79" column="46" />
-        <mark key="." line="79" column="46" />
-        <mark key="^" line="79" column="46" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" timestamp="1482263152047">
+        <mark key="[" line="74" column="20" />
+        <mark key="]" line="74" column="18" />
+        <mark key="." line="74" column="18" />
+        <mark key="^" line="74" column="18" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481836343990">
         <mark key="[" line="1" column="0" />
@@ -412,11 +412,11 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Employee/EmployeeList.tsx" timestamp="1482259624444">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-        <mark key="^" line="2" column="17" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Employee/EmployeeList.tsx" timestamp="1482262828725">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Employee/EmployeeCreate.tsx" timestamp="1482219373836">
         <mark key="[" line="69" column="23" />
@@ -505,11 +505,11 @@
       <jump line="22" column="2" filename="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/auth.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblVzZXJcPg==</text>
@@ -518,31 +518,31 @@
         <text encoding="base64">Y29uc3QgeyBlbXBsb3llZUxpc3ROUywgX0VNUExPWUVFX0ZFVENIfSA9IGVtcGxveWVlTGlzdFJlZHVjZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVuZGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZW5kZXJSb3c6ICgpID0+IHZvaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvTGlzdFZpZXc+Cg==</text>
+        <text encoding="base64">cmVuZGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICByZW5kZXJSb3c6ICgpID0+IHZvaWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxWaWV3Pgo=</text>
+        <text encoding="base64">ICAgIDwvTGlzdFZpZXc+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGlzdCwgVGV4dCwgVmlldyB9IGZyb20gJ25hdGl2ZS1iYXNlJzsK</text>
+        <text encoding="base64">ICAgIDwvVmlldz4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IDxUZXh0PkVtcGxveWVlIExpc3Q8L1RleHQ+CiAgICAgIDxUZXh0PkVtcGxveWVlIExpc3Q8L1RleHQ+CiAgICAgIDxUZXh0PkVtcGxveWVlIExpc3Q8L1RleHQ+CiAgICAgIDxUZXh0PkVtcGxveWVlIExpc3Q8L1RleHQ+CiAgICAgIDxUZXh0PkVtcGxveWVlIExpc3Q8L1RleHQ+CiAgICAgIDxUZXh0PkVtcGxveWVlIExpc3Q8L1RleHQ+CiAgICAgIDxUZXh0PkVtcGxveWVlIExpc3Q8L1RleHQ+CiAgICAgIDxUZXh0PkVtcGxveWVlIExpc3Q8L1RleHQ+CiAgICAgIDxUZXh0PkVtcGxveWVlIExpc3Q8L1RleHQ+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAK</text>
       </register>
     </registers>
     <search>
