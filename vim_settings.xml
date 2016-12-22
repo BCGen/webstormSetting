@@ -32,6 +32,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/node_modules/@types/@shoutem/ui/index.d.ts" timestamp="1482448032974">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="17" column="2" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/node_modules/dva/index.d.ts" timestamp="1481483368857">
         <mark key="[" line="51" column="2" />
         <mark key="]" line="51" column="12" />
@@ -308,10 +314,11 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Map/MapTest.tsx" timestamp="1482443049812">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Map/MapTest.tsx" timestamp="1482448083457">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/node_modules/@types/react-native-maps/index.d.ts" timestamp="1482442876690">
         <mark key="[" line="12" column="26" />
@@ -566,10 +573,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcFR5cGU9eydzdGFuZGFyZCd9Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbk9wdGlvblNlbGVjdGVkPXsuLi59Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblVzZXJcPg==</text>
@@ -578,31 +585,31 @@
         <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcFR5cGU9eydzdGFuZGFyZCd9Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbk9wdGlvblNlbGVjdGVkPXsuLi59Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNob3dVc2VyTG9jYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17Li4ufQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZU5hbWU9ey4uLn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2aXNpYmxlT3B0aW9ucz17Li4ufQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcFR5cGUK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZVByb3BlcnR5PXsiaWQifQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNob3dNeUxvY2F0aW9uQnV0dG9uCg==</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZVByb3BlcnR5PXsibmFtZSJ9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcFR5cGUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZE9wdGlvbj17Li4ufQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gc3R5bGU/OiBSZWFjdC5WaWV3U3R5bGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgZHNmZGYK</text>
       </register>
     </registers>
     <search>
