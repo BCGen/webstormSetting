@@ -386,6 +386,12 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Employee/EmployeeForm.tsx" timestamp="1482415332793">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/index.tsx" timestamp="1481482001839">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="12" column="3" />
@@ -434,11 +440,11 @@
         <mark key="." line="30" column="35" />
         <mark key="^" line="30" column="35" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Employee/EmployeeCreate.tsx" timestamp="1482340431726">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="21" column="40" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Employee/EmployeeCreate.tsx" timestamp="1482415397928">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actionTypes.ts" timestamp="1481399148878">
         <mark key="[" line="2" column="0" />
@@ -468,7 +474,7 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/EmployeeCreate.tsx" timestamp="1482340233300">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/EmployeeCreate.tsx" timestamp="1482415279572">
         <mark key="[" line="20" column="11" />
         <mark key="]" line="21" column="14" />
         <mark key="^" line="21" column="14" />
@@ -529,10 +535,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblVzZXJcPg==</text>
@@ -541,31 +547,31 @@
         <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5lbXBsb3llZSk7Cg==</text>
+        <text encoding="base64">ICBbdGV4dDogc3RyaW5nXTogKCkgPT4gdm9pZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIChBY3Rpb25zIGFzIGFueSkubWFpbl9lbXBsb3llZUNyZWF0ZSh7IGVtcGxveWVlOiB7IGhpOiAxIH0gfSk7Cg==</text>
+        <text encoding="base64">ICBuYW1lOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
+        <text encoding="base64">ICBuYW1lOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwaG9uZTogc3RyaW5nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvblJvd1ByZXNzOiAoKSA9PiB2b2lkOwo=</text>
+        <text encoding="base64">ICBzaGlmdDogc3RyaW5nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ29TY2VuZSwga2V5IH0gZnJvbSAnLi4vcm91dGVyJzsK</text>
+        <text encoding="base64">ICBlbXBsb3llZT86IHt9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBbdGV4dDogc3RyaW5nXTogYW55Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBjb25zdCB7IG5hbWUsIHBob25lLCBzaGlmdCwgbmFtZUNoYW5nZWQsIHBob25lQ2hhbmdlZCwgc2hpZnRDaGFuZ2VkLCBvbkJ1dHRvblByZXNzIH0gPSBwcm9wczsK</text>
       </register>
     </registers>
     <search>
