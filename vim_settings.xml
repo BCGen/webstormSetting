@@ -453,6 +453,12 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/my-new-project/main.js" timestamp="1482545160386">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="15" column="35" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/ts_src/index.tsx" timestamp="1481482001839">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="12" column="3" />
@@ -532,43 +538,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>N</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblVzZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBjYWxsKGdvU2NlbmUsIGtleS5tYWluX2VtcGxveWVlTGlzdCwgeyB0eXBlOiAncmVzZXQnIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5PcGVuIHVwIG1haW4uanMgdG8gc3RhcnQgd29ya2luZyBvbiB5b3VyIGFwcCE8L1RleHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3Mgcm91dGVyIHtrCg==</text>
+        <text encoding="base64">ICAgICAgICAvPgo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ly8gY2xhc3MgQXBwIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHsKLy8gICByZW5kZXIoKSB7Ci8vICAgICByZXR1cm4gKAovLyAgICAgICA8Vmlldz4KLy8gICAgICAgICA8VGV4dD5oZWxsbzwvVGV4dD4KLy8gICAgICAgPC9WaWV3PgogICAgICAvLyA8Q29tcG9uZW50cy5NYXBWaWV3CiAgICAgIC8vICAgc3R5bGU9e3tmbGV4OiAxfX0KICAgICAgLy8gICBpbml0aWFsUmVnaW9uPXt7CiAgICAgIC8vICAgICBsYXRpdHVkZTogMzcuNzg4MjUsCiAgICAgIC8vICAgICBsb25naXR1ZGU6IC0xMjIuNDMyNCwKICAgICAgLy8gICAgIGxhdGl0dWRlRGVsdGE6IDAuMDkyMiwKICAgICAgLy8gICAgIGxvbmdpdHVkZURlbHRhOiAwLjA0MjEsCiAgICAgIC8vICAgfX0KICAgICAgLy8gLz4KLy8gICAgICk7Ci8vICAgfQovLyB9Ci8vCi8vIGNvbnN0IHN0eWxlcyA9IHsKLy8gICBjb250YWluZXI6IHsKLy8gICAgIGZsZXg6IDEsCi8vICAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjZmZmJywKLy8gICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAovLyAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAovLyAgIH0sCi8vIH07</text>
+        <text encoding="base64">ICAgPE5hdmlnYXRvcgogICAgICAgICAgaW5pdGlhbFJvdXRlPXt7c3RhdHVzQmFySGlkZGVuOiB0cnVlfX0KICAgICAgICAgIHJlbmRlclNjZW5lPXsocm91dGUsIG5hdmlnYXRvcikgPT4KICAgICAgICAgICAgPFZpZXc+CiAgICAgICAgICAgICAgPFN0YXR1c0JhciBoaWRkZW49e3JvdXRlLnN0YXR1c0JhckhpZGRlbn0gLz4KICAgICAgICAgICAgPC9WaWV3PgogICAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJ25hdGl2ZS1iYXNlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXc+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPFRleHQ+aGk8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8U3RhdHVzQmFyIGhpZGRlbj17cm91dGUuc3RhdHVzQmFySGlkZGVufSAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuLi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSBmcm9tICdyZWFjdC1uYXRpdmUnOwo=</text>
+        <text encoding="base64">ICBzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBWaWV3LAo=</text>
+        <text encoding="base64">ICBTdGF0dXNCYXJrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBUZXh0LAo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5PcGVuIHVwIG1haW4uanMgdG8gc3RhcnQgd29ya2luZyBvbiB5b3VyIGFwcCE8L1RleHQ+Cg==</text>
       </register>
     </registers>
     <search>
