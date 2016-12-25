@@ -327,6 +327,7 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-one/.git/info/exclude" timestamp="1482702110469" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/router.ts" timestamp="1481644052849">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="2" column="34" />
@@ -410,8 +411,10 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-one/.gitignore" timestamp="1482701504723">
-        <mark key="[" line="0" column="17" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-one/.gitignore" timestamp="1482702020430">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actions.ts" timestamp="1481402701334">
         <mark key="[" line="0" column="21" />
@@ -633,7 +636,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482701889940">
+      <file name="/Dummy.txt" timestamp="1482702086787">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routers/EmployeeList.tsx" timestamp="1482687001092">
@@ -724,8 +727,8 @@
       <jump line="12" column="11" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routers/EmployeeEdit.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGFja2FnZS5qc29uCg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -739,32 +742,32 @@
       <register name="p" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text />
+      <register name="1" type="2">
+        <text encoding="base64">cGFja2FnZS5qc29uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFpbi5qcwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZyb20gJ2YnCg==</text>
+      <register name="3" type="4">
+        <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkOiBzdHJpbmc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZyb20gJ2YnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gcmVnaW9uIGRlY2xhcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
