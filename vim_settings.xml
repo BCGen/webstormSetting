@@ -209,7 +209,7 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/models/employeeForm.ts" timestamp="1482680988851">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/models/employeeForm.ts" timestamp="1482682143072">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="29" />
         <mark key="^" line="14" column="29" />
@@ -545,11 +545,10 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/constants/actionTypes.ts" timestamp="1482680677500">
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="25" />
-        <mark key="." line="27" column="25" />
-        <mark key="^" line="27" column="25" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/constants/actionTypes.ts" timestamp="1482682245058">
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/components/Employee/EmployeeList.tsx" timestamp="1482673071764">
         <mark key="[" line="2" column="0" />
@@ -652,8 +651,8 @@
       <jump line="27" column="17" filename="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Employee/EmployeeList.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>employeeFormReducer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="-" type="4">
         <text>employeeFormReducer</text>
@@ -665,31 +664,31 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IF9lbXBsb3llZUNyZWF0ZU5TQWN0ID0gIG1hcE5hbWVzcGFjZVRvUmVkdWNlcihfZW1wbG95ZWVDcmVhdGVBY3QsIF9lbXBsb3llZUNyZWF0ZUFjdC5OQU1FU1BBQ0UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZW1wbG95ZWVGb3JtUmVkdWNlciB9IGZyb20gJy4uL21vZGVscy9lbXBsb3llZUZvcm0nOwo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZW1wbG95ZWVGb3JtUmVkdWNlciB9IGZyb20gJy4uL21vZGVscy9lbXBsb3llZUZvcm0nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gcmVnaW9uIGRlY2xhcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gcmVnaW9uIGRlY2xhcmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gZW5kcmVnaW9uCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGVtcGxveWVlRm9ybVJlZHVjZXIgPSBtYXBOYW1lc3BhY2VUb1JlZHVjZXIoX3JlZHVjZXIsIG5hbWVzcGFjZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gZW5kcmVnaW9uCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGVtcGxveWVlRm9ybVJlZHVjZXIgPSBtYXBOYW1lc3BhY2VUb1JlZHVjZXIoX3JlZHVjZXIsIG5hbWVzcGFjZSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBFTVBMT1lFRV9VUERBVEUgICAgICA6ICdlbXBsb3llZV91cGRhdGUnLAo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
     </registers>
     <search>
