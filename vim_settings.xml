@@ -63,7 +63,7 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="16" column="101" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/router.tsx" timestamp="1482662463091">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/router.tsx" timestamp="1482666554603">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
@@ -165,10 +165,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/index.ts" timestamp="1482546138052">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/index.ts" timestamp="1482666574639">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/services/firebase/config.ts" timestamp="1482519167113">
         <mark key="[" line="0" column="13" />
@@ -324,6 +325,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routerx.tsx" timestamp="1482667895407">
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="41" column="12" />
+        <mark key="." line="41" column="12" />
+        <mark key="^" line="71" column="30" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/node_modules/@types/react-native-maps/index.d.ts" timestamp="1482442876690">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="26" />
@@ -389,11 +396,11 @@
         <mark key="." line="37" column="52" />
         <mark key="^" line="37" column="52" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routers/Auth.tsx" timestamp="1482607444246">
-        <mark key="[" line="58" column="17" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="58" column="25" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routers/Auth.tsx" timestamp="1482667042042">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/tsconfig.json" timestamp="1482493144987">
         <mark key="[" line="18" column="0" />
@@ -601,11 +608,11 @@
       <jump line="27" column="17" filename="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Employee/EmployeeList.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblVzZXJcPg==</text>
@@ -614,31 +621,31 @@
         <text encoding="base64">ICBleHBvcnQgY2xhc3MgSW9uaWNvbnMgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQ8YW55LCBhbnk+IHsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBleHBvcnQgPSBNYXBWaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAgICAgVGV4dAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC8qKgogICAqIFRoaXMgaXMgd2hlcmUgd2UgY2FuIGRlZmluZSBhbnkgcm91dGUgY29uZmlndXJhdGlvbiBmb3IgdGhpcwogICAqIHNjcmVlbi4gRm9yIGV4YW1wbGUsIGluIGFkZGl0aW9uIHRvIHRoZSBuYXZpZ2F0aW9uQmFyIHRpdGxlIHdlCiAgICogY291bGQgYWRkIGJhY2tncm91bmRDb2xvci4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgKCkgPT4gY3JlYXRlUm91dGVyKCgpID0+ICh7CiAgLy8gaG9tZTogKCkgPT4gSG9tZVNjcmVlbiwKfSkpOwoKY2xhc3MgSG9tZVNjcmVlbiBleHRlbmRzIFJlYWN0LkNvbXBvbmVudDxhbnksIGFueT4gewogIHN0YXRpYyByb3V0ZSA9IHsKICAgIG5hdmlnYXRpb25CYXI6IHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgIH0KICB9OwoKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8VmlldyBzdHlsZT17e2FsaWduSXRlbXM6ICdjZW50ZXInLCBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsIGZsZXg6IDF9fT4KICAgICAgICA8VGV4dCBvblByZXNzPXt0aGlzLl9oYW5kbGVQcmVzc30+SG9tZVNjcmVlbiE8L1RleHQ+CiAgICAgIDwvVmlldz4KICAgICk7CiAgfQoKICBfaGFuZGxlUHJlc3MgPSAoKSA9PiB7CiAgICB0aGlzLnByb3BzLm5hdmlnYXRvci5wdXNoKCdob21lJyk7CiAgfQp9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBhYm91dDogKCkgPT4gQWJvdXRTY3JlZW4sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">fSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgUm91IGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50PGFueSwgYW55PiB7Cg==</text>
+        <text encoding="base64">ICBob21lOiAoKSA9PiBBdSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9mb250QXdlc29tZS5CdXR0b24+Cg==</text>
+        <text encoding="base64">Y29uc3Qgcm91dGVyID0gY3JlYXRlUm91dGVyKCgpID0+ICh7Cg==</text>
       </register>
     </registers>
     <search>
