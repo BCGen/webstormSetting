@@ -15,7 +15,11 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-one/main.js" timestamp="1482700345289" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-one/main.js" timestamp="1482700800198">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/models/users.ts" timestamp="1481880325748">
         <mark key="[" line="61" column="24" />
         <mark key="]" line="61" column="24" />
@@ -531,7 +535,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="91" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/main.js" timestamp="1482700340212" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481373286020">
         <mark key="[" line="3" column="56" />
         <mark key="]" line="2" column="59" />
@@ -574,8 +577,10 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-one/package.json" timestamp="1482700438993">
-        <mark key="[" line="11" column="79" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-one/package.json" timestamp="1482701006462">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Auth/LoginForm.tsx" timestamp="1482415997480">
         <mark key="[" line="16" column="27" />
@@ -711,7 +716,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -722,32 +727,35 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsga2V5LCB0aXRsZSB9IGZyb20gJy4vY29uc3RhbnRzL3JvdXRlcic7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBkOiBzdHJpbmc7Cg==</text>
+      <register name="p" type="4">
+        <text />
+      </register>
+      <register name="1" type="4">
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZyb20gJ2YnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gcmVnaW9uIGRlY2xhcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkaXNwYXRjaCA/OiBhbnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBFeGFtcGxlU3RhdGVzIHsK</text>
+        <text encoding="base64">Ly8gcmVnaW9uIGRlY2xhcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gZW5kcmVnaW9uCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
     </registers>
     <search>
