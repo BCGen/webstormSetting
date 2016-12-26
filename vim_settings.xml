@@ -455,11 +455,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/index.tsx" timestamp="1482755918392">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="3" column="6" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/index.tsx" timestamp="1482756099175">
+        <mark key="[" line="13" column="68" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="68" />
+        <mark key="^" line="13" column="68" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/components/count.js" timestamp="1481458377759">
         <mark key="[" line="8" column="66" />
@@ -773,11 +773,11 @@
       <jump line="12" column="11" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routers/EmployeeEdit.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblVzZXJcPg==</text>
@@ -789,31 +789,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBtb3VudCBzYWdhIG1pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBleGFtcGxlOiBleGFtcGxlLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgX2V4YW1wbGUgfSBmcm9tICcuLi9jb25zdGFudHMvYWN0aW9uVHlwZXMnOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBleGFtcGxlOiBleGFtcGxlLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgKHN0YXRlLCBhY3Rpb24pID0+IHsK</text>
+        <text encoding="base64">aW1wb3J0IHsgX2V4YW1wbGUgfSBmcm9tICcuLi9jb25zdGFudHMvYWN0aW9uVHlwZXMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEF1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0b3JlID0gY3IK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgKHN0YXRlLCBhY3Rpb24pID0+IHsK</text>
       </register>
     </registers>
     <search>
