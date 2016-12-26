@@ -107,6 +107,7 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/node_modules/redux/index.d.ts" timestamp="1482761599065" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/containers/index.ts" timestamp="1482778536358">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -165,6 +166,7 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/node_modules/dva/src/createDva.js" timestamp="1482786761545" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/dva_starter_kit/src/routers/index.ts" timestamp="1482694042354">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -260,6 +262,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/package.json" timestamp="1482753100589" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/models/employeeForm.ts" timestamp="1482777070609">
         <mark key="[" line="54" column="71" />
         <mark key="]" line="54" column="70" />
@@ -320,6 +323,7 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/node_modules/invariant/invariant.js" timestamp="1482786671673" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Employee/EmployeeEdit.tsx" timestamp="1482528778392">
         <mark key="[" line="26" column="14" />
         <mark key="]" line="30" column="7" />
@@ -390,6 +394,12 @@
         <mark key="]" line="17" column="38" />
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/node_modules/@types/react-native/index.d.ts" timestamp="1482739938493" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/utils/bcg.ts" timestamp="1482787157447">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481371528152">
         <mark key="[" line="0" column="90" />
@@ -591,11 +601,11 @@
         <mark key="^" line="22" column="1" />
         <mark key="." line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/utils/my_redux.ts" timestamp="1482784995600">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="4" column="33" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/utils/my_redux.ts" timestamp="1482787071350">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/router.tsx" timestamp="1481814712143">
         <mark key="[" line="2" column="0" />
@@ -827,10 +837,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -842,31 +852,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">aW1wb3J0IGZyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMueCAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHggPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHggPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIHRoaXMueCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHggPSBmYWxzZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9IGNhdGNoIChlKSB7Cg==</text>
+        <text encoding="base64">ICAgIHggPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICB9IGNhdGNoIChlKSB7Cg==</text>
       </register>
     </registers>
     <search>
