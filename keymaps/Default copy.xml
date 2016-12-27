@@ -2,6 +2,12 @@
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt v" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt c" />
