@@ -553,6 +553,12 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/.gitignore" timestamp="1482877196383">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="8" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/routers/index.ts" timestamp="1482875596771">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -726,13 +732,6 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/contatiners/form/LoginForm.ts" timestamp="1482862148332">
-        <mark key="'" line="37" column="53" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="4" column="41" />
-      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/router.tsx" timestamp="1481814712143">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -787,7 +786,7 @@
         <mark key="." line="1" column="37" />
         <mark key="^" line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/LoginForm.tsx" timestamp="1482875788911">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/LoginForm.tsx" timestamp="1482876586306">
         <mark key="[" line="2" column="38" />
         <mark key="]" line="2" column="46" />
         <mark key="." line="2" column="46" />
@@ -834,6 +833,7 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/reducers.ts" timestamp="1482877568630" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeList.ts" timestamp="1482527315212">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -875,6 +875,9 @@
         <mark key="]" line="12" column="39" />
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1482877508890">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routers/EmployeeList.tsx" timestamp="1482687001092">
         <mark key="[" line="30" column="0" />
@@ -987,10 +990,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi4vcmVkdXgvc3RvcmUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1002,64 +1005,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi4vcmVkdXgvc3RvcmUnOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGhpID17Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb25zdGFudCc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtleU1pcnJvciBmcm9tICdrZXltaXJyb3InOwo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IF9leGFtcGxlID0ge307Cg==</text>
+        <text encoding="base64">ZGRzZmEK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>export const _employeeForm = {
-  _EMPLOYEE_CREATE     : null,
-  _EMPLOYEE_SAVE       : null,
-  EMPLOYEE_CREATE      : null,
-  EMPLOYEE_SAVE_SUCCESS: null,
-  EMPLOYEE_UPDATE      : null
-};
-
-export const _employeeList = {
-  _EMPLOYEE_FETCH        : null,
-  EMPLOYEES_FETCH_SUCCESS: null
-};
-
-// export const _auth = {
-//   _CREATE_USER_ACCOUNT: 'effect_create_user_account',
-//   _LOGIN_USER         : 'effect_login_user',
-//
-//   EMAIL_CHANGED       : 'email_changed',
-//   PASSWORD_CHANGED    : 'password_changed',
-//   LOGIN_USER_START    : 'login_user_start',
-//   LOGIN_USER_SUCCESS  : 'login_user_success',
-//   LOGIN_USER_FAIL     : 'login_user_fail',
-// };
-//
-// export const _employeeForm = {
-//   _EMPLOYEE_CREATE: 'effect_employee_create',
-//   _EMPLOYEE_SAVE  : 'effect_employee_save',
-//
-//   EMPLOYEE_CREATE      : 'employee_create',
-//   EMPLOYEE_SAVE_SUCCESS: 'employee_save_success',
-//   EMPLOYEE_UPDATE      : 'employee_update',
-// };
-//
-// export const _employeeList = {
-//   _EMPLOYEE_FETCH        : 'effect_employee_fetch',
-//   EMPLOYEES_FETCH_SUCCESS: 'employee_fetch_success'
-// };</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhwLmpzb24K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
