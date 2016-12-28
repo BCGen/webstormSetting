@@ -57,11 +57,11 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/constants.ts" timestamp="1482925091752">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="31" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/constants.ts" timestamp="1482968589173">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/node_modules/dva/index.d.ts" timestamp="1481483368857">
         <mark key="[" line="51" column="2" />
@@ -306,9 +306,9 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/actions.ts" timestamp="1482932176051">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/actions.ts" timestamp="1482968208682">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/auth/LoginForm.tsx" timestamp="1481373408744">
@@ -389,7 +389,7 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/index.ts" timestamp="1482925319872">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/index.ts" timestamp="1482966275059">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -800,6 +800,12 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/containers/container.ts" timestamp="1482968561501">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/common/Button.tsx" timestamp="1482848174357">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="9" column="65" />
@@ -830,11 +836,10 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/selectors.ts" timestamp="1482937897722">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/selectors.ts" timestamp="1482968901885">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/constants/actionTypes.ts" timestamp="1482772296123">
         <mark key="[" line="2" column="3" />
@@ -968,47 +973,47 @@
       <jump line="40" column="53" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/contatiners/form/LoginForm.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgZ2V0RW1haWwgPSBnZXRBbGwgPT4gZ2V0QWxsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsga2V5IH0gZnJvbSAnLi4vY29uc3RhbnRzL3JvdXRlcic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHQgZnJvbSAnLi9hY3Rpb25UeXBlcyc7Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZ2V0RW1haWwgPSBnZXRBbGwgPT4gZ2V0QWxsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZXRBbGwsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBjb25zdCBlbWFpbCA9IEdlbWFpbChzdGF0ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gewo=</text>
+        <text encoding="base64">aW1wb3J0IHQgZnJvbSAnLi4vYWN0aW9uVHlwZXMnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgICBwYXlsb2FkOiBlbWFpbAo=</text>
+        <text encoding="base64">ICAgICAgcGF5bG9hZDogZW1haWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB0eXBlOiAnRU1BSUxfQ0hBTkdFRCcsCg==</text>
+        <text encoding="base64">ICAgICAgdHlwZTogdC5FTUFJTF9DSEFOR0VELAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgZGlzcGF0Y2goewo=</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3J9IGZyb20gJ3Jlc2VsZWN0JzsK</text>
+        <text encoding="base64">ICAgIC8vIGRpc3BhdGNoKGEuZW1haWxDaGFuZ2VkKGVtYWlsKSk7Cg==</text>
       </register>
     </registers>
     <search>
