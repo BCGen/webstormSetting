@@ -79,11 +79,10 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseAuth.ts" timestamp="1483265710493">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="7" column="1" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseAuth.ts" timestamp="1483270358177">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/store.ts" timestamp="1483051015174">
         <mark key="[" line="5" column="0" />
@@ -723,12 +722,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/testScreen.tsx" timestamp="1483268729657">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/testScreen.tsx" timestamp="1483270365927">
         <mark key="'" line="27" column="68" />
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="48" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="27" column="48" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/index.ts" timestamp="1482232394683">
         <mark key="[" line="2" column="30" />
@@ -1220,10 +1219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1235,31 +1234,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGZyb20K</text>
+        <text encoding="base64">ZXhwb3J0IGxldCBjdXJyZW50OiBhbnkgPSBhdXRoLmN1cnJlbnRVc2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aW1wb3J0IGZyb20K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFydCB1c2VyIGRiJyk7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">cGFzc3dvcmRDaGFuZ2VkOiAocGFzc3dvcmQpID0+IHsKICAgIGRpc3BhdGNoKGEucGFzc3dvcmRDaGFuZ2VkKHBhc3N3b3JkKSk7CiAgfSwKCiAgbG9naW5Vc2VyOiAoKSA9PiB7CiAgICBkaXNwYXRjaChhLmxvZ2luVXNlcigpKTsKICB9</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFydCB1c2VyIGRiJyk7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">cGFzc3dvcmRDaGFuZ2VkOiAocGFzc3dvcmQpID0+IHsKICAgIGRpc3BhdGNoKGEucGFzc3dvcmRDaGFuZ2VkKHBhc3N3b3JkKSk7CiAgfSwKCiAgbG9naW5Vc2VyOiAoKSA9PiB7CiAgICBkaXNwYXRjaChhLmxvZ2luVXNlcigpKTsKICB9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gYXV0aC5jdXJyZW50VXNlcjsK</text>
+        <text encoding="base64">fTsK</text>
       </register>
     </registers>
     <search>
