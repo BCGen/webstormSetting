@@ -150,11 +150,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapTest.tsx" timestamp="1483383449884">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="8" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="8" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapTest.tsx" timestamp="1483388285909">
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/services/firebase/config.ts" timestamp="1482519167113">
         <mark key="[" line="0" column="13" />
@@ -1320,10 +1320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1334,37 +1334,32 @@
       <register name="p" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>import React, { PropTypes } from 'react';
-import {
-  StyleSheet,
-  Text,
-  Animated,
-} from 'react-native';</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIHRoaXMuc3RhdGUucmVnaW9uLnNldFZhbHVlKHJlZ2lvbik7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHJlbmRlcigpIHsKICAgIGNvbnN0IHsgYW1vdW50LCBzZWxlY3RlZCwgc3R5bGUgfSA9IHRoaXMucHJvcHM7CgogICAgY29uc3QgYmFja2dyb3VuZCA9IHNlbGVjdGVkLmludGVycG9sYXRlKHsKICAgICAgaW5wdXRSYW5nZTogWzAsIDFdLAogICAgICBvdXRwdXRSYW5nZTogWycjRkY1QTVGJywgJyM0ZGEyYWInXSwKICAgIH0pOwoKICAgIGNvbnN0IGJvcmRlciA9IHNlbGVjdGVkLmludGVycG9sYXRlKHsKICAgICAgaW5wdXRSYW5nZTogWzAsIDFdLAogICAgICBvdXRwdXRSYW5nZTogWycjRDIzRjQ0JywgJyMwMDdhODcnXSwKICAgIH0pOwoKICAgIHJldHVybiAoCiAgICAgIDxBbmltYXRlZC5WaWV3IHN0eWxlPXtbc3R5bGVzLmNvbnRhaW5lciwgc3R5bGVdfT4KICAgICAgICA8QW5pbWF0ZWQuVmlldwogICAgICAgICAgc3R5bGU9e1sKICAgICAgICAgICAgc3R5bGVzLmJ1YmJsZSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogYmFja2dyb3VuZCwKICAgICAgICAgICAgICBib3JkZXJDb2xvcjogYm9yZGVyLAogICAgICAgICAgICB9LAogICAgICAgICAgXX0KICAgICAgICA+CiAgICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmRvbGxhcn0+JDwvVGV4dD4KICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuYW1vdW50fT57YW1vdW50fTwvVGV4dD4KICAgICAgICA8L0FuaW1hdGVkLlZpZXc+CiAgICAgICAgPEFuaW1hdGVkLlZpZXcKICAgICAgICAgIHN0eWxlPXtbc3R5bGVzLmFycm93Qm9yZGVyLCB7IGJvcmRlclRvcENvbG9yOiBib3JkZXIgfV19CiAgICAgICAgLz4KICAgICAgICA8QW5pbWF0ZWQuVmlldwogICAgICAgICAgc3R5bGU9e1tzdHlsZXMuYXJyb3csIHsgYm9yZGVyVG9wQ29sb3I6IGJhY2tncm91bmQgfV19CiAgICAgICAgLz4KICAgICAgPC9BbmltYXRlZC5WaWV3PgogICAgKTsKICB9Cn0KCmNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICBjb250YWluZXI6IHsKICAgIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLAogICAgYWxpZ25TZWxmOiAnZmxleC1zdGFydCcsCiAgfSwKICBidWJibGU6IHsKICAgIGZsZXg6IDAsCiAgICBmbGV4RGlyZWN0aW9uOiAncm93JywKICAgIGFsaWduU2VsZjogJ2ZsZXgtc3RhcnQnLAogICAgYmFja2dyb3VuZENvbG9yOiAnI0ZGNUE1RicsCiAgICBwYWRkaW5nVmVydGljYWw6IDIsCiAgICBwYWRkaW5nSG9yaXpvbnRhbDogNCwKICAgIGJvcmRlclJhZGl1czogMywKICAgIGJvcmRlckNvbG9yOiAnI0QyM0Y0NCcsCiAgICBib3JkZXJXaWR0aDogMC41LAogIH0sCiAgZG9sbGFyOiB7CiAgICBjb2xvcjogJyNmZmYnLAogICAgZm9udFNpemU6IDEwLAogIH0sCiAgYW1vdW50OiB7CiAgICBjb2xvcjogJyNmZmYnLAogICAgZm9udFNpemU6IDEzLAogIH0sCiAgYXJyb3c6IHsKICAgIGJhY2tncm91bmRDb2xvcjogJ3RyYW5zcGFyZW50JywKICAgIGJvcmRlckNvbG9yOiAndHJhbnNwYXJlbnQnLAogICAgYm9yZGVyV2lkdGg6IDQsCiAgICBib3JkZXJUb3BDb2xvcjogJyNGRjVBNUYnLAogICAgYWxpZ25TZWxmOiAnY2VudGVyJywKICAgIG1hcmdpblRvcDogLTksCiAgfSwKICBhcnJvd0JvcmRlcjogewogICAgYmFja2dyb3VuZENvbG9yOiAndHJhbnNwYXJlbnQnLAogICAgYm9yZGVyQ29sb3I6ICd0cmFuc3BhcmVudCcsCiAgICBib3JkZXJXaWR0aDogNCwKICAgIGJvcmRlclRvcENvbG9yOiAnI0QyM0Y0NCcsCiAgICBhbGlnblNlbGY6ICdjZW50ZXInLAogICAgbWFyZ2luVG9wOiAtMC41LAogIH0sCiAgc2VsZWN0ZWRCdWJibGU6IHsKICAgIGJhY2tncm91bmRDb2xvcjogJyM0ZGEyYWInLAogICAgYm9yZGVyQ29sb3I6ICcjMDA3YTg3JywKICB9LAogIHNlbGVjdGVkQXJyb3c6IHsKICAgIGJvcmRlclRvcENvbG9yOiAnIzRkYTJhYicsCgogIH0sCiAgc2VsZWN0ZWRBcnJvd0JvcmRlcjogewogICAgYm9yZGVyVG9wQ29sb3I6ICcjMDA3YTg3JywKICB9LA==</text>
+        <text encoding="base64">IHRoaXMucHJvcHMuY29vcmQgPSAnc2RmJzsKICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuY29vcmQpOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdHlsZTogUHJvcFR5cGVzLmFueSwK</text>
+        <text encoding="base64">ICAgICAgICBsb25naXR1ZGU6IExPTkdJVFVERSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZWxlY3RlZDogUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICAgICAgICBsYXRpdHVkZSA6IExBVElUVURFLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbW91bnQ6IFByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICAgICAgY29vcmQ6IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QW5pbWF0ZWRQcmljZU1hcmtlci5wcm9wVHlwZXMgPSB7Cg==</text>
+        <text encoding="base64">ICAgIHByb3BzID0gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9uUmVnaW9uQ2hhbmdlPXtyZWdpb24gPT4gdGhpcy5vblJlZ2lvbkNoYW5nZShyZWdpb24pfQo=</text>
       </register>
     </registers>
     <search>
