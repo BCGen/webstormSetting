@@ -33,7 +33,7 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseDb.ts" timestamp="1483284405147">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseDb.ts" timestamp="1483377192876">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="19" />
@@ -150,11 +150,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapTest.tsx" timestamp="1483374858263">
-        <mark key="[" line="57" column="47" />
-        <mark key="]" line="57" column="47" />
-        <mark key="." line="57" column="47" />
-        <mark key="^" line="57" column="47" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapTest.tsx" timestamp="1483380288533">
+        <mark key="[" line="89" column="12" />
+        <mark key="]" line="89" column="16" />
+        <mark key="." line="89" column="16" />
+        <mark key="^" line="89" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/services/firebase/config.ts" timestamp="1482519167113">
         <mark key="[" line="0" column="13" />
@@ -787,12 +787,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/TestScreen.tsx" timestamp="1483350047508">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/TestScreen.tsx" timestamp="1483377823829">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="51" />
-        <mark key="]" line="33" column="48" />
-        <mark key="." line="33" column="48" />
-        <mark key="^" line="33" column="48" />
+        <mark key="[" line="33" column="66" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/components/common/MainLayout.tsx" timestamp="1482688613621">
         <mark key="[" line="4" column="32" />
@@ -1320,10 +1320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1334,32 +1334,32 @@
       <register name="p" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gLmVycm9yKChlcnJvcikgPT4ge2NvbnNvbGUubG9nKGVycm9yKTsgfSk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IDxWaWV3IHN0eWxlPXt7ZmxleERpcmVjdGlvbjogJ3Jvdyd9fT4KICAgICAgICAgIDxCdXR0b24+CiAgICAgICAgICAgIDxUZXh0PkhlbGxvPC9UZXh0PgogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8QnV0dG9uPgogICAgICAgICAgICA8VGV4dD5IZWxsbzwvVGV4dD4KICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPEJ1dHRvbj4KICAgICAgICAgICAgPFRleHQ+SGVsbG88L1RleHQ+CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8L1ZpZXc+CiAgICAgIDwvVmlldz4=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaScrIHJlZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvYWRpbmdFbmFibGU9e3RydWV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvYWRpbmdFbmFibGU9e3RydWV9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgLy8gZ2V0SW5pdGlhbFN0YXRlKCkgewogIC8vICAgcmV0dXJuIHsKICAvLyAgICAgcmVnaW9uOiB7CiAgLy8gICAgICAgbGF0aXR1ZGUgICAgICA6IDM3Ljc4ODI1LAogIC8vICAgICAgIGxvbmdpdHVkZSAgICAgOiAtMTIyLjQzMjQsCiAgLy8gICAgICAgbGF0aXR1ZGVEZWx0YSA6IDAuMDkyMiwKICAvLyAgICAgICBsb25naXR1ZGVEZWx0YTogMC4wNDIxLAogIC8vICAgICB9LAogIC8vICAgfTsKICAvLyB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyAgICAgPmAKICAvLyAgICAgICA8TWFwVmlldy5NYXJrZXIKICAvLyAgICAgICAgIGNvb3JkaW5hdGU9e3sKICAvLyAgICAgICAgICBsYXRpdHVkZSAgICAgIDogMjQuMjI2MDM0LAogIC8vICAgICAgICAgIGxvbmdpdHVkZSAgICAgOiAxMjAuNjQ1OTI1LAogIC8vICAgICAgICAgIGxhdGl0dWRlRGVsdGEgOiAwLjAwMDEsCiAgLy8gICAgICAgICAgbG9uZ2l0dWRlRGVsdGE6IDAuMDAwMSwKICAvLyAgICAgICAgIH19CiAgLy8gICAgICAgICB0aXRsZT0npmHCSScKICAvLyAgICAgICAgIGRlc2NyaXB0aW9uPSezb6xPrdOmYcJJJwogIC8vICAgICAgIC8+CiAgLy8gICAgIDwvTWFwVmlldz4KICAvLyAgICk7CiAgLy8gfQp9CgoK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvblJlZ2lvbkNoYW5nZT17cmVnaW9uID0+IHRoaXMub25SZWdpb25DaGFuZ2UocmVnaW9uKX0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAvLyByZW5kZXIoKSB7CiAgLy8gICByZXR1cm4gKAogIC8vICAgICA8TWFwVmlldwogIC8vICAgICAgIHN0eWxlPXt7ZmxleDogMX19CiAgLy8gICAgICAgcmVnaW9uPXt0aGlzLnN0YXRlLnJlZ2lvbn0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvblJlZ2lvbkNoYW5nZUNvbXBsZXRlPXtyZWdpb24gPT4gdGhpcy5vblJlZ2lvbkNoYW5nZUNvbXBsZXRlKHJlZ2lvbil9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvblByZXNzPXtldmVudCA9PiB0aGlzLm9uUHJlc3MoZXZlbnQpfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAnbmF0aXZlLWJhc2UnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
