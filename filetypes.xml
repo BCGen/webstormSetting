@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="index.tsx" type="PLAIN_TEXT" />
       <mapping pattern="reselect" type="TypeScript" />
       <mapping pattern="bcg" type="TypeScript" />
       <mapping pattern="App" type="TypeScript JSX" />
