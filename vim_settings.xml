@@ -150,12 +150,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapTest.tsx" timestamp="1483476845200">
-        <mark key="d" line="25" column="20" />
-        <mark key="[" line="116" column="56" />
-        <mark key="]" line="116" column="56" />
-        <mark key="." line="116" column="56" />
-        <mark key="^" line="116" column="56" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapTest.tsx" timestamp="1483481617685">
+        <mark key="d" line="24" column="20" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/services/firebase/config.ts" timestamp="1482519167113">
         <mark key="[" line="0" column="13" />
@@ -1218,11 +1217,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapContainer.tsx" timestamp="1483477415958">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapContainer.tsx" timestamp="1483481259148">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/types/@exponent/vector-icons/index.d.ts" timestamp="1482658391316">
         <mark key="[" line="4" column="27" />
@@ -1332,11 +1331,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/TestScreen.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLnByb3BzLm1hcmtlclByZXNzZWQoKX0K</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1348,31 +1347,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHtyZW59Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLnByb3BzLm1hcmtlclByZXNzZWQoKX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVuZGVyTWFwID0gcmVuZGVySGFjay5iaW5kKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLnByb3BzLm1hcmtlclByZXNzZWQoKX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVuZGVyTWFwSGFjayA9IHJlbmRlckhhY2suYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLnByb3BzLm1hcmtlclByZXNzZWQoKX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMucmVuZGVyTWFwID0gcmVuZGVySGFjay5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBrCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
     </registers>
     <search>
