@@ -150,12 +150,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapTest.tsx" timestamp="1483469755594">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapTest.tsx" timestamp="1483475954310">
         <mark key="d" line="26" column="20" />
-        <mark key="[" line="86" column="8" />
-        <mark key="]" line="86" column="27" />
-        <mark key="^" line="86" column="27" />
-        <mark key="." line="86" column="27" />
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="13" />
+        <mark key="." line="52" column="13" />
+        <mark key="^" line="52" column="12" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/services/firebase/config.ts" timestamp="1482519167113">
         <mark key="[" line="0" column="13" />
@@ -1327,10 +1327,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1342,31 +1342,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnY3VycmVudCBwb3NpdGlvbicsCg==</text>
+        <text encoding="base64">ICBjb21wb25lbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2U9e3JlcXVpcmUoJy4uLy4uLy4uL2Fzc2V0L21hcC1tYXJrZXItaWNvbjMucG5nJyl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB7dGhpcy5zZXRTdGF0ZSh7bWFya2VyUHJlc3NlZDogIXRoaXMuc3RhdGUubWFya2VyUHJlc3NlZH0pfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVyYXRpb246IDEwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB7dGhpcy5zZXRTdGF0ZSh7bWFya2VyUHJlc3NlZDogIXRoaXMuc3RhdGUubWFya2VyUHJlc3NlZH0pfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtJbWFnZX0gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
+        <text encoding="base64">ICAgICAgY2MgICAgICAgIDogWzEsIDJdCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvTWFwVmlldy5NYXJrZXIuQW5pbWF0ZWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PEltYWdlCiAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCcuLi8uLi8uLi9hc3NldC9tYXAtbWFya2VyLWljb24ucG5nJyl9CiAgICAgICAgICAgICAgc3R5bGU9e3sgd2lkdGg6IDQwLCBoZWlnaHQ6IDQwfX0KICAgICAgICAgICAgLz4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ey8qY29uc3QgbXlJY29uID0gKDxJY29uIG5hbWU9J3JvY2tldCcgc2l6ZT17MzB9IGNvbG9yPScjOTAwJyAvPik7Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>
