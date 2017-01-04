@@ -160,6 +160,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapTest.tsx" timestamp="1483548819858">
+        <mark key="[" line="74" column="3" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/services/firebase/config.ts" timestamp="1482519167113">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="6" />
@@ -1310,11 +1315,10 @@
         <mark key="." line="17" column="56" />
         <mark key="^" line="17" column="56" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/Router.tsx" timestamp="1483545566045">
-        <mark key="[" line="4" column="54" />
-        <mark key="]" line="4" column="54" />
-        <mark key="." line="4" column="54" />
-        <mark key="^" line="18" column="53" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/Router.tsx" timestamp="1483548274635">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/utils/index.ts" timestamp="1483082591511">
         <mark key="[" line="2" column="17" />
@@ -1377,11 +1381,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/AuthScreen.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1393,31 +1397,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVExvZ2luRm9ybSA9IFRTdHJpbmdzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgcm9vdExvY2FsaXphdGlvbnMgPSBsb2dpbkZvcm0uY29uc3RhbnRzLlRMb2dpbkZvcm07Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgcm9vdExvY2FsaXphdGlvbnMgPSAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RvcmUgfSBmcm9tICcuLi8uLi8uLi9yZWR1eC9zdG9yZSc7Cg==</text>
+        <text encoding="base64">ICAgIG1hcmsoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVyfSBmcm9tICcuLi8uLi8uLi9Sb3V0ZXJFeCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFJvdXRlciBmcm9tICcuL1JvdXRlckV4JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7Y29uc29sZS5sb2coJ2hpJyk7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmF2aWdhdGlvQWN0aW9ucyB9IGZyb20gJ0BleHBvbmVudC9leC1uYXZpZ2F0aW9uJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVyfSBmcm9tICcuLi8uLi9Sb3V0ZXJFeCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoTmF2aWdhdGlvbkFjdGlvbnMucHVzaChudWxsLCBSb3V0ZXIuZ2V0Um91dGUoJ21hcCcpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7IGlmICgxPjApIHsK</text>
       </register>
     </registers>
     <search>
