@@ -548,12 +548,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/components/LoginForm.tsx" timestamp="1483724169270">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/components/LoginForm.tsx" timestamp="1483777071858">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="54" column="17" />
-        <mark key="." line="54" column="17" />
-        <mark key="^" line="54" column="17" />
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/utils/my_lodash.ts" timestamp="1482693143031">
         <mark key="[" line="3" column="3" />
@@ -1410,11 +1410,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/components/LoginForm.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>IStrings</text>
       </register>
       <register name="-" type="4">
-        <text>import</text>
+        <text>IStrings</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
