@@ -1268,12 +1268,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" timestamp="1483910877378">
-        <mark key="'" line="115" column="16" />
-        <mark key="[" line="55" column="3" />
-        <mark key="]" line="55" column="3" />
-        <mark key="^" line="55" column="3" />
-        <mark key="." line="55" column="3" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" timestamp="1483914036452">
+        <mark key="'" line="114" column="16" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/fonts.ts" timestamp="1483520132491">
         <mark key="[" line="2" column="25" />
@@ -1499,13 +1498,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2xvZ1RleHQ6IHRoaXMuc3RhdGUubG9nVGV4dCArICcqKiogU2V0dGluZyBpbml0aWFsIGxvY2F0aW9ucyAqKipcbid9KTsK</text>
+        <text encoding="base64">ICBbOTAsIDcwXSwK</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -1514,28 +1513,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcqKiogU2V0dGluZyBpbml0aWFsIGxvY2RhdGlvbnMgKioqJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9uID0gZ2VvUXVlcnkub24oJ2tleV9lbnRlcmVkJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nVGV4dDE6ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4ge30pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nVGV4dCA6ICcnLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0ICBvbktleUVudGVyZWRSZWdpc3RyYXRpb24gPSB0aGlzLm9uS2V5RW50ZXJlZCgpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD57dGhpcy5zdGF0ZS5sb2dUZXh0fTwvVGV4dD4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBvbktleUVudGVyZWQgPSAoKSA9PiB7CiAgICByZXR1cm4gZ2VvUXVlcnkub24oJ2tleV9lbnRlcmVkJywgKGtleSwgbG9jYXRpb24pID0+IHsKICAgICAgY29uc29sZS5sb2coYCR7a2V5fSBlbnRlcmVkIHRoZSBxdWVyeS4gSGkgJHtrZXl9IWApOwogICAgICB0aGlzLnNldFN0YXRlKHsgaW5zaWRlOiB7IC4uLnRoaXMuc3RhdGUuaW5zaWRlLCBba2V5XTogJycgfSB9KTsKICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5pbnNpZGUpOwogICAgfSk7CiAgfTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD57dGhpcy5zdGF0ZS5sb2dUZXh0MX08L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGkgPSB0aGlzLm9uS2V5RW50ZXJlZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9nVGV4dDE6IHRoaXMuc3RhdGUubG9nVGV4dDEgKyAnKioqIFNldHRpbmcgaW5pdGlhbCBsb2NhdGlvbnMgKioqXG4nIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb21pc2VzID0gZmlzaExvY2F0aW9ucy5tYXAoKGxvY2F0aW9uLCBpbmRleCkgPT4gewogICAgICByZXR1cm4gZ2VvRmlyZS5zZXQoJ2Zpc2gnICsgaW5kZXgsIGxvY2F0aW9uKTsKICAgIH0pOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICogU2V0dGluZyBpbml0aWFsIGxvY2F0aW9ucyAqKipcbicgfSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y29uc3QgcHJvbWlzZXMgPSBmaXNoTG9jYXRpb25zLm1hcCgobG9jYXRpb24sIGluZGV4KSA9PiB7CiAgICAgIHJldHVybiBnZW9GaXJlLnNldCgnZmlzaCcgKyBpbmRleCwgbG9jYXRpb24pOwogICAgfQ==</text>
       </register>
     </registers>
     <search>
