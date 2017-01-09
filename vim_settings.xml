@@ -1268,12 +1268,12 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" timestamp="1483968944284">
-        <mark key="'" line="129" column="16" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" timestamp="1483971469332">
+        <mark key="'" line="125" column="16" />
+        <mark key="[" line="188" column="13" />
+        <mark key="]" line="188" column="11" />
+        <mark key="." line="188" column="11" />
+        <mark key="^" line="188" column="11" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/fonts.ts" timestamp="1483520132491">
         <mark key="[" line="2" column="25" />
@@ -1495,61 +1495,47 @@
       <jump line="64" column="16" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCBzZSA9IGFjdGlvbi5wYXlsb2FkLmtleSA9JiZrICcnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBbOTAsIDcwXSwK</text>
+        <text encoding="base64">ICAgICAgcyA9IGFjdGlvbi5wYXlsb2FkLmtleTsgIAo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzZSA9IGFjdGlvbi5wYXlsb2FkLmtleSA9JiZrICcnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzZSA9IGFjdGlvbi5wYXlsb2FkLmtleSAmJiAnJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHNkZjogJ2hpJwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbGV0IHMgPSBwYXkK</text>
       </register>
-      <register name="6" type="4">
-        <text>//
-    // this.state = {
-    //   inside : {
-    //     fish0: 'Fish 0',
-    //     fish1: 'Fish 1',
-    //     fish2: 'Fish 2',
-    //     fish3: 'Fish 3'
-    //   },
-    //   outside: {
-    //     fish0: 'Fish 0',
-    //     fish1: 'Fish 1',
-    //     fish2: 'Fish 2',
-    //     fish3: 'Fish 3'
-    //   }
-    // };</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC4uLnAK</text>
+        <text encoding="base64">ICBjb25zdCBzID0gYWN0aW9uLnBheWxvYWQua2V5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB7IC4uLnAgfSA9IGdlb1R3bzsK</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ1RleHQ6IFAuCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcyA9IGFjdGlvbi5wYXlsb2FkLmtleTsK</text>
       </register>
     </registers>
     <search>
