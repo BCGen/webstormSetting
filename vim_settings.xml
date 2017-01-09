@@ -1268,12 +1268,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" timestamp="1483957288628">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" timestamp="1483964320516">
         <mark key="'" line="123" column="16" />
-        <mark key="[" line="37" column="1" />
-        <mark key="]" line="37" column="1" />
-        <mark key="^" line="37" column="1" />
-        <mark key="." line="37" column="1" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/fonts.ts" timestamp="1483520132491">
         <mark key="[" line="2" column="25" />
@@ -1496,10 +1495,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHNkZjogJ2hpJwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1511,9 +1510,12 @@
         <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIHNkZjogJ2hpJwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>//
     // this.state = {
     //   inside : {
@@ -1530,26 +1532,23 @@
     //   }
     // };</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIC4uLnAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBjb25zdCB7IC4uLnAgfSA9IGdlb1R3bzsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGxvZ1RleHQ6IFAuCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGluc2lkZTogcC5pbnNpZGUsCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHAuIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
       </register>
     </registers>
     <search>
