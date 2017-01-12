@@ -2,22 +2,22 @@
   <template name="class" value="class $Name$ {&#10;  $END$&#10;}" description="class" toReformat="false" toShortenFQNames="true">
     <variable name="Name" expression="class name" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="constructor" value="constructor($PAR$) {$END$}" description="constructor" toReformat="false" toShortenFQNames="true">
     <variable name="PAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="if" value="if ($CONDITION$) {&#10;  $END$&#10;}" description="if" toReformat="false" toShortenFQNames="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
