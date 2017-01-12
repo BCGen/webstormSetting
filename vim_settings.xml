@@ -659,12 +659,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/components/LoginForm.tsx" timestamp="1484177610890">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="9" column="1" />
-        <mark key="^" line="4" column="9" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/components/LoginForm.tsx" timestamp="1484213911487">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="46" column="39" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/loginForm/saga.ts" timestamp="1484150316815">
         <mark key="[" line="2" column="25" />
@@ -941,10 +941,11 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/containers/loginForm/index.ts" timestamp="1484213027248">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/containers/loginForm/index.ts" timestamp="1484213897494">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/components/action.ts" timestamp="1482882414505">
         <mark key="[" line="0" column="0" />
@@ -1745,43 +1746,46 @@
       <jump line="6" column="15" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/loginForm/redux.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC4uLnN0YXRlLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>State</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhIaS5sZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGkgZnJvbSAncmVhY3QtbmF0aXZlLWkxOG4nOwo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4uLnN0YXRlLAo=</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlLnNldEluKFsnZXJyb3InXSwgJ0F1dGhlbnRpY2F0aW9uRmFpbGVkJyk7Cg==</text>
+        <text encoding="base64">ICAgIC4uLnN0YXRlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlLnNldEluKFsnbG9hZGluZyddLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlLnNldEluKFsnZXJyb3InXSwgJ0F1dGhlbnRpY2F0aW9uRmFpbGVkJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlLnNldEluKFsncGFzc3dvcmQnXSwgYWN0aW9uLnBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlLnNldEluKFsnbG9hZGluZyddLCB0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHN0YXRlLnNldCgnZW1haWwnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlLnNldEluKFsncGFzc3dvcmQnXSwgYWN0aW9uLnBheWxvYWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHN0YXRlLnNldCgnZW1haWwnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>const defaultState: Props = {
   email   : 'test@test.com',
   loading : false,
@@ -1797,9 +1801,6 @@ class State extends Record(defaultState) implements Props {
 }
 
 const INIT_STATE = new State();</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gfSk7Cg==</text>
       </register>
     </registers>
     <search>
