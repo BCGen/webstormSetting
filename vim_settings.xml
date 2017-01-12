@@ -522,12 +522,12 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/Na.tsx" timestamp="1484245182702">
-        <mark key="'" line="28" column="20" />
-        <mark key="[" line="44" column="46" />
-        <mark key="]" line="44" column="46" />
-        <mark key="." line="44" column="46" />
-        <mark key="^" line="40" column="58" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/Na.tsx" timestamp="1484260817414">
+        <mark key="'" line="27" column="20" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="58" column="41" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/index.ts" timestamp="1484070601620">
         <mark key="[" line="0" column="0" />
@@ -1769,10 +1769,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkcmF3ZXJQb3NpdGlvbj0icmlnaHQiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>loginScreen</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1784,31 +1784,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkcmF3ZXJQb3NpdGlvbj0icmlnaHQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJbnB1dCBsYWJlbD0iSW5wdXQiIHBsYWNlaG9sZGVyPXthdXRoLmdldEN1cnJlbnRVc2VyKCkuZW1haWx9Lz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpdGxlPSJ5byIK</text>
+        <text encoding="base64">ICAgICAgICAgIDxJbnB1dCBsYWJlbD0iSW5wdXQiIHBsYWNlaG9sZGVyPXthdXRoLmdldEN1cnJlbnRVc2VyKCkuZW1haWx9Lz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8SW1hZ2Ugc291cmNlPXtyZXF1aXJlKCcuLi9hc3NldHMvc3BhcmtsZXMuanBnJyl9IHN0eWxlPXtzdHlsZXMuaGVhZGVyfSAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRpdGxlPSJ5byIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJ25hdGl2ZS1iYXNlJzsK</text>
+        <text encoding="base64">ICAgICAgICA8SW1hZ2Ugc291cmNlPXtyZXF1aXJlKCcuLi9hc3NldHMvc3BhcmtsZXMuanBnJyl9IHN0eWxlPXtzdHlsZXMuaGVhZGVyfSAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJ25hdGl2ZS1iYXNlJzsKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIGV4dGVuZHMgQ29tcG9uZW50PGFueSwgYW55PiB7CiAgcmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPFZpZXc+CiAgICAgICAgPFRleHQ+aGVsbG88VGV4dD4KICAgICAgICA8L1ZpZXc+CiAgICApOwogIH0KfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJ25hdGl2ZS1iYXNlJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3PiAK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJ25hdGl2ZS1iYXNlJzsKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIGV4dGVuZHMgQ29tcG9uZW50PGFueSwgYW55PiB7CiAgcmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPFZpZXc+CiAgICAgICAgPFRleHQ+aGVsbG88VGV4dD4KICAgICAgICA8L1ZpZXc+CiAgICApOwogIH0KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD5oZWxsbzxUZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgPC9WaWV3PiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5oZWxsbzxUZXh0Pgo=</text>
       </register>
     </registers>
     <search>
