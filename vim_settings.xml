@@ -566,11 +566,11 @@
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/index.ts" timestamp="1484128234554">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/index.ts" timestamp="1484224068090">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+        <mark key="^" line="1" column="33" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeForm.ts" timestamp="1482528049221">
         <mark key="[" line="22" column="1" />
@@ -659,11 +659,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/components/LoginForm.tsx" timestamp="1484215550950">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/components/LoginForm.tsx" timestamp="1484224264550">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="2" />
+        <mark key="[" line="72" column="35" />
+        <mark key="]" line="72" column="35" />
+        <mark key="." line="72" column="35" />
         <mark key="^" line="3" column="2" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/loginForm/saga.ts" timestamp="1484150316815">
@@ -683,6 +683,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="20" column="32" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/components/i18n.ts" timestamp="1484224039617">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/reducers.ts" timestamp="1482980437358">
         <mark key="[" line="5" column="0" />
@@ -965,12 +971,12 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/loginForm/redux.ts" timestamp="1484215541330">
-        <mark key="'" line="8" column="15" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/loginForm/redux.ts" timestamp="1484224247779">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/rootReducer.ts" timestamp="1484181913764">
         <mark key="[" line="0" column="38" />
@@ -1726,10 +1732,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGkgZnJvbSAncmVhY3QtbmF0aXZlLWkxOG4nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1741,45 +1747,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC4uLnN0YXRlLAo=</text>
+        <text encoding="base64">Ly8gY29uc3QgSU5JVF9TVEFURSA9IG5ldyBTdGF0ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlLnNldEluKFsnZXJyb3InXSwgJ0F1dGhlbnRpY2F0aW9uRmFpbGVkJyk7Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlLnNldEluKFsnbG9hZGluZyddLCB0cnVlKTsK</text>
+        <text encoding="base64">Ly8gfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlLnNldEluKFsncGFzc3dvcmQnXSwgYWN0aW9uLnBheWxvYWQpOwo=</text>
+        <text encoding="base64">Ly8gICBwYXNzd29yZDogc3RyaW5nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHN0YXRlLnNldCgnZW1haWwnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">Ly8gICBlcnJvcjogc3RyaW5nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICBsb2FkaW5nOiBib29sZWFuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICBlbWFpbDogc3RyaW5nOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>const defaultState: Props = {
-  email   : 'test@test.com',
-  loading : false,
-  error   : '',
-  password: 'testtest',
-};
-
-class State extends Record(defaultState) implements Props {
-  email: string;
-  loading: boolean;
-  error: string;
-  password: string;
-}
-
-const INIT_STATE = new State();</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gY2xhc3MgU3RhdGUgZXh0ZW5kcyBSZWNvcmQoZGVmYXVsdFN0YXRlKSBpbXBsZW1lbnRzIFByb3BzIHsK</text>
       </register>
     </registers>
     <search>
