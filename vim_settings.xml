@@ -950,11 +950,10 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/navigation/src/App.tsx" timestamp="1484405596421">
-        <mark key="[" line="46" column="3" />
-        <mark key="]" line="46" column="3" />
-        <mark key="." line="46" column="3" />
-        <mark key="^" line="46" column="3" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/navigation/src/App.tsx" timestamp="1484407638957">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/reducers/authReducer.ts" timestamp="1482862265874">
         <mark key="[" line="11" column="0" />
@@ -1797,8 +1796,8 @@
       <jump line="8" column="14" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/test/About.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1813,31 +1812,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkc2Y7IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZsZXggICAgICAgICAgIDogMQo=</text>
+        <text encoding="base64">ICAgIGRkc2Y7IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblRvcDogMjAwLAo=</text>
+        <text encoding="base64">ICAgIGZsZXggICAgICAgICAgIDogMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRleHRBbGlnbjogJ2NlbnRlcicK</text>
+        <text encoding="base64">ICAgIG1hcmdpblRvcDogMjAwLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHRleHRBbGlnbjogJ2NlbnRlcicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Tgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Tgo=</text>
       </register>
     </registers>
     <search>
