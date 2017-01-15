@@ -70,7 +70,7 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="21" column="37" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/App.tsx" timestamp="1484500225613">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/App.tsx" timestamp="1484503325434">
         <mark key="'" line="3" column="19" />
         <mark key="[" line="29" column="14" />
         <mark key="]" line="29" column="18" />
@@ -648,10 +648,10 @@
         <mark key="." line="31" column="74" />
         <mark key="^" line="31" column="77" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/LoginScreen.tsx" timestamp="1484492541223">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/LoginScreen.tsx" timestamp="1484503526109">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/rootContext.ts" timestamp="1483792981818">
         <mark key="[" line="2" column="16" />
@@ -1212,9 +1212,9 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/test/TestScreen.tsx" timestamp="1484492569695">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/test/TestScreen.tsx" timestamp="1484503535217">
         <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
+        <mark key="]" line="36" column="51" />
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/test/GeoOne.tsx" timestamp="1484141837282">
@@ -1793,11 +1793,11 @@
       <jump line="51" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/firebase/redux.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpcmViYXNlQXV0aC5nZXRDdXJyZW50VXNlcigpLnVpZCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1809,31 +1809,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gdGhpcy5zdGF0ZSA9IHsgbG9naW5TdGF0ZSB9Owo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpcmViYXNlQXV0aC5nZXRDdXJyZW50VXNlcigpLnVpZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGF5bG9hZDogZmFsc2UK</text>
+        <text encoding="base64">aW1wb3J0IHsgQW5kcm9pZEJhY2tCdXR0b25CZWhhdmlvciB9IGZyb20gJ0BleHBvbmVudC9leC1uYXZpZ2F0aW9uJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdHlwZSAgIDogJ2ZpcmViYXNlVVBEQVRFX0xPR0lOJywK</text>
+        <text encoding="base64">aW1wO29yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0b3JlLmRpc3BhdGNoKHsK</text>
+        <text encoding="base64">Ly8gdGhpcy5zdGF0ZSA9IHsgbG9naW5TdGF0ZSB9Owo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBzdG9yZS5kaXNwYXRjaCh7CiAgICAgIHR5cGUgICA6ICdmaXJlYmFzZVVQREFURV9MT0dJTicsCiAgICAgIHBheWxvYWQ6IHRydWUKICAgIH0pOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcGF5bG9hZDogZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgdHlwZSAgIDogJ2ZpcmViYXNlVVBEQVRFX0xPR0lOJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlICAgOiAnZmlyZWJhc2VVUERBVEVfTE9HSU4nLAo=</text>
+        <text encoding="base64">ICAgIHN0b3JlLmRpc3BhdGNoKHsK</text>
       </register>
     </registers>
     <search>
