@@ -67,11 +67,12 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="21" column="37" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/App.tsx" timestamp="1484427244249">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/App.tsx" timestamp="1484476177241">
         <mark key="'" line="3" column="19" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="32" column="9" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/utils/my_lodash.ts" timestamp="1482263769148">
         <mark key="[" line="2" column="19" />
@@ -1789,11 +1790,11 @@
       <jump line="8" column="14" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/test/About.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWFpbkxheW91dCB9IGZyb20gJy4uL2NvbXBvbmVudHMvY29tbW9uJzsK</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1805,31 +1806,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWFpbkxheW91dCB9IGZyb20gJy4uL2NvbXBvbmVudHMvY29tbW9uJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsga2V5IH0gZnJvbSAnLi4vbmF2aWdhdGlvbi9jb25zdGFudCc7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIEFwcCBleHRlbmRzIENvbXBvbmVudDxhbnksIGFueT4gewoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbmF2aWdhdGlvblJlc2V0IH0gZnJvbSAnLi4vYXBpL25hdmlnYXRpb24vaW5kZXgnOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgIC8vIGxvY2FsaXphdGlvbkNvbmZpZygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25CYWNrQnV0dG9uUHJlc3M9eygpID0+IHtjb25zb2xlLmxvZygncHJlc3MnKX19Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxBbmRyb2lkQmFja0J1dHRvbkJlaGF2aW9yCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJ25hdGl2ZS1iYXNlJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNGb2N1c2VkPXtjb25zb2xlLmxvZygnaGknKX0K</text>
+        <text encoding="base64">aW1wb3J0ICcuL2kxOG4vaTE4bic7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CmltcG9ydCB7IGtleSwgcm91dGVyIH0gZnJvbSAnLi9uYXZpZ2F0aW9uJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgbG9jYWxpemF0aW9uQ29uZmlnIH0gZnJvbSAnLi9pMThuL2kxOG4nOwo=</text>
       </register>
     </registers>
     <search>
