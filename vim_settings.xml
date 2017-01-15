@@ -999,10 +999,11 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/loginForm/redux.ts" timestamp="1484477045692">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="43" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/loginForm/redux.ts" timestamp="1484482307371">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="49" column="37" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/rootReducer.ts" timestamp="1484426488761">
         <mark key="[" line="2" column="0" />
@@ -1790,10 +1791,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEltbXV0YWJsZSBmcm9tICdzZWFtbGVzcy1pbW11dGFibGUnOwo=</text>
+        <text encoding="base64">ICBwYXNzd29yZDogJ3Rlc3R0ZXN0Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>initialState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1805,31 +1806,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEltbXV0YWJsZSBmcm9tICdzZWFtbGVzcy1pbW11dGFibGUnOwo=</text>
+        <text encoding="base64">ICBwYXNzd29yZDogJ3Rlc3R0ZXN0Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEltbXV0YWJsZSBmcm9tICdzZWFtbGVzcy1pbW11dGFibGUnOwo=</text>
+        <text encoding="base64">ICBsb2FkaW5nIDogZmFsc2UsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbWFpbCAgIDogJ3Rlc3RAdGVzdC5jb20nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIEFwcCBleHRlbmRzIENvbXBvbmVudDxhbnksIGFueT4gewoK</text>
+        <text encoding="base64">ICBlbWFpbCAgIDogJ3Rlc3RAdGVzdC5jb20nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBsb2FkaW5nIDogZmFsc2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGxvY2FsaXphdGlvbkNvbmZpZygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IEltbXV0YWJsZSBmcm9tICdzZWFtbGVzcy1pbW11dGFibGUnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEltbXV0YWJsZSBmcm9tICdzZWFtbGVzcy1pbW11dGFibGUnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJ25hdGl2ZS1iYXNlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2kxOG4vaTE4bic7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIEFwcCBleHRlbmRzIENvbXBvbmVudDxhbnksIGFueT4gewoK</text>
       </register>
     </registers>
     <search>
