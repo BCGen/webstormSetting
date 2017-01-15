@@ -128,11 +128,11 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/LoginForm.tsx" timestamp="1484128780694">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="2" column="46" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/LoginForm.tsx" timestamp="1484494632967">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/dva_starter_kit/src/routers/index.ts" timestamp="1482694042354">
         <mark key="[" line="0" column="25" />
@@ -529,13 +529,6 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/Na.tsx" timestamp="1484263952019">
-        <mark key="'" line="28" column="20" />
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="40" column="40" />
-      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/index.ts" timestamp="1484070601620">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
@@ -595,11 +588,6 @@
         <mark key="]" line="21" column="28" />
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="28" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/index.ts" timestamp="1484228484736">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeForm.ts" timestamp="1482528049221">
         <mark key="[" line="22" column="1" />
@@ -688,7 +676,7 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/components/LoginForm.tsx" timestamp="1484492722386">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/components/LoginForm.tsx" timestamp="1484494188429">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="34" />
@@ -1388,6 +1376,12 @@
         <mark key="." line="35" column="21" />
         <mark key="^" line="35" column="13" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/styles.ts" timestamp="1484494582094">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/i18n/i18n.ts" timestamp="1484492245607">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1792,10 +1786,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGkgZnJvbSAncmVhY3QtbmF0aXZlLWkxOG4nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1807,31 +1801,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGkgZnJvbSAncmVhY3QtbmF0aXZlLWkxOG4nOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gfTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">aS50KCdsb2dpbkZvcm1fZW1haWxMYWJlbCcpOwo=</text>
+        <text encoding="base64">Ly8gICB9IGFzIFRleHRTdHlsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkubmF2aWdhdGlvbi5jdXJyZW50TmF2aWdhdG9yVUlEKTsK</text>
+        <text encoding="base64">Ly8gICAgIGZvbnRTaXplIDogMjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXI6IGluaXRTY3JlZW4nKTsK</text>
+        <text encoding="base64">Ly8gICAgIGNvbG9yICAgIDogJ3JlZCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXI6IE1hcFRleHQnKTsK</text>
+        <text encoding="base64">Ly8gICAgIGFsaWduU2VsZjogJ2NlbnRlcicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDbGVhciBJRDogJyArIHRoaXMuc3RhdGUuaWQpOwo=</text>
+        <text encoding="base64">Ly8gICBlcnJvclRleHRTdHlsZTogewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXIgR2VvVHdvJyk7Cg==</text>
+        <text encoding="base64">Ly8gICB9IGFzIFZpZXdTdHlsZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXI6IEF1dGhTY3JlZW4nKTsK</text>
+        <text encoding="base64">Ly8gICAgIG1hcmdpblRvcCAgOiA1Cg==</text>
       </register>
     </registers>
     <search>
