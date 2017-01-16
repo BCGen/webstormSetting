@@ -366,11 +366,11 @@
         <mark key="]" line="13" column="14" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/MainLayout.tsx" timestamp="1484605941510">
-        <mark key="[" line="29" column="86" />
-        <mark key="]" line="29" column="86" />
-        <mark key="^" line="29" column="86" />
-        <mark key="." line="29" column="86" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/MainLayout.tsx" timestamp="1484607021556">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routerx.tsx" timestamp="1482670916511">
         <mark key="[" line="69" column="10" />
@@ -1813,11 +1813,11 @@
       <jump line="18" column="55" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/navigation/RootNavigation.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hello</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>hello</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1829,31 +1829,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e3tjb2xvcjogJ3doaXRlJ319PmhlbGxvPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZXM9e2RyYXdlclN0eWxlc30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gc3R5bGU9e3tmbGV4OiAxfX0+Cg==</text>
+        <text encoding="base64">Y29uc3QgbXlJY29uID0gKDxJY29uIG5hbWU9InJvY2tldCIgc2l6ZT17MzB9IGNvbG9yPSIjOTAwIiAvPikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHQ+PC9UZXh0PiAK</text>
+        <text encoding="base64">ICAgICAgICAgIDwvQnV0dG9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0PjwvVGV4dD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e3tjb2xvcjogJ3doaXRlJ319PmhlbGxvPC9UZXh0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVmlldyB9IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gc3R5bGU9e3tmbGV4OiAxfX0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBIZWFkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQ+PC9UZXh0PiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0PjwvVGV4dD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Vmlldz4K</text>
+        <text encoding="base64">aW1wb3J0IHsgVmlldyB9IGZyb20gJ3JlYWN0JzsK</text>
       </register>
     </registers>
     <search>
