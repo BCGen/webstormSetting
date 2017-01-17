@@ -188,6 +188,11 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/mainLayout/MainLayout.tsx" timestamp="1484688233639">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/tsconfig.json" timestamp="1484260989869">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -308,11 +313,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/MainLayout.tsx" timestamp="1484687604488">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="29" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/MainLayout.tsx" timestamp="1484688024807">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routerx.tsx" timestamp="1482670916511">
         <mark key="[" line="69" column="10" />
@@ -470,10 +475,11 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Drawer.tsx" timestamp="1484685942615">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Drawer.tsx" timestamp="1484688266567">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="41" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/firebase/redux.ts" timestamp="1484498869015">
         <mark key="[" line="32" column="27" />
@@ -551,6 +557,12 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/controlPanel/index.ts" timestamp="1484687994736">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeForm.ts" timestamp="1482528049221">
         <mark key="[" line="22" column="1" />
@@ -773,11 +785,11 @@
         <mark key="." line="39" column="41" />
         <mark key="^" line="39" column="53" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/controlPanel/ControlPanel.tsx" timestamp="1484687400335">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="1" column="40" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/controlPanel/ControlPanel.tsx" timestamp="1484687988217">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/rootSaga.ts" timestamp="1483052403487">
         <mark key="[" line="7" column="0" />
@@ -1667,10 +1679,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>Props</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>Props</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1682,31 +1694,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dCB9IGZyb20gJ25hdGl2ZS1iYXNlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsga2V5IH0gZnJvbSAnLi4vLi4vbmF2aWdhdGlvbi9jb25zdGFudCc7Cg==</text>
+        <text encoding="base64">ICByZWY6IGFueTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbmF2aWdhdGlvblB1c2ggfSBmcm9tICcuLi8uLi9hcGkvbmF2aWdhdGlvbi9pbmRleCc7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgUHJvcHMgPSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IERyYXdlciBmcm9tICcuLi9jbycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0d2VlbkhhbmRsZXI9e0RyYXdlci50d2VlblByZXNldHMucGFyYWxsYXh9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXBUb0Nsb3NlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcGVuPXtmYWxzZX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaWRlPSJyaWdodCIK</text>
       </register>
     </registers>
     <search>
