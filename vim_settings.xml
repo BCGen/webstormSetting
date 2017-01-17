@@ -308,11 +308,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/MainLayout.tsx" timestamp="1484666247419">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
-        <mark key="^" line="22" column="20" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/MainLayout.tsx" timestamp="1484687604488">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routerx.tsx" timestamp="1482670916511">
         <mark key="[" line="69" column="10" />
@@ -470,11 +470,10 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Drawer.tsx" timestamp="1484665834439">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="10" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Drawer.tsx" timestamp="1484685942615">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/firebase/redux.ts" timestamp="1484498869015">
         <mark key="[" line="32" column="27" />
@@ -768,10 +767,16 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Header.tsx" timestamp="1484666636547">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Header.tsx" timestamp="1484687208271">
+        <mark key="[" line="39" column="41" />
+        <mark key="]" line="39" column="41" />
+        <mark key="." line="39" column="41" />
+        <mark key="^" line="39" column="53" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/controlPanel/ControlPanel.tsx" timestamp="1484687400335">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
-        <mark key="^" line="17" column="18" />
+        <mark key="^" line="1" column="40" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/rootSaga.ts" timestamp="1483052403487">
@@ -1661,11 +1666,11 @@
       <jump line="18" column="55" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/navigation/RootNavigation.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RvcmUgfSBmcm9tICcuLi8uLi9yZWR1eCc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1677,28 +1682,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RvcmUgfSBmcm9tICcuLi8uLi9yZWR1eCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVGV4dCB9IGZyb20gJ25hdGl2ZS1iYXNlJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IERyYXdlciBmcm9tICdyZWFjdC1uYXRpdmUtZHJhd2VyJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmF2aWdhdGlvblJlZHVjZXIgfSBmcm9tICdAZXhwb25lbnQvZXgtbmF2aWdhdGlvbic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsga2V5IH0gZnJvbSAnLi4vLi4vbmF2aWdhdGlvbi9jb25zdGFudCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBbZHJhd2VyLm5hbWVdICAgOiBkcmF3ZXIucmVkdWNlciwK</text>
+        <text encoding="base64">aW1wb3J0IHsgbmF2aWdhdGlvblB1c2ggfSBmcm9tICcuLi8uLi9hcGkvbmF2aWdhdGlvbi9pbmRleCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRyYXdlciBmcm9tICcuL2RyYXdlci9yZWR1eCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBvbk1lbnVQcmVzcyA9ICgpID0+IHsKICAgIHJldHVybiBzdG9yZS5kaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdkcmF3ZXJTRVRfRFJBV0VSX1NUQVRFJywKICAgICAgcGF5bG9hZDogdHJ1ZQogICAgfSkKICB9Ow==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
