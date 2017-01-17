@@ -311,11 +311,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/MainLayout.tsx" timestamp="1484648105350">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="11" column="31" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/MainLayout.tsx" timestamp="1484659467556">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
+        <mark key="^" line="32" column="49" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routerx.tsx" timestamp="1482670916511">
         <mark key="[" line="69" column="10" />
@@ -762,11 +762,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Header.tsx" timestamp="1484655459524">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="54" />
-        <mark key="^" line="21" column="54" />
-        <mark key="." line="21" column="54" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Header.tsx" timestamp="1484659079795">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="19" />
+        <mark key="." line="34" column="19" />
+        <mark key="^" line="41" column="40" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/rootSaga.ts" timestamp="1483052403487">
         <mark key="[" line="7" column="0" />
@@ -1643,11 +1643,11 @@
       <jump line="18" column="55" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/navigation/RootNavigation.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1659,28 +1659,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB7IH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gVE9ETzoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHRpdGxlID0gJ05vIFRpdGxlJyB9ID0gdGhpcy5wOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7an0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IENvbXBvbmVudCA9IFJlYWN0LkNvbXBvbmVudDsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdCB7IHRpdGxlID0gJ05vIFRpdGxlJyB9ID0gdGhpcy5wOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICByZW5kZXIoKSB7an0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiYWNrSWNvblN0eWxlPzogYW55OyAK</text>
+        <text encoding="base64">aW1wb3J0IENvbXBvbmVudCA9IFJlYWN0LkNvbXBvbmVudDsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
