@@ -188,10 +188,10 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/mainLayout/MainLayout.tsx" timestamp="1484688233639">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/mainLayout/MainLayout.tsx" timestamp="1484688530639">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/tsconfig.json" timestamp="1484260989869">
         <mark key="[" line="1" column="0" />
@@ -575,6 +575,12 @@
         <mark key="]" line="23" column="18" />
         <mark key="^" line="34" column="52" />
         <mark key="." line="23" column="18" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/mainLayout/constant.ts" timestamp="1484688417463">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="38" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/containers/EmployeeCreate.tsx" timestamp="1482772348746">
         <mark key="[" line="1" column="37" />
@@ -1678,11 +1684,11 @@
       <jump line="18" column="55" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/navigation/RootNavigation.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Props</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Props</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1697,28 +1703,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWY6IGFueTsK</text>
+        <text encoding="base64">Y29uc3QgUEFERElOR19UT1AgPSAoUGxhdGZvcm0uT1MgPT09ICdpb3MnID8gNjQgOiA1NCkgKyBTVEFUVVNfQkFSX0hFSUdIVDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgUHJvcHMgPSB7Cg==</text>
+        <text encoding="base64">Y29uc3QgU1RBVFVTX0JBUl9IRUlHSFQgPSBQbGF0Zm9ybS5PUyA9PT0gJ2lvcycgPyAyMCA6IFN0YXR1c0Jhci5jdXJyZW50SGVpZ2h0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IERyYXdlciBmcm9tICcuLi9jbycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0d2VlbkhhbmRsZXI9e0RyYXdlci50d2VlblByZXNldHMucGFyYWxsYXh9Cg==</text>
+        <text encoding="base64">Y29uc3QgUEFERElOR19UT1AgPSAoUGxhdGZvcm0uT1MgPT09ICdpb3MnID8gNjQgOiA1NCkgKyBTVEFUVVNfQkFSX0hFSUdIVDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0YXBUb0Nsb3NlCg==</text>
+        <text encoding="base64">Y29uc3QgU1RBVFVTX0JBUl9IRUlHSFQgPSBQbGF0Zm9ybS5PUyA9PT0gJ2lvcycgPyAyMCA6IFN0YXR1c0Jhci5jdXJyZW50SGVpZ2h0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuPXtmYWxzZX0K</text>
+        <text encoding="base64">aW1wb3J0IHsgUGxhdGZvcm0sIFN0YXR1c0JhciB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaWRlPSJyaWdodCIK</text>
+        <text encoding="base64">aW1wb3J0IHsgUGxhdGZvcm0sIFN0YXR1c0JhciB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
       </register>
     </registers>
     <search>
