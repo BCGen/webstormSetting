@@ -1045,11 +1045,11 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/InitScreen.tsx" timestamp="1484884432803">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="47" />
-        <mark key="." line="10" column="47" />
-        <mark key="^" line="10" column="47" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/InitScreen.tsx" timestamp="1484901087740">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="23" column="1" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/index.ts" timestamp="1482671064772">
         <mark key="[" line="2" column="28" />
@@ -1057,10 +1057,11 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/customer/redux.ts" timestamp="1484891452005">
-        <mark key="[" line="73" column="20" />
-        <mark key="]" line="75" column="18" />
-        <mark key="." line="75" column="18" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/customer/redux.ts" timestamp="1484900851164">
+        <mark key="[" line="42" column="20" />
+        <mark key="]" line="42" column="20" />
+        <mark key="^" line="42" column="20" />
+        <mark key="." line="42" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/reducers/authReducer.ts" timestamp="1482981967697">
         <mark key="[" line="1" column="30" />
@@ -1122,11 +1123,11 @@
         <mark key="^" line="5" column="86" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerList/CustomerList.tsx" timestamp="1484891288614">
-        <mark key="[" line="28" column="68" />
-        <mark key="]" line="28" column="68" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="28" column="68" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerList/CustomerList.tsx" timestamp="1484901353493">
+        <mark key="[" line="21" column="55" />
+        <mark key="]" line="21" column="64" />
+        <mark key="." line="21" column="64" />
+        <mark key="^" line="21" column="64" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/package.json" timestamp="1482587158828">
         <mark key="[" line="18" column="31" />
@@ -1744,46 +1745,78 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb24gOiAncm93JywK</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGU6ICdjdXN0b21lckFERF9DVVNUT01FUl9ERVRBSUxTJywK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRzID0gbmV3IExpc3RWaWV3LkRhdGFTb3VyY2UoeyByb3dIYXNDaGFuZ2VkOiAocjEsIHIyKSA9PiByMSAhPT0gcjIgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGUuY29uY2F0KEltbXV0YWJsZShhY3Rpb24ucGF5bG9hZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0YXRlID09PSBJTklUSUFMX1NUQVRFKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFkZHJlc3M6ICeleKSkJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
+        <text encoding="base64">LyogLS0tLS0tLS0tLS0tIFRlc3QgRGF0YSAtLS0tLS0tLS0tLS0gKi8K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
+      <register name="7" type="4">
+        <text>const arr = {
+    &quot;-KaoXTiCdvcKNCbNfZ3Z&quot; : {
+      &quot;address&quot; : &quot;America&quot;,
+      &quot;name&quot; : &quot;A Company&quot;,
+      &quot;phone&quot; : &quot;0223484890&quot;
+    },
+    &quot;-KaoXTiQbAn1-RUcCPDr&quot; : {
+      &quot;address&quot; : &quot;臺中市&quot;,
+      &quot;name&quot; : &quot;福裕&quot;,
+      &quot;phone&quot; : &quot;0423438434&quot;
+    },
+    &quot;-KaoXTiT9-3l0c-rAidy&quot; : {
+      &quot;address&quot; : &quot;台灣臺帶的的的的的的的的的83eddeff的的的&quot;,
+      &quot;name&quot; : &quot;福順&quot;,
+      &quot;phone&quot; : &quot;0348574838&quot;
+    },
+    &quot;-KaoXTiWe6C8Mhf-v13K&quot; : {
+      &quot;address&quot; : &quot;Japan&quot;,
+      &quot;name&quot; : &quot;C Company&quot;,
+      &quot;phone&quot; : &quot;0348574838&quot;
+    },
+    &quot;-KaoXTiau_zfYkzF7U2k&quot; : {
+      &quot;address&quot; : &quot;Japan&quot;,
+      &quot;name&quot; : &quot;C Company&quot;,
+      &quot;phone&quot; : &quot;0348574838&quot;
+    },
+    &quot;-KaoXTicz4t3PkX7pcHg&quot; : {
+      &quot;address&quot; : &quot;Japan&quot;,
+      &quot;name&quot; : &quot;D Company&quot;,
+      &quot;phone&quot; : &quot;0348574838&quot;
+    }
+  }
+  ;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaXMK</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQ6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQ6Cg==</text>
       </register>
     </registers>
     <search>
