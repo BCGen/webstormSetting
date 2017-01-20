@@ -1123,11 +1123,10 @@
         <mark key="^" line="5" column="86" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerList/CustomerList.tsx" timestamp="1484901353493">
-        <mark key="[" line="21" column="55" />
-        <mark key="]" line="21" column="64" />
-        <mark key="." line="21" column="64" />
-        <mark key="^" line="21" column="64" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerList/CustomerList.tsx" timestamp="1484901635744">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="78" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/package.json" timestamp="1482587158828">
         <mark key="[" line="18" column="31" />
@@ -1744,11 +1743,11 @@
       <jump line="0" column="5" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/CustomerItem.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBkYXRhU291cmNlOiBkcy5jbG9uZVdpdGhSb3dzKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoeyBkYXRhU291cmNlOiBkcy5jbG9uZVdpdGhSb3dzKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpfSk7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1760,24 +1759,30 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBkYXRhU291cmNlOiBkcy5jbG9uZVdpdGhSb3dzKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRzID0gbmV3IExpc3RWaWV3LkRhdGFTb3VyY2UoeyByb3dIYXNDaGFuZ2VkOiAocjEsIHIyKSA9PiByMSAhPT0gcjIgfSk7Cg==</text>
+        <text encoding="base64">ICAgCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRzID0gbmV3IExpc3RWaWV3LkRhdGFTb3VyY2UoeyByb3dIYXNDaGFuZ2VkOiAocjEsIHIyKSA9PiByMSAhPT0gcjIgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">LyogLS0tLS0tLS0tLS0tIFRlc3QgRGF0YSAtLS0tLS0tLS0tLS0gKi8K</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>const arr = {
     &quot;-KaoXTiCdvcKNCbNfZ3Z&quot; : {
       &quot;address&quot; : &quot;America&quot;,
@@ -1811,12 +1816,6 @@
     }
   }
   ;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQ6Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQ6Cg==</text>
       </register>
     </registers>
     <search>
