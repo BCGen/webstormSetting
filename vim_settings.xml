@@ -121,11 +121,11 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/CustomerSceen.tsx" timestamp="1484907405284">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="38" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/CustomerSceen.tsx" timestamp="1484912867893">
+        <mark key="[" line="25" column="40" />
+        <mark key="]" line="25" column="40" />
+        <mark key="." line="25" column="40" />
+        <mark key="^" line="25" column="65" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/contatiners/LoginForm.ts" timestamp="1482848672621">
         <mark key="[" line="27" column="14" />
@@ -1057,11 +1057,11 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/customer/redux.ts" timestamp="1484902380364">
-        <mark key="[" line="43" column="11" />
-        <mark key="]" line="43" column="33" />
-        <mark key="^" line="43" column="33" />
-        <mark key="." line="43" column="33" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/customer/redux.ts" timestamp="1484912783779">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/reducers/authReducer.ts" timestamp="1482981967697">
         <mark key="[" line="1" column="30" />
@@ -1745,47 +1745,47 @@
       <jump line="0" column="5" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/CustomerItem.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGN1c3RvbWVyIGZyb20gJy4vY3VzdG9tZXIvcmVkdXgnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>updateCustomer</text>
       </register>
       <register name="-" type="4">
-        <text>components</text>
+        <text>updateCustomer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGU6ICdjdXN0b21lckFERF9DVVNUT01FUl9ERVRBSUxTJywK</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5kaXNwYXRjaChjdXN0b21lci5hY3Rpb25zLnVwZGF0ZURldGFpbHMoc25hcHNob3QpKTsK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGN1c3RvbWVyIGZyb20gJy4vY3VzdG9tZXIvcmVkdXgnOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE1haW5MYXlvdXQgZnJvbSAnLi4vY29tcG9uZW50cy9tYWluTGF5b3V0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHBheWxvYWQ6IHNuYXBzaG90LmtleQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGUgICA6ICdjdXN0b21lclJFTU9WRV9DVVNUT01FUl9ERVRBSUxTJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5kaXNwYXRjaCh7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBheWxvYWQ6IHsgW3NuYXBzaG90LmtleSBhcyBzdHJpbmddOiBzbmFwc2hvdC52YWwoKSB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RvcmUgfWZyb20gJy4uLy4uL3JlZHV4JzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGUgICA6ICdjdXN0b21lclVQREFURV9DVVNUT01FUl9ERVRBSUxTJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5kaXNwYXRjaCh7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
     </registers>
     <search>
