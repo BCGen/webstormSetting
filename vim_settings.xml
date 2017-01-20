@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/CustomerItem.tsx" timestamp="1484844011972">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/CustomerItem.tsx" timestamp="1484914437368">
         <mark key="[" line="104" column="20" />
         <mark key="]" line="104" column="20" />
         <mark key="." line="104" column="20" />
@@ -1057,11 +1057,11 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/customer/redux.ts" timestamp="1484912783779">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="24" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/customer/redux.ts" timestamp="1484913148683">
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="19" />
+        <mark key="^" line="40" column="26" />
+        <mark key="." line="40" column="19" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/reducers/authReducer.ts" timestamp="1482981967697">
         <mark key="[" line="1" column="30" />
@@ -1746,10 +1746,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>updateCustomer</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>updateCustomer</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1761,31 +1761,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Y29uc3QgaW5pdGlhbFN0YXRlID0ge307Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBheWxvYWQ6IHNuYXBzaG90LmtleQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGUgICA6ICdjdXN0b21lclJFTU9WRV9DVVNUT01FUl9ERVRBSUxTJywK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5kaXNwYXRjaCh7Cg==</text>
+        <text encoding="base64">ICBwaG9uZTogc3RyaW5nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICBuYW1lOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBheWxvYWQ6IHsgW3NuYXBzaG90LmtleSBhcyBzdHJpbmddOiBzbmFwc2hvdC52YWwoKSB9Cg==</text>
+        <text encoding="base64">ICBhZGRyZXNzOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGUgICA6ICdjdXN0b21lclVQREFURV9DVVNUT01FUl9ERVRBSUxTJywK</text>
+        <text encoding="base64">dHlwZSBDdXN0b21lciA9IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5kaXNwYXRjaCh7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBheWxvYWQ6IHNuYXBzaG90LmtleQo=</text>
       </register>
     </registers>
     <search>
