@@ -753,11 +753,11 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/ReportScreen.tsx" timestamp="1484919462466">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/ReportScreen.tsx" timestamp="1484927963191">
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="36" />
+        <mark key="^" line="24" column="36" />
+        <mark key="." line="24" column="36" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/routers/EmployeeList.tsx" timestamp="1482687001092">
         <mark key="[" line="30" column="0" />
@@ -1049,10 +1049,11 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/reportForm/ReportForm.tsx" timestamp="1484925995514">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/reportForm/ReportForm.tsx" timestamp="1484927831855">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/index.ts" timestamp="1482671064772">
         <mark key="[" line="2" column="28" />
@@ -1747,11 +1748,11 @@
       <jump line="0" column="5" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/CustomerItem.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5Ym9hcmRWZXJ0aWNhbE9mZnNldD17MTJ9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>KeyboardAvoidingView</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1762,32 +1763,32 @@
       <register name="p" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5Ym9hcmRWZXJ0aWNhbE9mZnNldD17MTJ9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIDwvVmlldz4KCiAgICAgIDwvVmlldz4=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudENvbnRhaW5lclN0eWxlPXt7ZmxleDogMSwgYmFja2dyb3VuZENvbG9yOiAnYmx1ZSd9fQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgIHsvKmN1c3RvbWVyIG5hbWUqL30KICAgICAgICA8VmlldyBzdHlsZT17e2ZsZXhEaXJlY3Rpb246ICdyb3cnLCBhbGlnbkl0ZW1zOiAnY2VudGVyJywgbWFyZ2luOjEwfX0+CiAgICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRTaXplOiAyMH19PqvIpOGmV7rZOiA8L1RleHQ+CiAgICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRTaXplOiAyNH19PrrWuM48L1RleHQ+CiAgICAgICAgPC9WaWV3PgogICAgICAgIHsvKkRhdGEgYW5kIFRpbWUqL30KICAgICAgICA8VmlldyBzdHlsZT17e2ZsZXhEaXJlY3Rpb246ICdyb3cnLCBhbGlnbkl0ZW1zOiAnY2VudGVyJywgbWFyZ2luOiAxMH19PgogICAgICAgICAgPFRleHQgc3R5bGU9e3tmb250U2l6ZTogMjB9fT6wT7/9rsm2oTogPC9UZXh0PgogICAgICAgICAgPFRleHQgc3R5bGU9e3tmb250U2l6ZTogMjR9fT6ye6Zirsm2oTwvVGV4dD4KICAgICAgICA8L1ZpZXc+CiAgICAgICAgey8qcmVwb3J0IGNvbnRlbnQqL30KICAgICAgICA8VmlldyBzdHlsZT17eyBtYXJnaW46IDEwLCBmbGV4OiAxfX0+CiAgICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRTaXplOiAyMCwgaGVpZ2h0OiAxMjB9fT6kuq5loUcgPC9UZXh0Pg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIDwvS2V5Ym9hcmRBdm9pZGluZ1ZpZXc+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIDxLZXlib2FyZEF2b2lkaW5nVmlldwogICAgICAgICAgICBiZWhhdmlvcj0icGFkZGluZyIKICAgICAgICAgICAga2V5Ym9hcmRWZXJ0aWNhbE9mZnNldD17MTJ9CiAgICAgICAgICAgIGNvbnRlbnRDb250YWluZXJTdHlsZT17e319CiAgICAgICAgICA+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAga2V5Ym9hcmRWZXJ0aWNhbE9mZnNldD17MTJ9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0VGV4dE9uRm9jdXM9e3RydWV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudENvbnRhaW5lclN0eWxlPXt7ZmxleDogMSwgYmFja2dyb3VuZENvbG9yOiAnYmx1ZSd9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0b0ZvY3VzPXt0cnVlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvS2V5Ym9hcmRBdm9pZGluZ1ZpZXc+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ2dyZWVuJywK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIDxLZXlib2FyZEF2b2lkaW5nVmlldwogICAgICAgICAgICBiZWhhdmlvcj0icGFkZGluZyIKICAgICAgICAgICAga2V5Ym9hcmRWZXJ0aWNhbE9mZnNldD17MTJ9CiAgICAgICAgICAgIGNvbnRlbnRDb250YWluZXJTdHlsZT17e319CiAgICAgICAgICA+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9LZXlib2FyZEF2b2lkaW5nVmlldz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0VGV4dE9uRm9jdXM9e3RydWV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0b0ZvY3VzPXt0cnVlfQo=</text>
       </register>
     </registers>
     <search>
