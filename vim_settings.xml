@@ -1057,11 +1057,11 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/customer/redux.ts" timestamp="1484900851164">
-        <mark key="[" line="42" column="20" />
-        <mark key="]" line="42" column="20" />
-        <mark key="^" line="42" column="20" />
-        <mark key="." line="42" column="20" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/customer/redux.ts" timestamp="1484902380364">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="33" />
+        <mark key="^" line="43" column="33" />
+        <mark key="." line="43" column="33" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/reducers/authReducer.ts" timestamp="1482981967697">
         <mark key="[" line="1" column="30" />
@@ -1123,10 +1123,11 @@
         <mark key="^" line="5" column="86" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerList/CustomerList.tsx" timestamp="1484901635744">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="78" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerList/CustomerList.tsx" timestamp="1484903015069">
+        <mark key="[" line="74" column="1" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="8" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/package.json" timestamp="1482587158828">
         <mark key="[" line="18" column="31" />
@@ -1744,10 +1745,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBkYXRhU291cmNlOiBkcy5jbG9uZVdpdGhSb3dzKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoeyBkYXRhU291cmNlOiBkcy5jbG9uZVdpdGhSb3dzKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpfSk7</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1759,63 +1760,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBkYXRhU291cmNlOiBkcy5jbG9uZVdpdGhSb3dzKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpfSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRzID0gbmV3IExpc3RWaWV3LkRhdGFTb3VyY2UoeyByb3dIYXNDaGFuZ2VkOiAocjEsIHIyKSA9PiByMSAhPT0gcjIgfSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyogLS0tLS0tLS0tLS0tIFRlc3QgRGF0YSAtLS0tLS0tLS0tLS0gKi8K</text>
+      <register name="2" type="2">
+        <text encoding="base64">PGNvbm5lY3Q+PC9jb25uZWN0Pgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>const arr = {
-    &quot;-KaoXTiCdvcKNCbNfZ3Z&quot; : {
-      &quot;address&quot; : &quot;America&quot;,
-      &quot;name&quot; : &quot;A Company&quot;,
-      &quot;phone&quot; : &quot;0223484890&quot;
-    },
-    &quot;-KaoXTiQbAn1-RUcCPDr&quot; : {
-      &quot;address&quot; : &quot;臺中市&quot;,
-      &quot;name&quot; : &quot;福裕&quot;,
-      &quot;phone&quot; : &quot;0423438434&quot;
-    },
-    &quot;-KaoXTiT9-3l0c-rAidy&quot; : {
-      &quot;address&quot; : &quot;台灣臺帶的的的的的的的的的83eddeff的的的&quot;,
-      &quot;name&quot; : &quot;福順&quot;,
-      &quot;phone&quot; : &quot;0348574838&quot;
-    },
-    &quot;-KaoXTiWe6C8Mhf-v13K&quot; : {
-      &quot;address&quot; : &quot;Japan&quot;,
-      &quot;name&quot; : &quot;C Company&quot;,
-      &quot;phone&quot; : &quot;0348574838&quot;
-    },
-    &quot;-KaoXTiau_zfYkzF7U2k&quot; : {
-      &quot;address&quot; : &quot;Japan&quot;,
-      &quot;name&quot; : &quot;C Company&quot;,
-      &quot;phone&quot; : &quot;0348574838&quot;
-    },
-    &quot;-KaoXTicz4t3PkX7pcHg&quot; : {
-      &quot;address&quot; : &quot;Japan&quot;,
-      &quot;name&quot; : &quot;D Company&quot;,
-      &quot;phone&quot; : &quot;0348574838&quot;
-    }
-  }
-  ;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBDSEFOR0VfQ1VTVE9NRVJfREVUQUlMUzogbmFtZSArICdDSEFOR0VfQ1VTVE9NRVJfREVUQUlMUycsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBkYXRhU291cmNlOiBkcy5jbG9uZVdpdGhSb3dzKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpfSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkuY3VzdG9tZXIpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGRzID0gbmV3IExpc3RWaWV3LkRhdGFTb3VyY2UoeyByb3dIYXNDaGFuZ2VkOiAocjEsIHIyKSA9PiByMSAhPT0gcjIgfSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
