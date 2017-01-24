@@ -1262,10 +1262,10 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/styles.ts" timestamp="1485232059103">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/styles.ts" timestamp="1485238033710">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/services/users.ts" timestamp="1481836962867">
         <mark key="[" line="4" column="54" />
@@ -1844,11 +1844,11 @@
       <jump line="37" column="8" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/report/saga.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb2xvcj0icm95YWxibHVlIgo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -1860,31 +1860,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb2xvcj0icm95YWxibHVlIgo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IDIwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb2xvcj0iZ29sZGVucm9kIgo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbkxlZnQgICAgOiAyMCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2xvcj0icm95YWxibHVlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2xvcj0iZ29sZGVucm9kIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgPFNpbXBsZUxpbmVJY29ucwogICAgICAgICAgICAgIG5hbWU9ImNhbGwtb3V0IgogICAgICAgICAgICAgIHNpemU9ezIwfQogICAgICAgICAgICAgIGNvbG9yPSJnb2xkZW5yb2QiCiAgICAgICAgICAgIC8+</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvblByZXNzPXt0aGlzLl9vcGVuVVJMfQo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblZlcnRpY2FsOiAzCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgPFNpbXBsZUxpbmVJY29ucwogICAgICAgICAgICAgIG5hbWU9ImNhbGwtb3V0IgogICAgICAgICAgICAgIHNpemU9ezIwfQogICAgICAgICAgICAgIGNvbG9yPSJnb2xkZW5yb2QiCiAgICAgICAgICAgIC8+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblRvcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvblByZXNzPXt0aGlzLl9vcGVuVVJMfQo=</text>
       </register>
     </registers>
     <search>
