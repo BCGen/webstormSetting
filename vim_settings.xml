@@ -205,11 +205,10 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/screens/InitScreen.tsx" timestamp="1486053599438">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="19" column="19" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/screens/InitScreen.tsx" timestamp="1486057609252">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/Example.tsx" timestamp="1481903133176">
         <mark key="[" line="18" column="42" />
@@ -1321,10 +1320,11 @@
         <mark key="^" line="22" column="30" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/screens/HomeScreen.tsx" timestamp="1486056595564">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/screens/HomeScreen.tsx" timestamp="1486057500930">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/reportList/index.ts" timestamp="1485244404013">
         <mark key="[" line="2" column="25" />
@@ -2181,10 +2181,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXZpZ2F0aW9uIjogIl4xLjAuMC1iZXRhLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgdmlzaWJsZTogZmFsc2UK</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>Login</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2196,31 +2196,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXZpZ2F0aW9uIjogIl4xLjAuMC1iZXRhLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgdmlzaWJsZTogZmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RvcmUgfSBmcm9tICcuLi9yZWR1eCc7Cg==</text>
+        <text encoding="base64">ICAgICAgYWN0aW9uOiB7cm91dGVOYW1lOiAnQ2hhdCd9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pfQo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ05hdmlnYXRlJwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdG9yZS5kaXNwYXRjaCh7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFjdGlvbiA9IE5hdmlnYXRpb25BY3Rpb25zLmEK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ID0gKCkgPT4gewogICAgcg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbmF2aWdhdGUgfSA9IE5hdmlnYXRpb25BY3Rpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgdHlwZTogJ05hdmlnYXRpb24nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWN0aW9uOiB7cm91dGVOYW1lOiAnQ2hhdCd9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBIb21lOiB7IHNjcmVlbjogSG9tZVNjcmVlbiB9LAo=</text>
+      <register name="8" type="4">
+        <text>store.dispatch({
+            type: 'Navigation/NAVIGATE',
+            action: {routeName: 'Chat'}
+          })}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhY3Rpb246IE5hdmlnYXRpb25BY3Rpb25zIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IDxCdXR0b24KICAgICAgICAgIG9uUHJlc3M9eygpID0+IHN0b3JlLmRpc3BhdGNoKHsKICAgICAgICAgICAgdHlwZTogJ05hdmlnYXRpb24vTkFWSUdBVEUnLAogICAgICAgICAgICBhY3Rpb246IHsKICAgICAgICAgICAgICByb3V0ZU5hbWU6ICdDaGF0JwogICAgICAgICAgICB9CiAgICAgICAgICB9KX0KICAgICAgICAgIHRpdGxlPSJnbyB0byBjaGF0IgogICAgICAgIC8+</text>
       </register>
     </registers>
     <search>
