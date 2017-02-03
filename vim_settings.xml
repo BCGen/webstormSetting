@@ -478,11 +478,11 @@
         <mark key="^" line="3" column="103" />
         <mark key="." line="3" column="103" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/package.json" timestamp="1486105942199">
-        <mark key="[" line="14" column="88" />
-        <mark key="]" line="16" column="85" />
-        <mark key="." line="16" column="85" />
-        <mark key="^" line="16" column="85" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/package.json" timestamp="1486133954323">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="23" column="2" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actions.ts" timestamp="1481402701334">
         <mark key="[" line="0" column="21" />
@@ -2218,10 +2218,8 @@
       <jump line="48" column="25" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/common/Header.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>@remotedev({
-  remote: true
-})</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJyZW1vdGVkZXYtc2VydmVyIjogIl4wLjMuMC1iZXRhLTMiCg==</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
@@ -2235,34 +2233,34 @@
       <register name="p" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJyZW1vdGVkZXYtc2VydmVyIjogIl4wLjMuMC1iZXRhLTMiCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJyZW1vdGVkZXYiOiAicmVtb3RlZGV2IC0taG9zdG5hbWU9bG9jYWxob3N0IC0tcG9ydD04MDAwIgo=</text>
+      </register>
+      <register name="3" type="4">
         <text>@remotedev({
   remote: true
 })</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">QHJlbW90ZWRldih7CiAgcmVtb3RlOiB0cnVlCn0pCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgPC9Qcm92aWRlcj4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPFByb3ZpZGVyIHN0b3JlPXt0fT4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gdC50ZW1wZXJhdHVyZUNlbHNpdXMgPiAyNQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gaXNOaWNlKHQpIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gdC50ZW1wZXJhdHVyZUNlbHNpdXMgPiAyNQo=</text>
       </register>
     </registers>
     <search>
