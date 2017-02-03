@@ -928,10 +928,11 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/App.tsx" timestamp="1486135146804">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/App.tsx" timestamp="1486136288450">
+        <mark key="[" line="101" column="28" />
+        <mark key="]" line="101" column="42" />
+        <mark key="^" line="101" column="42" />
+        <mark key="." line="101" column="42" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/MapScreen.tsx" timestamp="1484920739431">
         <mark key="[" line="64" column="27" />
@@ -2217,10 +2218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwb3J0OiAxOTAwMQo=</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2232,35 +2233,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwb3J0OiAxOTAwMQo=</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBob3N0bmFtZTogJ2xvY2FsaG9zdCcsCg==</text>
+        <text encoding="base64">ICBwb3J0OiA4MDAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBob3N0bmFtZTogCg==</text>
+        <text encoding="base64">ICBob3N0bmFtZTogJ2xvY2FsaG9zdCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnbG9iYWw6IHRydWUK</text>
+        <text encoding="base64">ICBnbG9iYWw6IHRydWUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBnbG9iYWw6IHRydWUK</text>
+        <text encoding="base64">ICBvbmx5QWN0aW9uczogdHJ1ZSwK</text>
       </register>
-      <register name="6" type="4">
-        <text>@remotedev({
-  remote: false,
-  onlyActions: true,
-  global: true
-})</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZW1vdGU6IHRydWUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">QHJlbW90ZWRldih7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewo=</text>
+        <text encoding="base64">ICBwb3J0OiAxOTAwMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJyZW1vdGVkZXYtc2VydmVyIjogIl4wLjMuMC1iZXRhLTMiCg==</text>
+        <text encoding="base64">ICBob3N0bmFtZTogJ2xvY2FsaG9zdCcsCg==</text>
       </register>
     </registers>
     <search>
