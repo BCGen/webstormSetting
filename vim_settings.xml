@@ -478,11 +478,11 @@
         <mark key="^" line="3" column="103" />
         <mark key="." line="3" column="103" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/package.json" timestamp="1486133954323">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="23" column="2" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/package.json" timestamp="1486134472467">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="2" />
+        <mark key="." line="18" column="2" />
+        <mark key="^" line="18" column="2" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actions.ts" timestamp="1481402701334">
         <mark key="[" line="0" column="21" />
@@ -797,7 +797,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/main.js" timestamp="1486094379953" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/node_modules/react-native/local-cli/server/middleware/getDevToolsMiddleware.js" timestamp="1483847177531">
         <mark key="[" line="31" column="74" />
         <mark key="]" line="31" column="74" />
@@ -929,11 +928,11 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/App.tsx" timestamp="1486133186819">
-        <mark key="[" line="47" column="2" />
-        <mark key="]" line="47" column="2" />
-        <mark key="^" line="47" column="1" />
-        <mark key="." line="47" column="2" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/App.tsx" timestamp="1486134585276">
+        <mark key="[" line="91" column="10" />
+        <mark key="]" line="93" column="13" />
+        <mark key="^" line="93" column="13" />
+        <mark key="." line="93" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/MapScreen.tsx" timestamp="1484920739431">
         <mark key="[" line="64" column="27" />
@@ -2218,11 +2217,11 @@
       <jump line="48" column="25" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/common/Header.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJyZW1vdGVkZXYtc2VydmVyIjogIl4wLjMuMC1iZXRhLTMiCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2234,33 +2233,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJyZW1vdGVkZXYtc2VydmVyIjogIl4wLjMuMC1iZXRhLTMiCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJyZW1vdGVkZXYiOiAicmVtb3RlZGV2IC0taG9zdG5hbWU9bG9jYWxob3N0IC0tcG9ydD04MDAwIgo=</text>
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewo=</text>
       </register>
-      <register name="3" type="4">
-        <text>@remotedev({
-  remote: true
-})</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJyZW1vdGVkZXYtc2VydmVyIjogIl4wLjMuMC1iZXRhLTMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHJlbW90ZWRldih7CiAgcmVtb3RlOiB0cnVlCn0pCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9Qcm92aWRlcj4K</text>
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFByb3ZpZGVyIHN0b3JlPXt0fT4K</text>
+        <text encoding="base64">ICAgICJyZW1vdGVkZXYtc2VydmVyIjogIl4wLjMuMC1iZXRhLTMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gdC50ZW1wZXJhdHVyZUNlbHNpdXMgPiAyNQo=</text>
+        <text encoding="base64">ICAgICJyZW1vdGVkZXYiOiAicmVtb3RlZGV2IC0taG9zdG5hbWU9bG9jYWxob3N0IC0tcG9ydD04MDAwIgo=</text>
       </register>
     </registers>
     <search>
