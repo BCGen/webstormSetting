@@ -470,11 +470,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486281131207">
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="26" column="23" />
-        <mark key="." line="26" column="23" />
-        <mark key="^" line="26" column="23" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486282650443">
+        <mark key="[" line="79" column="35" />
+        <mark key="]" line="79" column="33" />
+        <mark key="." line="79" column="33" />
+        <mark key="^" line="79" column="33" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseAuth/actionTypes.ts" timestamp="1483277647045">
         <mark key="[" line="5" column="52" />
@@ -494,6 +494,7 @@
         <mark key="^" line="3" column="103" />
         <mark key="." line="3" column="103" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/customerItem/styles.ts" timestamp="1486282234833" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actions.ts" timestamp="1481402701334">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="1" column="40" />
@@ -722,7 +723,7 @@
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/customerItem/CustomerItem.tsx" timestamp="1485971047715">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/customerItem/CustomerItem.tsx" timestamp="1486282329130">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
@@ -2167,11 +2168,11 @@
       <jump line="48" column="25" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/common/Header.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2183,31 +2184,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvd0RhdGEpOwo=</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtyb3dEYXRhfQo=</text>
+        <text encoding="base64">ICAgIDxDdXN0b21lckl0ZW0+PC9DdXN0b21lckl0ZW0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGkgPSB7Cg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaGk6IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L1RleHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QG9ic2VydmVyKFsnY3VzdG9tZXJzJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHtyb3dEYXRhLnBob25lfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtyb3dEYXRhfQo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7cm93RGF0YX0K</text>
+        <text encoding="base64">ICAgICAgPFZpZXc+Cg==</text>
       </register>
     </registers>
     <search>
