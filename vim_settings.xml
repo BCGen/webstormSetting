@@ -315,6 +315,12 @@
         <mark key="^" line="54" column="70" />
         <mark key="." line="54" column="70" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customers.ts" timestamp="1486279014157">
+        <mark key="[" line="39" column="25" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/dva_starter_kit/src/index.tsx" timestamp="1482696717071">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="11" />
@@ -494,10 +500,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486271376432">
-        <mark key="]" line="11" column="46" />
-        <mark key="^" line="11" column="46" />
-        <mark key="." line="11" column="46" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486278529081">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="16" column="57" />
+        <mark key="." line="16" column="57" />
+        <mark key="^" line="16" column="57" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseAuth/actionTypes.ts" timestamp="1483277647045">
         <mark key="[" line="5" column="52" />
@@ -1132,7 +1139,7 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/auth.ts" timestamp="1486275073198">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/auth.ts" timestamp="1486277199095">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="19" column="29" />
@@ -1315,10 +1322,11 @@
         <mark key="^" line="36" column="20" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/index.ts" timestamp="1486222060179">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/index.ts" timestamp="1486277339392">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/src/index.js" timestamp="1481475544020">
         <mark key="[" line="11" column="22" />
@@ -2061,7 +2069,7 @@
         <mark key="]" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/customers/saga.ts" timestamp="1485969974549">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/customers/saga.ts" timestamp="1486278939014">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -2305,46 +2313,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKHRoaXMuX0N1c3RvbWVycyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAYWN0aW9uIGdldCBlbWFpbCgpIHsKICAgIHJldHVybiB0aGlzLl9lbWFpbDsKICB9Cg==</text>
+        <text encoding="base64">ICBnZXQgbmFtZSgpOiBzdHJpbmcgeyByZXR1cm4gdGhpcy5fbmFtZTsgfQoKICBzZXQgbmFtZSh2YWx1ZSkgeyB0aGlzLl9uYW1lID0gdmFsdWU7IH0K</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKHRoaXMuX0N1c3RvbWVycyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZXQgaXNMb2FkaW5nKHZhbHVlOiBib29sZWFuKSB7IHRoaXMuX2lzTG9hZGluZyA9IHZhbHVlOyB9Cg==</text>
+        <text encoding="base64">ICAgICAgIHRoaXMuX0N1c3RvbWVycyA9IHNuYXBzaG90LnZhbCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHNuYXBzaG90LnZhbCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZXQgCg==</text>
+        <text encoding="base64">ICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgY29uc29sZS5sb2coY3VzdG9tZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuY3VzdG9tZXJzKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBAYWN0aW9uIGVtYWlsQ2hhbmdlZCA9IHZhbHVlID0+IHsKICAgIHRoaXMuX2VtYWlsID0gdmFsdWU7CiAgfQogIEBhY3Rpb24gcGFzc3dvcmRDaGFuZ2VkID0gdmFsdWUgPT4gewogICAgdGhpcy5wYXNzd29yZCA9IHZhbHVlOwogIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICBjb25zdCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2tleSA9IGtleTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnZXQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
