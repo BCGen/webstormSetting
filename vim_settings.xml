@@ -290,11 +290,11 @@
         <mark key="^" line="54" column="70" />
         <mark key="." line="54" column="70" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customers.ts" timestamp="1486286205963">
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="21" />
-        <mark key="." line="46" column="21" />
-        <mark key="^" line="46" column="21" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customers.ts" timestamp="1486289930821">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/dva_starter_kit/src/index.tsx" timestamp="1482696717071">
         <mark key="[" line="5" column="10" />
@@ -2168,11 +2168,11 @@
       <jump line="48" column="25" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/common/Header.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbGV0IGRkOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2184,31 +2184,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgbGV0IGRkOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpZAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAIAo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3tmbGV4OiAxLCBhbGlnbkl0ZW1zOiAnY2VudGVyJywganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInfX0+Cg==</text>
+        <text encoding="base64">ICBAIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3tmbGV4OiAxLCBhbGlnbkl0ZW1zOiAnY2VudGVyJywganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInfX0+Cg==</text>
       </register>
     </registers>
     <search>
