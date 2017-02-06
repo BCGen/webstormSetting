@@ -374,11 +374,11 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/SettingScreen.tsx" timestamp="1486271325603">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="20" column="49" />
-        <mark key="^" line="20" column="49" />
-        <mark key="." line="20" column="49" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/SettingScreen.tsx" timestamp="1486369357905">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/EmployeeCreate.tsx" timestamp="1482524823015">
         <mark key="[" line="71" column="35" />
@@ -476,11 +476,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486314666917">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486369512679">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
         <mark key="^" line="17" column="31" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseAuth/actionTypes.ts" timestamp="1483277647045">
         <mark key="[" line="5" column="52" />
@@ -998,9 +998,6 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/auto.ts" timestamp="1486216445569">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/index.ts" timestamp="1485244674767">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="0" />
@@ -1024,9 +1021,6 @@
         <mark key="]" line="16" column="45" />
         <mark key="." line="16" column="45" />
         <mark key="^" line="3" column="35" />
-      </file>
-      <file name="/a.regexp" timestamp="1486221406652">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/navigator.ts" timestamp="1486049910580">
         <mark key="[" line="7" column="3" />
@@ -1255,11 +1249,11 @@
         <mark key="^" line="36" column="20" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/index.ts" timestamp="1486367105922">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/index.ts" timestamp="1486369147641">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/src/index.js" timestamp="1481475544020">
         <mark key="[" line="11" column="22" />
@@ -1669,6 +1663,12 @@
         <mark key="." line="35" column="21" />
         <mark key="^" line="35" column="13" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/userDetails.ts" timestamp="1486370595707">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
+        <mark key="^" line="29" column="31" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/styles.ts" timestamp="1484494582094">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="14" column="15" />
@@ -1914,6 +1914,11 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/setting.ts" timestamp="1486369062546">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/api/firebase/firebaseDb.ts" timestamp="1485919197193">
         <mark key="[" line="42" column="10" />
@@ -2187,10 +2192,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2202,31 +2207,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlbW90ZWRldiBmcm9tICdtb2J4LXJlbW90ZWR2JzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaWhpaCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHJlbW90ZWRldigpCg==</text>
+        <text encoding="base64">ICBjdXN0b21lcnNSZWYgPSB0aGlzLnJlZi5jaGlsZCgnY3VzdG9tZXJzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjoge30K</text>
+        <text encoding="base64">ICB1c2VyUmVmID0gdGhpcy5yZWYuY2hpbGQoJ3VzZXJzJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICB1c2VyUmVmID0gdGhpcy5yZWYuY2hpbGQoJ3VzZXJzJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJybmRlYnVnZ2VyLW9wZW4iCg==</text>
+        <text encoding="base64">ICBmID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAic2NyaXB0cyI6IGR7Cg==</text>
+        <text encoding="base64">ICBpID0gaWYoMT4gMCkge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICB1c2VyOwo=</text>
       </register>
     </registers>
     <search>
