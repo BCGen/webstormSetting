@@ -477,7 +477,7 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486476689130">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486479180567">
         <mark key="[" line="57" column="59" />
         <mark key="]" line="57" column="71" />
         <mark key="." line="57" column="71" />
@@ -1231,11 +1231,11 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1486478804282">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="35" column="12" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1486480132028">
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="40" column="18" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/node_modules/exponent/node_modules/react-native-maps/components/decorateMapComponent.js" timestamp="1483394436276">
         <mark key="[" line="69" column="39" />
@@ -2214,10 +2214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2229,31 +2229,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8VGV4dD6ryKThIHt0aGlzLnByb3BzLnVzZXJEZXRhaWxzLmN1c3RvbWVyc308L1RleHQ+Ki99Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY3VzdG9tZXJzLmZpbHRlcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY3VzdG9tZXJzLmZpbHRlcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcm93SGFzQ2hhbmdlZDogKHIxLCByMikgPT4gcjEgIT09IHIyCg==</text>
+        <text encoding="base64">ICAgIGZpcmViYXNlLmN1c3RvbWVyUmVmLm9uY2UoJ3ZhbHVlJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRzID0gbmV3IExpc3RWaWV3LkRhdGFTb3VyY2Uoewo=</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7fTsK</text>
+        <text encoding="base64">ICB1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB1c2VyLmN1c3RvbWVycyArIDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8VGV4dD6ryKThIHt0aGlzLnByb3BzLnVzZXJEZXRhaWxzLmN1c3RvbWVyc308L1RleHQ+Ki99Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHVzZXIucGVybWlzc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZSArICc6ICcgKyBfc25hcHNob3QudmFsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgcm93SGFzQ2hhbmdlZDogKHIxLCByMikgPT4gcjEgIT09IHIyCg==</text>
       </register>
     </registers>
     <search>
