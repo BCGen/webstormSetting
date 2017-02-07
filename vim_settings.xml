@@ -1231,11 +1231,11 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1486487202085">
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="36" />
-        <mark key="." line="43" column="36" />
-        <mark key="^" line="43" column="36" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1486488350059">
+        <mark key="[" line="48" column="105" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+        <mark key="^" line="49" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/node_modules/exponent/node_modules/react-native-maps/components/decorateMapComponent.js" timestamp="1483394436276">
         <mark key="[" line="69" column="39" />
@@ -1943,7 +1943,7 @@
         <mark key="." line="42" column="10" />
         <mark key="^" line="42" column="9" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/userStore.ts" timestamp="1486483988621">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/userStore.ts" timestamp="1486487869273">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="16" column="32" />
         <mark key="." line="16" column="32" />
@@ -2215,10 +2215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2230,31 +2230,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1c3RvbWVyc0xpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7fTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGN1c3RvbWVyc0xpc3Q7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dXNlci5jdXN0b21lcnMubWFwKHZhbHVlID0+IHsKICAgICAgZm9yIChjb25zdCBrZXkgaW4gdGhpcy5jdXN0b21lcnMpIHsKICAgICAgICBpZiAodmFsdWUgPT09IGtleSkgewogICAgICAgICAgY3VzdG9tZXJzTGlzdCA9IHsgLi4uY3VzdG9tZXJzTGlzdCwgW3ZhbHVlXTogdGhpcy5jdXN0b21lcnNba2V5XSB9OwogICAgICAgIH0KICAgICAgfQogICAgCiAgICAgIHJldHVybiBjdXN0b21lcnNMaXN0OwogICAgfSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGN1c3RvbWVyc0xpc3QgPSB7IC4uLmN1c3RvbWVyc0xpc3QsIFt2YWx1ZV06IHRoaXMuY3VzdG9tZXJzW3ZhbHVlXSB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIGN1c3RvbWVyc0xpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gZm9yIChjb25zdCBrZXkgaW4gdGhpcy5jdXN0b21lcnMpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
     </registers>
     <search>
