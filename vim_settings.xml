@@ -1623,11 +1623,11 @@
         <mark key="^" line="25" column="13" />
         <mark key="." line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/uiStore.ts" timestamp="1486651668257">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="22" column="87" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/uiStore.ts" timestamp="1486652390139">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/router.ts" timestamp="1481644052849">
         <mark key="[" line="2" column="35" />
@@ -2318,17 +2318,17 @@
       <jump line="5" column="6" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBAY29tcHV0ZWQgZ2V0IGN1c3RvbWVyTGlzdFNjcmVlbigpOiBDdXN0b21lckxpc3RTY3JlZW4geyByZXR1cm4gdGhpcy5fY3VzdG9tZXJMaXN0U2NyZWVuLnRvSlMoKTsgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>loginScreen</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>loginScreen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBAY29tcHV0ZWQgZ2V0IGN1c3RvbWVyTGlzdFNjcmVlbigpOiBDdXN0b21lckxpc3RTY3JlZW4geyByZXR1cm4gdGhpcy5fY3VzdG9tZXJMaXN0U2NyZWVuLnRvSlMoKTsgfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB0aGlzLnN0YXRlLnNldEluKFsnbG9naW5TY3JlZW4nLCBrZXldLCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
