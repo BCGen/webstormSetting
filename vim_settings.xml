@@ -171,7 +171,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/ListView.tsx" timestamp="1486558175795">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/ListView.tsx" timestamp="1486733782960">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="1" />
         <mark key="^" line="20" column="1" />
@@ -183,10 +183,10 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/InitScreen.tsx" timestamp="1486714978894">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/InitScreen.tsx" timestamp="1486733190760">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/CustomerSceen.tsx" timestamp="1484912867893">
         <mark key="[" line="25" column="40" />
@@ -440,7 +440,7 @@
         <mark key="^" line="22" column="2" />
         <mark key="." line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomerAddScreen.tsx" timestamp="1486655427901">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomerAddScreen.tsx" timestamp="1486732270269">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="45" />
         <mark key="^" line="12" column="20" />
@@ -518,11 +518,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486727556021">
-        <mark key="[" line="53" column="12" />
-        <mark key="]" line="53" column="12" />
-        <mark key="^" line="53" column="12" />
-        <mark key="." line="53" column="12" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486734214905">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="55" column="18" />
+        <mark key="^" line="55" column="18" />
+        <mark key="." line="55" column="18" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseAuth/actionTypes.ts" timestamp="1483277647045">
         <mark key="[" line="5" column="52" />
@@ -1081,6 +1081,9 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="/a.regexp" timestamp="1486731480953">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/navigator.ts" timestamp="1486049910580">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="2" />
@@ -1303,11 +1306,11 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1486727542660">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="68" column="47" />
-        <mark key="." line="68" column="47" />
-        <mark key="^" line="68" column="47" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1486733673230">
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="27" />
+        <mark key="^" line="54" column="60" />
+        <mark key="." line="60" column="27" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/node_modules/exponent/node_modules/react-native-maps/components/decorateMapComponent.js" timestamp="1483394436276">
         <mark key="[" line="69" column="39" />
@@ -2329,49 +2332,53 @@
       <jump line="48" column="25" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/common/Header.tsx" />
       <jump line="47" column="12" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomerAddScreen.tsx" />
       <jump line="5" column="6" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" />
+      <jump line="58" column="21" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDdXN0b21lckxpc3QKICAgICAgICAgICAgY3VzdG9tZXJTdG9yZT17dGhpcy5wcm9wcy5jdXN0b21lclN0b3JlfQogICAgICAgICAgICBuYXZpZ2F0aW9uPXt0aGlzLnByb3BzLm5hdmlnYXRpb259CiAgICAgICAgICAgIHJlcG9ydFN0b3JlPXt0aGlzLnByb3BzLnJlcG9ydFN0b3JlfQogICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgIC8vICAgICB0aGlzLl9jID0gdGhpcy5fYy5tZXJnZSh7W3NuYXBzaG90LmtleSBhcyBzdHJpbmddOiBzbmFwc2hvdC52YWwoKX0pOwo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IG5hbWUsIGFkZHJlc3MsIHBob25lLCBlbWFpbCB9ID0gc25hcHNob3QudmFsKCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBrZXk6IHN0cmluZyA9IHNuYXBzaG90LmtleSBhcyBzdHJpbmc7Cg==</text>
+      <register name="2" type="4">
+        <text>console.log('r1');
+    console.log(r1);
+    console.log('r2');
+    console.log(r2);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9jLnB1c2gobmV3IEN1c3RvbWVyKGFkZHJlc3MsIGVtYWlsLCBrZXksIG5hbWUsIHBob25lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gICAgIHRoaXMuX2MgPSB0aGlzLl9jLm1lcmdlKHtbc25hcHNob3Qua2V5IGFzIHN0cmluZ106IHNuYXBzaG90LnZhbCgpfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGkgPSB0aGlzLm5ld0N1c3RvbWVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IGYgZnJvbSAnZmlyZWJhc2UnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGYuZGF0YWJhc2UoKS5yZWYoJ2N1c3RvbWVycycpLnB1c2goe2hoaTogJ2hpJ30pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXQgcGhvbmUodmFsdWUpIHsgdGhpcy5fcGhvbmUgPSB2YWx1ZTsgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmaXJlYmFzZS5kYXRhYmFzZSgpLnJlZignY3VzdG9tZXJzJykucHVzaCh7ZTogJ2VlJ30pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAY29tcHV0ZWQgZ2V0IHBob25lKCkgeyByZXR1cm4gdGhpcy5faWQ7IH0K</text>
+        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
       </register>
     </registers>
     <search>
