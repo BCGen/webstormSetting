@@ -518,11 +518,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486790471402">
-        <mark key="[" line="52" column="8" />
-        <mark key="]" line="52" column="8" />
-        <mark key="^" line="52" column="8" />
-        <mark key="." line="52" column="8" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486797371816">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseAuth/actionTypes.ts" timestamp="1483277647045">
         <mark key="[" line="5" column="52" />
@@ -1310,10 +1310,10 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1486790480808">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1486797024992">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/node_modules/exponent/node_modules/react-native-maps/components/decorateMapComponent.js" timestamp="1483394436276">
         <mark key="[" line="69" column="39" />
@@ -2352,47 +2352,47 @@
       <jump line="58" column="21" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBydW5JbkFjdGlvbigndXBkYXRlIF9jdXN0b21lcnMnLCAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIHNldEludGVydmFsKCgpID0+IHsKICAgICAgdGhpcy5fY1swXS5udW1iZXIgPSB0aGlzLmErKzsKICAgIH0sIDUwMDApOwo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtMaXN0Vmlld30gZnJvbSAnLi4vY29tcG9uZW50cy8nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAY29tcHV0ZWQgZ2V0IGRhdGEoKSB7IHJldHVybiB0aGlzLmRzLmNsb25lV2l0aFJvd3ModGhpcy5fZGF0YS5zbGljZSgpKTsgfQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjdXN0b21lclN0b3JlOiBDdXN0b21lclN0b3JlOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuY1sxXSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ3VzdG9tZXJTdG9yZSB9IGZyb20gJy4uL3N0b3JlL2N1c3RvbWVyU3RvcmUnOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fYy5wdXNoKHsgaWQ6IHRoaXMuaWQrKywgbnVtYmVyOiB0aGlzLmErKyB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2MgPSB0aGlzLl9jLnNldEluKFsnYScsICdudW1iZXInXSwgdGhpcy5hKyspOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZHMgPSBuZXcgTGlzdFZpZXcuRGF0YVNvdXJjZSh7IHJvd0hhc0NoYW5nZWQ6IChyMSwgcjIpID0+IHIxICE9PSByMiB9KTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuX2MuYS5udW1iZXIrKzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codGhpcy5jWzNdLm51bWJlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIGF1dGhydW4oKCkgPT4gewo=</text>
       </register>
     </registers>
     <search>
