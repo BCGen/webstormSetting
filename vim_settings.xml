@@ -518,11 +518,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486800291819">
-        <mark key="[" line="55" column="33" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="30" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" timestamp="1486802134529">
+        <mark key="[" line="55" column="22" />
+        <mark key="]" line="55" column="26" />
+        <mark key="." line="55" column="26" />
+        <mark key="^" line="55" column="26" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseAuth/actionTypes.ts" timestamp="1483277647045">
         <mark key="[" line="5" column="52" />
@@ -1310,11 +1310,11 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1486800334337">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="21" />
-        <mark key="^" line="20" column="21" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1486802270425">
+        <mark key="[" line="17" column="73" />
+        <mark key="]" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+        <mark key="^" line="18" column="1" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/node_modules/exponent/node_modules/react-native-maps/components/decorateMapComponent.js" timestamp="1483394436276">
         <mark key="[" line="69" column="39" />
@@ -2353,8 +2353,8 @@
       <jump line="58" column="21" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZHMgPSBuZXcgTGlzdFZpZXcuRGF0YVNvdXJjZSh7IHJvd0hhc0NoYW5nZWQ6IChyMSwgcjIpID0+IHIxICE9PSByMiB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -2363,37 +2363,37 @@
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldEludGVydmFsKCgpID0+IHsKICAgICAgdGhpcy5fY1swXS5udW1iZXIgPSB0aGlzLmErKzsKICAgIH0sIDUwMDApOwo=</text>
+        <text encoding="base64">ICAvLyBAb2JzZXJ2YWJsZSBwcml2YXRlIF9jOiBhbnkgPSBbeyBudW1iZXI6IDAsIGlkOiAnYScgfSwgeyBudW1iZXI6IDAsIGlkOiAnYicgfV07Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtMaXN0Vmlld30gZnJvbSAnLi4vY29tcG9uZW50cy8nCg==</text>
+        <text encoding="base64">ZHMgPSBuZXcgTGlzdFZpZXcuRGF0YVNvdXJjZSh7IHJvd0hhc0NoYW5nZWQ6IChyMSwgcjIpID0+IHIxICE9PSByMiB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBAb2JzZXJ2YWJsZTogXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMuY1sxXSkgewo=</text>
+        <text encoding="base64">aW1wb3J0IHtMaXN0Vmlld30gZnJvbSAnLi4vY29tcG9uZW50cy8nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fYy5wdXNoKHsgaWQ6IHRoaXMuaWQrKywgbnVtYmVyOiB0aGlzLmErKyB9KTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2MgPSB0aGlzLl9jLnNldEluKFsnYScsICdudW1iZXInXSwgdGhpcy5hKyspOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuY1sxXSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2MuYS5udW1iZXIrKzsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fYy5wdXNoKHsgaWQ6IHRoaXMuaWQrKywgbnVtYmVyOiB0aGlzLmErKyB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codGhpcy5jWzNdLm51bWJlcik7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2MgPSB0aGlzLl9jLnNldEluKFsnYScsICdudW1iZXInXSwgdGhpcy5hKyspOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2MuYS5udW1iZXIrKzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dGhydW4oKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codGhpcy5jWzNdLm51bWJlcik7Cg==</text>
       </register>
     </registers>
     <search>
