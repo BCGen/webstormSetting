@@ -2078,11 +2078,11 @@
         <mark key="." line="42" column="10" />
         <mark key="^" line="42" column="9" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/userStore.ts" timestamp="1486990732445">
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="43" />
-        <mark key="." line="30" column="43" />
-        <mark key="^" line="34" column="10" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/userStore.ts" timestamp="1486993530248">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="16" column="36" />
+        <mark key="." line="16" column="36" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/common/Button.tsx" timestamp="1482848174357">
         <mark key="[" line="9" column="56" />
@@ -2360,10 +2360,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IEltbXV0YWJsZSBmcm9tICdpbW11dGFibGUnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>phone</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2375,31 +2375,39 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IEltbXV0YWJsZSBmcm9tICdpbW11dGFibGUnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl91c2Vycy5zZXQoc25vcHNob3Qua2V5IGFzIHN0cmluZywgc25vcHNob3QudmFsKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvcnVuCg==</text>
+        <text encoding="base64">ICAvCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>/ @computed get customers() { return this.currentUser.customers; };
+  //
+  // @computed get email() { return this.currentUser.email; };
+  //
+  // @computed get name() { return this.currentUser.name; };
+  //
+  // @computed get permission() { return this.currentUser.permission; };
+  //
+  // @computed get phone() { return this.currentUser.phone; };</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgQGNvbXB1dGVkIGdldCBuYW1lKCkgeyByZXR1cm4gdGhpcy5jdXJyZW50VXNlci5uYW1lOyB9Ow==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLl91c2Vycy5zZXQoc25vcHNob3Qua2V5IGFzIHN0cmluZywgc25vcHNob3QudmFsKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAY29tcHV0ZWQgZ2V0IGVtYWlsKCkgeyByZXR1cm4gdGhpcy5jdXJyZW50VXNlci5lbWFpbDsgfTsK</text>
+        <text encoding="base64">ICAgICAgICBhdXRvcnVuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKCkgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuX2VkaXRSZXBvcnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
