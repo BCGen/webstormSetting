@@ -1308,10 +1308,11 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1487162375157">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1487165693897">
+        <mark key="[" line="121" column="104" />
+        <mark key="]" line="121" column="104" />
+        <mark key="." line="121" column="104" />
+        <mark key="^" line="121" column="104" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/node_modules/exponent/node_modules/react-native-maps/components/decorateMapComponent.js" timestamp="1483394436276">
         <mark key="[" line="69" column="39" />
@@ -2354,47 +2355,47 @@
       <jump line="116" column="24" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/reportStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgQ3VzdG9tZXIgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGcgPSB0aGlzLl9jdXN0b21lcnMuZmluZEluZGV4KGN1c3RvbWVyID0+IGN1c3RvbWVyLmlkID09PSBzbmFwc2hvdC5rZXkpOwo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB0aGlzLl9hbGxDdXN0b21lcnNEYXRhU291cmNlID0gdGhpcy5fYWxsQ3VzdG9tZXJzRGF0YVNvdXJjZS5jbG9uZVdpdGhSb3dzKHRoaXMuX2N1c3RvbWVyc01hcC50b0pTKCkpOwo=</text>
+        <text encoding="base64">ICAgIC8vIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgcnVuSW5BY3Rpb24oKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIC8vICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGRpc3BzZXIyID0gb2JzZXJ2ZSh0aGlzLl9jdXN0b21lcnNNYXAsIChjaGFuZ2UpID0+IHsK</text>
+        <text encoding="base64">ICAgIC8vICAgICB0aGlzLl9hbGxDdXN0b21lcnNEYXRhU291cmNlID0gdGhpcy5fYWxsQ3VzdG9tZXJzRGF0YVNvdXJjZS5jbG9uZVdpdGhSb3dzKHRoaXMuX2N1c3RvbWVyc01hcC50b0pTKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHRoaXMuZHMuY2xvbmVXaXRoUm93cyh7fSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgcnVuSW5BY3Rpb24oKCkgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHRoaXMuZHMuY2xvbmVXaXRoUm93cyh7fSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGRpc3BzZXIyID0gb2JzZXJ2ZSh0aGlzLl9jdXN0b21lcnNNYXAsIChjaGFuZ2UpID0+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHRoaXMuZHMuY2xvbmVXaXRoUm93cyh7fSk7Cg==</text>
       </register>
     </registers>
     <search>
