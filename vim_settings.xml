@@ -1664,11 +1664,11 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/authStore.ts" timestamp="1486753958387">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="11" column="2" />
-        <mark key="^" line="11" column="8" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/authStore.ts" timestamp="1487144923844">
+        <mark key="[" line="29" column="59" />
+        <mark key="]" line="29" column="61" />
+        <mark key="." line="29" column="61" />
+        <mark key="^" line="29" column="61" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/test/About.tsx" timestamp="1484243155222">
         <mark key="[" line="0" column="0" />
@@ -2074,11 +2074,11 @@
         <mark key="." line="42" column="10" />
         <mark key="^" line="42" column="9" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/userStore.ts" timestamp="1487140176804">
-        <mark key="[" line="102" column="26" />
-        <mark key="]" line="102" column="26" />
-        <mark key="." line="102" column="26" />
-        <mark key="^" line="102" column="26" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/userStore.ts" timestamp="1487145316215">
+        <mark key="[" line="73" column="27" />
+        <mark key="]" line="73" column="27" />
+        <mark key="^" line="73" column="27" />
+        <mark key="." line="73" column="27" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/common/Button.tsx" timestamp="1482848174357">
         <mark key="[" line="9" column="56" />
@@ -2354,47 +2354,53 @@
       <jump line="116" column="24" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/reportStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICBVaS5zZXRMb2dpblNjcmVlbignaXNMb2FkaW5nJywgZmFsc2UpOwo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1LmlkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHUpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0sIDUwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdSA9IHRoaXMuX3VzZXJzLmZpbmQodXNlciA9PiB1c2VyLmlkID09PSBmaXJlYmFzZS51aWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codGhpcy5fdVswXS5uYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fdVswXS5uYW1lID0gJ2hpJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
+      <register name="7" type="4">
+        <text>// interface User {
+//   customers?: string[];
+//   email?: string;
+//   name?: string;
+//   permission?: 'normal'| 'super';
+//   phone?: string;
+// }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8VGV4dD57ci5yZXBvcnRlcn08L1RleHQ+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuX3JlcG9ydE1hcC5nZXQoY3VzdG9tZXJJRClbc25hcHNob3Qua2V5IGFzIHN0cmluZ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
     </registers>
     <search>
