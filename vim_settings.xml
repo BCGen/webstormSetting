@@ -1325,11 +1325,11 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/AutoExpandingTextInput.tsx" timestamp="1486562874925">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="28" column="47" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/AutoExpandingTextInput.tsx" timestamp="1487191419476">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/common/index.ts" timestamp="1482075833862">
         <mark key="[" line="1" column="28" />
@@ -2225,6 +2225,11 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="15" column="50" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/tsconfig.json" timestamp="1487191610208">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/utils/localization.ts" timestamp="1483065742851">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="1" />
@@ -2356,11 +2361,11 @@
       <jump line="116" column="24" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/reportStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAibm9JbXBsaWNpdFVzZVN0cmljdCI6IGZhbHNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2372,31 +2377,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ1c2Utc3RyaWN0IjogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAibm9JbXBsaWNpdFVzZVN0cmljdCI6IGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgcmV0dXJuIHt9Owo=</text>
+        <text encoding="base64">ICAgICJ1c2Utc3RyaWN0IjogdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgICByZXR1cm4gdGhpcy5fcmVwb3J0TWFwLmdldCh0aGlzLl9jdXN0b21lcklkKTsK</text>
+        <text encoding="base64">ICAgIC8vICAgcmV0dXJuIHt9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgaWYgKHRoaXMuX3JlcG9ydE1hcC5oYXModGhpcy5fY3VzdG9tZXJJZCkpIHsK</text>
+        <text encoding="base64">ICAgIC8vICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIH0gZWxzZSBpZiAodXNlci5jdXJyZW50VXNlci5wZXJtaXNzaW9uID09PSAnc3VwZXInKSB7Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICByZXR1cm4gdGhpcy5fcmVwb3J0TWFwLmdldCh0aGlzLl9jdXN0b21lcklkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgaWYgKHRoaXMuX3JlcG9ydE1hcC5oYXModGhpcy5fY3VzdG9tZXJJZCkpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGlmICh1c2VyLmN1cnJlbnRVc2VyLnBlcm1pc3Npb24gPT09ICdub3JtYWwnKSB7Cg==</text>
+        <text encoding="base64">ICAgIC8vIH0gZWxzZSBpZiAodXNlci5jdXJyZW50VXNlci5wZXJtaXNzaW9uID09PSAnc3VwZXInKSB7Cg==</text>
       </register>
     </registers>
     <search>
