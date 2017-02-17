@@ -1309,11 +1309,11 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1487353532064">
-        <mark key="[" line="0" column="56" />
-        <mark key="]" line="0" column="68" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" timestamp="1487354155719">
+        <mark key="[" line="63" column="30" />
+        <mark key="]" line="63" column="30" />
         <mark key="^" line="0" column="68" />
-        <mark key="." line="0" column="68" />
+        <mark key="." line="63" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/node_modules/exponent/node_modules/react-native-maps/components/decorateMapComponent.js" timestamp="1483394436276">
         <mark key="[" line="69" column="39" />
@@ -1439,10 +1439,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/reportStore.ts" timestamp="1487353149682">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/reportStore.ts" timestamp="1487354623153">
+        <mark key="[" line="57" column="38" />
+        <mark key="]" line="57" column="38" />
+        <mark key="." line="57" column="38" />
+        <mark key="^" line="57" column="38" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/utils/my_saga.ts" timestamp="1483052339677">
         <mark key="[" line="6" column="2" />
@@ -2363,10 +2364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2378,31 +2379,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLl9kYXRhU291cmNlOwo=</text>
+        <text encoding="base64">ICAgICAgcnVuSW5BY3Rpb24oKSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuX2RhdGFTb3VyY2UgPSB0aGlzLl9kYXRhU291cmNlLmNsb25lV2l0aFJvd3MoW10pOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gtUyqa7rKxaUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBydW5JbkFjdGlvbigoKSA9PiB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGN1c3RvbWVyIGZyb20gJy4vY3VzdG9tZXJTdG9yZSc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuX2RhdGFTb3VyY2UgPSB0aGlzLl9kYXRhU291cmNlLmNsb25lV2l0aFJvd3MocmVwb3J0TGlzdC5yZXBvcnRMaXN0LnNsaWNlKCkpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLl9kYXRhU291cmNlOwo=</text>
       </register>
     </registers>
     <search>
