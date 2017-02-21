@@ -703,11 +703,11 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/reportStore.ts" timestamp="1487667941820">
-        <mark key="[" line="17" column="62" />
-        <mark key="]" line="17" column="62" />
-        <mark key="." line="17" column="62" />
-        <mark key="^" line="17" column="62" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/reportStore.ts" timestamp="1487668735350">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="19" column="75" />
+        <mark key="." line="19" column="75" />
+        <mark key="^" line="19" column="75" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/constants/actionTypes.ts" timestamp="1482839331326">
         <mark key="[" line="0" column="26" />
@@ -966,10 +966,11 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/ReportViewScreen.tsx" timestamp="1487666890091">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/ReportViewScreen.tsx" timestamp="1487668759496">
+        <mark key="[" line="57" column="50" />
+        <mark key="]" line="57" column="47" />
+        <mark key="." line="57" column="47" />
+        <mark key="^" line="57" column="47" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/components/LoginForm.tsx" timestamp="1481373286020">
         <mark key="[" line="3" column="56" />
@@ -2385,46 +2386,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>currentReportId</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>currentReportId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzZXQgY3VycmVudFJlcG9ydElkKGlkKSB7IHRoaXMuX2N1cnJlbnRSZXBvcnRJZCA9IGlkOyB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucmVwb3J0U3RvcmUuY3VycmVudFJlcG9ydElkKTsK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucmVwb3J0U3RvcmUuYygnZGYnKSk7Cg==</text>
+        <text encoding="base64">ICAvLyClSKRVpc6p87dzvFez+Kdppc4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBnZXQgpdirZavIpOGp0mRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAY29tcHV0ZWQgYyhpZCkgeyByZXR1cm4gdGhpcy5fYWxsUmVwb3J0OyB9Cg==</text>
+        <text encoding="base64">ICBpeGRkZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucm93RGF0YS5yZXBvcnRlcklEKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCchJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucmVwb3J0U3RvcmUuYygnZGYnKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucm93RGF0YS5yZXBvcnRlcklEKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCchJyk7Cg==</text>
+        <text encoding="base64">ICBAY29tcHV0ZWQgYyhpZCkgeyByZXR1cm4gdGhpcy5fYWxsUmVwb3J0OyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucm93RGF0YS5yZXBvcnRlcklEKTsK</text>
       </register>
     </registers>
     <search>
