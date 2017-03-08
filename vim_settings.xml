@@ -958,7 +958,7 @@
         <mark key="." line="27" column="61" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/node_modules/mobase/src/index.js" timestamp="1488992797985" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/node_modules/mobase/src/index.js" timestamp="1488993462904" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/report/reportAddStore.ts" timestamp="1488641350408">
         <mark key="[" line="39" column="66" />
         <mark key="]" line="40" column="10" />
@@ -1664,12 +1664,12 @@
         <mark key="^" line="128" column="18" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/mobase.ts" timestamp="1488992780487">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/mobase.ts" timestamp="1488993947519">
         <mark key="'" line="129" column="72" />
-        <mark key="[" line="218" column="19" />
-        <mark key="]" line="218" column="17" />
-        <mark key="." line="218" column="17" />
-        <mark key="^" line="218" column="17" />
+        <mark key="[" line="114" column="13" />
+        <mark key="]" line="114" column="13" />
+        <mark key="." line="114" column="13" />
+        <mark key="^" line="114" column="17" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/index.ts" timestamp="1486576673360">
         <mark key="[" line="5" column="25" />
@@ -2490,11 +2490,11 @@
       <jump line="121" column="72" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/mobase.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJuby1jb25zb2xlIjogZmFsc2UsCg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2506,42 +2506,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJuby1jb25zb2xlIjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiY29uc28iCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAibGliIjogWyAiZXMyMDE3IiwgNiIgXSwK</text>
+        <text encoding="base64">ICAgIHRoaXMuX2NvbGxlY3Rpb24uZGVsZXRlKGlkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAY29tcHV0ZWQgZ2V0IGNvbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJuby1jb25zb2xlIjogZmFsc2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICAiY29uc28iCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>: {
-    name: any,
-    database: any,
-    path: string | null,
-    idField: string,
-    userId: string | null,
-    childId: string | null,
-    model: any,
-    fields: any,
-    immediateSubscription: boolean,
-    debug: boolean
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAibGliIjogWyAiZXMyMDE3IiwgNiIgXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBAY29tcHV0ZWQgZ2V0IGNvbGwK</text>
       </register>
     </registers>
     <search>
