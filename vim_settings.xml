@@ -237,13 +237,6 @@
         <mark key="." line="3" column="60" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/report/constants/record.ts" timestamp="1488124771446">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/tslint.json" timestamp="1487191058540">
         <mark key="[" line="117" column="30" />
         <mark key="]" line="117" column="30" />
@@ -285,6 +278,11 @@
         <mark key="]" line="12" column="12" />
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/index.ts" timestamp="1488968464748">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Confirm.tsx" timestamp="1483789975958">
         <mark key="[" line="26" column="27" />
@@ -1337,11 +1335,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/report/reportStore.ts" timestamp="1488967854379">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/report/reportStore.ts" timestamp="1488968531866">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/components/Map/MapTest.tsx" timestamp="1482675347584">
         <mark key="[" line="3" column="16" />
@@ -2473,7 +2471,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>reporter</text>
@@ -2488,31 +2486,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIG1vbnRoOiBuZXcgRGF0ZSgpLmdldE1vbnRoKCkgKyAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJfcmVjb3JkIjogIlJlY29yZFtdIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJfaWQiOiAic3RyaW5nID0gJyciLAo=</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiUmVwb3J0RGF0YSIK</text>
+        <text encoding="base64">aW1wb3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBDdXN0b21lclJlcG9ydExpc3Q6IHt9Cg==</text>
+        <text encoding="base64">ICAgIC8vIG1vbnRoOiBuZXcgRGF0ZSgpLmdldE1vbnRoKCkgKyAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJfcmVjb3JkIjogIlJlY29yZFtdIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIAo=</text>
+        <text encoding="base64">ICAgICJfaWQiOiAic3RyaW5nID0gJyciLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAiUmVwb3J0RGF0YSIK</text>
       </register>
     </registers>
     <search>
