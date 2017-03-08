@@ -953,7 +953,7 @@
         <mark key="." line="27" column="61" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/node_modules/mobase/src/index.js" timestamp="1488975870490" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/node_modules/mobase/src/index.js" timestamp="1488977653344" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/report/reportAddStore.ts" timestamp="1488641350408">
         <mark key="[" line="39" column="66" />
         <mark key="]" line="40" column="10" />
@@ -1653,12 +1653,12 @@
         <mark key="^" line="128" column="18" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/mobase.ts" timestamp="1488975874300">
-        <mark key="'" line="120" column="72" />
-        <mark key="[" line="156" column="47" />
-        <mark key="]" line="156" column="45" />
-        <mark key="." line="156" column="45" />
-        <mark key="^" line="156" column="45" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/mobase.ts" timestamp="1488979944939">
+        <mark key="'" line="129" column="72" />
+        <mark key="[" line="288" column="57" />
+        <mark key="]" line="288" column="57" />
+        <mark key="." line="288" column="57" />
+        <mark key="^" line="288" column="57" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/index.ts" timestamp="1486576673360">
         <mark key="[" line="5" column="25" />
@@ -2480,10 +2480,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2495,37 +2495,50 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5fX2Vycm9yKCdPUFRJT05TX05PX0RCJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="3" type="4">
+        <text>: {
+    name: any,
+    database: any,
+    path: string | null,
+    idField: string,
+    userId: string | null,
+    childId: string | null,
+    model: any,
+    fields: any,
+    immediateSubscription: boolean,
+    debug: boolean
+  }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE9QVElPTlNfRklFTERTX0FORF9NT0RFTDogJ29wdGlvbnMuZmllbGRzIGFuZCBvcHRpb25zLm1vZGVsIGFyZSBib3RoIHNwZWNpZmllZC4gb3B0aW9ucy5maWVsZHMgd2lsbCBub3QgYmUgdXNlZCcK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFVQREFURTogJ1VwZGF0aW5nIGNoaWxkICglcykgd2l0aCAlbycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFdSSVRFOiAnV3JpdGluZyBjaGlsZCAoJXMpIHdpdGggJW8nLAo=</text>
+        <text encoding="base64">ICAgIHJlZi5vbigndmFsdWUnLCBzbmFwc2hvdCA9PiB7IHRoaXMuX3ZhbHVlKHNuYXBzaG90LnZhbCgpKSB9LCB0aGlzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJFTU9WRURfUFJJVkFURV9LRVk6ICdQcml2YXRlIGtleSAlcyByZW1vdmVkIGZyb20gJW8nLAo=</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5fX2Vycm9yKCdPUFRJT05TX05PX0RCJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENISUxEX0NIQU5HRUQ6ICcoY2hpbGRfY2hhbmdlZCBldmVudCkgY2hpbGQgKCVzKSBoYXMgYmVlbiB1cGRhdGVkIHdpdGggJW8nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENISUxEX1JFTU9WRUQ6ICcoY2hpbGRfcmVtb3ZlZCBldmVudCkgcmVtb3ZlZCAoJXMpJywK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
     </registers>
     <search>
       <last-search encoding="base64">XDxoZWxsb1NhZ2FcPg==</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxoZWxsb1NhZ2FcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxoZWxsb1NhZ2FcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
