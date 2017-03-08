@@ -953,7 +953,7 @@
         <mark key="." line="27" column="61" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/node_modules/mobase/src/index.js" timestamp="1488969975504" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/node_modules/mobase/src/index.js" timestamp="1488975870490" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/report/reportAddStore.ts" timestamp="1488641350408">
         <mark key="[" line="39" column="66" />
         <mark key="]" line="40" column="10" />
@@ -1653,11 +1653,12 @@
         <mark key="^" line="128" column="18" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/mobase.ts" timestamp="1488972884318">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="12" />
-        <mark key="^" line="11" column="12" />
-        <mark key="." line="11" column="12" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/mobase.ts" timestamp="1488975874300">
+        <mark key="'" line="120" column="72" />
+        <mark key="[" line="156" column="47" />
+        <mark key="]" line="156" column="45" />
+        <mark key="." line="156" column="45" />
+        <mark key="^" line="156" column="45" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/index.ts" timestamp="1486576673360">
         <mark key="[" line="5" column="25" />
@@ -2475,6 +2476,7 @@
       <jump line="32" column="22" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomerAddScreen.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomerAddScreen.tsx" />
       <jump line="0" column="15" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/report/constants/record.ts" />
+      <jump line="121" column="72" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/mobase.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2493,31 +2495,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gb3V0cHV0IGRlYnVnIGluZm9ybWF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5fX2Vycm9yKCdPUFRJT05TX05PX0RCJyk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2hvdWxkIHdlIHN1YnNjcmliZSB0byBmaXJlYmFzZSBvbiBzdG9yZSBjcmVhdGlvbgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9QVElPTlNfRklFTERTX0FORF9NT0RFTDogJ29wdGlvbnMuZmllbGRzIGFuZCBvcHRpb25zLm1vZGVsIGFyZSBib3RoIHNwZWNpZmllZC4gb3B0aW9ucy5maWVsZHMgd2lsbCBub3QgYmUgdXNlZCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gZmllbGRzCg==</text>
+        <text encoding="base64">ICAgIFVQREFURTogJ1VwZGF0aW5nIGNoaWxkICglcykgd2l0aCAlbycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFdSSVRFOiAnV3JpdGluZyBjaGlsZCAoJXMpIHdpdGggJW8nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gbW9kZWwgY2xhc3MgdG8gaW5zdGFudGlhdGUK</text>
+        <text encoding="base64">ICAgIFJFTU9WRURfUFJJVkFURV9LRVk6ICdQcml2YXRlIGtleSAlcyByZW1vdmVkIGZyb20gJW8nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENISUxEX0NIQU5HRUQ6ICcoY2hpbGRfY2hhbmdlZCBldmVudCkgY2hpbGQgKCVzKSBoYXMgYmVlbiB1cGRhdGVkIHdpdGggJW8nLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gYWRkIGNoaWxkSWQgdG8gcGF0aCAocGF0aC91c2VySWQvY2hpbGRJZCkK</text>
+        <text encoding="base64">ICAgIENISUxEX1JFTU9WRUQ6ICcoY2hpbGRfcmVtb3ZlZCBldmVudCkgcmVtb3ZlZCAoJXMpJywK</text>
       </register>
     </registers>
     <search>
