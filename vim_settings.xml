@@ -2016,6 +2016,12 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo/src/api/mobxFirebaseStore/index.ts" timestamp="1489071719015">
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
+        <mark key="^" line="10" column="12" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/report/reportAddStore.ts" timestamp="1487960889409">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -2575,10 +2581,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>S</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -2590,31 +2596,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAhIQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIC8vIGRlYnVnOiBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHN0YWNrTmF2aWdhdG9yQ29uZmlnID0gewo=</text>
+        <text encoding="base64">ICAgIC8vIGRlYnVnOiBmYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoZWFkZXJNb2RlOiAnZmxvYXQnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHN0YWNrTmF2aWdhdG9yQ29uZmlnID0gewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHN0YWNrTmF2aWdhdG9yQ29uZmlnID0gewo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpdGxlOiAnZCcK</text>
+        <text encoding="base64">ICBoZWFkZXJNb2RlOiAnZmxvYXQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHN0YWNrTmF2aWdhdG9yQ29uZmlnID0gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcjogeyB2aXNpYmxlOiBmYWxzZSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
