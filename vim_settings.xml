@@ -105,11 +105,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/ReportAddScreen.tsx" timestamp="1490978684762">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/ReportAddScreen.tsx" timestamp="1490979270245">
+        <mark key="[" line="77" column="35" />
+        <mark key="]" line="78" column="4" />
+        <mark key="^" line="78" column="4" />
+        <mark key="." line="78" column="4" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/record/redux.ts" timestamp="1485056860899">
         <mark key="[" line="23" column="6" />
@@ -506,10 +506,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/react-navigation/src/react-navigation.js" timestamp="1490854802280">
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/node_modules/react-native/local-cli/server/middleware/getDevToolsMiddleware.js" timestamp="1483847177531">
         <mark key="[" line="31" column="74" />
@@ -2067,6 +2063,12 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/navigaion/index.ts" timestamp="1490979024453">
+        <mark key="[" line="42" column="1" />
+        <mark key="]" line="42" column="13" />
+        <mark key="^" line="42" column="13" />
+        <mark key="." line="42" column="13" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/common/Input.tsx" timestamp="1482086810999">
         <mark key="[" line="22" column="35" />
         <mark key="]" line="9" column="7" />
@@ -2865,11 +2867,11 @@
       <jump line="54" column="0" filename="$USER_HOME$/Documents/bitbucket/demo/src/components/common/Button.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBUb3VjaGFibGUgPSBUb3VjaGFibGVPcGFjaXR5Owo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
