@@ -105,12 +105,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/ReportAddScreen.tsx" timestamp="1490947166801">
-        <mark key="'" line="110" column="11" />
-        <mark key="[" line="158" column="19" />
-        <mark key="]" line="158" column="19" />
-        <mark key="." line="158" column="19" />
-        <mark key="^" line="158" column="18" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/ReportAddScreen.tsx" timestamp="1490952514301">
+        <mark key="[" line="139" column="42" />
+        <mark key="]" line="139" column="41" />
+        <mark key="^" line="139" column="41" />
+        <mark key="." line="139" column="41" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/record/redux.ts" timestamp="1485056860899">
         <mark key="[" line="23" column="6" />
@@ -2223,11 +2222,10 @@
         <mark key="." line="39" column="50" />
         <mark key="^" line="39" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/AutoExpandingTextInput.tsx" timestamp="1490947132641">
-        <mark key="[" line="47" column="20" />
-        <mark key="]" line="47" column="20" />
-        <mark key="^" line="32" column="47" />
-        <mark key="." line="47" column="20" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/AutoExpandingTextInput.tsx" timestamp="1490951596822">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/common/index.ts" timestamp="1482075833862">
         <mark key="[" line="1" column="28" />
@@ -2858,47 +2856,47 @@
       <jump line="98" column="11" filename="$USER_HOME$/Documents/bitbucket/demo/src/screens/ReportAddScreen.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpID0gbmV3IEIoe30pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvd3NWZXJ0aWNhbFNjcm9sbEluZGljYXRvcgo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbiAgICAgICA6IDEwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvbnRTaXplICAgICA6IDIyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXt7IGZsZXg6IDEsIGhlaWdodDogNDAsIGJhY2tncm91bmRDb2xvcjogJ3JlZCcsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicgfX0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdWZXJ0aWNhbDogMTAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdIb3Jpem9udGFsOiAxMCwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPFZpZXcgc3R5bGU9e3sgaGVpZ2h0OiB0aGlzLnN0YXRlLmtleWJvYXJkSGVpZ2h0IH19IC8+Ki99Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgIG9uUHJlc3M9e3RoaXMub25CYWNrQnV0dG9ufQogICAgICAgICAgICAgICAgICB0aXRsZT0iqvCmXiIKICAgICAgICAgICAgICAgIC8+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBoCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiA2MAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAganVzdGlmeUNvbnRlbnQgICA6ICdzcGFjZS1hcm91bmQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luQm90dG9tICAgICA6IDUsCg==</text>
       </register>
     </registers>
     <search>
