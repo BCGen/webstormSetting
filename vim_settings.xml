@@ -471,12 +471,12 @@
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportAddForm/ReportAddForm.tsx" timestamp="1491296224553">
-        <mark key="'" line="86" column="8" />
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportAddForm/ReportAddForm.tsx" timestamp="1491299037919">
+        <mark key="'" line="92" column="8" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="29" column="2" />
+        <mark key="^" line="29" column="2" />
+        <mark key="." line="29" column="2" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/controlPanel/index.ts" timestamp="1484687994736">
         <mark key="[" line="0" column="7" />
@@ -1131,6 +1131,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
         <mark key="^" line="32" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/mobx/mobxMapStore.ts" timestamp="1491299341647">
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="16" />
+        <mark key="^" line="29" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/reducers/index.ts" timestamp="1482787384263">
         <mark key="[" line="15" column="26" />
@@ -2646,7 +2652,7 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/common/linking.ts" timestamp="1490672893245">
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/common/linking.ts" timestamp="1491297928903">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
@@ -2681,6 +2687,12 @@
         <mark key="]" line="52" column="36" />
         <mark key="." line="52" column="36" />
         <mark key="^" line="54" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerItem/CustomerItem.tsx" timestamp="1491298492415">
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/tsconfig.json" timestamp="1482493144987">
         <mark key="[" line="18" column="0" />
@@ -2850,6 +2862,12 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="26" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/report/reportAddStore.ts" timestamp="1491298482463">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="67" />
+        <mark key="^" line="3" column="67" />
+        <mark key="." line="3" column="67" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/report/redux.ts" timestamp="1485397803921">
         <mark key="[" line="45" column="8" />
         <mark key="]" line="45" column="26" />
@@ -3005,10 +3023,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -3020,65 +3038,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBsZWZ0Q29udGFpbmVyU3R5bGUgOiB7CiAgICBmbGV4OiAxCiAgfSBhcyBWaWV3U3R5bGUsCiAgcmlnaHRDb250YWluZXJTdHlsZTogewogICAgbWFyZ2luTGVmdCAgICA6IDIwLAogICAgYWxpZ25JdGVtcyAgICA6ICdmbGV4LWVuZCcsCiAgICBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWJldHdlZW4nCiAgfSBhcyBWaWV3U3R5bGUsCiAgbmFtZVdyYXBwZXJTdHlsZSAgIDogewogICAgbWFyZ2luQm90dG9tOiA1CiAgfSBhcyBWaWV3U3R5bGUsCiAgcGhvbmVXcmFwcGVyU3R5bGUgIDogewogICAgYWxpZ25JdGVtcyAgIDogJ2NlbnRlcicsCiAgICBmbGV4RGlyZWN0aW9uOiAncm93JywKICAgIG1hcmdpbkJvdHRvbSA6IDUKICB9IGFzIFZpZXdTdHlsZSwKICBhZGRyZXNzV3JhcHBlclN0eWxlOiB7CiAgICBmbGV4RGlyZWN0aW9uOiAncm93JywKICAgIGFsaWduSXRlbXMgICA6ICdjZW50ZXInLAogIH0gYXMgVmlld1N0eWxlLAogIGxlZnRJY29uU3R5bGUgICAgICA6IHsKICAgIGFsaWduSXRlbXMgICAgICA6ICdjZW50ZXInLAogICAganVzdGlmeUNvbnRlbnQgIDogJ3NwYWNlLWFyb3VuZCcsCiAgICBtYXJnaW5Ib3Jpem9udGFsOiAyMCwKICB9IGFzIFZpZXdTdHlsZSwKICByaWdodEljb25TdHlsZSAgICAgOiB7CiAgICBhbGlnbkl0ZW1zICAgIDogJ2NlbnRlcicsCiAgICBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWFyb3VuZCcsCiAgfSBhcyBWaWV3U3R5bGUsCiAgYWRkcmVzc1RleHRTdHlsZSAgIDogewogICAgY29sb3IgICAgICAgICAgIDogJ3N0ZWVsYmx1ZScsCiAgICBmb250U2l6ZSAgICAgICAgOiAyMCwKICAgIG1hcmdpbkhvcml6b250YWw6IDEwCiAgfSBhcyBUZXh0U3R5bGUsCiAgbmFtZVRleHRTdHlsZSAgICAgIDogewogICAgY29sb3IgICAgIDogJ2JsYWNrJywKICAgIGZvbnRTaXplICA6IDI0LAogICAgZm9udFdlaWdodDogJ2JvbGQnCiAgfSBhcyBUZXh0U3R5bGUsCiAgcGhvbmVUZXh0U3R5bGUgICAgIDogewogICAgY29sb3IgICAgICAgICAgIDogJ2Rhcmtnb2xkZW5yb2QnLAogICAgZm9udFNpemUgICAgICAgIDogMjQsCiAgICBtYXJnaW5Ib3Jpem9udGFsOiAxMAogIH0gYXMgVGV4dFN0eWxl</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICB9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>const styles = {
-  containerStyle      : {
-    backgroundColor: '#f8f8f8',
-    flex           : 1
-  } as ViewStyle,
-  formStyle           : {
-    borderColor: '#009090',
-    borderWidth: 2,
-    flex       : 1,
-    margin     : 5
-  } as ViewStyle,
-  buttonContainerStyle: {
-    flexDirection   : 'row',
-    marginHorizontal: 5,
-    marginBottom    : 5
-  } as ViewStyle,
-  recoveryButtonStyle: {
-    flex: 1,
-    marginRight: 5
-  } as ViewStyle,
-  submitButtonStyle: {
-    flex: 1
-  } as ViewStyle
-};</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmICh0eXBlb2YodGhpcy5fY29sbGVjdGlvbi5nZXQoaWQpKSAhPT0ge30pIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVuZGVmaW5lZAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>const styles = {
-  containerStyle: {
-    backgroundColor: '#f8f8f8',
-    flex           : 1
-  } as ViewStyle,
-  formStyle     : {
-    borderColor: '#009090',
-    borderWidth: 2,
-    flex       : 1,
-    margin     : 5
-  } as ViewStyle
-};</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD4hISE8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLl9jb2xsZWN0aW9uKSB7Cg==</text>
       </register>
     </registers>
     <search>
