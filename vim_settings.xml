@@ -796,11 +796,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportFilterBar/ReportFilterBar.tsx" timestamp="1491584614485">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="55" column="16" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportFilterBar/ReportFilterBar.tsx" timestamp="1491587154386">
+        <mark key="[" line="57" column="29" />
+        <mark key="]" line="57" column="29" />
+        <mark key="." line="57" column="29" />
+        <mark key="^" line="57" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/react-navigation/typeDefinition.ts" timestamp="1490854216221">
         <mark key="[" line="64" column="5" />
@@ -1529,11 +1529,10 @@
         <mark key="." line="74" column="50" />
         <mark key="^" line="74" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportListScreen/ReportListScreen.tsx" timestamp="1491575212437">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="25" />
-        <mark key="." line="25" column="25" />
-        <mark key="^" line="25" column="25" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportListScreen/ReportListScreen.tsx" timestamp="1491586707903">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="27" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/screens/test/NavTest1.tsx" timestamp="1485843276239">
         <mark key="[" line="1" column="28" />
@@ -1589,10 +1588,10 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportFilterBar/styles.ts" timestamp="1491583087150">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportFilterBar/styles.ts" timestamp="1491587038525">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/CustomerItem.tsx" timestamp="1485244607709">
         <mark key="[" line="104" column="23" />
@@ -3239,11 +3238,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/bitbucket/demo/src/store/report/reportStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -3255,31 +3254,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNTAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICA8UmVwb3J0RmlsdGVyQmFyIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGVjdGVkVmFsdWU9e3RoaXMuc3RhdGUubGFuZ3VhZ2V9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uVmFsdWVDaGFuZ2U9eyhsYW5nKSA9PiB0aGlzLnNldFN0YXRlKHtsYW5ndWFnZTogbGFuZ30pfT4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGVjdGVkVmFsdWU9e3RoaXMuc3RhdGUubGFuZ3VhZ2V9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">UGlja2VyLkl0ZW0K</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB7Lyo8VGV4dCBzdHlsZT17Zm9udFN0eWxlfT4yMDE3PC9UZXh0PiovfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IDxEYXRlUGlja2VyCiAgICAgICAgICBzdHlsZT17eyB3aWR0aDogMjAwfX0KICAgICAgICAgIGRhdGU9e3RoaXMuc3RhdGUuZGF0ZX0KICAgICAgICAgIG1vZGU9ImRhdGUiCiAgICAgICAgICBwbGFjZWhvbGRlcj0ic2VsZWN0IGRhdGUiCiAgICAgICAgICBhbmRyb2lkTW9kZT0iY2FsZW5kYXIiCiAgICAgICAgICBmb3JtYXQ9IllZWVktTU0tREQiCiAgICAgICAgICBtaW5EYXRlPSIyMDE2LTA1LTAxIgogICAgICAgICAgbWF4RGF0ZT0iMjAxNi0wNi0wMSIKICAgICAgICAgIGNvbmZpcm1CdG5UZXh0PSJDb25maXJtIgogICAgICAgICAgY2FuY2VsQnRuVGV4dD0iQ2FuY2VsIgogICAgICAgICAgc2hvd0ljb249e2ZhbHNlfQogICAgICAgICAgY3VzdG9tU3R5bGVzPXt7CiAgICAgICAgICAgIGRhdGVJY29uOiB7CiAgICAgICAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgICAgICAgICAgbGVmdDogMCwKICAgICAgICAgICAgICB0b3A6IDQsCiAgICAgICAgICAgICAgbWFyZ2luTGVmdDogMAogICAgICAgICAgICB9LAogICAgICAgICAgICAvLyAuLi4gWW91IGNhbiBjaGVjayB0aGUgc291cmNlIHRvIGZpbmQgdGhlIG90aGVyIGtleXMuCiAgICAgICAgICB9fQogICAgICAgICAgb25EYXRlQ2hhbmdlPXsoZGF0ZSkgPT4ge3RoaXMuc2V0U3RhdGUoe2RhdGV9KX19CiAgICAgICAgLz4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbHVlPSIzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBtYXJnaW5MZWZ0OiAzNgo=</text>
       </register>
     </registers>
     <search>
