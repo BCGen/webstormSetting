@@ -822,11 +822,11 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/TextInputForm.tsx" timestamp="1491679398417">
-        <mark key="[" line="93" column="19" />
-        <mark key="]" line="93" column="19" />
-        <mark key="." line="93" column="19" />
-        <mark key="^" line="93" column="31" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/TextInputForm.tsx" timestamp="1491680266390">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="63" column="25" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/index.tsx" timestamp="1481836343990">
         <mark key="[" line="1" column="0" />
@@ -3246,11 +3246,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/bitbucket/demo/src/store/report/reportStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwbGFjZWhvbGRlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
@@ -3262,31 +3262,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwbGFjZWhvbGRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29ucwo=</text>
+        <text encoding="base64">ICAgICAgLy8gd2lkdGg6ICcxMDAlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1hbmltYXRhYmxlJzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB3aWR0aDogJzEwMCUnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB3aWR0aCAgICAgIDogMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZWY7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdG9nZ2xlZE9uOiBmYWxzZQo=</text>
+        <text encoding="base64">Y29ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0b2dnbGVkT246IGJvb2xlYW47Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1hbmltYXRhYmxlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0b2dnbGU6IGFueTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0b2dnbGVkT246IGFueTsK</text>
+        <text encoding="base64">ICByZWY7Cg==</text>
       </register>
     </registers>
     <search>
