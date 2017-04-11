@@ -1133,10 +1133,10 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerListScreen/CustomerListScreen.tsx" timestamp="1491926569243">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerListScreen/CustomerListScreen.tsx" timestamp="1491926634107">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/customer/model.ts" timestamp="1491639594179">
         <mark key="[" line="13" column="0" />
@@ -3260,11 +3260,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/bitbucket/demo/src/store/report/reportStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>red</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1NhZ2FcPg==</text>
