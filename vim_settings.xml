@@ -692,6 +692,10 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
+      <file name="/Dummy.txt" timestamp="1492688920789">
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Button/Button.tsx" timestamp="1485072384441">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="25" />
@@ -3305,7 +3309,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>pdachange expo sdk 15 to 16
+react-navigation modify</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -3319,29 +3324,30 @@
       <register name="p" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>pdachange expo sdk 15 to 16
+react-navigation modify</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICBwcml2YXRlIF9rZXkgPSAoaXRlbSk6IHN0cmluZyA9PiB7CiAgICByZXR1cm4gaXRlbS5pZDsKICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGtleUV4dHJhY3Rvcj17dGhpcy5fa2V5fQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1c3RvbWVyU3RvcmUudCgpKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICByb3dJRDogc3RyaW5nOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1c3RvbWVyU3RvcmUuKCkpOwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1c3RvbWVyU3RvcmUuY29sbGVjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1c3RvbWVyU3RvcmUuKCkpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1c3RvbWVyU3RvcmUuY29sbGVjdGlvbik7Cg==</text>
