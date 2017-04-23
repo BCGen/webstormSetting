@@ -279,6 +279,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportAddScreen/navigationOption.tsx" timestamp="1492935134975">
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="55" column="20" />
+        <mark key="." line="55" column="20" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo/src/containers/customerList/CustomerList.tsx" timestamp="1489483813932">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -368,6 +373,12 @@
         <mark key="]" line="26" column="26" />
         <mark key="." line="26" column="26" />
         <mark key="^" line="26" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportAddScreen/navigation.tsx" timestamp="1492933718174">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/auth/actions.ts" timestamp="1481402701334">
         <mark key="[" line="0" column="21" />
@@ -1769,11 +1780,11 @@
         <mark key="." line="9" column="20" />
         <mark key="^" line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportAddScreen/ReportAddScreen.tsx" timestamp="1492933022511">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="71" column="1" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportAddScreen/ReportAddScreen.tsx" timestamp="1492935242439">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="20" />
+        <mark key="^" line="28" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/utils/localization/language/zh_TW.ts" timestamp="1484070891727">
         <mark key="[" line="4" column="19" />
@@ -3223,11 +3234,11 @@
       <jump line="2" column="31" filename="$USER_HOME$/Documents/bitbucket/demo/src/components/common/Modal.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>icon</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0XD4=</text>
@@ -3239,31 +3250,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBjb25zdCB7c3RhdGV9ID0gbmF2aWdhdGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICBAb2JzZXJ2YWJsZSBpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24uc2V0UGFyYW1zKHsgbW9kZTogbSA9PT0gJ25vcm1hbCcgPyAnaW5mb3JtJyA6ICdub3JtYWwnIH0pOwo=</text>
+        <text encoding="base64">Y29uc3QgaSA9IG9ic2VydmVyKG5hdmlnYXRpb25PcHRpb24pOwo=</text>
       </register>
     </registers>
     <search>
