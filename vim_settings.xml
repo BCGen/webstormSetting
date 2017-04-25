@@ -498,11 +498,11 @@
         <mark key="^" line="32" column="49" />
         <mark key="." line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/customer/customerStore.ts" timestamp="1493143387735">
-        <mark key="[" line="12" column="72" />
-        <mark key="]" line="12" column="69" />
-        <mark key="^" line="12" column="69" />
-        <mark key="." line="12" column="69" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/customer/customerStore.ts" timestamp="1493144649440">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/components/index.ts" timestamp="1482978522270">
         <mark key="[" line="0" column="16" />
@@ -766,8 +766,11 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportAddScreen/NavigationOptions.tsx" timestamp="1492975035256">
-        <mark key="[" line="17" column="29" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportAddScreen/NavigationOptions.tsx" timestamp="1493147625196">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/report/model/record.ts" timestamp="1490541598178">
         <mark key="[" line="20" column="0" />
@@ -1461,6 +1464,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerAddScreen/NavigationOptions.tsx" timestamp="1493144826545">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/selectors.ts" timestamp="1482980604690">
         <mark key="[" line="10" column="3" />
@@ -2373,10 +2381,10 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/custoemrAddForm/CustomerAddForm.tsx" timestamp="1492891410252">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/custoemrAddForm/CustomerAddForm.tsx" timestamp="1493144717663">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/rootSaga.ts" timestamp="1483052403487">
         <mark key="[" line="7" column="0" />
@@ -3175,10 +3183,10 @@
         <mark key="^" line="4" column="98" />
         <mark key="." line="4" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/ScrollableTextInput.tsx" timestamp="1492972609183">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="56" />
-        <mark key="." line="31" column="56" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/ScrollableTextInput.tsx" timestamp="1493146870205">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
         <mark key="^" line="31" column="56" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/map_test/index.android.js" timestamp="1482420564500">
@@ -3304,10 +3312,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnfn5+fn4nKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0XD4=</text>
@@ -3319,31 +3327,45 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnfn5+fn4nKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>// return Toast.show('請輸入內容', {
+      //   duration: Toast.durations.LONG,
+      //   position: Toast.positions.To,
+      //   shadow: true,
+      //   animation: true,
+      //   hideOnPress: true,
+      //   delay: 0
+      // });</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSGVhZGVyQ29udGFpbmVyIH0gZnJvbSAnLi4vLi4vY29tcG9uZW50cy9jb21tb24nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCchISEhJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZy5uYW1lID09PSBjdXN0b21lckZpbHRlclN0b3JlLnNlYXJjaFZhbHVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZGQgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGN1c3RvbWVyRmlsdGVyU3RvcmUuc2VhcmNoVmFsdWVbaV0pOwo=</text>
+      <register name="7" type="4">
+        <text>return Toast.show('請輸入內容', {
+        duration: Toast.durations.LONG,
+        position: Toast.positions.To,
+        shadow: true,
+        animation: true,
+        hideOnPress: true,
+        delay: 0
+      });</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGxldCBpID0gMDsgaSA8IGN1c3RvbWVyRmlsdGVyU3RvcmUuc2VhcmNoVmFsdWUubGVuZ3RoOyBpKyspIHsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gaGVhZGVyUmlnaHQ6ICgKICAgIC8vICAgPEhlYWRlclJpZ2h0PgogICAgLy8gICAgIDxIZWFkZXJNb2RhbEljb24KICAgIC8vICAgICAgIG5hbWU9eydpb3MtY2xvc2UnfQogICAgLy8gICAgICAgdGV4dD17J71UqXeyTbCjoUgnfQogICAgLy8gICAgICAgbGVmdEJ1dHRvblRpdGxlPXsnqPqu+Cd9CiAgICAvLyAgICAgICByaWdodEJ1dHRvblRpdGxlPXsnvVSpdyd9CiAgICAvLyAgICAgICByaWdodE9uUHJlc3M9e19yZXNldE9uUHJlc3N9CiAgICAvLyAgICAgLz4KICAgIC8vICAgICA8SGVhZGVyTW9kYWxJY29uCiAgICAvLyAgICAgICBuYW1lPXsnaW9zLWNoZWNrbWFyayd9CiAgICAvLyAgICAgICBvblByZXNzPXtfb25QcmVzc30KICAgIC8vICAgICAgIHRleHQ9Ir1UqXe1b7BloUgiCiAgICAvLyAgICAgICBtb2RlPXttb2RlfQogICAgLy8gICAgICAgbGVmdEJ1dHRvblRpdGxlPXsnqPqu+Cd9CiAgICAvLyAgICAgICByaWdodEJ1dHRvblRpdGxlPXsnvVSpdyd9CiAgICAvLyAgICAgICByaWdodE9uUHJlc3M9e19zdWJtaXRPblByZXNzfQogICAgLy8gICAgICAgaW5mb3JtVGV4dD17J6W8v+mkSrjqrsYnfQogICAgLy8gICAgIC8+CiAgICAvLyAgICAgPEJ1dHRvbgogICAgLy8gICAgICAgdGl0bGU9ImFsZXJ0IgogICAgLy8gICAgICAgb25QcmVzcz17KCkgPT4gQWxlcnQuYWxlcnQoCiAgICAvLyAgICAgICAgICe9VKl3tW+wZaFIJywKICAgIC8vICAgICAgICAgJ6xPttyhSCcKICAgIC8vICAgICAgICl9CiAgICAvLyAgICAgLz4KICAgIC8vICAgPC9IZWFkZXJSaWdodD4KICAgIC8vICk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gKTsK</text>
       </register>
     </registers>
     <search>
