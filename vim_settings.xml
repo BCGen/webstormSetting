@@ -377,11 +377,10 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/ExpandingForm.tsx" timestamp="1492087642357">
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="3" column="42" />
-        <mark key="^" line="3" column="42" />
-        <mark key="." line="3" column="42" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/ExpandingForm.tsx" timestamp="1493398714747">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/index.ts" timestamp="1489067677755">
         <mark key="[" line="13" column="16" />
@@ -532,6 +531,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/loginScreen/LoginScreen.tsx" timestamp="1493398647309" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/controlPanel/index.ts" timestamp="1484687994736">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -2228,11 +2228,10 @@
         <mark key="^" line="128" column="18" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" timestamp="1493042877375">
-        <mark key="[" line="27" column="74" />
-        <mark key="]" line="28" column="3" />
-        <mark key="." line="28" column="3" />
-        <mark key="^" line="28" column="3" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" timestamp="1493398971248">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/index.ts" timestamp="1486576673360">
         <mark key="[" line="5" column="25" />
@@ -3347,8 +3346,8 @@
       <jump line="87" column="25" filename="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportAddScreen/NavigationOptions.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEFyaWFsIGZyb20gJy4uL2Fzc2V0cy9mb250cy9BcmlhbC50dGYnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -3363,48 +3362,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0c2xpbnQ6bGF0ZXN0IiwK</text>
+        <text encoding="base64">aW1wb3J0IEFyaWFsIGZyb20gJy4uL2Fzc2V0cy9mb250cy9BcmlhbC50dGYnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0c2xpbnQtcmVhY3QiCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IERpc3BsYXkgZnJvbSAncmVhY3QtbmF0aXZlLWRpc3BsYXknOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0c2xpbnQ6bGF0ZXN0IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0c2xpbnQtcmVhY3QiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiOiAiaHR0cHM6Ly9naXRodWIuY29tL2V4cG9uZW50L3JlYWN0LW5hdGl2ZS9hcmNoaXZlL3Nkay0xNi4wLjAudGFyLmd6Igo=</text>
+        <text encoding="base64">CgogIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;@expo/vector-icons&quot;: &quot;~4.0.0&quot;,
-    &quot;@types/react&quot;: &quot;^15.0.22&quot;,
-    &quot;@types/react-native&quot;: &quot;^0.43.4&quot;,
-    &quot;expo&quot;: &quot;^16.0.0&quot;,
-    &quot;firebase&quot;: &quot;3.8.0&quot;,
-    &quot;lodash&quot;: &quot;^4.17.4&quot;,
-    &quot;mobx&quot;: &quot;^3.1.5&quot;,
-    &quot;mobx-react&quot;: &quot;4.1.8&quot;,
-    &quot;mobx-remotedev&quot;: &quot;^0.2.6&quot;,
-    &quot;react&quot;: &quot;16.0.0-alpha.6&quot;,
-    &quot;react-native&quot;: &quot;https://github.com/exponent/react-native/archive/sdk-16.0.0.tar.gz&quot;,
-    &quot;react-native-animatable&quot;: &quot;^1.1.1&quot;,
-    &quot;react-native-display&quot;: &quot;^1.0.8&quot;,
-    &quot;react-native-google-places-autocomplete&quot;: &quot;1.2.12&quot;,
-    &quot;react-native-root-toast&quot;: &quot;^1.0.5&quot;,
-    &quot;react-native-slider&quot;: &quot;^0.9.1&quot;,
-    &quot;react-native-textinput-effects&quot;: &quot;^0.3.0&quot;,
-    &quot;react-native-vector-icons&quot;: &quot;^4.0.1&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXZpZ2F0aW9uIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vcmVhY3QtY29tbXVuaXR5L3JlYWN0LW5hdmlnYXRpb24uZ2l0Igo=</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiOiAiaHR0cHM6Ly9naXRodWIuY29tL2V4cG9uZW50L3JlYWN0LW5hdGl2ZS9hcmNoaXZlL3Nkay0xNi4wLjAudGFyLmd6Igo=</text>
       </register>
     </registers>
     <search>
