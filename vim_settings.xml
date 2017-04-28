@@ -2497,7 +2497,11 @@
         <mark key="^" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/tslint.json" timestamp="1493396806905" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/tslint.json" timestamp="1493397113922">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo/src/store/report/model/report.ts" timestamp="1489507637430">
         <mark key="[" line="51" column="30" />
         <mark key="]" line="51" column="37" />
@@ -3344,7 +3348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0c2xpbnQ6bGF0ZXN0IiwK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -3359,21 +3363,27 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0c2xpbnQ6bGF0ZXN0IiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0c2xpbnQtcmVhY3QiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CgogIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiOiAiaHR0cHM6Ly9naXRodWIuY29tL2V4cG9uZW50L3JlYWN0LW5hdGl2ZS9hcmNoaXZlL3Nkay0xNi4wLjAudGFyLmd6Igo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>&quot;@expo/vector-icons&quot;: &quot;~4.0.0&quot;,
     &quot;@types/react&quot;: &quot;^15.0.22&quot;,
     &quot;@types/react-native&quot;: &quot;^0.43.4&quot;,
@@ -3393,14 +3403,8 @@
     &quot;react-native-textinput-effects&quot;: &quot;^0.3.0&quot;,
     &quot;react-native-vector-icons&quot;: &quot;^4.0.1&quot;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXZpZ2F0aW9uIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vcmVhY3QtY29tbXVuaXR5L3JlYWN0LW5hdmlnYXRpb24uZ2l0Igo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdC52YWx1ZXMoKS5sZW5ndGgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHNsaWNlKGxpc3QsIG1pbkluZGV4LCBtYXhJbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXZpZ2F0aW9uIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vcmVhY3QtY29tbXVuaXR5L3JlYWN0LW5hdmlnYXRpb24uZ2l0Igo=</text>
       </register>
     </registers>
     <search>
