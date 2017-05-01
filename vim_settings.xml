@@ -1259,11 +1259,11 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="32" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/mobx/mobxMapStore.ts" timestamp="1493635044408">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="4" column="32" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/mobx/mobxMapStore.ts" timestamp="1493637812823">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportViewItem/ReportViewItem.tsx" timestamp="1492702797680">
         <mark key="[" line="25" column="67" />
@@ -1373,7 +1373,7 @@
         <mark key="^" line="90" column="3" />
         <mark key="." line="60" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/mobx/mobxFirebaseStore.ts" timestamp="1493634260591">
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/mobx/mobxFirebaseStore.ts" timestamp="1493637801547">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="11" column="11" />
@@ -1611,11 +1611,11 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/mobx/MobxModel.ts" timestamp="1493635020225">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/mobx/MobxModel.ts" timestamp="1493637775043">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/utils/localization.ts" timestamp="1483065742851">
         <mark key="[" line="1" column="2" />
@@ -3375,10 +3375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MobxModel</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>MobxModel</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0XD4=</text>
@@ -3390,36 +3390,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9ieE1vZGVsIH0gZnJvbSAnLi9Nb2J4TW9kZWwnOwo=</text>
+        <text encoding="base64">ICBsID0gbmV3IE1vYnhNb2RlbCgxLCAxKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9ieE1vZGVsIH0gZnJvbSAnLi9Nb2J4TW9kZWwnOwo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcjogKCkgPT4ge30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTW9ieE1vZGVsIH0gZnJvbSAnLi9Nb2J4TW9kZWwnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwbwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTW9ieE1vZGVsIH0gZnJvbSAnLi9Nb2J4TW9kZWwnOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>rt declare class MobxModel {
-  constructor(key, data) {
-    console.log(key);
-  }
-
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwbwo=</text>
       </register>
     </registers>
     <search>
