@@ -810,6 +810,12 @@
         <mark key="^" line="29" column="12" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/BaseInput.tsx" timestamp="1493981478983">
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="10" />
+        <mark key="." line="26" column="10" />
+        <mark key="^" line="26" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/common/date.ts" timestamp="1493790534821">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -929,6 +935,7 @@
         <mark key="^" line="150" column="25" />
         <mark key="." line="150" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/react-native-textinput-effects/lib/BaseInput.js" timestamp="1493980905033" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/AutoExpandingTextInput.tsx" timestamp="1488018071528">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="43" />
@@ -1241,7 +1248,7 @@
         <mark key="^" line="11" column="54" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/react-native-textinput-effects/lib/Fumi.js" timestamp="1493904518615" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/react-native-textinput-effects/lib/Fumi.js" timestamp="1493981281108" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/routers/index.ts" timestamp="1482881688749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -2440,11 +2447,11 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/custoemrAddForm/CustomerAddForm.tsx" timestamp="1493979388962">
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/custoemrAddForm/CustomerAddForm.tsx" timestamp="1493980272847">
         <mark key="[" line="66" column="25" />
-        <mark key="]" line="66" column="25" />
-        <mark key="^" line="67" column="34" />
-        <mark key="." line="66" column="25" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/rootSaga.ts" timestamp="1483052403487">
         <mark key="[" line="7" column="0" />
@@ -3182,6 +3189,12 @@
         <mark key="^" line="51" column="5" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/Fumi.tsx" timestamp="1493981451367">
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="44" />
+        <mark key="^" line="23" column="44" />
+        <mark key="." line="23" column="44" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/MapContainer.tsx" timestamp="1483795740450">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="36" />
@@ -3404,11 +3417,11 @@
       <jump line="7" column="31" filename="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerListScreen/CustomerListScreen.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>university</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>university</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0XD4=</text>
@@ -3420,38 +3433,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsYWJlbFN0eWxlPXt7IGZvbnRTaXplOiAxNCB9fQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9udCB9IGZyb20gJ2V4cG8nOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpbnB1dFN0eWxlPXt7IGNvbG9yOiAnI2ZmZicgfX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBib3JkZXJDb2xvcj17JyNmZmI3NGQnfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsYWJlbFN0eWxlPXt7fX0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>import {
-  FontAwesome,
-  Ionicons,
-  MaterialCommunityIcons,
-  MaterialIcons,
-  Octicons,
-  SimpleLineIcons
-} from '@expo/vector-icons';</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgLyoKICAgICAqIFRoaXMgaXMgdGhlIGljb24gY29tcG9uZW50IHlvdSBhcmUgaW1wb3J0aW5nIGZyb20gcmVhY3QtbmF0aXZlLXZlY3Rvci1pY29ucy4KICAgICAqIGltcG9ydCBGb250QXdlc29tZUljb24gZnJvbSAncmVhY3QtbmF0aXZlLXZlY3Rvci1pY29ucy9Gb250QXdlc29tZSc7CiAgICAgKiBpY29uQ2xhc3M9e0ZvbnRBd2Vzb21lSWNvbn0KICAgICAqLwogICAgaWNvbkNsYXNzOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogICAgLyoKICAgICAqIFBhc3NlZCB0byByZWFjdC1uYXRpdmUtdmVjdG9yLWljb25zIGxpYnJhcnkgYXMgbmFtZSBwcm9wCiAgICAgKi8KICAgIGljb25OYW1lOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgICAvKgogICAgICogUGFzc2VkIHRvIHJlYWN0LW5hdGl2ZS12ZWN0b3ItaWNvbnMgbGlicmFyeSBhcyBjb2xvciBwcm9wLgogICAgICogQWxzbyB1c2VkIGFzIHRleHRJbnB1dCBjb2xvci4KICAgICAqLwogICAgaWNvbkNvbG9yOiBQcm9wVHlwZXMuc3RyaW5nLAogICAgcGFzc2l2ZUljb25Db2xvcjogUHJvcFR5cGVzLnN0cmluZywKICAgIGhlaWdodDogUHJvcFR5cGVzLm51bWJlciwKICB9Ow==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBUZXh0LAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgd2lkCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZm9jdXNlZEFuaW06IG5ldyBBbmltYXRlZC5WYWx1ZSh2YWx1ZSA/IDEgOiAwKSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBfb25MYXlvdXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFRleHRGaWVsZCBmcm9tICdyZWFjdC1uYXRpdmUtbWQtdGV4dGlucHV0JzsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
