@@ -2440,11 +2440,11 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/custoemrAddForm/CustomerAddForm.tsx" timestamp="1493974781157">
-        <mark key="[" line="63" column="12" />
-        <mark key="]" line="63" column="61" />
-        <mark key="." line="63" column="61" />
-        <mark key="^" line="63" column="61" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/custoemrAddForm/CustomerAddForm.tsx" timestamp="1493979388962">
+        <mark key="[" line="66" column="25" />
+        <mark key="]" line="66" column="25" />
+        <mark key="^" line="67" column="34" />
+        <mark key="." line="66" column="25" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/rootSaga.ts" timestamp="1483052403487">
         <mark key="[" line="7" column="0" />
@@ -3404,47 +3404,54 @@
       <jump line="7" column="31" filename="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerListScreen/CustomerListScreen.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aCAgOiAnMTAwJScsCg==</text>
+      <register name="&quot;" type="4">
+        <text>university</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>university</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBib3JkZXJDb2xvcj17JyM5YjUzN2EnfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBib3JkZXJDb2xvcj17JyNmZmI3NGQnfQo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aCAgOiAnMTAwJScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsYWJlbFN0eWxlPXt7IGZvbnRTaXplOiAxNCB9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbGlnbkl0ZW1zICAgICA6ICdjZW50ZXInLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9udCB9IGZyb20gJ2V4cG8nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICdyZWQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbnB1dFN0eWxlPXt7IGNvbG9yOiAnI2ZmZicgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6IDEwMH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBib3JkZXJDb2xvcj17JyNmZmI3NGQnfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7IGZsZXg6IDEgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7IGZsZXg6IDEgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsYWJlbFN0eWxlPXt7fX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCg==</text>
+      <register name="8" type="4">
+        <text>import {
+  FontAwesome,
+  Ionicons,
+  MaterialCommunityIcons,
+  MaterialIcons,
+  Octicons,
+  SimpleLineIcons
+} from '@expo/vector-icons';</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmbGV4ICAgICAgICAgICA6IDEsCg==</text>
+        <text encoding="base64">aW1wb3J0IFRleHRGaWVsZCBmcm9tICdyZWFjdC1uYXRpdmUtbWQtdGV4dGlucHV0JzsK</text>
       </register>
     </registers>
     <search>
