@@ -876,11 +876,10 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="16" column="101" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/package.json" timestamp="1493403182262">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="8" column="34" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/package.json" timestamp="1494049454554">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportFilterBar/ReportFilterBar.tsx" timestamp="1493887617083">
         <mark key="[" line="20" column="0" />
@@ -2627,11 +2626,11 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/customer/customerAddStore.ts" timestamp="1494004431258">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="36" column="1" />
-        <mark key="." line="36" column="1" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/customer/customerAddStore.ts" timestamp="1494049313161">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
         <mark key="^" line="36" column="1" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/rootReducer.ts" timestamp="1485243650534">
         <mark key="[" line="8" column="29" />
@@ -3430,10 +3429,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEV4cGFuZGluZ0Zvcm0gLz4K</text>
+        <text encoding="base64">ICAgICJtb2J4LXJlbW90ZWRldiI6ICJeMC4yLjYiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0XD4=</text>
@@ -3445,31 +3444,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEV4cGFuZGluZ0Zvcm0gLz4K</text>
+        <text encoding="base64">ICAgICJtb2J4LXJlbW90ZWRldiI6ICJeMC4yLjYiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtbWQtdGV4dGlucHV0IjogIl4yLjAuNCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjdXN0b21lckFkZFN0b3JlOiBDdXN0b21lckFkZFN0b3JlOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtZGVidWdnZXItb3BlbiI6ICJeMC4zLjUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIAo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEZ1bWkgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9jb21tb24vRnVtaSc7Cg==</text>
+        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJybmRlYnVnZ2VyLW9wZW4gLS1leHBvIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
