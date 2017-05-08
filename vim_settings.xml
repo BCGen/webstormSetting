@@ -33,11 +33,12 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/ContactList.tsx" timestamp="1494256995702">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/ContactList.tsx" timestamp="1494258086798">
+        <mark key="'" line="6" column="35" />
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+        <mark key="^" line="39" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerListScreen/NavigationOption.tsx" timestamp="1492975004792">
         <mark key="[" line="0" column="0" />
@@ -351,11 +352,11 @@
         <mark key="^" line="22" column="2" />
         <mark key="." line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CallIcon.tsx" timestamp="1494255935903">
-        <mark key="[" line="55" column="37" />
-        <mark key="]" line="55" column="37" />
-        <mark key="." line="55" column="37" />
-        <mark key="^" line="55" column="37" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CallIcon.tsx" timestamp="1494257704206">
+        <mark key="[" line="55" column="46" />
+        <mark key="]" line="55" column="51" />
+        <mark key="." line="55" column="51" />
+        <mark key="^" line="55" column="51" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/report/saga.ts" timestamp="1485412872496">
         <mark key="[" line="17" column="72" />
@@ -2737,11 +2738,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/PhoneItem.tsx" timestamp="1494255452866">
-        <mark key="[" line="5" column="67" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/PhoneItem.tsx" timestamp="1494258108917">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/utils/my_saga.ts" timestamp="1483052339677">
         <mark key="[" line="6" column="2" />
@@ -3314,7 +3315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="11" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" />
       <jump line="2" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" />
       <jump line="3" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" />
       <jump line="4" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" />
@@ -3414,13 +3414,14 @@
       <jump line="30" column="52" filename="$USER_HOME$/Documents/bitbucket/demo/src/store/customer/model/customer.ts" />
       <jump line="87" column="8" filename="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/ToolBar.tsx" />
       <jump line="3" column="61" filename="$USER_HOME$/Documents/bitbucket/demo/src/components/common/TouchableModal.tsx" />
+      <jump line="6" column="35" filename="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/ContactList.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0XD4=</text>
@@ -3432,31 +3433,38 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaW5kZWl0ZW0gfSA9IGRhdGE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIGluCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGMgPSAoKSA9PiB7CiAgICAvLyBjb25zb2xlLmxvZyh0aGlzLnByb3BzLmRhdGEuaXRlbS5waG9uZS5lbnRyaWVzKCkpOwogICAgLy8gdGhpcy5wcm9wcy5kYXRhLml0ZW0ucGhvbmUuCiAgICBjb25zdCBpID0gXy50b0FycmF5KHRoaXMucHJvcHMuZGF0YS5pdGVtLnBob25lKTsKICAgIGNvbnNvbGUubG9nKGkpOwogICAgcmV0dXJuIGk7CiAgICAvLyBjb25zdCBhcnIgPSBbXTsKICAgIC8vIGNvbnN0IHAgPSBKU09OLnBhcnNlKHRoaXMucHJvcHMuZGF0YS5pdGVtLnBob25lIGFzIGFueSk7CgogICAgLy8gZm9yIChsZXQgeCBpbiBwKSB7CiAgICAvLyAgIGNvbnN0IGkgPSBwW3hdIGFzIG5ldmVyOwogICAgLy8gICBhcnIucHVzaChpKTsKICAgIC8vIH0KICAgIC8vCiAgICAvLyByZXR1cm4gYXJyOwoKICB9</text>
+        <text>// import { Ionicons } from '@expo/vector-icons';
+// import { observer } from 'mobx-react/native';
+// import React, { Component } from 'react';
+// import { Button, FlatList as flatList, Text, View } from 'react-native';
+// import { TouchableModal } from '../../components/common';
+// import { IContactData } from '../../store/customer/model/customer';
+//
+// export default class Call</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9mIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0ucGhvbmUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnMuaGFzT3duUHJvcGVydHkoKQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGMgPSAoKSA9PiB7CiAgICAvLyBjb25zb2xlLmxvZyh0aGlzLnByb3BzLmRhdGEuaXRlbS5waG9uZS5lbnRyaWVzKCkpOwogICAgLy8gdGhpcy5wcm9wcy5kYXRhLml0ZW0ucGhvbmUuCiAgICBjb25zdCBpID0gXy50b0FycmF5KHRoaXMucHJvcHMuZGF0YS5pdGVtLnBob25lKTsKICAgIGNvbnNvbGUubG9nKGkpOwogICAgcmV0dXJuIGk7CiAgICAvLyBjb25zdCBhcnIgPSBbXTsKICAgIC8vIGNvbnN0IHAgPSBKU09OLnBhcnNlKHRoaXMucHJvcHMuZGF0YS5pdGVtLnBob25lIGFzIGFueSk7CgogICAgLy8gZm9yIChsZXQgeCBpbiBwKSB7CiAgICAvLyAgIGNvbnN0IGkgPSBwW3hdIGFzIG5ldmVyOwogICAgLy8gICBhcnIucHVzaChpKTsKICAgIC8vIH0KICAgIC8vCiAgICAvLyByZXR1cm4gYXJyOwoKICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVG91Y2hhYmxlTW9kYWwgfSBmcm9tICcuLi8uLi9jb21wb25lbnRzL2NvbW1vbic7Cg==</text>
+        <text encoding="base64">ICAgIG9mIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluZGV4OiBudW1iZXIsCg==</text>
+        <text encoding="base64">ICAgIGgK</text>
       </register>
     </registers>
     <search>
