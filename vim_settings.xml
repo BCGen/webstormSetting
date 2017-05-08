@@ -33,12 +33,12 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/ContactList.tsx" timestamp="1494258086798">
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/ContactList.tsx" timestamp="1494258709334">
         <mark key="'" line="6" column="35" />
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="39" column="3" />
-        <mark key="." line="39" column="3" />
-        <mark key="^" line="39" column="3" />
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerListScreen/NavigationOption.tsx" timestamp="1492975004792">
         <mark key="[" line="0" column="0" />
@@ -1766,11 +1766,11 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerList.tsx" timestamp="1494194409154">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="23" column="24" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerList.tsx" timestamp="1494258928808">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="64" />
+        <mark key="^" line="22" column="64" />
+        <mark key="." line="22" column="64" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/index.ts" timestamp="1487671695864">
         <mark key="[" line="15" column="18" />
@@ -2995,11 +2995,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportViewScreen/ReportViewScreen.tsx" timestamp="1494194991969">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="49" />
-        <mark key="." line="15" column="49" />
-        <mark key="^" line="15" column="49" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportViewScreen/ReportViewScreen.tsx" timestamp="1494258670575">
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="46" />
+        <mark key="." line="19" column="46" />
+        <mark key="^" line="19" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/common/linking.ts" timestamp="1491297928903">
         <mark key="[" line="15" column="23" />
@@ -3418,10 +3418,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>any</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0XD4=</text>
