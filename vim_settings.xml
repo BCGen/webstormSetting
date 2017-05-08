@@ -50,11 +50,11 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerItem.tsx" timestamp="1494192893257">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="56" column="24" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerItem.tsx" timestamp="1494226857638">
+        <mark key="[" line="51" column="48" />
+        <mark key="]" line="51" column="48" />
+        <mark key="." line="51" column="48" />
+        <mark key="^" line="40" column="15" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/index.ts" timestamp="1484842652262">
         <mark key="[" line="0" column="42" />
@@ -2494,7 +2494,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/custoemrAddForm/CustomerAddForm.tsx" timestamp="1494194097361">
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/custoemrAddForm/CustomerAddForm.tsx" timestamp="1494226673661">
         <mark key="[" line="67" column="33" />
         <mark key="]" line="67" column="33" />
         <mark key="^" line="69" column="1" />
@@ -3484,10 +3484,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>State</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>State</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0XD4=</text>
@@ -3499,31 +3499,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHt9ID0gdGhpcy5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXBvcnRFZGl0U3RvcmUgJiYgbmF2aWdhdGlvbikgewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2l6ZT17NDB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChuYXZpZ2F0aW9uICYmIHJlcG9ydEVkaXRTdG9yZSAmJiByZXBvcnRTdG9yZSkgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IHByaXZhdGUgX2Zvb3RlciA9ICgpID0+IHsKCiAgICByZXR1cm4gKAogICAgICA8Q29sbGFwc2libGUgY29sbGFwc2VkPXtpLm9wZW5JbmRleCAhPT0gdGhpcy5wcm9wcy5kYXRhLmluZGV4fT4KICAgICAgICA8VG9vbEJhciBkYXRhPXt0aGlzLnByb3BzLmRhdGF9IC8+CiAgICAgIDwvQ29sbGFwc2libGU+CiAgICApOwogIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB7dGhpcy5fZm9vdGVyKCl9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGkub3BlbkluZGV4LCB0aGlzLnByb3BzLmRhdGEuaW5kZXgpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChuYXZpZ2F0aW9uKSB7Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgcmV0dXJuIDxUb29sQmFyIGRhdGE9e3RoaXMucHJvcHMuZGF0YX0gLz47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGlmIChpLm9wZW5JbmRleCA9PT0gdGhpcy5wcm9wcy5kYXRhLmluZGV4KSB7Cg==</text>
       </register>
     </registers>
     <search>
