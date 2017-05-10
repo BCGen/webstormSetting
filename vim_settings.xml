@@ -45,10 +45,10 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerItem.tsx" timestamp="1494422097975">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerItem.tsx" timestamp="1494423162561">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/index.ts" timestamp="1484842652262">
         <mark key="[" line="0" column="42" />
@@ -1791,10 +1791,10 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerList.tsx" timestamp="1494422313740">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerList.tsx" timestamp="1494422967242">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/index.ts" timestamp="1487671695864">
         <mark key="[" line="15" column="18" />
@@ -2498,7 +2498,7 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/custoemrAddForm/CustomerAddForm.tsx" timestamp="1494317526150">
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/custoemrAddForm/CustomerAddForm.tsx" timestamp="1494422898440">
         <mark key="[" line="67" column="33" />
         <mark key="]" line="67" column="33" />
         <mark key="^" line="69" column="1" />
@@ -3478,10 +3478,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsaWduPXsnVG9wJ30K</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>bottom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3493,31 +3493,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsaWduPXsnVG9wJ30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9yZW5kZXJUb29sQmFyID0gKCkgPT4gewogICAgaWYgKGkub3BlbkluZGV4ID09PSB0aGlzLnByb3BzLmRhdGEuaW5kZXgpIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8VmlldwogICAgICAgID4KICAgICAgICA8VG9vbEJhciBkYXRhPXt0aGlzLnByb3BzLmRhdGF9IC8+CiAgICAgICAgPC9WaWV3PgogICAgICApOwogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyp7dGhpcy5fcmVuZGVyVG9vbEJhcigpfSovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9uVmlld2FibGVJdGVtc0NoYW5nZWQ9eygpID0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICA8QnV0dG9uCiAgICAgICAgICBvblByZXNzPXt0aGlzLl9hZGR9CiAgICAgICAgICB0aXRsZT17J2FkZCd9CiAgICAgICAgLz4KICAgICAgICA8VGV4dD57dGhpcy5faW5kZXh9PC9UZXh0PgogICAgICAgIDxCdXR0b24KICAgICAgICAgIG9uUHJlc3M9e3RoaXMuX2xlc3N9CiAgICAgICAgICB0aXRsZT17J2xlc3MnfQogICAgICAgIC8+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlIF9yZW5kZXJJdGVtID0gZGF0YSA9PiA8Q3VzdG9tZXJJdGVtIGRhdGE9e2RhdGF9IGZsYXRMaXN0UmVmPXt0aGlzLl9yZWZ9IC8+Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIF9yZW5kZXJJdGVtID0gZGF0YSA9PiA8Q3VzdG9tZXJJdGVtIGRhdGE9e2RhdGF9IGZsYXRMaXN0UmVmPXt0aGlzLl9yZWZ9IC8+Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Vmlldz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17e2ZsZXhEaXJlY3Rpb246ICdyb3cnLCBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWFyb3VuZCcsIGFsaWduSXRlbXM6ICdjZW50ZXInfX0+Cg==</text>
+        <text encoding="base64">ICBAb2JzZXJ2YWJsZSBfaW5kZXg6IG51bWJlciA9IDA7Cg==</text>
       </register>
     </registers>
     <search>
