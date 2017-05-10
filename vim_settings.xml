@@ -806,11 +806,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/Modal/Modal.tsx" timestamp="1494405896604">
-        <mark key="[" line="48" column="86" />
-        <mark key="]" line="49" column="9" />
-        <mark key="." line="49" column="9" />
-        <mark key="^" line="49" column="9" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/Modal/Modal.tsx" timestamp="1494408216109">
+        <mark key="[" line="47" column="134" />
+        <mark key="]" line="47" column="136" />
+        <mark key="." line="47" column="136" />
+        <mark key="^" line="47" column="136" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Container.tsx" timestamp="1484691971516">
         <mark key="[" line="1" column="8" />
@@ -3465,11 +3465,11 @@
       <jump line="39" column="25" filename="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFRleHQgPSBBbmltYXRlZC5UZXh0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3481,31 +3481,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFRleHQgPSBBbmltYXRlZC5UZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxBbmltYXRhYmxlLlZpZXcgc3R5bGU9e3toZWlnaHQ6ICcxMDAlJywgd2lkdGg6ICcxMDAlJywgYWxpZ25JdGVtczogJ2NlbnRlcicsIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJ319IGFuaW1hdGlvbj0iZmFkZUluVXAiIGl0ZXJhdGlvbkNvdW50PXs1fSBkaXJlY3Rpb249ImFsdGVybmF0ZSI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGhlYWRlckJhY2tUaXRsZTogbnVsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQ+ISEhISE8L1RleHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmF2aWdhdGlvbkFjdGlvbnMgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxWaWV3Pgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBwcml2YXRlIF9yZW5kZXJJbml0ID0gKCkgPT4gewogICAgY29uc3QgeyBjb250YWluZXJTdHlsZSwgdGV4dFN0eWxlIH0gPSBzdHlsZXM7CiAgICByZXR1cm4gKAogICAgICA8VmlldyBzdHlsZT17Y29udGFpbmVyU3R5bGV9PgogICAgICAgIDxUZXh0IHN0eWxlPXt0ZXh0U3R5bGV9PrjqrsazQrJ6pKShQb3QtXmr4S4uLjwvVGV4dD4KICAgICAgPC9WaWV3PgogICAgKTsKICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHtjaGlsZHJlbn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8QW5pbWF0YWJsZS5UZXh0IGFuaW1hdGlvbj0iem9vbUluVXAiPlpvb20gbWUgdXAsIFNjb3R0eTwvQW5pbWF0YWJsZS5UZXh0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEFuaW1hdGFibGUuVGV4dCBhbmltYXRpb249Inpvb21JblVwIj5ab29tIG1lIHVwLCBTY290dHk8L0FuaW1hdGFibGUuVGV4dD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IFRleHQgPSBBbmltYXRlZC5UZXh0Owo=</text>
       </register>
     </registers>
     <search>
