@@ -45,11 +45,11 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerItem.tsx" timestamp="1494492866336">
-        <mark key="[" line="111" column="18" />
-        <mark key="]" line="111" column="40" />
-        <mark key="." line="111" column="40" />
-        <mark key="^" line="111" column="40" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerItem.tsx" timestamp="1494494160975">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="119" column="33" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/index.ts" timestamp="1484842652262">
         <mark key="[" line="0" column="42" />
@@ -774,6 +774,7 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/@types/react-native/index.d.ts" timestamp="1494494373747" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/navigator.ts" timestamp="1486049910580">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="2" />
@@ -1798,10 +1799,10 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerList.tsx" timestamp="1494492812380">
-        <mark key="[" line="34" column="58" />
-        <mark key="]" line="34" column="58" />
-        <mark key="." line="34" column="58" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerList.tsx" timestamp="1494495486233">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/index.ts" timestamp="1487671695864">
         <mark key="[" line="15" column="18" />
@@ -3497,10 +3498,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3512,31 +3513,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHRoaXMuX2NvbnRlbnRSZWYuZ2V0Tm9kZSgpLm1lYXN1cmUoKHgsIHksIHdpZHRoLCBoZWlnaHQpID0+IHsKICAgICAgICBjb25zb2xlLmxvZyh4LCB5LCB3aWR0aCwgaGVpZ2h0KTsKICAgICAgfSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">aQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRIZWlnaHQoMCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">bXBvcnQgUmVhY3QsIHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnOwoKaW1wb3J0IHsgTGF5b3V0QW5pbWF0aW9uLCBTdHlsZVNoZWV0LCBUZXh0LCBUb3VjaGFibGVPcGFjaXR5LCBWaWV3IH0gZnJvbSAncmVhY3QtbmF0aXZlJzsKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIEFkZFJlbW92ZUV4YW1wbGUgZXh0ZW5kcyBDb21wb25lbnQ8YW55LCBhbnk+IHsKCiAgY29uc3RydWN0b3IocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKTsKCiAgICB0aGlzLnN0YXRlID0gewogICAgICB2aWV3czogW10sCiAgICB9OwogIH0KCiAgY29tcG9uZW50V2lsbFVwZGF0ZSgpIHsKICAgIGNvbnN0IGkgPSBMYXlvdXRBbmltYXRpb247CiAgICBpLmVhc2VJbkVhc2VPdXQoKTsKICB9CgogIF9vblByZXNzQWRkVmlldyA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoeyB2aWV3czogWy4uLnRoaXMuc3RhdGUudmlld3MsIHt9XSB9KTsKICB9CgogIF9vblByZXNzUmVtb3ZlVmlldyA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoeyB2aWV3czogdGhpcy5zdGF0ZS52aWV3cy5zbGljZSgwLCAtMSkgfSk7CiAgfQoKICByZW5kZXIoKSB7CiAgICBjb25zdCB2aWV3cyA9IHRoaXMuc3RhdGUudmlld3MubWFwKCh2aWV3LCBpKSA9PgogICAgICA8VmlldyBrZXk9e2l9IHN0eWxlPXtzdHlsZXMudmlld30+CiAgICAgICAgPFRleHQ+e2l9PC9UZXh0PgogICAgICA8L1ZpZXc+CiAgICApOwogICAgcmV0dXJuICgKICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9e3RoaXMuX29uUHJlc3NBZGRWaWV3fT4KICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuYnV0dG9ufT4KICAgICAgICAgICAgPFRleHQ+QWRkIHZpZXc8L1RleHQ+CiAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5PgogICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9e3RoaXMuX29uUHJlc3NSZW1vdmVWaWV3fT4KICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuYnV0dG9ufT4KICAgICAgICAgICAgPFRleHQ+UmVtb3ZlIHZpZXc8L1RleHQ+CiAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5PgogICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMudmlld0NvbnRhaW5lcn0+CiAgICAgICAgICB7dmlld3N9CiAgICAgICAgICA8VmlldyBzdHlsZT17e2hlaWdodDogMTAsIGJhY2tncm91bmRDb2xvcjogJ2JsYWNrJ319Lz4KICAgICAgICA8L1ZpZXc+CiAgICAgIDwvVmlldz4KICAgICk7CiAgfQp9Cgpjb25zdCBzdHlsZXMgPSBTdHlsZVNoZWV0LmNyZWF0ZSh7CiAgY29udGFpbmVyICAgIDogewogICAgZmxleDogMSwKICB9LAogIGJ1dHRvbiAgICAgICA6IHsKICAgIGJvcmRlclJhZGl1cyAgIDogNSwKICAgIGJhY2tncm91bmRDb2xvcjogJyNlZWVlZWUnLAogICAgcGFkZGluZyAgICAgICAgOiAxMCwKICAgIG1hcmdpbkJvdHRvbSAgIDogMTAsCiAgfSwKICBidXR0b25UZXh0ICAgOiB7CiAgICBmb250U2l6ZTogMTYsCiAgfSwKICB2aWV3Q29udGFpbmVyOiB7CiAgICBmbGV4ICAgICAgICAgOiAxLAogICAgZmxleERpcmVjdGlvbjogJ3JvdycsCiAgICBmbGV4V3JhcCAgICAgOiAnd3JhcCcsCiAgfSwKICB2aWV3ICAgICAgICAgOiB7CiAgICBoZWlnaHQgICAgICAgICA6IDU0LAogICAgd2lkdGggICAgICAgICAgOiA1NCwKICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcsCiAgICBtYXJnaW4gICAgICAgICA6IDgsCiAgICBhbGlnbkl0ZW1zICAgICA6ICdjZW50ZXInLAogICAganVzdGlmeUNvbnRlbnQgOiAnY2VudGVyJywKICB9LAogIGdyZWVuU3F1YXJlICA6IHsKICAgIHdpZHRoICAgICAgICAgIDogMTUwLAogICAgaGVpZ2h0ICAgICAgICAgOiAxNTAsCiAgICBiYWNrZ3JvdW5kQ29sb3I6ICdncmVlbicsCiAgICBhbGlnbkl0ZW1zICAgICA6ICdjZW50ZXInLAogICAganVzdGlmeUNvbnRlbnQgOiAnY2VudGVyJywKICB9LAogIGJsdWVTcXVhcmUgICA6IHsKICAgIHdpZHRoICAgICAgICAgIDogMTUwLAogICAgaGVpZ2h0ICAgICAgICAgOiAxNTAsCiAgICBiYWNrZ3JvdW5kQ29sb3I6ICdibHVlJywKICAgIGFsaWduSXRlbXMgICAgIDogJ2NlbnRlcicsCiAgICBqdXN0aWZ5Q29udGVudCA6ICdjZW50ZXInLAogIH0sCn0pOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldEhlaWdodCg4MCkK</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17e2hlaWdodDogMTAsIGJhY2tncm91bmRDb2xvcjogJ2JsYWNrJ319Lz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0b299IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGkgPSB0aGlzLnN0YXRlLnZpZXdzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5zZXRIZWlnaHQoNjApOwo=</text>
+        <text encoding="base64">ICAgIExheW91dEFuaW1hdGlvbi5lYXNlSW5FYXNlT3V0KCh7ZHVyYXRpb246IDMwMH0pID0+IHt9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y29uc3QgR3JlZW5TcXVhcmUgPSAoKSA9PgogIDxWaWV3IHN0eWxlPXtzdHlsZXMuZ3JlZW5TcXVhcmV9PgogICAgPFRleHQ+R3JlZW4gc3F1YXJlPC9UZXh0PgogIDwvVmlldz47Cgpjb25zdCBCbHVlU3F1YXJlID0gKCkgPT4KICA8VmlldyBzdHlsZT17c3R5bGVzLmJsdWVTcXVhcmV9PgogICAgPFRleHQ+Qmx1ZSBzcXVhcmU8L1RleHQ+CiAgPC9WaWV3Pjs=</text>
       </register>
     </registers>
     <search>
