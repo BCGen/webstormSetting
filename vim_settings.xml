@@ -129,7 +129,7 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/react-native-collapsible/Collapsible.js" timestamp="1494489626052" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/react-native-collapsible/Collapsible.js" timestamp="1494491842414" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/redux/record/redux.ts" timestamp="1485056860899">
         <mark key="[" line="23" column="6" />
         <mark key="]" line="23" column="10" />
@@ -2714,10 +2714,12 @@
         <mark key="^" line="89" column="11" />
         <mark key="." line="89" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/animated/Collapsible.tsx" timestamp="1494490303529">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/animated/Collapsible.tsx" timestamp="1494491831735">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="73" column="26" />
+        <mark key="]" line="73" column="26" />
+        <mark key="." line="73" column="26" />
+        <mark key="^" line="73" column="34" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/report/reportAddStore.ts" timestamp="1487960889409">
         <mark key="[" line="9" column="0" />
@@ -3393,7 +3395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="8" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoTwo.tsx" />
       <jump line="2" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoThree.tsx" />
       <jump line="5" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoThree.tsx" />
       <jump line="3" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/test/GeoThree.tsx" />
@@ -3493,13 +3494,14 @@
       <jump line="75" column="2" filename="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/EmailItem.tsx" />
       <jump line="8" column="7" filename="$USER_HOME$/Documents/bitbucket/demo/src/components/common/icon/Ionicons.tsx" />
       <jump line="39" column="25" filename="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/bitbucket/demo/src/components/common/animated/Collapsible.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QG9ic2VydmVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3511,31 +3513,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QG9ic2VydmVyCg==</text>
+        <text encoding="base64">ICAgIGVhc2luZyA9ICdkJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wcm9wcy5pc09wZW4pOwo=</text>
+        <text encoding="base64">ICBlYXNpbmc6ICgpID0+IHZvaWQgfCBzdHJpbmc7ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCB7ZX0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBACg==</text>
+        <text encoding="base64">ICBlYXNpbmc6IHN0cmluZyB8ICgpID0+IHZvaTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGxldCBlYXNpbmcgPSB0aGlzLnByb3BzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kdXJhdGlvbiA9IHByb3BzLmR1cmF0aW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmIChwcm9wcy5kdXJhdGlvbikgewo=</text>
       </register>
     </registers>
     <search>
