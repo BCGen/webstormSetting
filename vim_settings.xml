@@ -45,10 +45,10 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerItem.tsx" timestamp="1494496455331">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerItem.tsx" timestamp="1494497732740">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/customerItem/index.ts" timestamp="1484842652262">
         <mark key="[" line="0" column="42" />
@@ -2712,12 +2712,12 @@
         <mark key="^" line="89" column="11" />
         <mark key="." line="89" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/animated/Collapsible.tsx" timestamp="1494496756252">
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/animated/Collapsible.tsx" timestamp="1494497890006">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="85" column="21" />
-        <mark key="]" line="85" column="21" />
-        <mark key="." line="85" column="21" />
-        <mark key="^" line="75" column="18" />
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="47" column="20" />
+        <mark key="." line="47" column="20" />
+        <mark key="^" line="47" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/report/reportAddStore.ts" timestamp="1487960889409">
         <mark key="[" line="9" column="0" />
@@ -3496,10 +3496,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3511,31 +3511,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1bicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYXV0b3J1bigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzZXQgaXNSZWFkeSh2YWx1ZSkge3RoaXMuX2lzUmVhZHkgPSB2YWx1ZTt9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucmVhZHkgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gYW5pbWF0aW9uID0gICdmYWRlSW5MZWZ0QmlnJzsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYW5pbWF0Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpLm9wZW5JbmRleCA9PT0gdGhpcy5wcm9wcy5kYXRhLmluZGV4KSB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUb29sQmFyIGRhdGE9e3RoaXMucHJvcHMuZGF0YX0gLz4K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICA8VmlldwogICAgICAgICAgc3R5bGU9e3sgZmxleFdyYXA6ICd3cmFwJyB9fQogICAgICAgID4KICAgICAgICAgIHt0aGlzLl9yZW5kZXJUb29sQmFyKCl9CiAgICAgICAgPC9WaWV3Pg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgPC9BbmltYXRhYmxlLlZpZXc+Cg==</text>
       </register>
     </registers>
     <search>
