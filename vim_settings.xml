@@ -772,7 +772,7 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/@types/react-native/index.d.ts" timestamp="1494599591182" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/@types/react-native/index.d.ts" timestamp="1494605766380" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/navigator.ts" timestamp="1486049910580">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="2" />
@@ -2719,10 +2719,10 @@
         <mark key="^" line="89" column="11" />
         <mark key="." line="89" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/animated/Collapsible.tsx" timestamp="1494604764002">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/animated/Collapsible.tsx" timestamp="1494606322095">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/report/reportAddStore.ts" timestamp="1487960889409">
         <mark key="[" line="9" column="0" />
@@ -3507,10 +3507,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExheW91dEFuaW1hdGlvbi5jb25maWd1cmVOZXh0KExheW91dEFuaW1hdGlvbi5QcmVzZXRzLmVhc2VJbkVhc2VPdXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3522,34 +3522,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExheW91dEFuaW1hdGlvbi5jb25maWd1cmVOZXh0KExheW91dEFuaW1hdGlvbi5QcmVzZXRzLmVhc2VJbkVhc2VPdXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyAK</text>
-      </register>
-      <register name="4" type="4">
-        <text>componentWillUpdate() {
-  //   // LayoutAnimation.configureNext(config);
-  //   LayoutAnimation.configureNext(LayoutAnimation.Presets.easeInEaseOut)
-  // }</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgLy8gX3JlbmRlckhlYWRlciA9ICgpID0+IHsKICAvLyAgIHJldHVybiAoCiAgLy8gICAgIDxUb3VjaGFibGVXaXRob3V0RmVlZGJhY2sKICAvLyAgICAgICBvblByZXNzPXt0aGlzLl9vblByZXNzfQogIC8vICAgICA+CiAgLy8gICAgICAgPFZpZXcgc3R5bGU9e3sgcGFkZGluZzogMTAsIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJyB9fT4KICAvLyAgICAgICAgIDxUZXh0CiAgLy8gICAgICAgICAgIHN0eWxlPXt7IGZvbnRTaXplOiAyMCwgZm9udFdlaWdodDogJ2JvbGQnIH19CiAgLy8gICAgICAgICA+CiAgLy8gICAgICAgICAgIHtgJHt0aGlzLnByb3BzLmRhdGEuaW5kZXh9JHt0aGlzLnByb3BzLmRhdGEuaXRlbS5uYW1lfWB9CiAgLy8gICAgICAgICA8L1RleHQ+CiAgLy8gICAgICAgICA8VGV4dCBzdHlsZT17eyBmb250U2l6ZTogMTIsIGNvbG9yOiAnI2IwYmVjNScgfX0+e2CzzKvhp/O3c6TptMFgfTwvVGV4dD4KICAvLyAgICAgICA8L1ZpZXc+CiAgLy8gICAgIDwvVG91Y2hhYmxlV2l0aG91dEZlZWRiYWNrPgogIC8vICAgKTsKICAvLyB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gTGF5b3V0QW5pbWF0aW9uLmNvbmZpZ3VyZU5leHQoY29uZmlnKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgTGF5b3V0QW5pbWF0aW9uLmNvbmZpZ3VyZU5leHQoY29uZmlnKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIExheW91dEFuaW1hdGlvbi5jb25maWd1cmVOZXh0KExheW91dEFuaW1hdGlvbi5QcmVzZXRzLmVhc2VJbkVhc2VPdXQpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgQW5pbWF0YWJsZSBmcm9tICdyZWFjdC1uYXRpdmUtYW5pbWF0YWJsZSc7Cg==</text>
+      <register name="9" type="4">
+        <text>componentWillUpdate() {
+  //   // LayoutAnimation.configureNext(config);
+  //   LayoutAnimation.configureNext(LayoutAnimation.Presets.easeInEaseOut)
+  // }</text>
       </register>
     </registers>
     <search>
