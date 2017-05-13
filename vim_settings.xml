@@ -594,6 +594,12 @@
         <mark key="." line="26" column="13" />
         <mark key="^" line="26" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/flatList/AutoAlignItem.tsx" timestamp="1494685738688">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/reducers/rootReducer.ts" timestamp="1484129028450">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="33" />
@@ -1799,7 +1805,7 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerList.tsx" timestamp="1494683958415">
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/CustomerList.tsx" timestamp="1494685327186">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -2153,10 +2159,11 @@
         <mark key="." line="28" column="121" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/flatList/AutoAlignFlatList.tsx" timestamp="1494683964353">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/flatList/AutoAlignFlatList.tsx" timestamp="1494685766441">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="49" column="19" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/containers/reportList/index.ts" timestamp="1485400999090">
         <mark key="[" line="4" column="31" />
@@ -3517,10 +3524,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhPXt0aGlzLnByb3BzLmRhdGF9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3532,31 +3539,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhPXt0aGlzLnByb3BzLmRhdGF9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWY9e3JlZiA9PiB7IHRoaXMuX3JlZiA9IHJlZjt9fQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobm9kZSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXJJdGVtPXt0aGlzLl9yZW5kZXJJdGVtfQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Rm9vdGVyQ29tcG9uZW50PXt0aGlzLnByb3BzLkxpc3RGb290ZXJDb21wb25lbnR9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBbaTogc3RyaW5nXT86IGFueTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpc09wZW46IGJvb2xlYW47Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgRmxhdExpc3Q6IGFueSA9IGZsYXRMaXN0Owo=</text>
+        <text encoding="base64">ICBmbGF0TGlzdE5vZGU6IGFueTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlib2FyZFNob3VsZFBlcnNpc3RUYXBzPXsnaGFuZGxlZCd9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Rm9vdGVyQ29tcG9uZW50PXsoKSA9PiA8VmlldyBzdHlsZT17eyBoZWlnaHQ6IDUwIH19IC8+fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
