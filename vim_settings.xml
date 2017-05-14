@@ -1260,10 +1260,10 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerListScreen/CustomerListScreen.tsx" timestamp="1494611364191">
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="33" />
-        <mark key="." line="18" column="33" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerListScreen/CustomerListScreen.tsx" timestamp="1494755454680">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
         <mark key="^" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/customer/model.ts" timestamp="1491639594179">
@@ -1572,11 +1572,11 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerAddScreen/NavigationOptions.tsx" timestamp="1494749215890">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="34" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerAddScreen/NavigationOptions.tsx" timestamp="1494755483279">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/selectors.ts" timestamp="1482980604690">
         <mark key="[" line="10" column="3" />
@@ -2818,11 +2818,11 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerAddScreen/CustomerAddScreen.tsx" timestamp="1494749451993">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="43" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerAddScreen/CustomerAddScreen.tsx" timestamp="1494755471212">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="7" />
         <mark key="^" line="8" column="43" />
-        <mark key="." line="8" column="43" />
+        <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/index.ts" timestamp="1482671064772">
         <mark key="[" line="2" column="28" />
@@ -2854,11 +2854,11 @@
         <mark key="^" line="38" column="35" />
         <mark key="." line="64" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerListScreen/NavigationOptions.tsx" timestamp="1494751115056">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="47" />
-        <mark key="^" line="6" column="47" />
-        <mark key="." line="6" column="47" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerListScreen/NavigationOptions.tsx" timestamp="1494755448030">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="21" column="2" />
+        <mark key="^" line="21" column="2" />
+        <mark key="." line="21" column="2" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/utils/my_saga.ts" timestamp="1483052339677">
         <mark key="[" line="6" column="2" />
@@ -3558,10 +3558,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>creens</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>creens</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3573,31 +3573,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB7IG5hdmlnYXRlIH0gPSBuYXZpZ2F0aW9uOwo=</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVE5hdmlnYXRpb24gPSBOYXZpZ2F0aW9uU2NyZWVuUHJvcDxudWxsLCBudWxsPjsK</text>
+        <text encoding="base64">ICByZXR1cm4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgPC9IZWFkZXJDb250YWluZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgIG9uUHJlc3M9e19vblByZXNzfQo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIEhlYWRlclJpZ2h0UHJvcHMgewogIG5hdmlnYXRpb246IE5hdmlnYXRpb25TY3JlZW5Qcm9wPG51bGwsIG51bGw+Owp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgIHNpemU9ezQwfQo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIEhlYWRlckxlZnRQcm9wcyB7CiAgY3VzdG9tZXJGaWx0ZXJTdG9yZT86IEN1c3RvbWVyRmlsdGVyU3RvcmU7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgIG5hbWU9eydpb3MtcGVyc29uLWFkZCd9Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIEhlYWRlckxlZnRQcm9wcyB7CiAgY3VzdG9tZXJGaWx0ZXJTdG9yZT86IEN1c3RvbWVyRmlsdGVyU3RvcmU7Cg==</text>
       </register>
     </registers>
     <search>
