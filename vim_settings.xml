@@ -165,6 +165,7 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/ContactItem.tsx" timestamp="1494783626830" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/untitled/index.android.js" timestamp="1482428555472">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="11" />
@@ -648,6 +649,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/CustomerAddForm.tsx" timestamp="1494783314609">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/node_modules/react-native/local-cli/server/middleware/getDevToolsMiddleware.js" timestamp="1483847177531">
         <mark key="[" line="31" column="74" />
         <mark key="]" line="31" column="74" />
@@ -793,6 +799,7 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/@types/react-native/index.d.ts" timestamp="1494749905915" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/navigator.ts" timestamp="1486049910580">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="2" />
@@ -2182,6 +2189,7 @@
         <mark key="." line="28" column="121" />
         <mark key="^" line="29" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/flatList/AutoAlignFlatList.tsx" timestamp="1494689898818" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/containers/reportList/index.ts" timestamp="1485400999090">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="35" />
@@ -2211,6 +2219,12 @@
         <mark key="]" line="2" column="57" />
         <mark key="." line="2" column="57" />
         <mark key="^" line="2" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/HeaderForm.tsx" timestamp="1494782913802">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/AutoExpandingTextInput.tsx" timestamp="1485137392223">
         <mark key="[" line="40" column="11" />
@@ -2881,11 +2895,11 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/Test.tsx" timestamp="1494782161897">
-        <mark key="[" line="56" column="48" />
-        <mark key="]" line="56" column="52" />
-        <mark key="^" line="56" column="52" />
-        <mark key="." line="56" column="52" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/Test.tsx" timestamp="1494783617048">
+        <mark key="[" line="62" column="9" />
+        <mark key="]" line="62" column="9" />
+        <mark key="." line="62" column="9" />
+        <mark key="^" line="62" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/ReportView/index.ts" timestamp="1491314107458">
         <mark key="[" line="2" column="26" />
@@ -3589,10 +3603,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>key</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3604,58 +3618,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>// const contactList = [
-//   {
-//     &quot;key&quot;  : &quot;H1FBRW8g-&quot;,
-//     &quot;email&quot;: {
-//       &quot;B1eFBAZ8e-&quot;: { &quot;key&quot;: &quot;B1eFBAZ8e-&quot;, &quot;value&quot;: &quot;vgh@f.com&quot; },
-//       &quot;BkCrAZ8eZ&quot; : { &quot;key&quot;: &quot;BkCrAZ8eZ&quot;, &quot;value&quot;: &quot;dhdhr@fj.com&quot; },
-//       &quot;ryy80Z8e-&quot; : { &quot;key&quot;: &quot;ryy80Z8e-&quot;, &quot;value&quot;: &quot;rjdjj@dm.com&quot; }
-//     },
-//     &quot;phone&quot;: {
-//       &quot;BJZYSRWLgW&quot;: { &quot;key&quot;: &quot;BJZYSRWLgW&quot;, &quot;value&quot;: &quot;556866&quot; },
-//       &quot;rkhr0Z8gW&quot; : { &quot;key&quot;: &quot;rkhr0Z8gW&quot;, &quot;value&quot;: &quot;56566&quot; },
-//       &quot;SyarC-Lg-&quot; : { &quot;key&quot;: &quot;SyarC-Lg-&quot;, &quot;value&quot;: &quot;55866&quot; }
-//     },
-//     &quot;name&quot; : &quot;djdko&quot;
-//   }, {
-//     &quot;key&quot;  : &quot;rJoHAbIgW&quot;,
-//     &quot;email&quot;: {
-//       &quot;B1loHCW8l-&quot;: { &quot;key&quot;: &quot;B1loHCW8l-&quot;, &quot;value&quot;: &quot;dhshh@fjs.com&quot; },
-//       &quot;Sym8RWLlZ&quot; : { &quot;key&quot;: &quot;Sym8RWLlZ&quot;, &quot;value&quot;: &quot;rhdudu@dhsj.com&quot; }
-//     },
-//     &quot;phone&quot;: {
-//       &quot;rkbiHAZUgW&quot;: { &quot;key&quot;: &quot;rkbiHAZUgW&quot;, &quot;value&quot;: &quot;57689&quot; },
-//       &quot;BJ-8R-IlW&quot; : { &quot;key&quot;: &quot;BJ-8R-IlW&quot;, &quot;value&quot;: &quot;976769&quot; },
-//       &quot;ryGI0-Ig-&quot; : { &quot;key&quot;: &quot;ryGI0-Ig-&quot;, &quot;value&quot;: &quot;68656&quot; }
-//     },
-//     &quot;name&quot; : &quot;xjzk&quot;
-//   }
-// ];</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8VmlldyBrZXk9e2tleX0vPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaywgazIpCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb250YWN0TGlzdC5tYXAoKHZhbHVlLCBrZXkpKSA9PiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgazIgPSBrZXkgKyAnYic7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgayA9IGtleSArICdhJzsK</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
