@@ -63,6 +63,7 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/index.ts" timestamp="1494931930474" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/tsconfig.json" timestamp="1481479771536">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="17" column="10" />
@@ -165,10 +166,10 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/ContactItem.tsx" timestamp="1494875251255">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/ContactItem.tsx" timestamp="1494932045437">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/untitled/index.android.js" timestamp="1482428555472">
         <mark key="[" line="21" column="11" />
@@ -802,17 +803,18 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/@types/react-native/index.d.ts" timestamp="1494749905915" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/navigator.ts" timestamp="1486049910580">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="2" />
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/TextContactItem.tsx" timestamp="1494930062162">
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="54" column="20" />
-        <mark key="^" line="54" column="20" />
-        <mark key="." line="54" column="20" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/TextContactItem.tsx" timestamp="1494932212051">
+        <mark key="[" line="54" column="50" />
+        <mark key="]" line="55" column="1" />
+        <mark key="." line="55" column="1" />
+        <mark key="^" line="55" column="1" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/utils/index.ts" timestamp="1482263834324">
         <mark key="[" line="0" column="27" />
@@ -2197,6 +2199,7 @@
         <mark key="." line="28" column="121" />
         <mark key="^" line="29" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/flatList/AutoAlignFlatList.tsx" timestamp="1494689898818" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/containers/reportList/index.ts" timestamp="1485400999090">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="35" />
@@ -2901,11 +2904,11 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/Test.tsx" timestamp="1494928919603">
-        <mark key="[" line="57" column="49" />
-        <mark key="]" line="58" column="35" />
-        <mark key="^" line="58" column="35" />
-        <mark key="." line="58" column="35" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/Test.tsx" timestamp="1494931779034">
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="45" column="7" />
+        <mark key="^" line="45" column="7" />
+        <mark key="." line="45" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/ReportView/index.ts" timestamp="1491314107458">
         <mark key="[" line="2" column="26" />
@@ -3609,46 +3612,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8TGlzdCBkYXRhPXt0aGlzLnByb3BzLmNvbnRhY3REYXRhLmVtYWlsLnZhbHVlcygpfSAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7dGhpcy5fc2VwYXJhdG9yTGluZSgpfQo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">QG9ic2VydmVyCmNsYXNzIExpc3QgZXh0ZW5kcyBDb21wb25lbnQ8YW55LCB7fT4gewoKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8RmxhdExpc3QKICAgICAgICBkYXRhPXt0aGlzLnByb3BzLmRhdGF9CiAgICAgICAgcmVuZGVySXRlbT17dGhpcy5fcmVuZGVySXRlbX0KICAgICAgLz4KICAgICk7CiAgfQoKICBwcml2YXRlIF9yZW5kZXJJdGVtID0gZGF0YSA9PiB7CgogICAgY29uc3QgeyBzaXplLCBjb250YWN0S2V5LCB9ID0gdGhpcy5wcm9wczsKICAgIGNvbnN0IEl0ZW0gPSB0aGlzLnByb3BzLml0ZW07CiAgICByZXR1cm4gKAogICAgICA8SXRlbQogICAgICAgIGNvbnRhY3RQZXJzb25LZXk9e2NvbnRhY3RLZXl9CiAgICAgICAgZGF0YT17ZGF0YX0KICAgICAgICBzaXplPXtzaXplfQogICAgICAvPgogICAgKTsKICB9Cn0=</text>
+        <text encoding="base64">IHIgPSAobikgPT4gewogICAgY29uc29sZS5sb2cobiwgJ3JlbmRlcicpOwogICAgcmV0dXJuIDxUZXh0PntufTwvVGV4dD47CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17eyBoZWlnaHQ6IDEsIGJhY2tncm91bmRDb2xvcjogJ3JlZCcgfX0gLz4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICB7Lyo8TGlzdCovfQogICAgICAgIHsvKmRhdGE9e2NvbnRhY3REYXRhLmVtYWlsLnZhbHVlcygpfSovfQogICAgICAgIHsvKml0ZW09e0VtYWlsSXRlbX0qL30KICAgICAgICB7LypzaXplPXtjb250YWN0RGF0YS5lbWFpbC5zaXplfSovfQogICAgICAgIHsvKmNvbnRhY3RLZXk9e2NvbnRhY3REYXRhLmtleX0qL30KICAgICAgICB7LyovPiovfQogICAgICAgIHsvKjxMaXN0Ki99CiAgICAgICAgey8qZGF0YT17Y29udGFjdERhdGEucGhvbmUudmFsdWVzKCl9Ki99CiAgICAgICAgey8qaXRlbT17UGhvbmVJdGVtfSovfQogICAgICAgIHsvKnNpemU9e2NvbnRhY3REYXRhLnBob25lLnNpemV9Ki99CiAgICAgICAgey8qY29udGFjdEtleT17Y29udGFjdERhdGEua2V5fSovfQogICAgICAgIHsvKi8+Ki99</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">XTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">QG9ic2VydmVyCmNsYXNzIExpc3QgZXh0ZW5kcyBDb21wb25lbnQ8YW55LCB7fT4gewoKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8RmxhdExpc3QKICAgICAgICBkYXRhPXt0aGlzLnByb3BzLmRhdGF9CiAgICAgICAgcmVuZGVySXRlbT17dGhpcy5fcmVuZGVySXRlbX0KICAgICAgLz4KICAgICk7CiAgfQoKICBwcml2YXRlIF9yZW5kZXJJdGVtID0gZGF0YSA9PiB7CgogICAgY29uc3QgeyBzaXplLCBjb250YWN0S2V5LCB9ID0gdGhpcy5wcm9wczsKICAgIGNvbnN0IEl0ZW0gPSB0aGlzLnByb3BzLml0ZW07CiAgICByZXR1cm4gKAogICAgICA8SXRlbQogICAgICAgIGNvbnRhY3RQZXJzb25LZXk9e2NvbnRhY3RLZXl9CiAgICAgICAgZGF0YT17ZGF0YX0KICAgICAgICBzaXplPXtzaXplfQogICAgICAvPgogICAgKTsKICB9Cn0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICJuYW1lIiA6ICJ4anprIgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICB7Lyo8TGlzdCovfQogICAgICAgIHsvKmRhdGE9e2NvbnRhY3REYXRhLmVtYWlsLnZhbHVlcygpfSovfQogICAgICAgIHsvKml0ZW09e0VtYWlsSXRlbX0qL30KICAgICAgICB7LypzaXplPXtjb250YWN0RGF0YS5lbWFpbC5zaXplfSovfQogICAgICAgIHsvKmNvbnRhY3RLZXk9e2NvbnRhY3REYXRhLmtleX0qL30KICAgICAgICB7LyovPiovfQogICAgICAgIHsvKjxMaXN0Ki99CiAgICAgICAgey8qZGF0YT17Y29udGFjdERhdGEucGhvbmUudmFsdWVzKCl9Ki99CiAgICAgICAgey8qaXRlbT17UGhvbmVJdGVtfSovfQogICAgICAgIHsvKnNpemU9e2NvbnRhY3REYXRhLnBob25lLnNpemV9Ki99CiAgICAgICAgey8qY29udGFjdEtleT17Y29udGFjdERhdGEua2V5fSovfQogICAgICAgIHsvKi8+Ki99</text>
       </register>
     </registers>
     <search>
