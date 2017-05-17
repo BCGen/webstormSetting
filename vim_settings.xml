@@ -166,11 +166,11 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/ContactItem.tsx" timestamp="1495037552200">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="142" column="22" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/ContactItem.tsx" timestamp="1495038800409">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="12" column="53" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/untitled/index.android.js" timestamp="1482428555472">
         <mark key="[" line="21" column="11" />
@@ -1843,11 +1843,12 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/ContactList.tsx" timestamp="1495035968664">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="53" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/ContactList.tsx" timestamp="1495038160983">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="^" line="6" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/dva_starter_kit/src/components/common/props.ts" timestamp="1482696240586">
         <mark key="[" line="1" column="9" />
@@ -3179,6 +3180,12 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/ContactItemNameBar.tsx" timestamp="1495038834090">
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="19" column="62" />
+        <mark key="^" line="19" column="62" />
+        <mark key="." line="19" column="62" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/dva_starter_kit/src/components/common/index.ts" timestamp="1482696265273">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="21" />
@@ -3635,11 +3642,11 @@
       <jump line="33" column="14" filename="$USER_HOME$/Documents/bitbucket/demo/src/components/common/button/LefLabelButton.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>ontactNameBarProps</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3651,31 +3658,45 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgPFZpZXcgc3R5bGU9e3sgZmxleERpcmVjdGlvbjogJ3JvdycsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWJldHdlZW4nIH19PgogICAgICAgICAgPFRleHQgc3R5bGU9e3sgZm9udFdlaWdodDogJ2JvbGQnLCBmb250U2l6ZTogMTgsIGNvbG9yOiAnIzY5Njk2OScgfX0+e2DBcLW4pEggJHtpbmRleCArIDF9YH08L1RleHQ+CiAgICAgICAgICA8SW9uaWNvbnMKICAgICAgICAgICAgbmFtZT17J2lvcy1yZW1vdmUtY2lyY2xlLW91dGxpbmUnfQogICAgICAgICAgICBjb2xvcj17JyMwMGFjYzEnfQogICAgICAgICAgICBzaXplPXsyNn0KICAgICAgICAgICAgb25QcmVzcz17dGhpcy5fZGVsZXRlQ29udGFjdFBlcnNvbn0KICAgICAgICAgIC8+CiAgICAgICAgPC9WaWV3Pg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmb250V2VpZ2h0Pzogc3RyaW5nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmb250U2l6ZT86IG51bWJlcjsK</text>
+        <text encoding="base64">Y29uc3QgeyBMZWZ0TGFiZWxCdXR0b24gfSA9IEJ1dHRvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmb250Cg==</text>
+        <text encoding="base64">aW1wb3J0IEZ1bWkgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9jb21tb24vRnVtaSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZm9udENvbG9yID0gJyMwMDAnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9udENvbG9yCg==</text>
+      <register name="7" type="4">
+        <text>//
+// const animatioConfig = {
+//   duration: 200,
+//   create  : {
+//     type    : LayoutAnimation.Types.easeIn,
+//     property: LayoutAnimation.Properties.scaleXY,
+//   },
+//   update  : {
+//     type: LayoutAnimation.Types.easeInEaseOut,
+//   },
+//   delete  : {
+//     type    : LayoutAnimation.Types.easeOut,
+//     property: LayoutAnimation.Properties.scaleXY,
+//   }
+// };</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbG9yPXsnIyd9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
