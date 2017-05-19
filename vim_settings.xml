@@ -254,6 +254,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/react-native-tab-view/src/TabBar.js" timestamp="1495180570570">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo/src/store/firebase/firebaseStore.ts" timestamp="1489526496299">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="29" />
@@ -535,6 +541,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/react-native-tab-view/src/TabViewAnimated.js" timestamp="1495180449468">
+        <mark key="[" line="77" column="15" />
+        <mark key="]" line="77" column="16" />
+        <mark key="." line="77" column="16" />
+        <mark key="^" line="4" column="59" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/constants/actionTypes.ts" timestamp="1482874967202">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="12" column="0" />
@@ -798,7 +810,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495176252357">
+      <file name="/Dummy.txt" timestamp="1495180832829">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Button/Button.tsx" timestamp="1485072384441">
@@ -1205,6 +1217,11 @@
         <mark key="]" line="33" column="30" />
         <mark key="." line="33" column="30" />
         <mark key="^" line="33" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/react-native-tab-view/src/TouchableItem.js" timestamp="1495180653454">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="36" column="16" />
+        <mark key="." line="36" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myapp/src/index.js" timestamp="1481460413094">
         <mark key="[" line="1" column="22" />
@@ -2480,11 +2497,11 @@
         <mark key="^" line="128" column="18" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" timestamp="1495109950645">
-        <mark key="[" line="5" column="46" />
-        <mark key="]" line="5" column="55" />
-        <mark key="." line="5" column="55" />
-        <mark key="^" line="5" column="55" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" timestamp="1495181305142">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/index.ts" timestamp="1486576673360">
         <mark key="[" line="5" column="25" />
@@ -3708,10 +3725,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbj86IENvbXBvbmVudDxhbnksIGFueT47Cg==</text>
+        <text encoding="base64">Ly8gYy5pZ25vcmVkWWVsbG93Qm94ID0gWydTZXR0aW5nIGEgdGltZXInXTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Element</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3723,31 +3740,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbj86IENvbXBvbmVudDxhbnksIGFueT47Cg==</text>
+        <text encoding="base64">Ly8gYy5pZ25vcmVkWWVsbG93Qm94ID0gWydTZXR0aW5nIGEgdGltZXInXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZWY/OiBhbnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGljb249e3RoaXMuX2ljb259Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaWdub3JlZFllbGxvd0JveCA9IFsnU2V0dGluZyBhIHRpbWVyJ107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZj17dGhpcy5fcmVmVG91Y2hhYmxlTW9kYWx9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmlnbm9yZWRZZWxsb3dCb3ggPSBbJ1NldHRpbmcgYSB0aW1lciddOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGljb249e3RoaXMuX2ljb259Cg==</text>
+        <text encoding="base64">Y29uc29sZS5pZ25vcmVkWWVsbG93Qm94ID0gWydTZXR0aW5nIGEgdGltZXInXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbj86IGFueTsK</text>
+        <text encoding="base64">Y29uc29sZS5pZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGljb249e3RoaXMuX2ljb259Cg==</text>
+        <text encoding="base64">ICBjaGlsZHJlbj86IENvbXBvbmVudDxhbnksIGFueT47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGljb249e3RoaXMuX2ljb259Cg==</text>
+        <text encoding="base64">ICByZWY/OiBhbnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZj17dGhpcy5fcmVmVG91Y2hhYmxlTW9kYWx9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGljb249e3RoaXMuX2ljb259Cg==</text>
       </register>
     </registers>
     <search>
