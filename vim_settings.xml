@@ -787,6 +787,12 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="15" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/container/Container.tsx" timestamp="1495286947202">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/components/Employee/EmployeeList.tsx" timestamp="1482689063750">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -2577,11 +2583,11 @@
         <mark key="^" line="128" column="18" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" timestamp="1495285345657">
-        <mark key="[" line="16" column="68" />
-        <mark key="]" line="16" column="91" />
-        <mark key="." line="16" column="91" />
-        <mark key="^" line="16" column="91" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" timestamp="1495286519967">
+        <mark key="[" line="71" column="22" />
+        <mark key="]" line="72" column="19" />
+        <mark key="." line="72" column="19" />
+        <mark key="^" line="72" column="19" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/index.ts" timestamp="1486576673360">
         <mark key="[" line="5" column="25" />
@@ -3824,11 +3830,11 @@
       <jump line="6" column="57" filename="$USER_HOME$/Documents/bitbucket/demo/src/components/common/container/RowContainer.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>scrollViewStyle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnRhaW5lclN0eWxlLmxlZnQK</text>
       </register>
       <register name="-" type="4">
-        <text>scrollViewStyle</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3840,61 +3846,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXtzY3JvbGxWaWV3U3R5bGV9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRhaW5lclN0eWxlLmxlZnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU9e3JlcG9ydEVkaXRTdG9yZSEuY29udGVudH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25DaGFuZ2VUZXh0PXtyZXBvcnRFZGl0U3RvcmUhLmNoYW5nZUNvbnRlbnR9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjaGlsZHJlbj86IGFueTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">aW50ZXJmYWNlIElQcm9wcyB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICBjb250YWluZXJTdHlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcmlhbGl6ZShtZXNzYWdlKSk7Cg==</text>
+        <text encoding="base64">ICBjb250YWluZXJTdHlsZS4K</text>
       </register>
-      <register name="8" type="4">
-        <text>class User {
-
-  @serializable(identifier())
-  id = shortid.generate();
-
-  @serializable
-  displayName = 'John Doe';
-}
-
-class Message {
-
-  @serializable
-  message = 'Test';
-
-  @serializable(object(User))
-  author = null;
-
-  @serializable(list(object(Message)))
-  comments = [];
-}
-
-const message = deserialize(Message, {
-  message: 'Hello',
-  author: {id: 1, displayName: 'Alice'},
-  comments: [
-    {
-      message: 'Welcome!',
-      author: {id: 1, displayName: 'Bob'}
-    }
-  ]
-});</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXtzY3JvbGxWaWV3U3R5bGV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKG1lc3NhZ2UsIHtjb2xvcnM6IHRydWUsIGRlcHRoOiAxMH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU9e3JlcG9ydEVkaXRTdG9yZSEuY29udGVudH0K</text>
       </register>
     </registers>
     <search>
