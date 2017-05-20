@@ -219,6 +219,9 @@
         <mark key="." line="123" column="28" />
         <mark key="^" line="118" column="34" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/App.tsx" timestamp="1495296926407">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/services/firebase/config.ts" timestamp="1482519167113">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="6" />
@@ -1343,6 +1346,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/main.js" timestamp="1495296884762">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/uiStore.ts" timestamp="1488526669003">
         <mark key="[" line="34" column="16" />
@@ -2963,6 +2972,7 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/package.json" timestamp="1495296801716" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/HeaderIcon.tsx" timestamp="1486577121640">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="32" />
@@ -3834,7 +3844,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -3849,31 +3859,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3VzdG9tZXJTdC5jbGlzdCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU3R5bGVTaGVldCwgVGV4dCwgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGkgPSBhdXRvcnVuKCgpID0+IHsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y2xhc3MgQXBwIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHsKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0+CiAgICAgICAgPFRleHQ+T3BlbiB1cCBtYWluLmpzIHRvIHN0YXJ0IHdvcmtpbmcgb24geW91ciBhcHAhPC9UZXh0PgogICAgICA8L1ZpZXc+CiAgICApOwogIH0KfQoKY29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGNvbnRhaW5lcjogewogICAgZmxleDogMSwKICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgfSwKfSk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IGNvbnNvbGUubG9nKGN1c3RvbWVyU3QuYyl9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3VzdG9tZXJTdC5jbGlzdCk7Cg==</text>
       </register>
     </registers>
     <search>
