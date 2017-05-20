@@ -614,7 +614,7 @@
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportAddForm/ReportAddForm.tsx" timestamp="1495211660810">
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportAddForm/ReportAddForm.tsx" timestamp="1495285531212">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -2577,11 +2577,11 @@
         <mark key="^" line="128" column="18" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" timestamp="1495285336784">
-        <mark key="[" line="16" column="66" />
-        <mark key="]" line="16" column="68" />
-        <mark key="." line="16" column="68" />
-        <mark key="^" line="16" column="68" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" timestamp="1495285345657">
+        <mark key="[" line="16" column="68" />
+        <mark key="]" line="16" column="91" />
+        <mark key="." line="16" column="91" />
+        <mark key="^" line="16" column="91" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/index.ts" timestamp="1486576673360">
         <mark key="[" line="5" column="25" />
@@ -2859,11 +2859,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportEditForm/ReportEditForm.tsx" timestamp="1494579952020">
-        <mark key="[" line="40" column="20" />
-        <mark key="]" line="40" column="20" />
-        <mark key="." line="40" column="20" />
-        <mark key="^" line="41" column="34" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportEditForm/ReportEditForm.tsx" timestamp="1495285802513">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/mobx/MobxFirebaseModel.ts" timestamp="1493650758674">
         <mark key="[" line="1" column="10" />
@@ -3027,7 +3026,7 @@
         <mark key="." line="39" column="50" />
         <mark key="^" line="39" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/AutoExpandingTextInput.tsx" timestamp="1494594672596">
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/AutoExpandingTextInput.tsx" timestamp="1495285902075">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="19" />
         <mark key="^" line="5" column="17" />
@@ -3692,11 +3691,11 @@
         <mark key="^" line="4" column="98" />
         <mark key="." line="4" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/ScrollableTextInput.tsx" timestamp="1495210590060">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="12" column="41" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/ScrollableTextInput.tsx" timestamp="1495285916264">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+        <mark key="^" line="33" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/ContactListModal.tsx" timestamp="1495197050506">
         <mark key="[" line="13" column="10" />
@@ -3826,10 +3825,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>scrollViewStyle</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>scrollViewStyle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3841,18 +3840,27 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXtzY3JvbGxWaWV3U3R5bGV9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU9e3JlcG9ydEVkaXRTdG9yZSEuY29udGVudH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25DaGFuZ2VUZXh0PXtyZXBvcnRFZGl0U3RvcmUhLmNoYW5nZUNvbnRlbnR9Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2UpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcmlhbGl6ZShtZXNzYWdlKSk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>class User {
 
   @serializable(identifier())
@@ -3885,17 +3893,8 @@ const message = deserialize(Message, {
   ]
 });</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKG1lc3NhZ2UsIHtjb2xvcnM6IHRydWUsIGRlcHRoOiAxMH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKG1lc3NhZ2UsIHtjb2xvcnM6IHRydWUsIGRlcHRoOiAxMH0pOwo=</text>
       </register>
     </registers>
     <search>
