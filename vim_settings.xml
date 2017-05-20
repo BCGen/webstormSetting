@@ -2577,11 +2577,11 @@
         <mark key="^" line="128" column="18" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" timestamp="1495273106302">
-        <mark key="[" line="51" column="35" />
-        <mark key="]" line="51" column="35" />
-        <mark key="." line="51" column="35" />
-        <mark key="^" line="51" column="35" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/App.tsx" timestamp="1495285336784">
+        <mark key="[" line="16" column="66" />
+        <mark key="]" line="16" column="68" />
+        <mark key="." line="16" column="68" />
+        <mark key="^" line="16" column="68" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/index.ts" timestamp="1486576673360">
         <mark key="[" line="5" column="25" />
@@ -3826,10 +3826,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3841,31 +3841,61 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKG1lc3NhZ2UsIHtjb2xvcnM6IHRydWUsIGRlcHRoOiAxMH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcmlhbGl6ZShtZXNzYWdlKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZHJhd2luZzI6IGFueSA9IGRlc2VyaWFsaXplKERyYXdpbmcsIGpzb24pOwo=</text>
+      <register name="5" type="4">
+        <text>class User {
+
+  @serializable(identifier())
+  id = shortid.generate();
+
+  @serializable
+  displayName = 'John Doe';
+}
+
+class Message {
+
+  @serializable
+  message = 'Test';
+
+  @serializable(object(User))
+  author = null;
+
+  @serializable(list(object(Message)))
+  comments = [];
+}
+
+const message = deserialize(Message, {
+  message: 'Hello',
+  author: {id: 1, displayName: 'Alice'},
+  comments: [
+    {
+      message: 'Welcome!',
+      author: {id: 1, displayName: 'Bob'}
+    }
+  ]
+});</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QganNvbiA9IHNlcmlhbGl6ZShkcmF3aW5nKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKG1lc3NhZ2UsIHtjb2xvcnM6IHRydWUsIGRlcHRoOiAxMH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRyYXdpbmcuYXJyb3dzWzBdLmZyb20pOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRyYXdpbmcyLmJveGVzWzBdKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRyYXdpbmcyLmJveGVzWzBdID09PSBkcmF3aW5nLmFycm93c1swXS5mcm9tKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
