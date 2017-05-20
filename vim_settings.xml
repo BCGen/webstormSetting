@@ -255,10 +255,11 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/navigaion/constants.ts" timestamp="1494405506269">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/navigaion/constants.ts" timestamp="1495288003295">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="24" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/node_modules/react-native-tab-view/src/TabBar.js" timestamp="1495180570570">
         <mark key="[" line="11" column="14" />
@@ -787,11 +788,11 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/container/Container.tsx" timestamp="1495286947202">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
+      <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/container/Container.tsx" timestamp="1495287221628">
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="53" />
+        <mark key="^" line="4" column="53" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/components/Employee/EmployeeList.tsx" timestamp="1482689063750">
         <mark key="[" line="19" column="0" />
@@ -3831,10 +3832,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lclN0eWxlLmxlZnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -3846,31 +3847,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lclN0eWxlLmxlZnQK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnRhaW5lclN0eWxlLmxlZnQK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbj86IGFueTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElQcm9wcyB7Cg==</text>
+        <text encoding="base64">ICBjaGlsZHJlbj86IGFueTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb250YWluZXJTdHlsCg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIElQcm9wcyB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb250YWluZXJTdHlsZS4K</text>
+        <text encoding="base64">ICBjb250YWluZXJTdHlsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXtzY3JvbGxWaWV3U3R5bGV9Cg==</text>
+        <text encoding="base64">ICBjb250YWluZXJTdHlsZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU9e3JlcG9ydEVkaXRTdG9yZSEuY29udGVudH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXtzY3JvbGxWaWV3U3R5bGV9Cg==</text>
       </register>
     </registers>
     <search>
