@@ -4,7 +4,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rp" value="import React, { PureComponent } from 'react';&#10;import { View } from 'react-native;&#10;&#10;export default class extends PureComponent&lt;null, null&gt; {&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;      &lt;/View&gt; &#10;    );&#10;  }&#10;}" description="rect-native PureComponent" toReformat="false" toShortenFQNames="true">
+  <template name="rp" value="import React, { PureComponent } from 'react';&#10;import { View } from 'react-native';&#10;&#10;export default class extends PureComponent&lt;null, null&gt; {&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;      &lt;/View&gt; &#10;    );&#10;  }&#10;}" description="rect-native PureComponent" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
