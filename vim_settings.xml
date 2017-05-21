@@ -819,11 +819,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/LoginForm.tsx" timestamp="1495375360767">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/LoginForm.tsx" timestamp="1495377442093">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/report/Record.ts" timestamp="1487950391088">
         <mark key="[" line="42" column="1" />
@@ -1300,11 +1300,11 @@
         <mark key="^" line="107" column="39" />
         <mark key="." line="107" column="39" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/LoginScreen.tsx" timestamp="1495374290796">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="61" />
-        <mark key="^" line="13" column="61" />
-        <mark key="." line="13" column="61" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/LoginScreen.tsx" timestamp="1495376971724">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/node_modules/@shoutem/ui/components/View.js" timestamp="1481705804020">
         <mark key="[" line="22" column="16" />
@@ -2582,11 +2582,11 @@
         <mark key="." line="31" column="49" />
         <mark key="^" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/NavigationOptions.tsx" timestamp="1495371241200">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/NavigationOptions.tsx" timestamp="1495377499371">
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/common/CommonProp.ts" timestamp="1482843608153">
         <mark key="[" line="1" column="1" />
@@ -3812,6 +3812,11 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/Fumi.tsx" timestamp="1495377367019">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeList.ts" timestamp="1482527315212">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -4057,11 +4062,11 @@
       <jump line="11" column="11" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/LoginForm.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFRleHQgPSBBbmltYXRlZC5UZXh0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>箱</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>箱</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -4073,31 +4078,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFRleHQgPSBBbmltYXRlZC5UZXh0Owo=</text>
+        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgPFRleHQ+q0i9Y2s=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8PFRleHRJbnB1dCAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGFpbmVyU3R5bGU9e3toZWlnaHQ6IDY0fX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGFsaWduSXRlbXM9eydjZW50ZXInfSBqdXN0aWZ5Q29udGVudD17J2NlbnRlcid9PgogICAgICAgIDxMb2dpbkZv</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dElucHV0Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD6rSL1jPC9UZXh0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdHlsZT86IFZpZXdTdHlsZTsK</text>
+        <text encoding="base64">ICBpY29uQ2xhc3M6IGFueTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gCg==</text>
+        <text encoding="base64">aW1wb3J0IFRleHQgPSBBbmltYXRlZC5UZXh0Owo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">QGluamVjdChuYXZpZ2F0aW9uU3RvcmUpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgPFRleHQ+q0i9Y2s=</text>
       </register>
     </registers>
     <search>
