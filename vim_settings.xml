@@ -82,10 +82,11 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/loginForm/EmailInput.tsx" timestamp="1495551735616">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/loginForm/EmailInput.tsx" timestamp="1495552512543">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseDb.ts" timestamp="1483803417784">
         <mark key="[" line="6" column="33" />
@@ -1581,11 +1582,11 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/ui/loginScreenStore.ts" timestamp="1495551901671">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/ui/loginScreenStore.ts" timestamp="1495552168807">
         <mark key="[" line="34" column="15" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="23" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+        <mark key="^" line="34" column="15" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/navigation/router.ts" timestamp="1486055265049">
         <mark key="[" line="29" column="0" />
@@ -4315,46 +4316,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZXQgCg==</text>
+        <text encoding="base64">ICAgICAgICAvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>RegisterEmailError</text>
+        <text>onPress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBnZXQgUmVnaXN0ZXJFbWFpbEVycm9yKCk6IGJvb2xlYW4gewogICAgcmV0dXJuIHRoaXMuX1JlZ2lzdGVyRW1haWxFcnJvcjsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMucHJvcHMubG9naW5TY3JlZW5TdG9yZSEucmVnaXN0ZXJFbWFpbEVycm9yID0gIXJlZ2lzdGVyRW1haWxFcnJvcn0K</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZXQgCg==</text>
+        <text encoding="base64">ICAgICAgICAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMucHJvcHMubG9naW5TY3JlZW5TdG9yZSEucmVnaXN0ZXJFbWFpbEVycm9yID0gIXJlZ2lzdGVyRW1haWxFcnJvcn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQmx1cj17KCkgPT4gY29uc29sZS5sb2coJyEhISEhJyl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRpdGxlPXsnY2hhbmdlJ30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE5FR0FUSVZFX0FOSU1fUEFUSCA9IEFOSU1fUEFUSCAqIC0xOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9uQmx1cj17fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEFOSU1fUEFUSCA9IGZvbnRTaXplICogNDsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXQgCg==</text>
       </register>
     </registers>
     <search>
