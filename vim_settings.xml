@@ -1010,7 +1010,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/collapsible/Collapsible.tsx" timestamp="1495479098211">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/collapsible/Collapsible.tsx" timestamp="1495522191394">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -1637,10 +1637,10 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/firebase/firebaseStore.ts" timestamp="1495484445760">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/firebase/firebaseStore.ts" timestamp="1495522311326">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="25" column="14" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/reducers.ts" timestamp="1482931152647">
@@ -1756,6 +1756,12 @@
         <mark key="]" line="2" column="26" />
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/RegisterForm.tsx" timestamp="1495522598862">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/store/report/reportAddStore.ts" timestamp="1489507903783">
         <mark key="[" line="39" column="66" />
@@ -2027,6 +2033,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="7" column="41" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/LoginForm.tsx" timestamp="1495522560743">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo/src/store/user/userStore.ts" timestamp="1489526005261">
         <mark key="[" line="2" column="0" />
@@ -2718,6 +2729,12 @@
         <mark key="]" line="37" column="69" />
         <mark key="." line="37" column="69" />
         <mark key="^" line="37" column="69" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/register/registerStore.ts" timestamp="1495523369710">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/AutoExpandingTextInput.tsx" timestamp="1485137392223">
         <mark key="[" line="40" column="11" />
@@ -4279,11 +4296,11 @@
       <jump line="2" column="7" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -4295,7 +4312,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -4304,9 +4321,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Ly8gaW1wb3J0ICogYXMgZmlyZWJhc2UgZnJvbSAnZmlyZWJhc2UnOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>//
 // // firebase setting
 // const config = {
@@ -4318,17 +4344,8 @@
 //   messagingSenderId: '604813097116'
 // };</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZmlyZWJhc2UuaW5pdGlhbGl6ZUFwcChjb25maWcpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuL2NvbmZpZyc7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2FwaS9maXJlYmFzZS9maXJlYmFzZSc7Cg==</text>
+        <text encoding="base64">ZmlyZWJhc2UuaW5pdGlhbGl6ZUFwcChjb25maWcpOwo=</text>
       </register>
     </registers>
     <search>
