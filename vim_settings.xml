@@ -842,11 +842,11 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/EmailInput.tsx" timestamp="1495626560876">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="8" />
-        <mark key="^" line="50" column="58" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/EmailInput.tsx" timestamp="1495626771045">
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="31" column="32" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="31" column="32" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/rootContext.ts" timestamp="1483792981818">
         <mark key="[" line="2" column="16" />
@@ -2446,11 +2446,11 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/StateIcon.tsx" timestamp="1495624600536">
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="56" />
-        <mark key="." line="14" column="56" />
-        <mark key="^" line="14" column="56" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/StateIcon.tsx" timestamp="1495627862015">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="49" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/components/Map/MapTest.tsx" timestamp="1482675347584">
         <mark key="[" line="3" column="16" />
@@ -2773,10 +2773,10 @@
         <mark key="." line="37" column="69" />
         <mark key="^" line="37" column="69" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/register/registerStore.ts" timestamp="1495626671122">
-        <mark key="[" line="109" column="26" />
-        <mark key="]" line="109" column="30" />
-        <mark key="." line="109" column="30" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/register/registerStore.ts" timestamp="1495626697188">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="109" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/AutoExpandingTextInput.tsx" timestamp="1485137392223">
@@ -4344,10 +4344,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dHlwZSBTdGF0ZSA9ICdibGFuaycgfCAnbm9uZScgfCAncmlnaHQnIHwgJ3dyb25nJzsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>right</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFRUVFRUVcPg==</text>
@@ -4359,33 +4359,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwZSBTdGF0ZSA9ICdibGFuaycgfCAnbm9uZScgfCAncmlnaHQnIHwgJ3dyb25nJzsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9naW5TY3JlZW5TdG9yZS5zZXRSZWdpc3RlckVtYWlsRXJyb3IoJ3dyb25nJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQ7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IC8vIEBjb21wdXRlZAogIC8vIGdldCByZWdpc3RlckVtYWlsU3RhdGUoKTogU3RhdGUgewogIC8vICAgcmV0dXJuIHRoaXMuX3JlZ2lzdGVyRW1haWxTdGF0ZTsKICAvLyB9CiAgLy8KICAvLyBAY29tcHV0ZWQKICAvLyBnZXQgcmVnaXN0ZXJQYXNzd29yZFN0YXRlKCk6IFN0YXRlIHsKICAvLyAgIHJldHVybiB0aGlzLl9yZWdpc3RlclBhc3N3b3JkU3RhdGU7CiAgLy8gfQogIC8vCiAgLy8gQGNvbXB1dGVkCiAgLy8gZ2V0IHJlZ2lzdGVyUGFzc3dvcmRDaGVja1N0YXRlKCk6IFN0YXRlIHsKICAvLyAgIHJldHVybiB0aGlzLl9yZWdpc3RlclBhc3N3b3JkQ2hlY2tTdGF0ZTsKICAvLyB9CiAgLy8KICAvLyBAYWN0aW9uIHNldFJlZ2lzdGVyRW1haWxFcnJvcih2YWx1ZTogU3RhdGUpIHsKICAvLyAgIHRoaXMuX3JlZ2lzdGVyRW1haWxTdGF0ZSA9IHZhbHVlOwogIC8vIH0KICAvLwogIC8vIEBhY3Rpb24gc2V0UmVnaXN0ZXJQYXNzd29yZFN0YXRlKHZhbHVlOiBTdGF0ZSkgewogIC8vICAgdGhpcy5fcmVnaXN0ZXJQYXNzd29yZFN0YXRlID0gdmFsdWU7CiAgLy8gfQogIC8vCiAgLy8gQGFjdGlvbiBzZXRSZWdpc3RlclBhc3N3b3JkQ2hlY2tTdGF0ZSh2YWx1ZTogU3RhdGUpIHsKICAvLyAgIHRoaXMuX3JlZ2lzdGVyUGFzc3dvcmRDaGVja1N0YXRlID0gdmFsdWU7CiAgLy8gfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>// @observable private _registerEmailState: State = 'none';
-  // @observable private _registerPasswordState: State = 'none';
-  // @observable private _registerPasswordCheckState: State = 'none';</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuICdyZWQnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2dpblNjcmVlblN0b3JlPzogTG9naW5TY3JlZW5TdG9yZTsK</text>
+        <text encoding="base64">ICAgIGlmIChlbWFpbFN0YXRlID09PSAnYmxhbmsnIHx8IGVtYWlsU3RhdGUgPT09ICd3cm9uZycpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2dpblNjcmVlblN0b3JlPzogTG9naW5TY3JlZW5TdG9yZTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9naW5TY3JlZW5TdG9yZSB9IGZyb20gJy4uL3VpJzsK</text>
       </register>
     </registers>
     <search>
