@@ -842,11 +842,11 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/EmailInput.tsx" timestamp="1495612092826">
-        <mark key="[" line="50" column="35" />
-        <mark key="]" line="50" column="43" />
-        <mark key="^" line="50" column="43" />
-        <mark key="." line="50" column="43" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/EmailInput.tsx" timestamp="1495624775372">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="29" />
+        <mark key="." line="38" column="29" />
+        <mark key="^" line="38" column="29" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/rootContext.ts" timestamp="1483792981818">
         <mark key="[" line="2" column="16" />
@@ -2446,6 +2446,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="12" column="13" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/StateIcon.tsx" timestamp="1495624600536">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
+        <mark key="^" line="14" column="56" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/components/Map/MapTest.tsx" timestamp="1482675347584">
         <mark key="[" line="3" column="16" />
@@ -4339,10 +4345,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>none</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFRUVFRUVcPg==</text>
@@ -4354,7 +4360,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -4362,23 +4368,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">QGluamVjdChsb2dpblNjcmVlblN0b3JlKQpAb2JzZXJ2ZXIKY2xhc3MgU3RhdGVJY29uIGV4dGVuZHMgQ29tcG9uZW50PGFueSwgYW55PiB7CgogIHJlbmRlcigpIHsKCiAgICBjb25zdCB7IGxvZ2luU2NyZWVuU3RvcmUsIHN0YXRlTmFtZSB9ID0gdGhpcy5wcm9wczsKCiAgICBsZXQgY29sb3I7CiAgICBsZXQgaWNvbk5hbWU7CgogICAgaWYgKGxvZ2luU2NyZWVuU3RvcmUhW3N0YXRlTmFtZV0gPT09ICdyaWdodCcpIHsKICAgICAgY29sb3IgPSAnZ3JlZW4nOwogICAgICBpY29uTmFtZSA9ICdpb3MtY2hlY2ttYXJrLWNpcmNsZSc7CiAgICB9IGVsc2UgaWYgKGxvZ2luU2NyZWVuU3RvcmUhW3N0YXRlTmFtZV0gPT09ICdibGFuaycgfHwgbG9naW5TY3JlZW5TdG9yZSFbc3RhdGVOYW1lXSA9PT0gJ3dyb25nJykgewogICAgICBjb2xvciA9ICdyZWQnOwogICAgICBpY29uTmFtZSA9ICdpb3MtY2xvc2UtY2lyY2xlLW91dGxpbmUnOwogICAgfSBlbHNlIHsKICAgICAgY29sb3IgPSAnI0IwQkVDNSc7CiAgICAgIGljb25OYW1lID0gJ2lvcy1yZW1vdmUtY2lyY2xlLW91dGxpbmUnOwogICAgfQoKICAgIHJldHVybiAoCiAgICAgIDxJY29uCiAgICAgICAgcGFkZGluZ1JpZ2h0PXswfQogICAgICAgIGNvbG9yPXtjb2xvcn0KICAgICAgICBuYW1lPXtpY29uTmFtZX0KICAgICAgICBzaXplPXszMH0KICAgICAgLz4KICAgICk7CiAgfQp9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX3JlZ2lzdGVyUGFzc3dvcmRDaGVja1N0YXRlID0gdmFsdWU7Cg==</text>
+        <text encoding="base64">ICByZWdpc3RlclN0b3JlPzogUmVnaXN0ZXJTdG9yZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZXQgcmVnaXN0ZXJQYXNzd29yZENoZWNrU3RhdGUodmFsdWU6IGJvb2xlYW4pIHsK</text>
+        <text encoding="base64">ICBsb2dpblNjcmVlblN0b3JlPzogTG9naW5TY3JlZW5TdG9yZTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">QGluamVjdChsb2dpblNjcmVlblN0b3JlLCByZWdpc3RlclN0b3JlKQpAb2JzZXJ2ZXIKZXhwb3J0IGRlZmF1bHQgY2xhc3MgRW1haWxJbnB1dCBleHRlbmRzIENvbXBvbmVudDxQcm9wcywge30+IHsKCiAgcmVuZGVyKCkgewoKICAgIGNvbnN0IHsgbG9naW5TY3JlZW5TdG9yZSwgcmVnaXN0ZXJTdG9yZSB9ID0gdGhpcy5wcm9wczsKCiAgICByZXR1cm4gKAogICAgICA8Um93Q29udGFpbmVyPgogICAgICAgIDxGdW1pCiAgICAgICAgICBwYXNzaXZlTGFiZWxDb2xvcj17dGhpcy5fcGFzc2l2ZUxhYmVsQ29sb3IoKX0KICAgICAgICAgIGljb25Db2xvcj17J2dyZWVuJ30KICAgICAgICAgIG9uQmx1cj17cmVnaXN0ZXJTdG9yZSEuZW1haWxDaGVja30KICAgICAgICAgIGljb25OYW1lPXsnZW52ZWxvcGUtbyd9CiAgICAgICAgICBvbkNoYW5nZVRleHQ9e3JlZ2lzdGVyU3RvcmUhLnNldEVtYWlsfQogICAgICAgICAgbGFiZWw9e3RoaXMuX2xhYmVsKCl9CiAgICAgICAgICB2YWx1ZT17cmVnaXN0ZXJTdG9yZSEuZW1haWx9CiAgICAgICAgLz4KICAgICAgICA8U3RhdGVJY29uIHN0YXRlTmFtZT17J3JlcG9ydEVtYWlsU3RhdGUnfSAvPgogICAgICA8L1Jvd0NvbnRhaW5lcj4KICAgICk7CiAgfQoKICBfcGFzc2l2ZUxhYmVsQ29sb3IgPSAoKSA9PiB7CiAgICBjb25zdCB7IHJlZ2lzdGVyRW1haWxTdGF0ZSB9ID0gdGhpcy5wcm9wcy5sb2dpblNjcmVlblN0b3JlITsKCiAgICBpZiAocmVnaXN0ZXJFbWFpbFN0YXRlID09PSAnYmxhbmsnIHx8IHJlZ2lzdGVyRW1haWxTdGF0ZSA9PT0gJ3dyb25nJykgewogICAgICByZXR1cm4gJ3JlZCc7CiAgICB9CgogICAgcmV0dXJuIHVuZGVmaW5lZDsKICB9CgogIF9sYWJlbCA9ICgpID0+IHsKCiAgICBjb25zdCB7IHJlZ2lzdGVyRW1haWxTdGF0ZSB9ID0gdGhpcy5wcm9wcy5sb2dpblNjcmVlblN0b3JlITsKCiAgICBpZiAocmVnaXN0ZXJFbWFpbFN0YXRlID09PSAncmlnaHQnKSB7CiAgICAgIHJldHVybiAnq0i9Yyc7CiAgICB9IGVsc2UgaWYgKHJlZ2lzdGVyRW1haWxTdGF0ZSA9PT0gJ3dyb25nJykgewogICAgICByZXR1cm4gJ6tIvWMgKK7mpqG/+bt+KSc7CiAgICB9IGVsc2UgaWYgKHJlZ2lzdGVyRW1haWxTdGF0ZSA9PT0gJ2JsYW5rJykgewogICAgICByZXR1cm4gJ6tIvWMgKKW8v+mkSqS6rmUpJzsKICAgIH0KICAgIHJldHVybiAnq0i9Yyc7CiAgfQp9</text>
       </register>
     </registers>
     <search>
