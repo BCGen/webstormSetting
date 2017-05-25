@@ -267,7 +267,7 @@
         <mark key="." line="123" column="28" />
         <mark key="^" line="118" column="34" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/App.tsx" timestamp="1495529895618">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/App.tsx" timestamp="1495697019781">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="46" />
         <mark key="." line="6" column="46" />
@@ -1399,11 +1399,10 @@
         <mark key="^" line="107" column="39" />
         <mark key="." line="107" column="39" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/LoginScreen.tsx" timestamp="1495647531153">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="21" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/LoginScreen.tsx" timestamp="1495697453962">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/node_modules/@shoutem/ui/components/View.js" timestamp="1481705804020">
         <mark key="[" line="22" column="16" />
@@ -4397,10 +4396,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udFNpemU9ezMwfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncmVlblw+</text>
@@ -4412,31 +4411,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udFNpemU9ezMwfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJsYW5rIGhlaWdodD17MTB9Lz4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFBpeGVsUmF0aW8uc3RhcnREZXRlY3RpbmcoKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3Qgd2luZG93ID0gRGltZW5zaW9ucy5nZXQoJ3dpbmRvdycpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvbnRTaXplICA6IDE4LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpbmRvdyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IExhYmVsIGZyb20gJy4uL0xhYmVsJzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCchIScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8TGFiZWwgey4uLnN0eWxlcy50ZXh0U3R5bGV9ICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udFNpemU9ezMwfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvbnRTaXplID0gZm9udFNpemUqIDIwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJsYW5rIGhlaWdodD17MTB9Lz4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvbgo=</text>
+        <text encoding="base64">ICAgIGZvbnRTaXplICA6IDE4LAo=</text>
       </register>
     </registers>
     <search>
