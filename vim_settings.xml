@@ -446,7 +446,7 @@
         <mark key="^" line="12" column="6" />
         <mark key="." line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/initScreen/InitScreen.tsx" timestamp="1495736316840">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/initScreen/InitScreen.tsx" timestamp="1495788757926">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -1684,11 +1684,11 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/firebase/firebaseStore.ts" timestamp="1495736337911">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="27" column="5" />
-        <mark key="." line="27" column="5" />
-        <mark key="^" line="27" column="5" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/firebase/firebaseStore.ts" timestamp="1495788827430">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="36" column="22" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/index.ts" timestamp="1495560368035">
         <mark key="[" line="18" column="26" />
@@ -4398,46 +4398,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbicpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnISEnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>registerScreen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncmVlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndScpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnISEnKQo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbicpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndScpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnISEnKQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1vcHJ0IHt9IGZyb20gJycK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnISEhIScpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zLmNvbnN0cnVjdG9yb2xoCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ34nKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyEhIScpZGQK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnISEnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ35+fiEhJykK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnISEhIScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zLmNvbnN0cnVjdG9yb2xoCg==</text>
       </register>
     </registers>
     <search>
