@@ -6,7 +6,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="set" value="set $NAME$($SET$) {&#10;  $END$&#10;}" description="set" toReformat="false" toShortenFQNames="true">
+  <template name="set" value="set $NAME$(value: $SET$) {&#10;  $END$&#10;}" description="set" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SET" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
