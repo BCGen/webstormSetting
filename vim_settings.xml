@@ -2520,11 +2520,11 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/modal/Modal.tsx" timestamp="1495902009215">
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/modal/Modal.tsx" timestamp="1495904633044">
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="46" column="37" />
+        <mark key="^" line="46" column="37" />
+        <mark key="." line="46" column="37" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/StateIcon.tsx" timestamp="1495632404495">
         <mark key="[" line="37" column="17" />
@@ -4471,11 +4471,11 @@
       <jump line="5" column="7" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/register/registerStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmc6IDEwLAo=</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncmVlblw+</text>
@@ -4487,31 +4487,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmc6IDEwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYWRvd0NvbG9yOiAnZ3JlZW4nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAnMTAwJScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYWRvd0NvbG9yOiAnZ3JlZW4nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogMjAwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbm5lclN0eWxlOiBWaWV3U3R5bGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNoYWRvd1JhZGl1cyAgIDogNSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVyYXRpb249ezMwMH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNoYWRvd09wYWNpdHk6IDEuMCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmc6IDEwLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAnMTAwJScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9yZW5kZXJIQmxhbmsgPSAoKSA9PiA8U3F1YXJlQnV0dG9uIG9uUHJlc3M9e3RoaXMuX29uUHJlc3N9IHN0eWxlPXtzdHlsZXMuaEJsYW5rU3R5bGV9IC8+Owo=</text>
+        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9yZW5kZXJWQmxhbmsgPSAoKSA9PiA8U3F1YXJlQnV0dG9uIG9uUHJlc3M9e3RoaXMuX29uUHJlc3N9IHN0eWxlPXtzdHlsZXMudkJsYW5rU3R5bGV9IC8+Owo=</text>
+        <text encoding="base64">ICBpbm5lclN0eWxlOiBWaWV3U3R5bGUsCg==</text>
       </register>
     </registers>
     <search>
