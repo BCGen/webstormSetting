@@ -1,12 +1,12 @@
 <templateSet group="Typescript">
-  <template name="get" value="get $NAME$(): $TYPE$ {&#10;  return $END$&#10;}" description="get" toReformat="false" toShortenFQNames="true">
+  <template name="get" value="get $NAME$(): $TYPE$ {&#10;  return _$NAME$;&#10;}" description="get" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="set" value="set $NAME$(value: $SET$) {&#10;  $END$&#10;}" description="set" toReformat="false" toShortenFQNames="true">
+  <template name="set" value="set $NAME$(value: $SET$) {&#10;  this._$NAME$ = value;&#10;}" description="set" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SET" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

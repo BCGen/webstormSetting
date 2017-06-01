@@ -1,10 +1,10 @@
 <templateSet group="Tsx">
-  <template name="rc" value="import { observer } from 'mobx-react/native';&#10;import React, { Component } from 'react';&#10;import { View } from 'react-native';&#10;&#10;interface Props {&#10;&#10;}&#10;&#10;@observer&#10;export default class extends Component&lt;Props, {}&gt; {&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;      &lt;/View&gt; &#10;    );&#10;  }&#10;}" description="react-native Component" toReformat="false" toShortenFQNames="true">
+  <template name="rc" value="import { inject, observer } from 'mobx-react/native';&#10;import React, { Component } from 'react';&#10;import { View } from 'react-native';&#10;&#10;interface Props {&#10;&#10;}&#10;&#10;@inject&#10;@observer&#10;export default class extends Component&lt;Props, {}&gt; {&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;      &lt;/View&gt; &#10;    );&#10;  }&#10;}&#10;" description="react-native Component" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rp" value="import React, { PureComponent } from 'react';&#10;import { View } from 'react-native';&#10;&#10;export default class extends PureComponent&lt;null, null&gt; {&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;      &lt;/View&gt; &#10;    );&#10;  }&#10;}" description="rect-native PureComponent" toReformat="false" toShortenFQNames="true">
+  <template name="rp" value="import React, { PureComponent } from 'react';&#10;import { View } from 'react-native';&#10;&#10;export default class extends PureComponent&lt;null, null&gt; {&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;      &lt;/View&gt; &#10;    );&#10;  }&#10;}&#10;" description="rect-native PureComponent" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
