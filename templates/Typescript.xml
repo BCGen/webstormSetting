@@ -1,5 +1,5 @@
 <templateSet group="Typescript">
-  <template name="get" value="get $NAME$(): $TYPE$ {&#10;  return _$NAME$;&#10;}" description="get" toReformat="false" toShortenFQNames="true">
+  <template name="get" value="get $NAME$(): $TYPE$ {&#10;  return this._$NAME$;&#10;}" description="get" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
