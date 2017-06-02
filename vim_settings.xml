@@ -2629,6 +2629,12 @@
         <mark key="." line="31" column="74" />
         <mark key="^" line="31" column="77" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerAddScreen/component/contactListForm/AddDeleteButton.tsx" timestamp="1496415434812">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="25" column="24" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/index.ts" timestamp="1495186251728">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -3150,11 +3156,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerAddScreen/component/contactListForm/PhoneInputBar.tsx" timestamp="1496413784651">
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="35" column="7" />
-        <mark key="." line="35" column="7" />
-        <mark key="^" line="35" column="7" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerAddScreen/component/contactListForm/PhoneInputBar.tsx" timestamp="1496415507222">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="12" />
+        <mark key="." line="60" column="12" />
+        <mark key="^" line="50" column="22" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/RegisterForm.tsx" timestamp="1495983324514">
         <mark key="[" line="32" column="18" />
@@ -4530,17 +4536,17 @@
       <jump line="5" column="43" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerAddScreen/component/CustomerAddForm.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>both</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>both</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ3VzdG9tZXJDb250YWN0UGVyc29uIH0gZnJvbSAnLi4vLi4vLi4vLi4vc3RvcmUnOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nUmlnaHQ9ezB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -4549,28 +4555,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBUeXBlID0gCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBAYWN0aW9uCiAgZGVsZXRlRW1haWwgPSAoa2V5OiBzdHJpbmcpID0+IHsKICAgIHRoaXMuX2VtYWlsTGlzdC5kZWxldGUoa2V5KTsKICB9CiAgCiAgQGFjdGlvbgogIGRlbGV0ZVBob25lID0gKGtleTogc3RyaW5nKSA9PiB7CiAgICB0aGlzLl9waG9uZUxpc3QuZGVsZXRlKGtleSk7CiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFkZD17fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9e3RoaXMuX29uUHJlc3N9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhZGRQaG9uZTogKCkgPT4gdm9pZDsK</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmdSaWdodD17MH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAYWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNpemU9ezI4fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWU9e2luZGV4ID09PSAwID8gJ2lvcy1hZGQtY2lyY2xlJyA6ICdpb3MtY2xvc2UtY2lyY2xlLW91dGxpbmUnfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8SWNvbgo=</text>
       </register>
     </registers>
     <search>
