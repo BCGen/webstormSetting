@@ -21,10 +21,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="gs" value="get $NAME$(): $TYPE$ {&#10;  return this._$NAME$;&#10;}&#10;&#10;set $NAME$(value: $Type$) {&#10;  this._$NAME$ = value;&#10;}&#10;" description="get and set" toReformat="false" toShortenFQNames="true">
+  <template name="gs" value="get $NAME$(): $TYPE$ {&#10;  return this._$NAME$;&#10;}&#10;&#10;set $NAME$(value: $TYPE$) {&#10;  this._$NAME$ = value;&#10;}&#10;" description="get and set" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="Type" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
