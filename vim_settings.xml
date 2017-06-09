@@ -1347,6 +1347,12 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="17" column="2" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/component/Form.tsx" timestamp="1497042373261">
+        <mark key="'" line="0" column="19" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="19" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/api/mobx/model/index.ts" timestamp="1496579594162">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="9" />
@@ -1495,10 +1501,10 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/MultilineInput.tsx" timestamp="1496955205871">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/MultilineInput.tsx" timestamp="1497042186720">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/routers/EmployeeCreate.tsx" timestamp="1482524823015">
         <mark key="[" line="71" column="35" />
@@ -5099,11 +5105,11 @@
       <jump line="3" column="66" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/ReportAddScreen.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5115,31 +5121,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZGV4KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvblN1Ym1pdEVkaXRpbmc7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBzZXQgZGF0ZSh2YWx1ZTogc3RyaW5nKSB7CiAgICB0aGlzLl9kYXRlID0gdmFsdWU7CiAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMub25TdWJtaXRFZGl0aW5nID0gXy5kZWJvdW5jZSh0aGlzLl9vblN1Ym1pdEVkaXRpbmcsIDEwMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduJykK</text>
+        <text encoding="base64">ICBvblN1Ym1pdEVkaXRpbmcgPSBfLmRlYm91bmNlKHRoaXMuX29uU3VibWl0RWRpdGluZywgMTAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVjb3JkTGlzdC52YWx1ZXMoKVtpbmRleF0uY29udGVudCk7Cg==</text>
+        <text encoding="base64">ICBvblN1Ym1pdEVkaXRpbmcgPSBfLmRlYm91bmNlKHRoaXMuX29uU3VibWl0RWRpdGluZywgMTAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3knKQo=</text>
+        <text encoding="base64">ICAgICAgcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZGV4KTsK</text>
       </register>
     </registers>
     <search>
