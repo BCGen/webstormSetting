@@ -982,11 +982,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/index.ts" timestamp="1496987348796">
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="23" column="21" />
-        <mark key="." line="23" column="21" />
-        <mark key="^" line="23" column="21" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/index.ts" timestamp="1496987568967">
+        <mark key="[" line="6" column="111" />
+        <mark key="]" line="6" column="110" />
+        <mark key="." line="6" column="110" />
+        <mark key="^" line="6" column="110" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/reducers.ts" timestamp="1482931152647">
         <mark key="[" line="16" column="46" />
@@ -1337,10 +1337,12 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/component/Form.tsx" timestamp="1496987282404">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/component/Form.tsx" timestamp="1496988509229">
+        <mark key="'" line="4" column="19" />
+        <mark key="[" line="112" column="3" />
+        <mark key="]" line="112" column="14" />
+        <mark key="." line="112" column="14" />
+        <mark key="^" line="112" column="14" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/api/mobx/model/index.ts" timestamp="1496579594162">
         <mark key="[" line="4" column="9" />
@@ -1851,6 +1853,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="^" line="37" column="24" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/component/Input.tsx" timestamp="1496987943059">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="26" column="50" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/package.json" timestamp="1489065230122">
         <mark key="[" line="11" column="19" />
@@ -3840,11 +3848,11 @@
         <mark key="^" line="32" column="23" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/constants/store.ts" timestamp="1496834977556">
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="8" column="46" />
-        <mark key="." line="8" column="46" />
-        <mark key="^" line="8" column="46" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/constants/store.ts" timestamp="1496987476815">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="58" />
+        <mark key="." line="13" column="58" />
+        <mark key="^" line="13" column="58" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/api/mobx/model/mobxMapModel.ts" timestamp="1496846715020">
         <mark key="[" line="49" column="0" />
@@ -4838,11 +4846,11 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/component/Footer.tsx" timestamp="1496956420930">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="10" column="49" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/component/Footer.tsx" timestamp="1496987953772">
+        <mark key="[" line="2" column="65" />
+        <mark key="]" line="2" column="69" />
+        <mark key="." line="2" column="69" />
+        <mark key="^" line="2" column="69" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo/src/store/report/model/index.ts" timestamp="1489490993836">
         <mark key="[" line="3" column="26" />
@@ -4915,9 +4923,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="6" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomersListScreen.tsx" />
-      <jump line="58" column="21" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/customerStore.ts" />
-      <jump line="116" column="24" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/reportStore.ts" />
       <jump line="75" column="29" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/userStore.ts" />
       <jump line="32" column="22" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomerAddScreen.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/CustomerAddScreen.tsx" />
@@ -5015,40 +5020,43 @@
       <jump line="39" column="13" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerListScreen/component/customerItem/toolBar/ToolBar.tsx" />
       <jump line="0" column="8" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/report/reportAddStore.ts" />
       <jump line="126" column="0" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/component/Form.tsx" />
+      <jump line="80" column="46" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/component/Form.tsx" />
+      <jump line="103" column="4" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/component/Form.tsx" />
+      <jump line="4" column="19" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/component/Form.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCchICcpCg==</text>
+      <register name="0" type="4">
+        <text>onSelectionChange=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVwb3J0QWRkU3RvcmUgfSBmcm9tICcuLi8uLi8uLi9zdG9yZSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQmxhbmsgfSBmcm9tICcuLi8uLi8uLi9jb21wb25lbnRzL2NvbW1vbic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVwb3J0QWRkU3RvcmUgfSBmcm9tICcuLi8uLi8uLi9jb25zdGFudHMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgS2V5Ym9hcmQsIFNjcm9sbFZpZXcsIFZpZXcgfSBmcm9tICdyZWFjdC1uYXRpdmUnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0b0V4cGFuZGluZ0lucHV0IH0gZnJvbSAnLi4vLi4vLi4vY29tcG9uZW50cy9jb21tb24nOwo=</text>
+        <text encoding="base64">ICAgICAgICA8QmxhbmsgaGVpZ2h0PXswLjV9IC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZj17dGhpcy5fcmVmfQo=</text>
+        <text encoding="base64">ICAgICAgICA8Rm9vdGVyIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZj17dGhpcy5fcmVmfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZj17dGhpcy5fcmVmfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -5057,7 +5065,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
     </registers>
     <search>
