@@ -9,7 +9,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="sc" value="interface Styles {&#10;  containerStyle: ViewStyle;&#10;}&#10;&#10;const styles: Styles = {&#10;  containerStyle: {&#10;    &#10;  },&#10;};&#10;&#10;" description="create styleSheet" toReformat="false" toShortenFQNames="true">
+  <template name="sc" value="interface Styles {&#10;  containerStyle: ViewStyle;&#10;}&#10;&#10;const styles: Styles = {&#10;  containerStyle: {&#10;    &#10;  },&#10;};&#10;" description="create styleSheet" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
