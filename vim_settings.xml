@@ -379,11 +379,11 @@
         <mark key="." line="3" column="58" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/setting.ts" timestamp="1498167725466">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="26" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/setting.ts" timestamp="1498168062539">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="23" />
         <mark key="^" line="28" column="26" />
-        <mark key="." line="28" column="26" />
+        <mark key="." line="24" column="23" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/components/index.ts" timestamp="1482978522270">
         <mark key="[" line="0" column="16" />
@@ -726,6 +726,11 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/tslint.json" timestamp="1498168089627">
+        <mark key="[" line="111" column="16" />
+        <mark key="]" line="111" column="16" />
+        <mark key="." line="111" column="16" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/routers/constant.ts" timestamp="1484604387985">
         <mark key="[" line="23" column="31" />
         <mark key="]" line="23" column="30" />
@@ -986,7 +991,7 @@
         <mark key="^" line="11" column="54" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerListScreen/CustomerListScreen.tsx" timestamp="1498160839875" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerListScreen/CustomerListScreen.tsx" timestamp="1498167840494" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerAddScreen/component/NameInput.tsx" timestamp="1496505358471">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -1024,7 +1029,7 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/NavigationOptions.tsx" timestamp="1498153973180">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/NavigationOptions.tsx" timestamp="1498167793857">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="17" />
         <mark key="." line="16" column="17" />
@@ -2495,7 +2500,7 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/UserListScreen.tsx" timestamp="1498154153075">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/UserListScreen.tsx" timestamp="1498167832499">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="46" />
@@ -3043,7 +3048,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498163723932">
+      <file name="/Dummy.txt" timestamp="1498191055892">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/common/animated.ts" timestamp="1493106737958">
@@ -5147,10 +5152,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>function</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5162,25 +5167,25 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnISEhJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnfn5+JykK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhfX0RFVl9fKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnfn5+JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgKChwcm9jZXNzLmVudi5OT0RFX0VOViB8fCAnJykudG9Mb3dlckNhc2UoKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhfX0RFVl9fKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgKChwcm9jZXNzLmVudi5OT0RFX0VOViB8fCAnJykudG9Mb3dlckNhc2UoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
