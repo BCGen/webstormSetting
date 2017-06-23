@@ -2855,6 +2855,12 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/app.json" timestamp="1498191376577">
+        <mark key="[" line="25" column="2" />
+        <mark key="]" line="25" column="1" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/index.tsx" timestamp="1482844122559">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -4106,6 +4112,12 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/exp.json" timestamp="1498191125733">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/screens/test/GeoTwo.tsx" timestamp="1485843288545">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="55" />
@@ -4548,11 +4560,11 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/package.json" timestamp="1496914482751">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/package.json" timestamp="1498191209271">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="13" />
         <mark key="^" line="9" column="3" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/HeaderIcon.tsx" timestamp="1486577121640">
         <mark key="[" line="14" column="32" />
@@ -5152,10 +5164,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5167,31 +5179,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnISEhJykK</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtcHJvZ3Jlc3MiOiAiXjMuMi4xIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhfX0RFVl9fKQo=</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtbW9kYWwiOiAiXjIuNC4wIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtbWF0ZXJpYWwtdWkiOiAiXjEuMTIuMCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnfn5+JykK</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtbWF0ZXJpYWwtdGV4dGZpZWxkIjogIl4wLjYuMSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhfX0RFVl9fKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnISEhJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhfX0RFVl9fKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgKChwcm9jZXNzLmVudi5OT0RFX0VOViB8fCAnJykudG9Mb3dlckNhc2UoKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnfn5+JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhfX0RFVl9fKQo=</text>
       </register>
     </registers>
     <search>
