@@ -828,11 +828,11 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/NormalUserItem.tsx" timestamp="1498638808828">
-        <mark key="[" line="56" column="32" />
-        <mark key="]" line="56" column="50" />
-        <mark key="." line="56" column="50" />
-        <mark key="^" line="56" column="50" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/NormalUserItem.tsx" timestamp="1498645508792">
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="56" column="44" />
+        <mark key="." line="56" column="44" />
+        <mark key="^" line="56" column="26" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerAddScreen/component/contactListForm/emailList/EmailList.tsx" timestamp="1496500200507">
         <mark key="[" line="21" column="35" />
@@ -3190,11 +3190,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/Modal.tsx" timestamp="1498643954503">
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="5" column="67" />
-        <mark key="." line="5" column="67" />
-        <mark key="^" line="5" column="67" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/Modal.tsx" timestamp="1498646137792">
+        <mark key="[" line="65" column="30" />
+        <mark key="]" line="65" column="30" />
+        <mark key="." line="65" column="30" />
+        <mark key="^" line="66" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/ReportEditScreen.tsx" timestamp="1488019424145">
         <mark key="[" line="107" column="21" />
@@ -3879,10 +3879,10 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/modal/Modal.tsx" timestamp="1498644236240">
-        <mark key="[" line="89" column="21" />
-        <mark key="]" line="89" column="21" />
-        <mark key="." line="89" column="21" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/modal/Modal.tsx" timestamp="1498645774985">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/StateIcon.tsx" timestamp="1495632404495">
         <mark key="[" line="37" column="17" />
@@ -4855,11 +4855,11 @@
         <mark key="^" line="73" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/MissionButton.tsx" timestamp="1498641960406">
-        <mark key="[" line="77" column="19" />
-        <mark key="]" line="77" column="24" />
-        <mark key="^" line="77" column="24" />
-        <mark key="." line="77" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/MissionButton.tsx" timestamp="1498645612032">
+        <mark key="[" line="65" column="16" />
+        <mark key="]" line="65" column="30" />
+        <mark key="^" line="65" column="30" />
+        <mark key="." line="65" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/report/model/reportStoreModel.ts" timestamp="1493653841436">
         <mark key="[" line="14" column="14" />
@@ -5023,31 +5023,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1heEhlaWdodDogRGltZW5zaW9ucy5nZXQoJ3dpbmRvdycpLmhlaWdodCAqIDAuOCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIG1heEhlaWdodCAgICAgIDogJzkwJScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvbnRXZWlnaHQ6ICdib2xkJyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICApIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbGlnbkl0ZW1zICAgICAgICAgIDogJ2NlbnRlcicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3IgICAgIDogJ3JlZCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3IgICAgIDogJ3JlZCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGFsaWduSXRlbXMgICAgIDogJ2NlbnRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBqamtkZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFNjcm9sbFZpZXcvPgo=</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93ICAgICAgIDogJ2hpZGRlbicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISE8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAhISEhISEhISEhISEK</text>
+        <text encoding="base64">ICB1c2VyS2V5Pzogc3RyaW5nOwo=</text>
       </register>
     </registers>
     <search>
