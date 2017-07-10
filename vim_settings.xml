@@ -182,11 +182,11 @@
         <mark key="^" line="30" column="82" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/firebase.json" timestamp="1499694816638">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/firebase.json" timestamp="1499702805577">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/user/model/user.ts" timestamp="1498590373005">
         <mark key="[" line="13" column="62" />
@@ -999,7 +999,6 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/navigation/MainNavigation.tsx" timestamp="1499685974612" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/api/firebase/index.ts" timestamp="1485213273291">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
@@ -4199,11 +4198,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.js" timestamp="1499695221774">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="37" column="25" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.js" timestamp="1499703121350">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="26" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/toolBar/ReportAddIcon.tsx" timestamp="1495205632785">
         <mark key="[" line="10" column="17" />
@@ -5022,47 +5021,52 @@
       <jump line="62" column="55" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/NormalUserItem.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBhZG1pbi5kYXRhYmFzZSgpLnBhcmVudC5wYXJlbnQucmVmKCduYW1lY2hhbmdlJykucHVzaCgnMScpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50LmRhdGEuY3Vycik7Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">Ly8gICBkYXRhYmFzZVVSTDogImh0dHBzOi8vcHJvamVjdGEtNjY0NjEuZmlyZWJhc2Vpby5jb20vIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gICBjcmVkZW50aWFsOiBhZG1pbi5jcmVkZW50aWFsLmNlcnQoc2VydmljZUFjY291bnQpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Ly8gYWRtaW4uaW5pdGlhbGl6ZUFwcCh7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkbWluLmRhdGFiYXNlKCkuCg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgc2VydmljZUFjY291bnQgPSByZXF1aXJlKCcuLi9maXJlYmFzZS5qc29uJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0cy5pID0gZnVuY3Rpb25zLmRhdGFiYXNlLkRlbHRhU25hcHNob3QucmVmKCkuCg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0cy5pID0gZnVuY3Rpb25zLmRhdGFiYXNlLnJlZigpCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgYWRtaW4gPSByZXF1aXJlKCdmaXJlYmFzZS1hZG1pbicpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+      <register name="9" type="4">
+        <text>&quot;apiKey&quot;: &quot;AIzaSyCFSJwMbSNTVGNybC2ww7vTuQaVRfOH6zo&quot;,
+  &quot;authDomain&quot;: &quot;projecta-66461.firebaseapp.com&quot;,
+  &quot;databaseURL&quot;: &quot;https://projecta-66461.firebaseio.com&quot;,
+  &quot;projectId&quot;: &quot;projecta-66461&quot;,
+  &quot;storageBucket&quot;: &quot;projecta-66461.appspot.com&quot;,
+  &quot;messagingSenderId&quot;: &quot;604813097116&quot;</text>
       </register>
     </registers>
     <search>
