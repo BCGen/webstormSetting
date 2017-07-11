@@ -4,7 +4,7 @@
     <property name="created">2016-11-28T03:08:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-07-06T18:51:55</property>
+    <property name="modified">2017-07-11T15:03:37</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1713,6 +1713,12 @@
       <value>
         <option name="FOREGROUND" value="ffeb95" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.FUNCTION_ARROW">
+      <value>
+        <option name="FOREGROUND" value="80cbc4" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TYPEDEF">
