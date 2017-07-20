@@ -183,6 +183,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/user/model/user.ts" timestamp="1500536838455">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/modal/index.ts" timestamp="1495905157549">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -1154,10 +1160,11 @@
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/mission/missionUserStore.tsx" timestamp="1500535896071">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/mission/missionUserStore.tsx" timestamp="1500537703755">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/LoginScreen.tsx" timestamp="1486655603640">
         <mark key="[" line="0" column="0" />
@@ -3154,11 +3161,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/Modal.tsx" timestamp="1500533682089">
-        <mark key="[" line="38" column="22" />
-        <mark key="]" line="38" column="21" />
-        <mark key="." line="38" column="21" />
-        <mark key="^" line="38" column="21" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/Modal.tsx" timestamp="1500537776276">
+        <mark key="[" line="62" column="23" />
+        <mark key="]" line="62" column="34" />
+        <mark key="^" line="62" column="34" />
+        <mark key="." line="62" column="34" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/ReportEditScreen.tsx" timestamp="1488019424145">
         <mark key="[" line="107" column="21" />
@@ -4286,7 +4293,6 @@
         <mark key="^" line="57" column="56" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/node_modules/serializr/serializr.d.ts" timestamp="1500461704899" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/node_modules/@types/@shoutem/ui/index.d.ts" timestamp="1481706520683">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="13" column="59" />
@@ -4973,47 +4979,47 @@
       <jump line="42" column="17" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/mission/missionUserStore.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>finishedList</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>finishedList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy51bmZpbmlzaGVkS2V5cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxMYWJlbD6nuaaoPC9MYWJlbD4K</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3VzdG9tZXJTdG9yZS5jdXN0b21lckxpc3QpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXIgPSBtaXNzaW9uVXNlclN0b3JlIS5jb2xsZWN0aW9uLmdldChrZXkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2N1c3RvbWVyTGlzdCcpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGtleSA9IGl0ZW0ua2V5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF1dG9ydW4oKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaXRlbSwgbWlzc2lvblVzZXJTdG9yZSB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAvLyBjb25zdCB7IGl0ZW0sIG1pc3Npb25Vc2VyU3RvcmUgfSA9IHRoaXMucHJvcHM7CiAgICAvLyBjb25zdCBrZXkgPSBpdGVtLmtleTsKICAgIC8vIGNvbnN0IHVzZXIgPSBtaXNzaW9uVXNlclN0b3JlIS5jb2xsZWN0aW9uLmdldChrZXkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZpbnNoS2V5QXJyOiBzdHJpbmdbXSA9IHRoaXMuZmluaXNoZWQua2V5cygpIGFzIGFueTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IGNvbnN0IHsgaXRlbSwgbWlzc2lvblVzZXJTdG9yZSB9ID0gdGhpcy5wcm9wczsKICAgIGNvbnN0IGtleSA9IGl0ZW0ua2V5OwogICAgY29uc3QgdXNlciA9IG1pc3Npb25Vc2VyU3RvcmUhLmNvbGxlY3Rpb24uZ2V0KGtleSk7</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFycjogc3RyaW5nW10gPSB0aGlzLmZpbmlzaGVkLmtleXMoKSBhcyBhbnk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
