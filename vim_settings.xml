@@ -2979,7 +2979,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500792927990">
+      <file name="/Dummy.txt" timestamp="1500797809950">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/common/animated.ts" timestamp="1493106737958">
@@ -4667,11 +4667,11 @@
         <mark key="." line="43" column="58" />
         <mark key="^" line="43" column="58" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.ts" timestamp="1500794501827">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="9" column="1" />
-        <mark key="^" line="9" column="1" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.ts" timestamp="1500797994642">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+        <mark key="^" line="34" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/user/redux.ts" timestamp="1485403877610">
         <mark key="[" line="25" column="12" />
@@ -5089,11 +5089,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5105,31 +5105,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAucmVmKGAvJHt1c2VyQ3VzdG9tZXJTdGF0ZX0ve3VzZXJLZXl9L3tldmVudE5hbWV9L3tjdXN0b21lcktleX1gKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBldmVudC5kYXRhLnJlZi5yb290LmNoaWxkKCduYW1lY2hhbmdlJykuY2hpbGQoZXZlbnQuZGF0YS52YWwoKS5yZWNvcmRlcktleSkuY2hpbGQoZXZlbnQuZGF0YS5rZXkpLnNldCh0cnVlKTsK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGZ1bmN0aW9ucyBmcm9tICdmaXJlYmFzZS1mdW5jdGlvbnMnOwo=</text>
+        <text encoding="base64">Y29uc3QgdXNlcnNJbk1pc3Npb24gPSAndXNlcnNJbk1pc3Npb24nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgY3VzdG9tZXJzSW5NaXNzaW9uID0gJ2N1c3RvbWVySW5NaXNzaW9uJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgcmVjb3JkZXIgPSAncmVjb3JkZXInOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY3VzdG9tZXJzTGlzdCA9ICdjdXN0b21lcnNMaXN0JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcmVjb3JkZXJLZXkgPSAncmVjb3JkZXJLZXknOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb25zLwo=</text>
+        <text encoding="base64">Y29uc3QgcmVjb3JkZXIgPSAncmVjb3JkZXInOwo=</text>
       </register>
     </registers>
     <search>
