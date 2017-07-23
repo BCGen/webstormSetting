@@ -1186,11 +1186,11 @@
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/mission/missionUserStore.tsx" timestamp="1500629266069">
-        <mark key="[" line="128" column="65" />
-        <mark key="]" line="128" column="65" />
-        <mark key="." line="128" column="65" />
-        <mark key="^" line="128" column="65" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/mission/missionUserStore.tsx" timestamp="1500824798580">
+        <mark key="[" line="131" column="34" />
+        <mark key="]" line="131" column="40" />
+        <mark key="." line="131" column="40" />
+        <mark key="^" line="131" column="40" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/LoginScreen.tsx" timestamp="1486655603640">
         <mark key="[" line="0" column="0" />
@@ -4667,11 +4667,11 @@
         <mark key="." line="43" column="58" />
         <mark key="^" line="43" column="58" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.ts" timestamp="1500822726344">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="63" column="93" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.ts" timestamp="1500824488269">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="209" column="37" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/user/redux.ts" timestamp="1485403877610">
         <mark key="[" line="25" column="12" />
@@ -5089,29 +5089,29 @@
       <jump line="7" column="0" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>canceled</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>canceled</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0cy51c2VyQ3VzdG9tZXJTdGF0ZUNyZWF0ZWQgPSBmdW5jdGlvbnMuZGF0YWJhc2UKICAucmVmKGAvJHt1c2VyQ3VzdG9tZXJTdGF0ZX0ve3VzZXJLZXl9L3tldmVudE5hbWV9L3tjdXN0b21lcktleX1gKQogIC5vbkNyZWF0ZSgoKSA9PiB7CgogIH0pOwo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMucmVmLmNoaWxkKGAke3VzZXJJZH0vdW5maW5pc2hlZC8ke2N1c3RvbWVySWR9YCkucmVtb3ZlKCk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgZA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -5120,16 +5120,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHJlY29yZGVyS2V5ID0gZGF0YS52YWwoKS5yZWNvcmRlcktleTsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGNvdW50ICE9PSAwKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
