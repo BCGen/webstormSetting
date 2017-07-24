@@ -2066,10 +2066,11 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/user/userCustomerStateStore.ts" timestamp="1500902770316">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/user/userCustomerStateStore.ts" timestamp="1500903440586">
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="57" column="41" />
+        <mark key="." line="57" column="41" />
+        <mark key="^" line="57" column="41" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager2/src/reducers/authReducer.ts" timestamp="1482981967697">
         <mark key="[" line="1" column="30" />
@@ -5117,11 +5118,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>customersReported</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>customersReported</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
