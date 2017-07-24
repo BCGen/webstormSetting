@@ -1101,10 +1101,10 @@
         <mark key="^" line="90" column="3" />
         <mark key="." line="60" column="17" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/api/mobx/mobxFirebaseStore.ts" timestamp="1500906211000">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/api/mobx/mobxFirebaseStore.ts" timestamp="1500914589710">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/screens/ReportViewScreen.tsx" timestamp="1490543411223">
         <mark key="[" line="66" column="32" />
@@ -2994,7 +2994,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500897828747">
+      <file name="/Dummy.txt" timestamp="1500914567493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/common/animated.ts" timestamp="1493106737958">
@@ -5118,8 +5118,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>userCustomerState</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdjaGFuZ2UhISEnKQo=</text>
       </register>
       <register name="-" type="4">
         <text>userCustomerState</text>
@@ -5134,31 +5134,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdjaGFuZ2UhISEnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdhZGRlZCEhIScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdubycpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIuY3VzdG9tZXJzTGlzdCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlcikgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdubycpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIuY3VzdG9tZXJzTGlzdCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VyID0gIHVzZXJDdXN0b21lclN0YXRlU3RvcmUuY29sbGVjdGlvbi5nZXQodGhpcy51aWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlcikgewo=</text>
       </register>
     </registers>
     <search>
