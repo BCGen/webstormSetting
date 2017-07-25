@@ -111,6 +111,12 @@
         <mark key="^" line="20" column="1" />
         <mark key="." line="20" column="1" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/.babelrc" timestamp="1501007975829">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/loginForm/LoginForm.tsx" timestamp="1485069657314">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="9" />
@@ -597,8 +603,11 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/__tests__/Label.tsx" timestamp="1500997529727">
-        <mark key="^" line="18" column="9" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/__tests__/Label.tsx" timestamp="1501009240116">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/loginScreen/index.ts" timestamp="1494402555846">
         <mark key="[" line="2" column="20" />
@@ -1198,6 +1207,7 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/node_modules/react-test-renderer/index.js" timestamp="1501009143554" />
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/EmailItem.tsx" timestamp="1496500786585">
         <mark key="[" line="42" column="21" />
         <mark key="]" line="43" column="17" />
@@ -1474,10 +1484,10 @@
         <mark key="." line="1" column="52" />
         <mark key="^" line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/tsconfig.json" timestamp="1501005607452">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/tsconfig.json" timestamp="1501008142909">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/customer/model/index.ts" timestamp="1495031986595">
         <mark key="[" line="2" column="8" />
@@ -4527,10 +4537,11 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/package.json" timestamp="1501005340432">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="32" column="19" />
-        <mark key="." line="32" column="19" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/package.json" timestamp="1501008334489">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/HeaderIcon.tsx" timestamp="1486577121640">
         <mark key="[" line="14" column="32" />
@@ -5147,11 +5158,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/__tests__/A.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IExhYmVsIGZyb20gJy4uL2NvbW1vbi9CbGFuayc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -5163,31 +5174,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IExhYmVsIGZyb20gJy4uL2NvbW1vbi9CbGFuayc7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Imdsb2JhbHMiOiB7CiAgICAgICJnbG9iYWxzID4gdHMtamVzdCA+IHRzQ29uZmlnRmlsZSI6ICI8cm9vdERpcj4vc3JjL3RzY29uZmlnLmpzb24iCiAgICB9</text>
+        <text encoding="base64">ICJnbG9iYWxzIjogewogICAgICAidHMtamVzdCI6IHsKICAgICAgICAic2tpcEJhYmVsIjogdHJ1ZQogICAgICB9CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiZ2xvIiAK</text>
+        <text encoding="base64">ICAgICJhbGxvd1N5bnRoZXRpY0RlZmF1bHRJbXBvcnRzIjogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJleHRlbnRzIjoK</text>
+        <text encoding="base64">ICAgICJhbGxvd1MiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiZXgiCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHJlbmRlcmVyIGZyb20gJ3JlYWN0LXRlc3QtcmVuZGVyZXInOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJlbnYiCg==</text>
+        <text encoding="base64">Ly8gTm90ZTogdGVzdCByZW5kZXJlciBtdXN0IGJlIHJlcXVpcmVkIGFmdGVyIHJlYWN0LW5hdGl2ZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJlbnYiCg==</text>
+        <text encoding="base64">Ly8gX190ZXN0c19fL0ludHJvLXRlc3QuanMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0Igo=</text>
+        <text encoding="base64">Ly8gfSk7Cg==</text>
       </register>
     </registers>
     <search>
