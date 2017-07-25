@@ -416,7 +416,7 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="15" column="15" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/Label.test.tsx" timestamp="1501015208990">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/Label.test.tsx" timestamp="1501022561978">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -967,7 +967,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/Label.tsx" timestamp="1500881834615">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/Label.tsx" timestamp="1501015330629">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -1489,10 +1489,11 @@
         <mark key="." line="1" column="52" />
         <mark key="^" line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/tsconfig.json" timestamp="1501015222504">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/tsconfig.json" timestamp="1501022560173">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="24" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/customer/model/index.ts" timestamp="1495031986595">
         <mark key="[" line="2" column="8" />
@@ -5174,8 +5175,8 @@
       <jump line="14" column="0" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/__tests__/A.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAidHlwZSIK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -5190,31 +5191,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiZXhjbHVkZSI6IFsiLi9zcmMvKiovKi50ZXN0LioiXQo=</text>
+        <text encoding="base64">ICAidHlwZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IHsgQ3VzdG9tZXIgfTsK</text>
+        <text encoding="base64">ICAgICJzcmMvKiovKi50ZXN0LioiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICdyZWFjdC1uYXRpdmUnOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAiZXhjbHVkZSI6IFsiLi9zIl0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAiZXhjbHVkZSI6IFsiLi9zcmMvKiovKi50ZXN0LioiXQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gZXhwb3J0IHsgQ3VzdG9tZXIgfTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0ICdyZWFjdC1uYXRpdmUnOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAiZXhjbHVkZSI6IFsiLi9zIl0K</text>
       </register>
     </registers>
     <search>
