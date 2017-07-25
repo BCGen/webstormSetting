@@ -597,11 +597,8 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/__tests__/Label.tsx" timestamp="1500996253927">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="20" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/__tests__/Label.tsx" timestamp="1500997529727">
+        <mark key="^" line="18" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/loginScreen/index.ts" timestamp="1494402555846">
         <mark key="[" line="2" column="20" />
@@ -2687,6 +2684,11 @@
         <mark key="." line="40" column="53" />
         <mark key="^" line="40" column="53" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/preprocessor.js" timestamp="1500997988701">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/DisplayPasswordCheckbox.tsx" timestamp="1495893673108">
         <mark key="[" line="15" column="62" />
         <mark key="]" line="15" column="79" />
@@ -2813,7 +2815,7 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/app.json" timestamp="1500827855405">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/app.json" timestamp="1500998005104">
         <mark key="[" line="24" column="26" />
         <mark key="]" line="24" column="24" />
         <mark key="." line="24" column="24" />
@@ -4286,11 +4288,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/__tests__/A.tsx" timestamp="1500996197303">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="16" column="1" />
-        <mark key="." line="16" column="1" />
-        <mark key="^" line="16" column="1" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/__tests__/A.tsx" timestamp="1500997268030">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="12" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/report/newReportStore.ts" timestamp="1493382068304">
         <mark key="[" line="0" column="0" />
@@ -4526,11 +4528,11 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/package.json" timestamp="1500995289422">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-        <mark key="^" line="8" column="15" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/package.json" timestamp="1500999606640">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/HeaderIcon.tsx" timestamp="1486577121640">
         <mark key="[" line="14" column="32" />
@@ -5147,10 +5149,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -5162,32 +5164,37 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgIkB0ICJeMi40LjIiCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnOwppbXBvcnQgeyBCdXR0b24sIFN0eWxlU2hlZXQsIFRleHQsIFZpZXcgfSBmcm9tICdyZWFjdC1uYXRpdmUnOwoKZXhwb3J0IGludGVyZmFjZSBQcm9wcyB7CiAgbmFtZTogc3RyaW5nOwogIGVudGh1c2lhc21MZXZlbD86IG51bWJlcjsKICBvbkluY3JlbWVudD86ICgpID0+IHZvaWQ7CiAgb25EZWNyZW1lbnQ/OiAoKSA9PiB2b2lkOwp9CgpleHBvcnQgZnVuY3Rpb24gSGVsbG8oeyBuYW1lLCBlbnRodXNpYXNtTGV2ZWwgPSAxLCBvbkluY3JlbWVudCwgb25EZWNyZW1lbnQgfTogUHJvcHMpIHsKICBpZiAoZW50aHVzaWFzbUxldmVsIDw9IDApIHsKICAgIHRocm93IG5ldyBFcnJvcignWW91IGNvdWxkIGJlIGEgbGl0dGxlIG1vcmUgZW50aHVzaWFzdGljLiA6RCcpOwogIH0KCiAgICA8VmlldyBzdHlsZT17c3R5bGVzLnJvb3R9PgogICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmdyZWV0aW5nfT4KICAgICAgICBIZWxsbyB7bmFtZSArIGdldEV4Y2xhbWF0aW9uTWFya3MoZW50aHVzaWFzbUxldmVsKX0KICAgICAgPC9UZXh0PgogICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmJ1dHRvbnN9PgogICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuYnV0dG9ufT4KICAgICAgICAgIDxCdXR0b24gdGl0bGU9Ii0iIG9uUHJlc3M9e29uRGVjcmVtZW50IHx8ICgoKSA9PiB7fSl9IGFjY2Vzc2liaWxpdHlMYWJlbD0iZGVjcmVtZW50IiBjb2xvcj0ncmVkJyAvPgogICAgICAgIDwvVmlldz4KICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmJ1dHRvbn0+CiAgICAgICAgICA8QnV0dG9uIHRpdGxlPSIrIiBvblByZXNzPXtvbkluY3JlbWVudCB8fCAoKCkgPT4ge30pfSAgYWNjZXNzaWJpbGl0eUxhYmVsPSJpbmNyZW1lbnQiIGNvbG9yPSdibHVlJyAvPgogICAgICAgIDwvVmlldz4KICAgICAgPC9WaWV3PgogICAgPC9WaWV3PgogICk7Cn0KCmV4cG9ydCBkZWZhdWx0IEhlbGxvOwoKLy8gc3R5bGVzCgpjb25zdCBzdHlsZXMgPSBTdHlsZVNoZWV0LmNyZWF0ZSh7CiAgcm9vdDogewogICAgYWxpZ25JdGVtczogImNlbnRlciIsCiAgICBhbGlnblNlbGY6ICJjZW50ZXIiCiAgfSwKICBidXR0b25zOiB7CiAgICBmbGV4RGlyZWN0aW9uOiAicm93IiwKICAgIG1pbkhlaWdodDogNzAsCiAgICBhbGlnbkl0ZW1zOiAic3RyZXRjaCIsCiAgICBhbGlnblNlbGY6ICJjZW50ZXIiLAogICAgYm9yZGVyV2lkdGg6IDUsCiAgfSwKICBidXR0b246IHsKICAgIGZsZXg6IDEsCiAgICBwYWRkaW5nVmVydGljYWw6IDAsCiAgfSwKICBncmVldGluZzogewogICAgY29sb3I6ICIjOTk5IiwKICAgIGZvbnRXZWlnaHQ6ICJib2xkIgogIH0KfSk7CgovLyBoZWxwZXJzCgpmdW5jdGlvbiBnZXRFeGNsYW1hdGlvbk1hcmtzKG51bUNoYXJzOiBudW1iZXIpIHsKICByZXR1cm4gQXJyYXkobnVtQ2hhcnMgKyAxKS5qb2luKCchJyk7Cn0K</text>
+      <register name="2" type="4">
+        <text>ypes/react-test-renderer&quot;: &quot;^15.5.2&quot;,
+//    &quot;jest&quot;: &quot;^20.0.4&quot;,
+//    &quot;jest-preset-typescript-react-native&quot;: &quot;^1.2.0&quot;,
+//    &quot;react-addons-test-utils&quot;: &quot;^15.6.0&quot;,
+//    &quot;react-native-debugger-open&quot;: &quot;^0.3.11&quot;,
+//    &quot;react-test-renderer&quot;: &quot;^16.0.0-alpha.12&quot;,
+//    &quot;typescript&quot;:</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gKAo=</text>
+        <text encoding="base64">Ly8gICAgIkB0eXBlcy9qZXN0IjogIl4yMC4wLjQiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoZW50aHVzaWFzbUxldmVsIDw9IDApIHsK</text>
+        <text encoding="base64">Ly8gIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ2VuenltZSc7Cg==</text>
+        <text encoding="base64">Ly8gICAgInByZXNldCI6ICJqZXN0LXByZXNldC10eXBlc2NyaXB0LXJlYWN0LW5hdGl2ZSIK</text>
       </register>
-      <register name="6" type="4">
-        <text>l&quot;: &quot;rndebugger-open&quot;,
-    &quot;test&quot;: &quot;t</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICJqZXN0Ijogewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgInRlc3QiOiAiamVzdCAtLWNvdmVyYWdlIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImplc3QiLAo=</text>
+        <text encoding="base64">Ly8gICAgInRlc3QiOiAiamVzdCAtLWNvdmVyYWdlIgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICwK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ci8vICAgICJ0ZXN0IjogImplc3QgLS1jb3ZlcmFnZSI=</text>
       </register>
     </registers>
     <search>
