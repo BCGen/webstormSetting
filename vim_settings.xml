@@ -957,12 +957,12 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/Label.tsx" timestamp="1501068079005">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/Label.tsx" timestamp="1501068270233">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="13" />
+        <mark key="[" line="42" column="84" />
+        <mark key="]" line="42" column="84" />
+        <mark key="^" line="42" column="84" />
+        <mark key="." line="42" column="84" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/customer/model/index.ts" timestamp="1501015081472">
         <mark key="[" line="1" column="0" />
@@ -5126,10 +5126,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -5141,34 +5141,34 @@
         <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gaW1wb3J0IFJlYWN0LCB7IFB1cmVDb21wb25lbnQgfSBmcm9tICdyZWFjdCc7Ci8vIGltcG9ydCB7IFJlZ2lzdGVyZWRTdHlsZSwgU3R5bGVTaGVldCwgVGV4dCwgVGV4dFByb3BlcnRpZXMsIFRleHRTdHlsZSB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Ci8vIGltcG9ydCB7IHNjYWxlIH0gZnJvbSAnLi4vLi4vYXBpJzsKLy8KLy8gaW50ZXJmYWNlIFByb3BzIGV4dGVuZHMgVGV4dFByb3BlcnRpZXMgewovLyAgIGJvbGQ/OiBib29sZWFuOwovLyAgIGNvbG9yPzogc3RyaW5nOwovLyAgIGZvbnRTaXplPzogbnVtYmVyIHwgc3RyaW5nOwovLyBzdHlsZT86IFRleHRTdHlsZSB8IFJlZ2lzdGVyZWRTdHlsZTxUZXh0U3R5bGU+OwovLyB9Ci8vCi8vIGV4cG9ydCBkZWZhdWx0IGNsYXNzIExhYmVsIGV4dGVuZHMgUHVyZUNvbXBvbmVudDxQcm9wcywge30+IHsKLy8KLy8gICByZW5kZXIoKSB7Ci8vCi8vICAgICBjb25zdCB7IGNoaWxkcmVuLCBzdHlsZSwgLi4ub3RoZXIgfSA9IHRoaXMucHJvcHM7Ci8vICAgICBjb25zdCB7IGxhYmVsU3R5bGUgfSA9IHN0eWxlczsKLy8KLy8gICAgIGNvbnN0IGZvbnRTaXplID0gdGhpcy5mb250U2l6ZSgpOwovLwovLyAgICAgcmV0dXJuIDxUZXh0IHsuLi5vdGhlcn0gc3R5bGU9e1tsYWJlbFN0eWxlLCBzdHlsZSwgeyBmb250U2l6ZSB9XX0+e2NoaWxkcmVufTwvVGV4dD47Ci8vICAgfQovLwovLyAgIGZvbnRTaXplID0gKCk6IG51bWJlciA9PiB7Ci8vCi8vICAgICBjb25zdCB7IHN0eWxlIH0gPSB0aGlzLnByb3BzOwovLwovLyAgICAgbGV0IGZvbnRTaXplID0gc2NhbGUoMTgpOwovLwovLyAgICAgaWYgKHN0eWxlKSB7Ci8vICAgICAgIGlmICh0eXBlb2Ygc3R5bGUgPT09ICdudW1iZXInKSB7Ci8vCi8vICAgICAgICAgY29uc3Qgc2l6ZSA9IFN0eWxlU2hlZXQuZmxhdHRlbjxUZXh0U3R5bGU+KHN0eWxlKS5mb250U2l6ZTsKLy8KLy8gICAgICAgICBpZiAoc2l6ZSkgewovLyAgICAgICAgICAgZm9udFNpemUgPSBzY2FsZShzaXplKTsKLy8gICAgICAgICB9Ci8vCi8vICAgICAgIH0gZWxzZSB7Ci8vCi8vICAgICAgICAgY29uc3QgbmV3U3R5bGUgPSBzdHlsZSBhcyBUZXh0U3R5bGU7Ci8vCi8vICAgICAgICAgaWYgKG5ld1N0eWxlLmZvbnRTaXplICE9PSB1bmRlZmluZWQpIHsKLy8gICAgICAgICAgIGZvbnRTaXplID0gc2NhbGUobmV3U3R5bGUuZm9udFNpemUpOwovLyAgICAgICAgIH0KLy8gICAgICAgfQovLyAgICAgfQovLwovLyAgICAgcmV0dXJuIGZvbnRTaXplOwovLyAgIH0KLy8gfQovLwovLyBpbnRlcmZhY2UgU3R5bGVzIHsKLy8gICBsYWJlbFN0eWxlOiBUZXh0U3R5bGU7Ci8vIH0KLy8KLy8gY29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGU8U3R5bGVzPih7Ci8vICAgbGFiZWxTdHlsZTogewovLyAgICAgY29sb3I6ICcjMzc0NzRmJywKLy8gICB9LAovLyB9KTs=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>// buttonLabelStyle : {
   //   color: '#2196F3',
   //   fontSize: 22,
   // },</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAvLyBidXR0b25MYWJlbFN0eWxlOiBUZXh0U3R5bGU7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxMYWJlbCBzdHlsZT17c3R5bGVzLmJ1dHRvbkxhYmVsU3R5bGV9Pr1UqXc8L0xhYmVsPgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZvbnRTaXplICAgICA6IDIyLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzY2FsZShzaXplKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
     </registers>
     <search>
