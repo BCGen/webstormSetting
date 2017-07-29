@@ -860,7 +860,7 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/icon/Icon.tsx" timestamp="1501334431631">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/icon/Icon.tsx" timestamp="1501362652839">
         <mark key="[" line="46" column="25" />
         <mark key="]" line="47" column="3" />
         <mark key="." line="47" column="3" />
@@ -1232,7 +1232,6 @@
         <mark key="^" line="113" column="15" />
         <mark key="." line="113" column="15" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/node_modules/react-native-md-textinput/lib/TextField.js" timestamp="1501359714775" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo/src/constants/store.ts" timestamp="1489331046728">
         <mark key="[" line="2" column="50" />
         <mark key="]" line="2" column="50" />
@@ -1467,11 +1466,11 @@
         <mark key="." line="1" column="52" />
         <mark key="^" line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/tsconfig.json" timestamp="1501362458746">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/tsconfig.json" timestamp="1501362643770">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/customer/model/index.ts" timestamp="1495031986595">
         <mark key="[" line="2" column="8" />
@@ -2642,7 +2641,6 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/node_modules/@types/babel-core/index.d.ts" timestamp="1501362338140" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/report/ReportAddStore.ts" timestamp="1487951755340">
         <mark key="[" line="60" column="25" />
         <mark key="]" line="60" column="27" />
@@ -5177,8 +5175,8 @@
       <jump line="3" column="7" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0eXBlUm9vdHMiOiBbInNyYy90eXBlcyIsIm5vZGVfbW9kdWxlcyJdCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -5193,31 +5191,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0eXBlUm9vdHMiOiBbInNyYy90eXBlcyIsIm5vZGVfbW9kdWxlcyJdCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgIm5vZGVfbW9kdWxlcyIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICJ0eXBlUm9vdHMiOiBbCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIm5vZGVfbW9kdWxlcyIK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgInR5cGVzIiwK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJ0eXBlUm9vdHMiOiBbInNyYy90eXBlcyIsIm5vZGVfbW9kdWxlcyJdCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIm5vZGVfbW9kdWxlcyIK</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzcmMvdHlwZXMiCg==</text>
+        <text encoding="base64">ICAgICJ0eXBlUm9vdHMiOiBbCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0eQo=</text>
+        <text encoding="base64">ICAgICAgIm5vZGVfbW9kdWxlcyIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8KLy8gaW1wb3J0IHthY3Rpb24sIG9ic2VydmFibGV9IGZyb20gJ21vYngnOwovLyBpbXBvcnQge2luamVjdCwgb2JzZXJ2ZXJ9IGZyb20gJ21vYngtcmVhY3QvbmF0aXZlJzsKLy8gaW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tICdyZWFjdCc7Ci8vIGltcG9ydCB7U3R5bGVTaGVldCwgVmlldywgVmlld1N0eWxlfSBmcm9tICdyZWFjdC1uYXRpdmUnOwovLyBpbXBvcnQge0JsYW5rLCBPdmFsQnV0dG9ufSBmcm9tICcuLi8uLi8uLi8uLi8uLi9jb21wb25lbnRzL2NvbW1vbic7Ci8vIGltcG9ydCB7bG9naW5TY3JlZW5TdG9yZX0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vY29uc3RhbnRzJzsKLy8gaW1wb3J0IHtMb2dpblNjcmVlblN0b3JlfSBmcm9tICcuLi8uLi8uLi8uLi8uLi9zdG9yZSc7Ci8vIGltcG9ydCBFbWFpbElucHV0IGZyb20gJy4vRW1haWxJbnB1dCc7Ci8vIGltcG9ydCBMb2dpbkJ1dHRvbiBmcm9tICcuL0xvZ2luQnV0dG9uJzsKLy8gaW1wb3J0IFBhc3N3b3JkSW5wdXQgZnJvbSAnLi9QYXNzd29yZElucHV0JzsKLy8KLy8gaW50ZXJmYWNlIFByb3BzIHsKLy8gICBsb2dpblNjcmVlblN0b3JlPzogTG9naW5TY3JlZW5TdG9yZTsKLy8gfQovLwovLyBAaW5qZWN0KGxvZ2luU2NyZWVuU3RvcmUpCi8vIEBvYnNlcnZlcgovLyBleHBvcnQgZGVmYXVsdCBjbGFzcyBMb2dpbkZvcm0gZXh0ZW5kcyBDb21wb25lbnQ8UHJvcHMsIHt9PiB7Ci8vICAgQG9ic2VydmFibGUgdmlzaWJsZTsKLy8KLy8gICBAYWN0aW9uCi8vICAgc2V0VmlzaWJsZSh2YWx1ZSkgewovLyAgICAgdGhpcy52aXNpYmxlID0gdmFsdWU7Ci8vICAgfQovLwovLyAgIHJlbmRlcigpIHsKLy8gICAgIHJldHVybiAoCi8vICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29udGFpbmVyU3R5bGV9PgovLyAgICAgICAgIDxFbWFpbElucHV0IC8+Ci8vICAgICAgICAgPFBhc3N3b3JkSW5wdXQgLz4KLy8gICAgICAgICA8QmxhbmsgaGVpZ2h0PXszMH0gLz4KLy8gICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmZvb3RlclN0eWxlfT4KLy8gICAgICAgICAgIDxPdmFsQnV0dG9uCi8vICAgICAgICAgICAgIGNvbG9yPXsnI0ZGNTcyMid9Ci8vICAgICAgICAgICAgIGxhYmVsPXsnp9GwT7FLvVgnfQovLyAgICAgICAgICAgICBvblByZXNzPXt0aGlzLl9vblByZXNzfQovLyAgICAgICAgICAgICBzdHlsZT17eyBmbGV4OiAxIH19Ci8vICAgICAgICAgICAvPgovLyAgICAgICAgICAgPExvZ2luQnV0dG9uIC8+Ci8vICAgICAgICAgPC9WaWV3PgovLyAgICAgICA8L1ZpZXc+Ci8vICAgICApOwovLyAgIH0KLy8KLy8gICBwcml2YXRlIF9vblByZXNzID0gKCkgPT4gewovLwovLyAgIH0KLy8gfQovLwovLyBpbnRlcmZhY2UgU3R5bGVzIHsKLy8gICBjb250YWluZXJTdHlsZTogVmlld1N0eWxlOwovLyAgIGZvb3RlclN0eWxlOiBWaWV3U3R5bGU7Ci8vIH0KLy8KLy8gY29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGU8U3R5bGVzPih7Ci8vICAgY29udGFpbmVyU3R5bGU6IHsKLy8gICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAovLyAgIH0sCi8vICAgZm9vdGVyU3R5bGUgICA6IHsKLy8gICAgIGZsZXhEaXJlY3Rpb24gOiAncm93JywKLy8gICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYXJvdW5kJywKLy8gICAgIHdpZHRoICAgICAgICAgOiAnMTAwJScsCi8vICAgfSwKLy8gfSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgInR5cGVzIiwK</text>
       </register>
     </registers>
     <search>
