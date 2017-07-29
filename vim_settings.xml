@@ -2500,11 +2500,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/loginForm/EmailInput.tsx" timestamp="1501316132790">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="9" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/loginForm/EmailInput.tsx" timestamp="1501316219804">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="28" column="19" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/services/firebase/firebaseDb.ts" timestamp="1483803417784">
         <mark key="[" line="6" column="33" />
@@ -5157,11 +5157,11 @@
       <jump line="2" column="47" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/Modal.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gPC9WaWV3Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
