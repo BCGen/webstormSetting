@@ -1009,10 +1009,11 @@
         <mark key="^" line="11" column="54" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerListScreen/CustomerListScreen.tsx" timestamp="1501263704500">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerListScreen/CustomerListScreen.tsx" timestamp="1501311200145">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerAddScreen/component/NameInput.tsx" timestamp="1496505358471">
         <mark key="[" line="31" column="0" />
@@ -1603,6 +1604,11 @@
         <mark key="]" line="2" column="57" />
         <mark key="." line="2" column="57" />
         <mark key="^" line="2" column="57" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/register/registerStore.ts" timestamp="1501311066625">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/AutoExpandingTextInput.tsx" timestamp="1485137392223">
         <mark key="[" line="40" column="11" />
@@ -5220,7 +5226,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">ICBAY29tCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -5235,25 +5241,25 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">ICBAY29tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC8vIGFkZCAxIHRvIHRyaWdnZXIgaGVpZ2h0IGNoYW5nZWQKICBwcml2YXRlIF9vblN1Ym1pdEVkaXRpbmcgPSAoKTogdm9pZCA9PiB7CgogICAgY29uc3QgaGVpZ2h0ID0gdGhpcy5zdGF0ZS5oZWlnaHQgKyAxOwoKICAgIHRoaXMuc2V0U3RhdGUoeyBoZWlnaHQgfSk7CiAgfQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZpcmViYXNlLmF1dGgoKS5jdXJyZW50VXNlci5nZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpcmViYXNlQXBwLmF1dGgoKS5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAvLyBhZGQgMSB0byB0cmlnZ2VyIGhlaWdodCBjaGFuZ2VkCiAgcHJpdmF0ZSBfb25TdWJtaXRFZGl0aW5nID0gKCk6IHZvaWQgPT4gewoKICAgIGNvbnN0IGhlaWdodCA9IHRoaXMuc3RhdGUuaGVpZ2h0ICsgMTsKCiAgICB0aGlzLnNldFN0YXRlKHsgaGVpZ2h0IH0pOwogIH0=</text>
+        <text encoding="base64">IC8vIGFkZCAxIHRvIHRyaWdnZXIgaGVpZ2h0IGNoYW5nZWQKICBwcml2YXRlIF9vblN1Ym1pdEVkaXRpbmcgPSAoKTogdm9pZCA9PiB7CgogICAgY29uc3QgaGVpZ2h0ID0gdGhpcy5zdGF0ZS5oZWlnaHQgKyAxOwoKICAgIHRoaXMuc2V0U3RhdGUoeyBoZWlnaHQgfSk7CiAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
