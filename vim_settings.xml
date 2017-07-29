@@ -2307,6 +2307,7 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="79" column="34" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/node_modules/react-native-material-textfield/src/components/affix/styles.js" timestamp="1501354882272" />
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/common/linking.ts" timestamp="1494336365396">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="23" />
@@ -2443,6 +2444,12 @@
         <mark key="]" line="6" column="18" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField/Affix.tsx" timestamp="1501354886039">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Auth/LoginForm.tsx" timestamp="1482415997480">
         <mark key="[" line="16" column="27" />
@@ -3006,6 +3013,12 @@
         <mark key="]" line="2" column="22" />
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField/Counter.tsx" timestamp="1501354528742">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="19" column="27" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/initScreen/index.ts" timestamp="1495300586619">
         <mark key="[" line="2" column="22" />
@@ -4315,10 +4328,10 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField/TextField.tsx" timestamp="1501354188671">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField/TextField.tsx" timestamp="1501354798952">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
         <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/Modal/TouchableModal.tsx" timestamp="1494344305397">
@@ -4577,6 +4590,7 @@
         <mark key="." line="64" column="27" />
         <mark key="^" line="62" column="28" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/node_modules/react-native-material-textfield/src/components/counter/styles.js" timestamp="1501354350816" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/api/validation/index.ts" timestamp="1495874472286">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="28" />
@@ -5312,11 +5326,11 @@
       <jump line="3" column="7" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Style</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -5328,31 +5342,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLi4ucHJvcHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyB9Owo=</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL3N0eWxlcyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAgIHJlc3RyaWN0ZWQ6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyAgIGVycm9yZWQgICA6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgIHN0eWxlOiBUZXh0LnByb3BUeXBlcy5zdHlsZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyAgIGZvY3VzZWQgICA6IGZhbHNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyAgIGFjdGl2ZSAgICA6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgIGVycm9yQ29sb3I6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">ICAgIGJhc2VDb2xvciA6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyAgIG51bWJlck9mTGluZXM6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
