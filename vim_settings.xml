@@ -33,7 +33,7 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/node_modules/@types/react-native/index.d.ts" timestamp="1501342722533" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/node_modules/@types/react-native/index.d.ts" timestamp="1501353865661" />
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/mobx/mobxFirebaseMapStore.ts" timestamp="1494163765775">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="5" column="69" />
@@ -703,6 +703,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField/Line.tsx" timestamp="1501353683613">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/package.json" timestamp="1495174892619">
         <mark key="[" line="17" column="84" />
         <mark key="]" line="17" column="84" />
@@ -833,6 +839,12 @@
         <mark key="]" line="7" column="22" />
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField/Helper.tsx" timestamp="1501354121285">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="14" column="69" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/LoginScreen.tsx" timestamp="1501314095129">
         <mark key="[" line="29" column="0" />
@@ -2223,11 +2235,11 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField/Label.tsx" timestamp="1501353257888">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-        <mark key="^" line="22" column="11" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField/Label.tsx" timestamp="1501354161160">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="127" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/reportAddForm/index.ts" timestamp="1491029749483">
         <mark key="[" line="2" column="14" />
@@ -2916,6 +2928,7 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="23" column="20" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/node_modules/react-native-material-textfield/src/components/helper/index.js" timestamp="1501353783809" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/angular2-react-native-seed/src/hello.ts" timestamp="1483611410178">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="4" />
@@ -4302,11 +4315,11 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField/TextField.tsx" timestamp="1501352176530">
-        <mark key="[" line="2" column="62" />
-        <mark key="]" line="2" column="62" />
-        <mark key="." line="2" column="62" />
-        <mark key="^" line="8" column="25" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField/TextField.tsx" timestamp="1501354188671">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/Modal/TouchableModal.tsx" timestamp="1494344305397">
         <mark key="[" line="21" column="5" />
@@ -4589,6 +4602,7 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/Label.spec.tsx" timestamp="1501054354528" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/node_modules/react-native-material-textfield/src/components/line/styles.js" timestamp="1501353623594" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/node_modules/@types/@shoutem/ui/index.d.ts" timestamp="1481706520683">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="13" column="59" />
@@ -5299,10 +5313,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -5314,31 +5328,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmb2N1czogQW5pbWF0ZWQuVmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgICAgLi4ucHJvcHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAgIHJlc3RyaWN0ZWQ6IGZhbHNlLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgYWN0aXZlOiBQcm9wVHlwZXMuYm9vbCwKICAgIGZvY3VzZWQ6IFByb3BUeXBlcy5ib29sLAogICAgZXJyb3JlZDogUHJvcFR5cGVzLmJvb2wsCiAgICByZXN0cmljdGVkOiBQcm9wVHlwZXMuYm9vbCwKCiAgICBiYXNlU2l6ZTogbnVtYmVyOwogICAgZm9udFNpemU6IG51bWJlcjsKICAgIGFjdGl2ZUZvbnRTaXplOiBudW1iZXI7CiAgICBiYXNlUGFkZGluZzogbnVtYmVyOwoKICAgIHRpbnRDb2xvcj86IHN0cmluZzsKICAgIGJhc2VDb2xvcj86IHN0cmluZzsKICAgIGVycm9yQ29sb3I/OiBzdHJpbmc7CgogICAgYW5pbWF0aW9uRHVyYXRpb246IG51bWJlcjsKCiAgICBzdHlsZTogQW5pbWF0ZWQuVGV4dC5wcm9wVHlwZXMuc3R5bGUsCgogICAgY2hpbGRyZW46IFByb3BUeXBlcy5vbmVPZlR5cGUoWwogICAgICBQcm9wVHlwZXMuYXJyYXlPZihQcm9wVHlwZXMubm9kZSksCiAgICAgIFByb3BUeXBlcy5ub2RlLAogICAgXSksCiAgfTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyAgIGVycm9yZWQgICA6IGZhbHNlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAgIGZvY3VzZWQgICA6IGZhbHNlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAvLyAgIGFjdGl2ZSAgICA6IGZhbHNlLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGNvbnN0cnVjdG9yKHByb3BzOiBQcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgCiAgICB0aGlzLnN0YXRlID0gewogICAgICAKICAgIH0KICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbiAK</text>
+        <text encoding="base64">ICAvLyAgIG51bWJlck9mTGluZXM6IDEsCg==</text>
       </register>
     </registers>
     <search>
