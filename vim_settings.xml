@@ -123,11 +123,11 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/loginForm/ForgetPasswordButton.tsx" timestamp="1501398903877">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/loginForm/ForgetPasswordButton.tsx" timestamp="1501402354330">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-        <mark key="^" line="7" column="26" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/services/firebase/config.ts" timestamp="1482519167113">
         <mark key="[" line="0" column="13" />
@@ -1263,9 +1263,10 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/loginForm/LoginButton.tsx" timestamp="1501399023300">
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/loginForm/LoginButton.tsx" timestamp="1501402286369">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
+        <mark key="^" line="23" column="26" />
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/reportEditScreen/index.ts" timestamp="1494402577526">
@@ -3468,11 +3469,10 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/loginForm/LoginForm.tsx" timestamp="1501400619292">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/loginForm/LoginForm.tsx" timestamp="1501402297834">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/routers/index.ts" timestamp="1482881688749">
         <mark key="[" line="0" column="0" />
@@ -4554,10 +4554,10 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/package.json" timestamp="1501054581888">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="28" column="20" />
-        <mark key="." line="28" column="20" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/package.json" timestamp="1501401929986">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="46" />
+        <mark key="." line="54" column="0" />
         <mark key="^" line="28" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/HeaderIcon.tsx" timestamp="1486577121640">
@@ -5193,10 +5193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbG9yPXsnI0ZGNTcyMid9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>backgroundColor</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5208,31 +5208,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbG9yPXsnI0ZGNTcyMid9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAuLi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJsYW5rIGhlaWdodD17MTB9IC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdhcHNsLXJlYWN0LW5hdGl2ZS1idXR0b24nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IDxCdXR0b24KICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB7fX0KICAgICAgICAgICAgICBidXR0b25TdHlsZT17e2JhY2tncm91bmRDb2xvcjogJyMwMEJDRDQnfX0KICAgICAgICAgICAgICB0ZXh0U3R5bGU9e3t0ZXh0QWxpZ246ICdjZW50ZXInfX0KICAgICAgICAgICAgICB0aXRsZT17YLVupEpgfQogICAgICAgICAgICAvPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7Y29sb3I6ICcjZmZmJ319Pk5lc3RlZCB2aWV3cyE8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJyMwMEJDRDQnfX0+Cg==</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3sgbGV4OiAxIH19Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbG9yPXsnIzAwQkNENCd9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8VmlldyBzdHlsZT17eWxlfT4K</text>
+        <text encoding="base64">ICAgICAgICAgIHRpdGxlQ29sb3I9eycjRkZGJ30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBQcmVzcyBtZSEK</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9udCB9IGZyb20gJ2V4cG8nOwo=</text>
       </register>
     </registers>
     <search>
