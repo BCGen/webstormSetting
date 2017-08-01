@@ -4877,10 +4877,10 @@
         <mark key="." line="43" column="58" />
         <mark key="^" line="43" column="58" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.ts" timestamp="1501610369109">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/firebaseFunction/functions/index.ts" timestamp="1501619330671">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/redux/user/redux.ts" timestamp="1485403877610">
         <mark key="[" line="25" column="12" />
@@ -5317,7 +5317,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>firebaseStore</text>
@@ -5332,31 +5332,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IGF1dG9ydW4oKCkgPT4gewogICAgICBpZiAodGhpcy5zdGF0dXMgIT09ICdub25lJykgewogICAgICAgIGNvbnNvbGUubG9nKGZpcmViYXNlU3RvcmUuc3RhdHVzKTsKICAgICAgICBuYXZpZ2F0aW9uU3RvcmUhLnJlc2V0KHsKICAgICAgICAgIGluZGV4ICA6IDAsCiAgICAgICAgICBhY3Rpb25zOiBbewogICAgICAgICAgICByb3V0ZU5hbWU6IGxvZ2luU2NyZWVuLAogICAgICAgICAgICB0eXBlICAgICA6ICdOYXZpZ2F0aW9uL05BVklHQVRFJywKICAgICAgICAgIH1dCiAgICAgICAgfSk7CiAgICAgIH0KICAgIH0pOw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zdCBhdXRoID0gQWRtaW4uYXV0aCgpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAvLyB9KTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyAgIGVtYWlsVmVyaWZpZWQ6IHRydWUsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCAgYXV0aC51cGRhdGVVc2VyKHVpZCwgewo=</text>
+        <text encoding="base64">ICAvLyAgIGVtYWlsVmVyaWZpZWQ6IHRydWUsCg==</text>
       </register>
     </registers>
     <search>
