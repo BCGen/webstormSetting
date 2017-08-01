@@ -4184,10 +4184,10 @@
         <mark key="^" line="26" column="21" />
         <mark key="." line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/buttonBar/ModeSwitchButton.tsx" timestamp="1501434349914">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="37" />
-        <mark key="." line="21" column="37" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/buttonBar/ModeSwitchButton.tsx" timestamp="1501585952150">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/customerAddScreen/styles.ts" timestamp="1494951938113">
         <mark key="[" line="4" column="28" />
@@ -5313,7 +5313,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAnbmF0aXZlLWJhc2UnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJhaXNlZD17dHJ1ZX0K</text>
       </register>
       <register name="-" type="4">
         <text>title</text>
@@ -5328,31 +5328,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAnbmF0aXZlLWJhc2UnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJhaXNlZD17dHJ1ZX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAnbmF0aXZlLWJhc2UnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwTG9hZGluZywgRm9udCB9IGZyb20gJ2V4cG8nOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9udEF3ZXNvbWUgfSBmcm9tICdAZXhwby92ZWN0b3ItaWNvbnMnOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IDxWaWV3IHN0eWxlPXt7IG1hcmdpbkhvcml6b250YWw6IDE1IH19PgogICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICBjb2xvcj17Q29sb3JOYW1lLmN5YW59CiAgICAgICAgICAgIGJsb2NrPXt0cnVlfQogICAgICAgICAgICBvblByZXNzPXt0aGlzLl9vblByZXNzMn0KICAgICAgICAgICAgaW5mbz17dHJ1ZX0KICAgICAgICAgID4KICAgICAgICAgICAgPFRleHQ+tW6kSjwvVGV4dD4KICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvVmlldz4=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGljb249e3sgbmFtZTogJ2VudmlyYScsIHR5cGU6ICdmb250LWF3ZXNvbWUnIH19Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQXBwTG9hZGluZywgRm9udCB9IGZyb20gJ2V4cG8nOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRm9udEF3ZXNvbWUgfSBmcm9tICdAZXhwby92ZWN0b3ItaWNvbnMnOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IDxWaWV3IHN0eWxlPXt7IG1hcmdpbkhvcml6b250YWw6IDE1IH19PgogICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICBjb2xvcj17Q29sb3JOYW1lLmN5YW59CiAgICAgICAgICAgIGJsb2NrPXt0cnVlfQogICAgICAgICAgICBvblByZXNzPXt0aGlzLl9vblByZXNzMn0KICAgICAgICAgICAgaW5mbz17dHJ1ZX0KICAgICAgICAgID4KICAgICAgICAgICAgPFRleHQ+tW6kSjwvVGV4dD4KICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvVmlldz4=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGljb249e3sgbmFtZTogJ2VudmlyYScsIHR5cGU6ICdmb250LWF3ZXNvbWUnIH19Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
