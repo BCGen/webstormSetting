@@ -3200,11 +3200,11 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/auth/authStore.ts" timestamp="1501580568633">
-        <mark key="[" line="145" column="29" />
-        <mark key="]" line="145" column="29" />
-        <mark key="." line="145" column="29" />
-        <mark key="^" line="145" column="30" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/auth/authStore.ts" timestamp="1501581038137">
+        <mark key="[" line="166" column="36" />
+        <mark key="]" line="166" column="36" />
+        <mark key="^" line="166" column="36" />
+        <mark key="." line="166" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/api/react-navigation/typeDefinition.ts" timestamp="1492088552076">
         <mark key="[" line="53" column="17" />
@@ -3476,10 +3476,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/buttonBar/ButtonBar.tsx" timestamp="1501579432153">
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="34" column="24" />
-        <mark key="." line="34" column="24" />
+      <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/buttonBar/ButtonBar.tsx" timestamp="1501581914961">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/uiStore.ts" timestamp="1488526669003">
@@ -5313,11 +5313,11 @@
       <jump line="77" column="33" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/auth/model/authModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIG9uUHJlc3M9e3RoaXMuX29uUHJlc3N9IHRpdGxlPXsnoUmhSSd9IC8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5329,31 +5329,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIG9uUHJlc3M9e3RoaXMuX29uUHJlc3N9IHRpdGxlPXsnoUmhSSd9IC8+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jaGVja0VtYWlsSXNVc2VkKCkudGhlbigocmVzdWx0ID0+IHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAgaWYgKA==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGNvbnN0cnVjdG9yKCkgewogICAgc3VwZXIoKTsKICAgIGF1dG9ydW4oKCkgPT4gewogICAgICBjb25zb2xlLmxvZyh0aGlzLmlzQWxsUGFzcykKICAgIH0pCiAgfQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Bhc3MnKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmVtYWlsU3RhdGUgPSBwcm92aWRlcnMubGVuZ3RoICE9PSAwID8gJ3VzZWQnIDogJ3Bhc3MnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpc1VzZWQgOwo=</text>
       </register>
     </registers>
     <search>
