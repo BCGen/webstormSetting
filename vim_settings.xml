@@ -1470,6 +1470,12 @@
         <mark key="." line="38" column="16" />
         <mark key="^" line="38" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/.gitignore" timestamp="1501708997077">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerList/PhoneModalIcon.tsx" timestamp="1494328871499">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -5316,11 +5322,11 @@
       <jump line="77" column="33" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/auth/model/authModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhjb28K</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>firebaseStore</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
