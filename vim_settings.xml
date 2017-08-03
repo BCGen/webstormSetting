@@ -2297,6 +2297,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="34" />
       </file>
+      <file name="C:/tools/cmder/config/powerline_prompt.lua" timestamp="1501794663759">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="37" />
+        <mark key="^" line="25" column="40" />
+        <mark key="." line="25" column="37" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/myTest/Manager/src/reducers/AuthReducer.ts" timestamp="1481371528152">
         <mark key="[" line="0" column="90" />
         <mark key="]" line="0" column="101" />
@@ -5422,11 +5428,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screen/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>new_value</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>new_value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
