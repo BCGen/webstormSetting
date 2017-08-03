@@ -4857,11 +4857,12 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/initScreen/InitScreen.tsx" timestamp="1501780467632">
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="3" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/initScreen/InitScreen.tsx" timestamp="1501781453816">
+        <mark key="'" line="30" column="18" />
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+        <mark key="^" line="23" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/screens/index.ts" timestamp="1494404141206">
         <mark key="[" line="4" column="7" />
@@ -5246,7 +5247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="20" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/report/reportAddStore.ts" />
       <jump line="3" column="66" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/ReportAddScreen.tsx" />
       <jump line="153" column="31" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportListScreen/component/ReportList.tsx" />
       <jump line="37" column="10" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportListScreen/component/reportItem/ReportItem.tsx" />
@@ -5346,13 +5346,14 @@
       <jump line="15" column="10" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/SubmitButton.tsx" />
       <jump line="10" column="8" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/Form.tsx" />
       <jump line="77" column="33" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/auth/model/authModel.ts" />
+      <jump line="30" column="18" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screen/initScreen/InitScreen.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5364,28 +5365,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBuYXYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGNvbmZpcm0oLnZhbHVlT2YoKSkgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICBjb25maXJtKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuYXYK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAvLyB0aGlzLmF1dGhTdGF0ZUxpc3RlbmVyID0gZmlyZWJhc2VBcHAuYXV0aCgpLm9uQXV0aFN0YXRlQ2hhbmdlZCh1c2VyID0+IHsKICAgIC8vCiAgICAvLyAgIGlmICh1c2VyKSB7CiAgICAvLyAgICAgLy8gY29uc29sZS5sb2coJ2xvZ2luJykKICAgIC8vICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb25TdG9yZSEucmVzZXQoewogICAgLy8gICAgICAgaW5kZXg6IDAsCiAgICAvLyAgICAgICBhY3Rpb25zOiBbewogICAgLy8gICAgICAgICAvLyByb3V0ZU5hbWU6IGxvYWRpbmdTY3JlZW4sCiAgICAvLyAgICAgICAgIHJvdXRlTmFtZTogbG9naW5TY3JlZW4sCiAgICAvLyAgICAgICAgIHR5cGU6ICdOYXZpZ2F0aW9uL05BVklHQVRFJywKICAgIC8vICAgICAgIH1dCiAgICAvLyAgICAgfSk7CiAgICAvLyAgIH0gZWxzZSB7CiAgICAvLyAgICAgLy8gY29uc29sZS5sb2coJ2xvZ091dCcpCiAgICAvLyAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uU3RvcmUhLnJlc2V0KHsKICAgIC8vICAgICAgIGluZGV4OiAwLAogICAgLy8gICAgICAgYWN0aW9uczogW3sKICAgIC8vICAgICAgICAgcm91dGVOYW1lOiBsb2dpblNjcmVlbiwKICAgIC8vICAgICAgICAgdHlwZTogJ05hdmlnYXRpb24vTkFWSUdBVEUnLAogICAgLy8gICAgICAgfV0KICAgIC8vICAgICB9KTsKICAgIC8vICAgfQogICAgLy8gfSk7CgogICAgLy8gICBhdXRvcnVuKCgpID0+IHsKICAgIC8vICAgICBjb25zdCB7IHBlcm1pc3Npb24gfSA9IHRoaXMucHJvcHMuY3VycmVudFVzZXJTdG9yZSE7CiAgICAvLwogICAgLy8gICAgIGlmIChwZXJtaXNzaW9uKSB7CiAgICAvLwogICAgLy8gICAgICAgaWYgKHBlcm1pc3Npb24gPT09ICdzdXBlcicgJiYgZmlyZWJhc2VTdG9yZS5jdXJyZW50UGVybWlzc2lvbiA9PT0gJ25vcm1hbCcgfHwKICAgIC8vICAgICAgICAgcGVybWlzc2lvbiA9PT0gJ25vcm1hbCcgJiYgZmlyZWJhc2VTdG9yZS5jdXJyZW50UGVybWlzc2lvbiA9PT0gJ3N1cGVyJykgewogICAgLy8KICAgIC8vICAgICAgICAgdGhpcy52aXNpYmxlID0gdHJ1ZTsKICAgIC8vICAgICAgIH0KICAgIC8vCiAgICAvLyAgICAgICBmaXJlYmFzZVN0b3JlLmN1cnJlbnRQZXJtaXNzaW9uID0gcGVybWlzc2lvbjsKICAgIC8vCiAgICAvLyAgICAgfSBlbHNlIHsKICAgIC8vICAgICAgIGZpcmViYXNlU3RvcmUuY3VycmVudFBlcm1pc3Npb24gPSB1bmRlZmluZWQ7CiAgICAvLyAgICAgfQogICAgLy8gICB9KTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
