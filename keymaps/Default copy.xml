@@ -1,4 +1,11 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
