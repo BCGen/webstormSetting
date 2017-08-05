@@ -3383,11 +3383,11 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/store/user/model/user.ts" timestamp="1501943336078">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="10" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/store/user/model/user.ts" timestamp="1501943547456">
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="27" column="12" />
+        <mark key="." line="27" column="12" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard/src/index.js" timestamp="1481475544020">
         <mark key="[" line="11" column="22" />
@@ -3455,10 +3455,10 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/authScreen/AuthScreen.tsx" timestamp="1501878639728">
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="51" />
-        <mark key="." line="29" column="51" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/authScreen/AuthScreen.tsx" timestamp="1501943460123">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="0" />
         <mark key="^" line="29" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/store/auth/model/authModel.ts" timestamp="1501942911964">
@@ -5469,8 +5469,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screen/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -5479,7 +5479,7 @@
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2lnbkluQWN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc2V0KHZlcmlmaWNhdGlvblNjcmVlbik7Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -5488,35 +5488,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAb2JzZXJ2YWJsZSBmaXJlYmFzZVN0YXR1czogU3RhdHVzID0gJ25vbmUnOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAvLyBnZXQga2V5KCk6IHN0cmluZyB7CiAgLy8gICByZXR1cm4gdGhpcy5fa2V5OwogIC8vIH0KICAvLwogIC8vIEBjb21wdXRlZAogIC8vIGdldCBjdXN0b21lckFkZGVkKCk6IE1hcDxzdHJpbmcsIGJvb2xlYW4+IHsKICAvLyAgIHJldHVybiB0aGlzLl9jdXN0b21lcnNBZGRlZDsKICAvLyB9CiAgLy8KICAvLyBAY29tcHV0ZWQKICAvLyBnZXQgbWlzc2lvblN0YXRlKCk6ICdkb25lJyB8ICdub25lJyB8ICd1bmRvbmUnIHsKICAvLyAgIHJldHVybiB0aGlzLl9taXNzaW9uU3RhdGU7CiAgLy8gfQogIC8vCiAgLy8gc2V0IG1pc3Npb25TdGF0ZSh2YWx1ZTogJ2RvbmUnIHwgJ25vbmUnIHwgJ3VuZG9uZScpIHsKICAvLyAgIHRoaXMuX21pc3Npb25TdGF0ZSA9IHZhbHVlOwogIC8vIH0KICAvLwogIC8vIEBjb21wdXRlZAogIC8vIGdldCBuYW1lKCk6IHN0cmluZyB7CiAgLy8gICByZXR1cm4gdGhpcy5fbmFtZTsKICAvLyB9CiAgLy8KICAvLyBzZXQgbmFtZSh2YWx1ZTogc3RyaW5nKSB7CiAgLy8gICB0aGlzLl9uYW1lID0gdmFsdWU7CiAgLy8gfQogIC8vCiAgLy8gQGNvbXB1dGVkCiAgLy8gZ2V0IGVtYWlsKCk6IHN0cmluZyB7CiAgLy8gICByZXR1cm4gdGhpcy5fZW1haWw7CiAgLy8gfQogIC8vCiAgLy8gc2V0IGVtYWlsKHZhbHVlOiBzdHJpbmcpIHsKICAvLyAgIHRoaXMuX2VtYWlsID0gdmFsdWU7CiAgLy8gfQogIC8vCiAgLy8gQGNvbXB1dGVkCiAgLy8gZ2V0IHBlcm1pc3Npb24oKTogJ25vcm1hbCcgfCAnc3VwZXInIHwgdW5kZWZpbmVkIHsKICAvLyAgIHJldHVybiB0aGlzLl9wZXJtaXNzaW9uOwogIC8vIH0KICAvLwogIC8vIHNldCBwZXJtaXNzaW9uKHZhbHVlOiAnbm9ybWFsJyB8ICdzdXBlcicgfCB1bmRlZmluZWQpIHsKICAvLyAgIHRoaXMuX3Blcm1pc3Npb24gPSB2YWx1ZTsKICAvLyB9CgogIC8vIEBjb21wdXRlZAogIC8vIGdldCBwaG9uZUxpc3QoKTogTWFwPHN0cmluZywgQ29udGFjdEl0ZW0+IHsKICAvLyAgIHJldHVybiB0aGlzLl9waG9uZUxpc3Q7CiAgLy8gfQoKICAvLyBAY29tcHV0ZWQKICAvLyBnZXQgcmVwb3J0Q3VzdG9tZXJzKCk6IE1hcDxzdHJpbmcsIGJvb2xlYW4+IHsKICAvLyAgIHJldHVybiB0aGlzLl9yZXBvcnRDdXN0b21lcnM7CiAgLy8gfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAYWN0aW9uCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAb2JzZXJ2YWJsZSBmaXJlYmFzZVN0YXR1czogU3RhdHVzID0gJ25vbmUnOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>@computed
-  get firebaseStatus(): Status {
-    return this._firebaseStatus;
-  }
-
-  set firebaseStatus(value: Status) {
-    this._firebaseStatus = value;
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBAYWN0aW9uCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
