@@ -428,11 +428,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/authScreen/component/Title.tsx" timestamp="1502114557272">
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="26" />
-        <mark key="." line="38" column="26" />
-        <mark key="^" line="38" column="26" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/authScreen/component/Title.tsx" timestamp="1502118016217">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Button/index.ts" timestamp="1485070404569">
         <mark key="[" line="5" column="18" />
@@ -3268,7 +3267,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501963591244">
+      <file name="/Dummy.txt" timestamp="1502118514870">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -3542,12 +3541,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/authScreen/AuthScreen.tsx" timestamp="1502117637929">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/authScreen/AuthScreen.tsx" timestamp="1502118076513">
         <mark key="'" line="7" column="85" />
-        <mark key="[" line="56" column="18" />
-        <mark key="]" line="56" column="18" />
-        <mark key="." line="56" column="18" />
-        <mark key="^" line="56" column="28" />
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="36" />
+        <mark key="^" line="56" column="37" />
+        <mark key="." line="56" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/store/auth/model/authModel.ts" timestamp="1501942911964">
         <mark key="[" line="38" column="0" />
@@ -5607,10 +5606,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5622,31 +5621,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRpdGxlIC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpblRvcCA6IG5vcm1hbGl6ZSgxNSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBwYWRkaW5nLAogICAgICBwYWRkaW5nVmVydGljYWwsCiAgICAgIHBhZGRpbmdIb3Jpem9udGFsLAogICAgICByb3cs</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3R5bGUsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICBwYWRkaW5nLAogICAgICBwYWRkaW5nVmVydGljYWwsCiAgICAgIHBhZGRpbmdIb3Jpem9udGFsLAogICAgICByb3cs</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIH07Cg==</text>
+        <text encoding="base64">ICAgICAgc3R5bGUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgcGFkZGluZ1ZlcnRpY2FsICA6IG5vcm1hbGl6ZShwYWRkaW5nVmVydGljYWwpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgcGFkZGluZ0hvcml6b250YWw6IG5vcm1hbGl6ZShwYWRkaW5nSG9yaXpvbnRhbCksCg==</text>
+        <text encoding="base64">ICAgIC8vIH07Cg==</text>
       </register>
     </registers>
     <search>
