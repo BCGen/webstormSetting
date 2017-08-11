@@ -3486,11 +3486,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502435151001">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="32" column="24" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502435847293">
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/header/HeaderIcon.tsx" timestamp="1495384568381">
         <mark key="[" line="32" column="0" />
@@ -5675,10 +5675,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5690,31 +5690,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsaWduU2VsZiAgICAgIDogJ3N0cmV0Y2gnLAo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD48L1RleHQ+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3sgZmxleDogMSwgYmFja2dyb3VuZENvbG9yOiAnZ3JlZW4nIH19Pgo=</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3sgaGVpZ2h0OiAzMDAgfX0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpZHRoICAgICAgICAgIDogMjAwLAo=</text>
+        <text encoding="base64">ICAgIGZsZXggICAgICAgICAgIDogMSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlaWdodCAgICAgICAgIDogMTAwLAo=</text>
+        <text encoding="base64">ICAgIC8vIGJhY2tncm91bmRDb2xvcjogJ3JlZCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGFsaWduU2VsZiAgICAgIDogJ3N0cmV0Y2gnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHdpZHRoICAgICAgICAgIDogJzEwMCUnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gfQo=</text>
+        <text encoding="base64">ICAgIC8vIGhlaWdodCAgICAgICAgIDogJzEwMCUnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICBjb250YWluZXJTdHlsZTogVmlld1N0eWxlOwo=</text>
+        <text encoding="base64">ICAgIGZsZXggICAgICAgICAgIDogMSwK</text>
       </register>
     </registers>
     <search>
