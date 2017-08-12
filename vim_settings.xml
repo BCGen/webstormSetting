@@ -1460,12 +1460,12 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/verificationScreen/VerificationScreen.tsx" timestamp="1502532304959">
-        <mark key="'" line="11" column="24" />
-        <mark key="[" line="100" column="43" />
-        <mark key="]" line="100" column="43" />
-        <mark key="." line="100" column="43" />
-        <mark key="^" line="106" column="60" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/verificationScreen/VerificationScreen.tsx" timestamp="1502535643336">
+        <mark key="'" line="9" column="24" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="21" column="1" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/flatList/index.ts" timestamp="1494685826112">
         <mark key="[" line="3" column="26" />
@@ -2858,6 +2858,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="88" />
+      </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/verificationScreen/component/Modal.tsx" timestamp="1502535548970">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo-a/src/App.tsx" timestamp="1489058381394">
         <mark key="[" line="20" column="1" />
@@ -5746,11 +5752,11 @@
       <jump line="3" column="8" filename="$USER_HOME$/Documents/bitbucket/projecta/src/store/ui/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gdGl0bGU9eydvcGVuJ30gb25QcmVzcz17KCkgPT4gdGhpcy5zZXRJc09wZW4odHJ1ZSl9IC8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5762,31 +5768,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnY29udGVudCcgfAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gdGl0bGU9eydvcGVuJ30gb25QcmVzcz17KCkgPT4gdGhpcy5zZXRJc09wZW4odHJ1ZSl9IC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAnbm9ybWFsJyB8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb250ZW50ICAgIDogMTgsCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnbGFiZWwnIHwK</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNPcGVuID0gdmFsdWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsYWJlbCAgICAgIDogMTgsCg==</text>
+        <text encoding="base64">ICBzZXRJc09wZW4gPSAodmFsdWU6IGJvb2xlYW4pID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAnaGVhZGVyVGl0bGUnIHwK</text>
+        <text encoding="base64">ICBAYWN0aW9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBoZWFkZXJUaXRsZTogMjAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAndGl0bGUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aXRsZSAgICAgIDogMjAsCg==</text>
+        <text encoding="base64">ICBAb2JzZXJ2YWJsZSBpc09wZW46IGJvb2xlYW4gPSBmYWxzZTsK</text>
       </register>
     </registers>
     <search>
