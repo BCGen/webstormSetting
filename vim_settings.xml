@@ -3495,12 +3495,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502636808387">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502643870663">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="56" />
-        <mark key="^" line="47" column="17" />
-        <mark key="." line="60" column="0" />
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="60" column="35" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/reportAddScreen/NavigationOptions.tsx" timestamp="1502473991129">
         <mark key="[" line="14" column="8" />
@@ -5759,44 +5759,44 @@
       <jump line="22" column="0" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dElucHV0IHBsYWNlaG9sZGVyPXtmb3JtLiQoJ2VtYWlsJykubGFiZWx9Lz4K</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dElucHV0IHBsYWNlaG9sZGVyPXtmb3JtLiQoJ2VtYWlsJykubGFiZWx9Lz4K</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD57J3NkZnNkZid9PC9UZXh0Pgo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dElucHV0IHBsYWNlaG9sZGVyPXtmb3JtLiQoJ2VtYWlsJykubGFiZWx9Lz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgTW9ieFJlYWN0Rm9ybTogYW55ID0gbW9ieFJlYWN0Rm9ybSBhcyBhbnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPE15Rm9ybSAvPgo=</text>
+        <text encoding="base64">Y29uc3QgTW9ieFJlYWN0Rm9ybTogYW55ID0gbW9ieFJlYWN0Rm9ybSBhcyBhbnk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZm9ybQo=</text>
+        <text encoding="base64">ICAgICAgPE15Rm9ybSAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcvPgo=</text>
+        <text encoding="base64">ICAgICAgZm9ybQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPFZpZXcvPgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAvLyByZXR1cm4gKAogICAgICB7Lyo8Zm9ybSBvblN1Ym1pdD17Zm9ybS5vblN1Ym1pdH0+Ki99CiAgICAgICAgey8qPGxhYmVsIGh0bWxGb3I9e2Zvcm0uJCgndXNlcm5hbWUnKS5pZH0+Ki99CiAgICAgICAgICB7Lyp7Zm9ybS4kKCd1c2VybmFtZScpLmxhYmVsfSovfQogICAgICAgIHsvKjwvbGFiZWw+Ki99CiAgICAgICAgey8qPGlucHV0IHsuLi5mb3JtLiQoJ3VzZXJuYW1lJykuYmluZCgpfSAvPiovfQogICAgICAgIHsvKjxwPntmb3JtLiQoJ3VzZXJuYW1lJykuZXJyb3J9PC9wPiovfQogICAgICAgIHsvKjxidXR0b24gdHlwZT0ic3VibWl0IiBvbkNsaWNrPXtmb3JtLm9uU3VibWl0fT5TdWJtaXQ8L2J1dHRvbj4qL30KICAgICAgICB7Lyo8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgb25DbGljaz17Zm9ybS5vbkNsZWFyfT5DbGVhcjwvYnV0dG9uPiovfQogICAgICAgIHsvKjxidXR0b24gdHlwZT0iYnV0dG9uIiBvbkNsaWNrPXtmb3JtLm9uUmVzZXR9PlJlc2V0PC9idXR0b24+Ki99CgogICAgICAgIHsvKjxwPntmb3JtLmVycm9yfTwvcD4qL30KICAgICAgLy8gPC9mb3JtPgogICAgLy8gKTs=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
