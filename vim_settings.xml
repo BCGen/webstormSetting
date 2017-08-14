@@ -1485,11 +1485,11 @@
         <mark key="^" line="32" column="33" />
         <mark key="." line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/typings/mobx-react-form/index.d.ts" timestamp="1502654367120">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="1" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/typings/mobx-react-form/index.d.ts" timestamp="1502705133140">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportEditScreen/NavigationOptions.tsx" timestamp="1500728506831">
         <mark key="[" line="84" column="4" />
@@ -4510,11 +4510,11 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/typings/mobx-react-form/Form.d.ts" timestamp="1502654417656">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/typings/mobx-react-form/Form.d.ts" timestamp="1502705130452">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/manager/src/components/Auth/LoginForm.tsx" timestamp="1482688659518">
         <mark key="[" line="47" column="23" />
@@ -5088,6 +5088,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/typings/mobx-react-form/Basic.d.ts" timestamp="1502705155805">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/utils/index.ts" timestamp="1483052289838">
         <mark key="[" line="3" column="29" />
@@ -5784,10 +5790,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBpbXBvcnQgeyBGb3JtIH0gZnJvbSAnLi9Gb3JtJzsK</text>
+        <text encoding="base64">ICAgIG9uU3VibWl0OiAoKSA9PiB2b2lkOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>Form</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5799,28 +5805,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBpbXBvcnQgeyBGb3JtIH0gZnJvbSAnLi9Gb3JtJzsK</text>
+        <text encoding="base64">ICAgIG9uU3VibWl0OiAoKSA9PiB2b2lkOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uU3VjY2VzczogKGZvcm06IGFueSkgPT4gdm9pZDsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludmFsaWRhdGU6ICh2YWx1ZTogc3RyaW5nKSA9PiB7fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIG9uU3VibWl0OiAoKSA9PiB2b2lkOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8vIGV4cG9ydCBkZWZhdWx0IGNsYXNzIHsKICAvLwogIC8vICAgaW52YWxpZGF0ZTogKHZhbHVlOiBzdHJpbmcpID0+IHt9OwogIC8vCiAgLy8gICBvblN1Y2Nlc3M6IChmb3JtOiBhbnkpID0+IHZvaWQ7CiAgLy8KICAvLyAgIG9uU3VibWl0OiAoKSA9PiB2b2lkOwogIC8vCiAgLy8gICBvbkNsZWFyOiAoKSA9PiB2b2lkOwogIC8vCiAgLy8gICBvblJlc2V0OiAoKSA9PiB2b2lkOwogIC8vCiAgLy8gICAkOiAodmFsdWU6IHN0cmluZykgPT4gYW55OwogIC8vCiAgLy8gICBjb25zdHJ1Y3RvcihmaWVsZHMsIHBsdWdpbnMpOwogIC8vIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uU3VjY2VzczogKGZvcm06IGFueSkgPT4gdm9pZDsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
