@@ -3518,11 +3518,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502818500256">
-        <mark key="[" line="49" column="34" />
-        <mark key="]" line="49" column="48" />
-        <mark key="." line="49" column="48" />
-        <mark key="^" line="49" column="48" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502819498598">
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="41" />
+        <mark key="." line="37" column="41" />
+        <mark key="^" line="37" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/reportAddScreen/NavigationOptions.tsx" timestamp="1502473991129">
         <mark key="[" line="14" column="8" />
@@ -5827,35 +5827,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmFtZQo=</text>
+        <text encoding="base64">ICAgIHJ1bkluQWN0aW9uKCgpID0+ewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyaCAK</text>
+        <text encoding="base64">ICBAYWN0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0eXBlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubmFtZQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>interface FieldProperties {
-  name: string;
-  label?: string;
-  value?: string;
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRyaCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0eXBlCg==</text>
       </register>
     </registers>
     <search>
