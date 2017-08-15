@@ -3518,11 +3518,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502817694465">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="25" column="26" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502818500256">
+        <mark key="[" line="49" column="34" />
+        <mark key="]" line="49" column="48" />
+        <mark key="." line="49" column="48" />
+        <mark key="^" line="49" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/reportAddScreen/NavigationOptions.tsx" timestamp="1502473991129">
         <mark key="[" line="14" column="8" />
@@ -5812,10 +5812,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ny</text>
+        <text>Field</text>
       </register>
       <register name="-" type="4">
-        <text>ny</text>
+        <text>Field</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5827,31 +5827,35 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICA7Cg==</text>
+        <text encoding="base64">ICAgIHRyaCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICB0eXBlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICBjb25zdCByZXN1bHQgPSB0aGlzLmZpZWxkcy5nZXQoZmllbGROYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>interface FieldProperties {
+  name: string;
+  label?: string;
+  value?: string;
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
