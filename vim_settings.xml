@@ -3518,11 +3518,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502821149260">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="72" column="48" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502824270666">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="84" column="51" />
+        <mark key="]" line="84" column="57" />
+        <mark key="^" line="84" column="57" />
+        <mark key="." line="84" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/reportAddScreen/NavigationOptions.tsx" timestamp="1502473991129">
         <mark key="[" line="14" column="8" />
@@ -5709,7 +5710,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="34" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/PasswordCheckInput.tsx" />
       <jump line="34" column="1" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/NormalUserItem.tsx" />
       <jump line="36" column="0" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/userListScreen/component/userItem/NormalUserItem.tsx" />
       <jump line="19" column="1" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/Separator.tsx" />
@@ -5809,13 +5809,14 @@
       <jump line="11" column="0" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" />
       <jump line="66" column="69" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ34nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>Form</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -5827,31 +5828,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ34nKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBbbmFtZTogc3RyaW5nXTogYW55Owo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB2YWx1ZTogJycK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB2YWx1ZSAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBGaWVsZCgpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKGBGaWVsZCBOYW1lOiAke2ZpZWxkTmFtZX0gaXMgbm90IGV4aXN0IGluIGZvcm1gKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIChyZXN1bHQpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IHRoaXMuZmllbGRzLmdldChmaWVsZE5hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWUsCg==</text>
+        <text encoding="base64">ICBpbml0PzogKGE/OiBhbnkpID0+IHZvaWQ7Cg==</text>
       </register>
     </registers>
     <search>
