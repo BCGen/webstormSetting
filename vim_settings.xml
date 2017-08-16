@@ -2902,11 +2902,11 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/FormStore.ts" timestamp="1502903033185">
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
-        <mark key="^" line="39" column="34" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/FormStore.ts" timestamp="1502905426353">
+        <mark key="[" line="63" column="40" />
+        <mark key="]" line="63" column="40" />
+        <mark key="." line="63" column="40" />
+        <mark key="^" line="63" column="40" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/navigation/constant.ts" timestamp="1485241956742">
         <mark key="[" line="15" column="38" />
@@ -3710,11 +3710,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502900613622">
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="46" column="12" />
-        <mark key="." line="46" column="12" />
-        <mark key="^" line="46" column="12" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/testScreen/TestScreen.tsx" timestamp="1502905381574">
+        <mark key="[" line="76" column="29" />
+        <mark key="]" line="76" column="36" />
+        <mark key="." line="76" column="36" />
+        <mark key="^" line="76" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/reportAddScreen/NavigationOptions.tsx" timestamp="1502892734917">
         <mark key="'" line="16" column="6" />
@@ -6109,11 +6109,11 @@
       <jump line="15" column="6" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screen/reportAddScreen/NavigationOptions.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6125,31 +6125,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbiAubCAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGVjbGFyZSBnbG9iYWwgewogICAgY29uc3QgZ2xvYmFsOiBHbG9iYWxTdGF0aWM7CiAgICBmdW5jdGlvbiByZXF1aXJlKG5hbWU6IHN0cmluZyk6IGFueTsKCiAgICAvKioKICAgICAqIFRoaXMgdmFyaWFibGUgaXMgc2V0IHRvIHRydWUgd2hlbiByZWFjdC1uYXRpdmUgaXMgcnVubmluZyBpbiBEZXYgbW9kZQogICAgICogVHlwaWNhbCB1c2FnZToKICAgICAqIDxjb2RlPiBpZiAoX19ERVZfXykgY29uc29sZS5sb2coJ1J1bm5pbmcgaW4gZGV2IG1vZGUnKTwvY29kZT4KICAgICAqLwogICAgdmFyIF9fREVWX186IGJvb2xlYW4KfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChmaWVsZCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5uYW1lID0gCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMubmFtZSA9IG5hbWU7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZGVjbGFyZSBnbG9iYWwgewogICAgY29uc3QgZ2xvYmFsOiBHbG9iYWxTdGF0aWM7CiAgICBmdW5jdGlvbiByZXF1aXJlKG5hbWU6IHN0cmluZyk6IGFueTsKCiAgICAvKioKICAgICAqIFRoaXMgdmFyaWFibGUgaXMgc2V0IHRvIHRydWUgd2hlbiByZWFjdC1uYXRpdmUgaXMgcnVubmluZyBpbiBEZXYgbW9kZQogICAgICogVHlwaWNhbCB1c2FnZToKICAgICAqIDxjb2RlPiBpZiAoX19ERVZfXykgY29uc29sZS5sb2coJ1J1bm5pbmcgaW4gZGV2IG1vZGUnKTwvY29kZT4KICAgICAqLwogICAgdmFyIF9fREVWX186IGJvb2xlYW4KfQ==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWQgPSBhanYudmFsaWRhdGUoc2NoZW1hLCB2YWxpZERhdGUpOwo=</text>
+        <text encoding="base64">ICAgIH0sIDEwMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy4K</text>
+        <text encoding="base64">ICAgIHNldEludGVydmFsKCgpID0+IHsK</text>
       </register>
     </registers>
     <search>
