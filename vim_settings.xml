@@ -117,10 +117,11 @@
         <mark key="." line="80" column="49" />
         <mark key="^" line="68" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/formStore/field.ts" timestamp="1503146523969">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/formStore/field.ts" timestamp="1503147277571">
+        <mark key="[" line="57" column="5" />
+        <mark key="]" line="58" column="3" />
+        <mark key="." line="58" column="3" />
+        <mark key="^" line="58" column="3" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/ListView.tsx" timestamp="1486733782960">
         <mark key="[" line="20" column="1" />
@@ -589,11 +590,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/formStore/formStore.ts" timestamp="1503146222619">
-        <mark key="[" line="70" column="23" />
-        <mark key="]" line="70" column="23" />
-        <mark key="." line="70" column="23" />
-        <mark key="^" line="70" column="24" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/formStore/formStore.ts" timestamp="1503147326936">
+        <mark key="[" line="106" column="55" />
+        <mark key="]" line="106" column="63" />
+        <mark key="^" line="106" column="63" />
+        <mark key="." line="106" column="63" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/containers/container.ts" timestamp="1482986493864">
         <mark key="[" line="12" column="0" />
@@ -6140,10 +6141,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>IsValid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6155,31 +6156,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICAgcmV0dXJuIHsgW3RoaXMubmFtZV06IHRoaXMudmFsdWUgfTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIH0gZWxzZSBpZiAodGhpcy5pZ25vcmUgIT09IHRoaXMuZm9ybS5tb2RlKSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGlmICghdGhpcy5pZ25vcmUpIHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIHRoaXMuY2xlYXJFcnJvck1lc3NhZ2UoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIHRoaXMuY2xlYXJFcnJvck1lc3NhZ2UoKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsgW3RoaXMubmFtZV06IHRoaXMudmFsdWUgfTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlnbm9yZVdoZW5FbXB0eTogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>
