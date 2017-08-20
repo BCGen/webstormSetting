@@ -440,11 +440,11 @@
         <mark key="^" line="38" column="39" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/verificationScreen/component/ResendLetterButton.tsx" timestamp="1502884853305">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="37" />
-        <mark key="." line="11" column="37" />
-        <mark key="^" line="11" column="37" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/verificationScreen/component/ResendLetterButton.tsx" timestamp="1503211102443">
+        <mark key="[" line="44" column="57" />
+        <mark key="]" line="44" column="57" />
+        <mark key="." line="44" column="57" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/index.ts" timestamp="1503062505955">
         <mark key="[" line="3" column="27" />
@@ -1568,11 +1568,11 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/verificationScreen/VerificationScreen.tsx" timestamp="1503210419918">
-        <mark key="[" line="65" column="34" />
-        <mark key="]" line="65" column="36" />
-        <mark key="." line="65" column="36" />
-        <mark key="^" line="65" column="36" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/verificationScreen/VerificationScreen.tsx" timestamp="1503210672364">
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="67" column="29" />
+        <mark key="." line="67" column="29" />
+        <mark key="^" line="67" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/flatList/index.ts" timestamp="1494685826112">
         <mark key="[" line="3" column="26" />
@@ -6146,11 +6146,11 @@
       <jump line="47" column="1" filename="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/formStore/field.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEBvYnNlcnZhYmxlIGxpc3RzOiBNYXA8c3RyaW5nLCBGaWVsZD4gPSBuZXcgTWFwKCk7</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6162,31 +6162,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxpZ25JdGVtczogJ2ZsZXgtc3RhcnQnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBsaXN0IDogWwogICAgICB7CiAgICAgICAgbGFiZWw6ICepbaZXJywKICAgICAgICB2YWx1ZTogJ7OvrGamqCcsCiAgICAgICAgbGlzdCA6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgbGFiZWw6ICe5cbjcJywKICAgICAgICAgIH0sIHsKICAgICAgICAgICAgbGFiZWw6ICerSL1jJwogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfSwKICAgICAgewogICAgICAgIGxhYmVsOiAnwXC1uKRIMicsCiAgICAgICAgbGlzdCA6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgbGFiZWw6ICe5cbjcJywKICAgICAgICAgIH0sIHsKICAgICAgICAgICAgbGFiZWw6ICerSL1jJwogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfQogICAgXQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBpc1R5cGU6IGJvb2xlYW4gPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGggICAgICAgICA6ICcxMDAlJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsaWduSXRlbXMgICAgOiAnY2VudGVyJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0SW5wdXQgcGxhY2Vob2xkZXI9eydoaSd9Lz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXQgZmllbGQodmFsdWU6IGFueSkgewo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
