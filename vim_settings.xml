@@ -1101,6 +1101,12 @@
         <mark key="." line="55" column="48" />
         <mark key="^" line="55" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/authStore/index.ts" timestamp="1503314993162">
+        <mark key="[" line="55" column="36" />
+        <mark key="]" line="55" column="36" />
+        <mark key="^" line="55" column="36" />
+        <mark key="." line="55" column="36" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/index.ios.js" timestamp="1481639629352">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -4582,6 +4588,12 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/actions/auth.ts" timestamp="1503314925555">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/customerListScreen/NavigationOptions.tsx" timestamp="1503247163652">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -6612,11 +6624,11 @@
       <jump line="5" column="35" filename="$USER_HOME$/Documents/bitbucket/projecta/src/constants/screens.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6628,31 +6640,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">ICBjb25zdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzdWx0Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdFt2YWx1ZV0gPSB2YWx1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBfLmZvckVhY2gocCwgKHZhbHVlKSA9PiB7Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHQ6IHtbSyBpbiBVXTogS30gPSB7fSBhcyBhbnk7Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdFt2YWx1ZV0gPSB2YWx1ZTsK</text>
       </register>
     </registers>
     <search>
