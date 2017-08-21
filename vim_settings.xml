@@ -920,11 +920,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/index.ts" timestamp="1503285778725">
-        <mark key="[" line="33" column="2" />
-        <mark key="]" line="56" column="1" />
-        <mark key="." line="56" column="1" />
-        <mark key="^" line="56" column="1" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/index.ts" timestamp="1503300334266">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="37" column="40" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/reportAddScreen/ReportAddScreen.tsx" timestamp="1502886200032">
         <mark key="[" line="14" column="35" />
@@ -6683,10 +6683,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdmVyaWZpY2F0aW9uU3RvcmUgfSBmcm9tICcuL3ZlcmlmaWNhdGlvblN0b3JlJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6698,31 +6698,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdmVyaWZpY2F0aW9uU3RvcmUgfSBmcm9tICcuL3ZlcmlmaWNhdGlvblN0b3JlJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9zY3JlZW4nOwo=</text>
+        <text encoding="base64">aW1wb3J0IHVpU3RvcmUgZnJvbSAnLi91aVN0b3JlJzsKaW1wb3J0IHsgdXNlclN0b3JlIH0gZnJvbSAnLi91c2VyU3RvcmUnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU1RPUkVTIH0gZnJvbSAnLi4vLi4vLi4vLi4vY29uc3RhbnRzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVwb3J0U3RvcmUgfSBmcm9tICcuL3JlcG9ydFN0b3JlJzsKaW1wb3J0IHsgc3RhdHVzU3RvcmUgfSBmcm9tICcuL3N0YXR1c1N0b3JlJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU1RPUkVTIH0gZnJvbSAnLi4vLi4vLi4vLi4vY29uc3RhbnRzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVwb3J0RWRpdFN0b3JlIH0gZnJvbSAnLi9yZXBvcnRFZGl0U3RvcmUnOwppbXBvcnQgeyByZXBvcnRMaXN0U3RvcmUgfSBmcm9tICcuL3JlcG9ydExpc3RTdG9yZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU1RPUkVTIH0gZnJvbSAnLi4vLi4vLi4vLi4vY29uc3RhbnRzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgbWlzc2lvblN0b3JlIH0gZnJvbSAnLi9taXNzaW9uU3RvcmUnOwppbXBvcnQgeyByZXBvcnRBZGRTdG9yZSB9IGZyb20gJy4vcmVwb3J0QWRkU3RvcmUnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU1RPUkVTIH0gZnJvbSAnLi4vLi4vLi4vLi4vY29uc3RhbnRzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgY3VzdG9tZXJBZGRTdG9yZSB9IGZyb20gJy4vY3VzdG9tZXJBZGRTdG9yZSc7CmltcG9ydCB7IGN1c3RvbWVyU3RvcmUgfSBmcm9tICcuL2N1c3RvbWVyU3RvcmUnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU1RPUkVTIH0gZnJvbSAnLi4vLi4vY29uc3RhbnRzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgYXV0aFN0b3JlIH0gZnJvbSAnLi9hdXRoU3RvcmUnOwppbXBvcnQgeyBjdXJyZW50VXNlclN0b3JlIH0gZnJvbSAnLi9jdXJyZW50VXNlclN0b3JlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU1RPUkVTIH0gZnJvbSAnLi4vLi4vY29uc3RhbnRzJzsK</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsKaW1wb3J0IHsgU3RvcmUgfSBmcm9tICcuLi9hcGknOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU1RPUkVTIH0gZnJvbSAnLi4vLi4vLi4vY29uc3RhbnRzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
