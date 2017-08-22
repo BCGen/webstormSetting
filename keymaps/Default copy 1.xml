@@ -1,0 +1,13 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="JS.TypeScript.Compile">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt f" />
+  </action>
+</keymap>
