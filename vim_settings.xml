@@ -225,7 +225,7 @@
         <mark key="." line="61" column="43" />
         <mark key="^" line="61" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/model/mobxFirebaseStoreModel.ts" timestamp="1503246931933">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/model/mobxFirebaseStoreModel.ts" timestamp="1503426785552">
         <mark key="[" line="83" column="10" />
         <mark key="]" line="83" column="11" />
         <mark key="^" line="83" column="9" />
@@ -945,11 +945,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/index.ts" timestamp="1503424732133">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="17" column="72" />
-        <mark key="." line="17" column="72" />
-        <mark key="^" line="17" column="72" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/index.ts" timestamp="1503425575138">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="44" />
+        <mark key="." line="16" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/reportAddScreen/ReportAddScreen.tsx" timestamp="1502886200032">
         <mark key="[" line="14" column="35" />
@@ -2366,7 +2365,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/mobxFirebaseStore.ts" timestamp="1503319545296">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/mobxFirebaseStore.ts" timestamp="1503426763566">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="279" column="3" />
@@ -3962,7 +3961,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503405093478">
+      <file name="/Dummy.txt" timestamp="1503426540590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -4775,11 +4774,11 @@
         <mark key="." line="8" column="43" />
         <mark key="^" line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/firebaseStore.ts" timestamp="1503424392272">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="0" column="22" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/firebaseStore.ts" timestamp="1503427134237">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="14" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/Modal/index.ts" timestamp="1494342751400">
         <mark key="[" line="4" column="7" />
@@ -5068,11 +5067,10 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/navigationStore.ts" timestamp="1503425032524">
-        <mark key="[" line="55" column="5" />
-        <mark key="]" line="56" column="4" />
-        <mark key="." line="56" column="4" />
-        <mark key="^" line="56" column="4" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/navigationStore.ts" timestamp="1503425558679">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/formStore/lib.ts" timestamp="1503215170153">
         <mark key="[" line="9" column="46" />
@@ -6786,10 +6784,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>Option</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Option</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6801,31 +6799,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMubWFpbk5hdmlnYXRvciA9IG1haW5OYXZpZ2F0b3I7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHt9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgdGhpcy5faW5pdFJvdXRlID0gaW5pdFJvdXRlOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhdGgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChpbml0Um91dGUpIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgaW5pdFJvdXRlLCBtYWluTmF2aWdhdG9yIH0gPSBvcHRpb247Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAga2V5Lgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWUuCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNTdWJzY3JpYmUgJiYgdGhpcy51blN1YnNjcmliZSgpOwo=</text>
       </register>
     </registers>
     <search>
