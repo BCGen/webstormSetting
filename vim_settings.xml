@@ -333,11 +333,11 @@
         <mark key="." line="26" column="36" />
         <mark key="^" line="26" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/authScreen/component/ModeSwitchButton.tsx" timestamp="1503405976141">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="44" />
-        <mark key="^" line="17" column="44" />
-        <mark key="." line="17" column="44" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/authScreen/component/ModeSwitchButton.tsx" timestamp="1503406549340">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/screens/test/MapTest.tsx" timestamp="1484635664564">
         <mark key="[" line="8" column="29" />
@@ -1132,12 +1132,12 @@
         <mark key="." line="55" column="48" />
         <mark key="^" line="55" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/authStore/index.ts" timestamp="1503405447311">
-        <mark key="'" line="82" column="2" />
-        <mark key="[" line="62" column="16" />
-        <mark key="]" line="62" column="19" />
-        <mark key="." line="62" column="19" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/authStore/index.ts" timestamp="1503406229976">
+        <mark key="'" line="74" column="2" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
         <mark key="^" line="62" column="19" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/index.ios.js" timestamp="1481639629352">
         <mark key="[" line="0" column="0" />
@@ -2778,13 +2778,6 @@
         <mark key="]" line="2" column="7" />
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/navigation/navigator.ts" timestamp="1503308947712">
-        <mark key="'" line="3" column="8" />
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/input/TextField/Label.tsx" timestamp="1501354161160">
         <mark key="[" line="84" column="0" />
@@ -6641,11 +6634,11 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="66" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/actions/screens.ts" timestamp="1503405931604">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="20" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/actions/screens.ts" timestamp="1503406656342">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/constants/index.ts" timestamp="1501340430907">
         <mark key="[" line="4" column="22" />
@@ -6781,11 +6774,11 @@
       <jump line="8" column="43" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screens/authScreen/component/SubmitButton.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>switchMode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>switchMode</text>
+        <text>mode === 'signIn' ? '註冊新會員' : '返回登入'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6797,31 +6790,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29uZmlybVBhc3N3b3JkID0gJCgnY29uZmlybVBhc3N3b3JkJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbW9kZSB9ID0gdGhpcy5wcm9wcy5hdXRoU3RvcmUhOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJ1bkluQWN0aW9uKCgpID0+IHsK</text>
+        <text encoding="base64">ICBAY29tcHV0ZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2V0TW9kZShtb2RlID09PSAnc2lnbkluJyA/ICdyZWdpc3RlcicgOiAnc2lnbkluJyk7Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG1vZGUpIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IC8vIEBhY3Rpb24KICAvLyBzd2l0Y2hNb2RlID0gKCkgPT4gewogIC8vICAgdGhpcy5tb2RlID0gdGhpcy5tb2RlID09PSAnc2lnbkluJyA/ICdyZWdpc3RlcicgOiAnc2lnbkluJzsKICAvLyAgIHRoaXMuJCgncGFzc3dvcmQnKSEuY2xlYXIoKTsKICAvLyAgIHRoaXMuJCgnY29uZmlybVBhc3N3b3JkJykhLmNsZWFyKCk7CiAgLy8gICB0aGlzLnNldEF1dGhGYWlsTWVzc2FnZSgpOwogIC8vICAgdGhpcy52YWxpZGF0ZSgpOwogIC8vIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRNb2RlKCdyZWdpc3RlcicpOwo=</text>
       </register>
     </registers>
     <search>
