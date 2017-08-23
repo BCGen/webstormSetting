@@ -2362,7 +2362,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/mobxFirebaseStore.ts" timestamp="1503426763566">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/mobxFirebaseStore.ts" timestamp="1503489989442">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="279" column="3" />
@@ -4760,11 +4760,12 @@
         <mark key="." line="8" column="43" />
         <mark key="^" line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/firebaseStore.ts" timestamp="1503430868061">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="28" column="1" />
-        <mark key="." line="28" column="1" />
-        <mark key="^" line="28" column="1" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/firebaseStore.ts" timestamp="1503490163645">
+        <mark key="'" line="52" column="27" />
+        <mark key="[" line="63" column="5" />
+        <mark key="]" line="63" column="5" />
+        <mark key="." line="63" column="5" />
+        <mark key="^" line="63" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/Modal/index.ts" timestamp="1494342751400">
         <mark key="[" line="4" column="7" />
@@ -6657,7 +6658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="1" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerListScreen/component/customerItem/toolBar/ToolBar.tsx" />
       <jump line="41" column="18" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/DisplayPasswordCheckbox.tsx" />
       <jump line="39" column="0" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/DisplayPasswordCheckbox.tsx" />
       <jump line="56" column="0" filename="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/customerListScreen/component/customerItem/InformationBar.tsx" />
@@ -6757,13 +6757,14 @@
       <jump line="65" column="2" filename="$USER_HOME$/Documents/bitbucket/projecta/src/stores/authStore/index.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/bitbucket/projecta/src/node_modules/l/index.ts" />
       <jump line="8" column="43" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screens/authScreen/component/SubmitButton.tsx" />
+      <jump line="52" column="27" filename="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/firebaseStore.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this._option.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this._option.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6775,45 +6776,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLl9vcHRpb24ucGF0aDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1haW5OYXZpZ2F0b3IpOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLl9vcHRpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>interface Option {
-  initRoute: string;
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBtb2RlbDogVDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>const MainNavigator = {
-  [SCREENS.customerAddScreen] : { screen: screens.customerAddScreen },
-  // [SCREENS.enterDetailScreen] : { screen: screens.enterDetailScreen },
-  // [SCREENS.initScreen]        : { screen: screens.initScreen },
-  // [SCREENS.loadingScreen]     : { screen: screens.loadingScreen },
-  // [SCREENS.authScreen]        : { screen: screens.authScreen },
-  // [SCREENS.normalScreen]      : { screen: NormalScreen },
-  // [SCREENS.recordListScreen]  : { screen: screens.recordListScreen },
-  // [SCREENS.reportAddScreen]   : { screen: screens.reportAddScreen },
-  // [SCREENS.reportEditScreen]  : { screen: screens.reportEditScreen },
-  // [SCREENS.recordListScreen]  : { screen: screens.reportListScreen },
-  // [SCREENS.superScreen]       : { screen: SuperScreen },
-  // [SCREENS.verificationScreen]: { screen: screens.verificationScreen },
-
-  // [SCREENS.testScreen]: { screen: screens.testScreen },
-};</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
