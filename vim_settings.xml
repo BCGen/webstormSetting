@@ -2362,7 +2362,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/mobxFirebaseStore.ts" timestamp="1503489989442">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/mobxFirebaseStore.ts" timestamp="1503490427946">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="279" column="3" />
@@ -3690,6 +3690,7 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="23" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/node_modules/firebase/firebase.d.ts" timestamp="1503490319638" />
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/authScreen/component/form/EmailInput.tsx" timestamp="1503218112840">
         <mark key="[" line="22" column="20" />
         <mark key="]" line="22" column="20" />
@@ -4760,12 +4761,12 @@
         <mark key="." line="8" column="43" />
         <mark key="^" line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/firebaseStore.ts" timestamp="1503490163645">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/firebaseStore.ts" timestamp="1503490437721">
         <mark key="'" line="52" column="27" />
-        <mark key="[" line="63" column="5" />
-        <mark key="]" line="63" column="5" />
-        <mark key="." line="63" column="5" />
-        <mark key="^" line="63" column="5" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="59" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/Modal/index.ts" timestamp="1494342751400">
         <mark key="[" line="4" column="7" />
@@ -6760,11 +6761,11 @@
       <jump line="52" column="27" filename="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/firebaseStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this._option.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmVmLm9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>this._option.</text>
+        <text>Query</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6776,31 +6777,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLl9vcHRpb24ucGF0aDsK</text>
+        <text encoding="base64">ICAgICAgcmVmLm9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLl9vcHRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLl9vcHRpb24ucGF0aDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLl9vcHRpb24pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtb2RlbDogVDsK</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBtb2RlbDogVDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
