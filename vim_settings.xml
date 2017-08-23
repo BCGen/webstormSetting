@@ -944,11 +944,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/index.ts" timestamp="1503432869059">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="61" />
-        <mark key="." line="17" column="61" />
-        <mark key="^" line="17" column="61" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/index.ts" timestamp="1503489339493">
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="16" column="62" />
+        <mark key="^" line="16" column="78" />
+        <mark key="." line="16" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/reportAddScreen/ReportAddScreen.tsx" timestamp="1502886200032">
         <mark key="[" line="14" column="35" />
@@ -2769,7 +2769,7 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/navigation/navigator.ts" timestamp="1503432262253">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/navigation/navigator.ts" timestamp="1503489001471">
         <mark key="'" line="3" column="8" />
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="15" />
@@ -5048,11 +5048,10 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/navigationStore.ts" timestamp="1503432854318">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="30" />
-        <mark key="^" line="27" column="30" />
-        <mark key="." line="27" column="30" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/navigationStore.ts" timestamp="1503489493941">
+        <mark key="[" line="47" column="7" />
+        <mark key="]" line="47" column="7" />
+        <mark key="." line="47" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/formStore/lib.ts" timestamp="1503215170153">
         <mark key="[" line="9" column="46" />
@@ -6282,7 +6281,7 @@
         <mark key="." line="32" column="27" />
         <mark key="^" line="32" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/navigation/config.ts" timestamp="1503308894692">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/navigation/config.ts" timestamp="1503488990085">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="36" />
         <mark key="." line="6" column="36" />
@@ -6761,10 +6760,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6779,28 +6778,45 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvdXRlTmFtZSA9IG9wdGlvbi5pbml0Um91dGU7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1haW5OYXZpZ2F0b3IpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYWluTmF2aWdhdG9yOiBOYXZpZ2F0aW9uQ29udGFpbmVyID0gTWFpbk5hdmlnYXRvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFpbk5hdmlnYXRvciA9IG9wdGlvbi5tYWluTmF2aWdhdG9yOwo=</text>
+      <register name="5" type="4">
+        <text>interface Option {
+  initRoute: string;
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYWluTmF2aWdhdG9yOiBNYWluTmF2aWdhdG9yLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtYWluTmF2aWdhdG9yOiBOYXZpZ2F0aW9uQ29udGFpbmVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IG5hdmlnYXRpb25TdGF0ZSA9IHRoaXMubWFpbk5hdmlnYXRvci5yb3V0ZXIuZ2V0U3RhdGVGb3JBY3Rpb24oYWN0aW9ucywgcHJldmlvdXNOYXZTdGF0ZSk7Cg==</text>
+      <register name="8" type="4">
+        <text>const MainNavigator = {
+  [SCREENS.customerAddScreen] : { screen: screens.customerAddScreen },
+  // [SCREENS.enterDetailScreen] : { screen: screens.enterDetailScreen },
+  // [SCREENS.initScreen]        : { screen: screens.initScreen },
+  // [SCREENS.loadingScreen]     : { screen: screens.loadingScreen },
+  // [SCREENS.authScreen]        : { screen: screens.authScreen },
+  // [SCREENS.normalScreen]      : { screen: NormalScreen },
+  // [SCREENS.recordListScreen]  : { screen: screens.recordListScreen },
+  // [SCREENS.reportAddScreen]   : { screen: screens.reportAddScreen },
+  // [SCREENS.reportEditScreen]  : { screen: screens.reportEditScreen },
+  // [SCREENS.recordListScreen]  : { screen: screens.reportListScreen },
+  // [SCREENS.superScreen]       : { screen: SuperScreen },
+  // [SCREENS.verificationScreen]: { screen: screens.verificationScreen },
+
+  // [SCREENS.testScreen]: { screen: screens.testScreen },
+};</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnficpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
