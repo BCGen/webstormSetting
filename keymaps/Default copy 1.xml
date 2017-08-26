@@ -15,6 +15,9 @@
   <action id="JS.TypeScript.Compile">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt d" />
+  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt f" />
   </action>
