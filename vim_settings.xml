@@ -4693,11 +4693,11 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/actions/auth.ts" timestamp="1503690358762">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="67" column="9" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/actions/auth.ts" timestamp="1503736767879">
+        <mark key="[" line="74" column="20" />
+        <mark key="]" line="74" column="20" />
+        <mark key="^" line="75" column="34" />
+        <mark key="." line="74" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screen/customerListScreen/NavigationOptions.tsx" timestamp="1503247163652">
         <mark key="[" line="31" column="0" />
@@ -4777,7 +4777,7 @@
         <mark key="." line="8" column="43" />
         <mark key="^" line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/firebaseStore.ts" timestamp="1503735931287">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/firebaseStore.ts" timestamp="1503736379110">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -5053,6 +5053,7 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/firebase/firebase.ts" timestamp="1503736656654" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/screens/LoginScreen.tsx" timestamp="1484129105187">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="7" />
@@ -6776,11 +6777,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/firebaseStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>wlihildPath</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6792,31 +6793,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGZpcmViYXNlQ3VycmVudFVzZXIuc2VuZEVtYWlsVmVyaWZpY2F0aW9uKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9pc1N1YnNjcmliZTogYm9vbGVhbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBtb2RlbDogVDsK</text>
+        <text encoding="base64">ICBwcml2YXRlIF9pc1N1YnNjcmliZTogYm9vbGVhbiA9IGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyB1c2VTdG9yZVByb3BlcnRpZXNGb3JLZXk/OiBib29sZWFuOwo=</text>
+        <text encoding="base64">ICAvLyBtb2RlbDogVDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBjaGlsZFBhdGg/OiBzdHJpbmc7Cg==</text>
+        <text encoding="base64">ICAvLyB1c2VTdG9yZVByb3BlcnRpZXNGb3JLZXk/OiBib29sZWFuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjaGlsZFBhdGg/OiBzdHJpbmc7Cg==</text>
       </register>
     </registers>
     <search>
