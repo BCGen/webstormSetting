@@ -549,11 +549,12 @@
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/enterDetailScreen/EnterDetailScreen.tsx" timestamp="1503768954901">
-        <mark key="'" line="37" column="37" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="25" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/enterDetailScreen/EnterDetailScreen.tsx" timestamp="1503770552547">
+        <mark key="'" line="38" column="37" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/models/employeeForm.ts" timestamp="1482528049221">
         <mark key="[" line="22" column="1" />
@@ -945,7 +946,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/index.ts" timestamp="1503770007354">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/index.ts" timestamp="1503770585157">
         <mark key="[" line="25" column="6" />
         <mark key="]" line="25" column="6" />
         <mark key="^" line="66" column="34" />
@@ -5527,6 +5528,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/enterDetailScreen/components/index.ts" timestamp="1503770519785">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/customerAddForm/HeaderForm.tsx" timestamp="1496319404379">
         <mark key="[" line="37" column="41" />
         <mark key="]" line="37" column="69" />
@@ -6002,6 +6009,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/input/TextField.tsx" timestamp="1503770921224">
+        <mark key="[" line="47" column="62" />
+        <mark key="]" line="47" column="62" />
+        <mark key="." line="47" column="62" />
+        <mark key="^" line="47" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/index.ts" timestamp="1502444880308">
         <mark key="[" line="3" column="17" />
@@ -6690,10 +6703,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>blue</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>blue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6705,31 +6718,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0Pqltplc8L1RleHQ+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFByb3BzIHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW50ZXJmYWNlIFByb3BzIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbAo=</text>
       </register>
     </registers>
     <search>
