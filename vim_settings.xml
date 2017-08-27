@@ -3923,7 +3923,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503510338350">
+      <file name="/Dummy.txt" timestamp="1503781700421">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -6013,11 +6013,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/input/TextField.tsx" timestamp="1503781653016">
-        <mark key="[" line="65" column="18" />
-        <mark key="]" line="66" column="27" />
-        <mark key="^" line="66" column="27" />
-        <mark key="." line="66" column="27" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/input/TextField.tsx" timestamp="1503818851808">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="^" line="253" column="0" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/index.ts" timestamp="1502444880308">
         <mark key="[" line="3" column="17" />
@@ -6705,11 +6705,11 @@
       <jump line="3" column="8" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screens/enterDetailScreen/components/NameInput.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dark</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aXRsZVRleHRTdHlsZT17dGl0bGVUZXh0U3R5bGV9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dark</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6721,31 +6721,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Q29sb3I9e3RleHRDb2xvcn0K</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZVRleHRTdHlsZT17dGl0bGVUZXh0U3R5bGV9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvckNvbG9yPXt0aGlzLl9lcnJvckNvbG9yfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZUZvbnRTaXplPXt0aGlzLnRpdGxlRm9udFNpemUoKX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGV4dENvbAo=</text>
+        <text encoding="base64">ICAgICAgICB0aW50Q29sb3I9e3RpbnRDb2xvcn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0Q29sb3I9e3RleHRDb2xvcn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbEZvbnRTaXplPXt0aGlzLmxhYmVsRm9udFNpemUoKX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVycm9yQ29sb3I6IHRoaXMudGhlbWUgPT09ICdkYXJrJyA/IENPTE9SLndoaXRlIDogdW5kZWZpbmVkLAo=</text>
+        <text encoding="base64">ICAgICAgICBmb250U2l6ZT17dGhpcy5mb250U2l6ZSgpfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAb2JzZXJ2YWJsZSBfdGV4dEZpZWxkOiB7IFtwOiBzdHJpbmddOiBhbnkgfSA9IHsK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvckNvbG9yPXtlcnJvckNvbG9yfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXJTdHlsZT17W3N0eWxlcy5jb250YWluZXJTdHlsZSwgY29udGFpbmVyU3R5bGVdfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBiYXNlQ29sb3I9e2Jhc2VDb2xvcn0K</text>
       </register>
     </registers>
     <search>
