@@ -6018,7 +6018,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/input/TextField.tsx" timestamp="1503827866187">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/input/TextField.tsx" timestamp="1503837380578">
         <mark key="[" line="86" column="20" />
         <mark key="]" line="86" column="23" />
         <mark key="^" line="86" column="23" />
@@ -6582,11 +6582,11 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/themeStore.ts" timestamp="1503828112083">
-        <mark key="[" line="29" column="3" />
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="29" column="8" />
-        <mark key="^" line="29" column="8" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/themeStore.ts" timestamp="1503837344788">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="36" column="57" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/common/index.ts" timestamp="1482848067742">
         <mark key="[" line="0" column="24" />
@@ -6710,11 +6710,11 @@
       <jump line="3" column="8" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screens/enterDetailScreen/components/NameInput.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6726,31 +6726,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhlbWVTdG9yZS5zZXRUaGVtZSh0aGVtZVN0b3JlLnRoZW1lID09PSAnZGFyaycpCg==</text>
+        <text encoding="base64">ICAvLyAgIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAvLyAgICAgfSwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHRoZW1lOiB7CiAgICAgIGJhc2VDb2xvciA6IHRoZW1lQ29sb3IsCiAgICAgIGVycm9yQ29sb3I6IHVuZGVmaW5lZCwKICAgICAgdGV4dENvbG9yIDogdGhlbWVDb2xvciwKICAgICAgdGludENvbG9yIDogdGhlbWVDb2xvciwKICAgIH0s</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyAgICAgICB0aW50Q29sb3IgOiB0aGVtZUNvbG9yLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkge30K</text>
+        <text encoding="base64">ICAvLyAgICAgICB0ZXh0Q29sb3IgOiB0aGVtZUNvbG9yLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAvLyAgICAgICBlcnJvckNvbG9yOiB1bmRlZmluZWQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAgICAgICBiYXNlQ29sb3IgOiB0aGVtZUNvbG9yLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGhlbWVTdG9yZS5zZXRUaGVtZSgnZGFyaycpOwo=</text>
+        <text encoding="base64">ICAvLyAgICAgdGhlbWU6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnMK</text>
+        <text encoding="base64">ICAvLyAgICAgfSwK</text>
       </register>
     </registers>
     <search>
