@@ -699,6 +699,12 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/theme/input/TextField.tsx" timestamp="1503823245322">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/SeparatorLine.tsx" timestamp="1495028621636">
         <mark key="[" line="17" column="56" />
         <mark key="]" line="17" column="56" />
@@ -1107,7 +1113,7 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/setting.ts" timestamp="1503781680832">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/setting.ts" timestamp="1503824515077">
         <mark key="[" line="30" column="21" />
         <mark key="]" line="30" column="25" />
         <mark key="." line="30" column="25" />
@@ -3923,7 +3929,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503781700421">
+      <file name="/Dummy.txt" timestamp="1503823413058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -5400,6 +5406,11 @@
         <mark key="^" line="14" column="41" />
         <mark key="." line="14" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/authScreen/components/form/Input.tsx" timestamp="1503824103135">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Map/MapTest.tsx" timestamp="1482518577815">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -6013,11 +6024,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/input/TextField.tsx" timestamp="1503818851808">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="^" line="253" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/input/TextField.tsx" timestamp="1503824155654">
+        <mark key="[" line="119" column="10" />
+        <mark key="]" line="119" column="10" />
+        <mark key="^" line="119" column="10" />
+        <mark key="." line="119" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/index.ts" timestamp="1502444880308">
         <mark key="[" line="3" column="17" />
@@ -6577,11 +6588,11 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/themeStore.ts" timestamp="1503781627432">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="32" />
-        <mark key="." line="23" column="32" />
-        <mark key="^" line="23" column="32" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/store/themeStore.ts" timestamp="1503824676047">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/common/index.ts" timestamp="1482848067742">
         <mark key="[" line="0" column="24" />
@@ -6705,11 +6716,11 @@
       <jump line="3" column="8" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screens/enterDetailScreen/components/NameInput.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZVRleHRTdHlsZT17dGl0bGVUZXh0U3R5bGV9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6721,31 +6732,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZVRleHRTdHlsZT17dGl0bGVUZXh0U3R5bGV9Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZUZvbnRTaXplPXt0aGlzLnRpdGxlRm9udFNpemUoKX0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aW50Q29sb3I9e3RpbnRDb2xvcn0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Q29sb3I9e3RleHRDb2xvcn0K</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnRoZW1lID09PSAnZGFyaycpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbEZvbnRTaXplPXt0aGlzLmxhYmVsRm9udFNpemUoKX0K</text>
+        <text encoding="base64">aW1wb3J0IHsgQ09MT1IgfSBmcm9tICcuLi8uLi8uLi8uLi9jb25zdGFudHMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb250U2l6ZT17dGhpcy5mb250U2l6ZSgpfQo=</text>
+        <text encoding="base64">ICAgICAgICBiYXNlQ29sb3I9e0NPTE9SLndoaXRlfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvckNvbG9yPXtlcnJvckNvbG9yfQo=</text>
+        <text encoding="base64">ICAgICAgICBlcnJvckNvbG9yPXtDT0xPUi53aGl0ZX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXJTdHlsZT17W3N0eWxlcy5jb250YWluZXJTdHlsZSwgY29udGFpbmVyU3R5bGVdfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aW50Q29sb3I9e0NPTE9SLndoaXRlfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlQ29sb3I9e2Jhc2VDb2xvcn0K</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0Q29sb3I9e0NPTE9SLndoaXRlfQo=</text>
       </register>
     </registers>
     <search>
