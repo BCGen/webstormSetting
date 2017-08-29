@@ -609,6 +609,7 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/authScreen/components/PasswordForgetButton.tsx" timestamp="1504027018422" />
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/user/model/index.ts" timestamp="1493481531037">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="20" />
@@ -2224,11 +2225,11 @@
         <mark key="^" line="27" column="51" />
         <mark key="." line="27" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/button/OutlineButton.tsx" timestamp="1503928062891">
-        <mark key="[" line="39" column="56" />
-        <mark key="]" line="39" column="57" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/button/OutlineButton.tsx" timestamp="1504027041948">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="18" column="40" />
-        <mark key="." line="39" column="57" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/utils/localization/index.ts" timestamp="1484151693735">
         <mark key="[" line="1" column="27" />
@@ -3861,8 +3862,11 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/enterDetailScreen/components/SubmitButton.tsx" timestamp="1504025674967">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/enterDetailScreen/components/SubmitButton.tsx" timestamp="1504027110411">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/rootContext.ts" timestamp="1483792981818">
         <mark key="[" line="2" column="16" />
@@ -6741,7 +6745,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0PqtIvWM8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgZm9udFNpemUsCg==</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -6756,31 +6760,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0PqtIvWM8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgZm9udFNpemUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Li4uYnV0dG9uUHJvcHN9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0PqtIvWM8L1RleHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBydW5JbkFjdGlvbigoKSA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMudWlkID0gdXNlci51aWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBydW5JbkFjdGlvbigoKSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMudWlkID0gdXNlci51aWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgb2JzZXJ2YWJsZSB9IGZyb20gJ21vYngnOwovLyBpbXBvcnQgcmVtb3RlZGV2IGZyb20gJ21vYngtcmVtb3RlZGV2JzsKLy8gaW1wb3J0IHsgTW9ieEZpcmViYXNlU3RvcmUgfSBmcm9tICcuLi8uLi9hcGknOwovLyBpbXBvcnQgeyBmaXJlYmFzZUFwcCB9IGZyb20gJy4uLy4uL2FwaS9maXJlYmFzZS9jb25maWcnOwovLyBpbXBvcnQgeyBVc2VyIH0gZnJvbSAnLi4vbW9kZWwnOwovLwovLyBjbGFzcyBDdXJyZW50VXNlclN0b3JlIGV4dGVuZHMgTW9ieEZpcmViYXNlU3RvcmU8VXNlcj4gewovLwovLyAgIEBvYnNlcnZhYmxlIGVtYWlsOiBzdHJpbmc7Ci8vICAgQG9ic2VydmFibGUgbmFtZTogc3RyaW5nOwovLyAgIEBvYnNlcnZhYmxlIHVpZDogc3RyaW5nOwovLyAgIEBvYnNlcnZhYmxlIHBlcm1pc3Npb246IGFueTsKLy8KLy8gICBjb25zdHJ1Y3RvcihvcHRpb24pIHsKLy8gICAgIHN1cGVyKG9wdGlvbik7Ci8vCi8vICAgICBmaXJlYmFzZUFwcC5hdXRoKCkub25BdXRoU3RhdGVDaGFuZ2VkKCh1c2VyOiBmaXJlYmFzZS5Vc2VyKSA9PiB7Ci8vCi8vICAgICAgIGlmICh1c2VyICE9PSBudWxsKSB7Ci8vICAgICAgICAgdGhpcy5zdWJzY3JpYmUodXNlci51aWQpOwovLyAgICAgICB9IGVsc2UgewovLyAgICAgICAgIHRoaXMudW5TdWJzY3JpYmUoKTsKLy8gICAgICAgfQovLyAgICAgfSk7Ci8vICAgfQovLyB9Ci8vCi8vIGNvbnN0IGN1cnJlbnRVc2VyU3RvcmUgPSBuZXcgQ3VycmVudFVzZXJTdG9yZSh7Ci8vICAgYXV0b1N1YnNjcmliZSAgICAgICAgICAgOiBmYWxzZSwKLy8gICBwYXRoICAgICAgICAgICAgICAgICAgICA6ICd1c2VycycsCi8vICAgbW9kZWwgICAgICAgICAgICAgICAgICAgOiBVc2VyLAovLyAgIHVzZVN0b3JlUHJvcGVydGllc0ZvcktleTogdHJ1ZSwKLy8gfSk7Ci8vCi8vIGV4cG9ydCB7IGN1cnJlbnRVc2VyU3RvcmUsIEN1cnJlbnRVc2VyU3RvcmUgfTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
