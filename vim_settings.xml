@@ -2203,11 +2203,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/model/user.ts" timestamp="1504000918400">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="28" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/model/user.ts" timestamp="1504012547559">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="^" line="5" column="35" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/index.ts" timestamp="1486576673360">
         <mark key="[" line="5" column="25" />
@@ -3138,10 +3138,11 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/firebaseFunction/functions/index.ts" timestamp="1504006024568">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/firebaseFunction/functions/index.ts" timestamp="1504012739342">
+        <mark key="[" line="34" column="75" />
+        <mark key="]" line="34" column="76" />
+        <mark key="." line="34" column="76" />
+        <mark key="^" line="34" column="76" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/Manager/src/components/Employee/EmployeeList.tsx" timestamp="1483899360227">
         <mark key="[" line="26" column="23" />
@@ -3953,7 +3954,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503988664431">
+      <file name="/Dummy.txt" timestamp="1504012488416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -6756,10 +6757,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9nJyk7Cg==</text>
+        <text encoding="base64">Ly8gd2hlbiBuZXcgdXNlciByZWdpc3Rlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>newUserRef</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6771,31 +6772,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9nJyk7Cg==</text>
+        <text encoding="base64">Ly8gd2hlbiBuZXcgdXNlciByZWdpc3Rlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHt1c2V9IGZyb20gJy4vZyc7Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZWYgPSBBZG1pbi5kYXRhYmFzZSgpLnJlZigpLmNoaWxkKGAke3VzZXJzfS8ke3VpZH1gKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9nJzsK</text>
+        <text encoding="base64">ICAvLyBjb25zdCBuZXdVc2VyUmVmID0gcmVmLmNoaWxkKGB1c2Vycy8ke3VpZH1gKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgQWRtaW4gPSByZXF1aXJlKCdmaXJlYmFzZS1hZG1pbicpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBuZXdVc2VyUmVmID0gcmVmLmNoaWxkKGB1c2Vycy8ke3VpZH1gKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZnVuY3Rpb25zID0gcmVxdWlyZSgnZmlyZWJhc2UtZnVuY3Rpb25zJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9kZCcK</text>
+        <text encoding="base64">Ly8gdXNlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">Y29uc3QgYXV0aFN0YXR1cyA9ICdhdXRoU3RhdHVzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiaW5jbHVkZSI6IFsK</text>
+        <text encoding="base64">ICAgIGF1dGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">ICBjb25zdCBlbWFpbCA9IGV2ZW50LmRhdGEuZW1haWw7Cg==</text>
       </register>
     </registers>
     <search>
