@@ -3889,11 +3889,11 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/enterDetailScreen/components/SubmitButton.tsx" timestamp="1504087569650">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="39" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="15" column="39" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/enterDetailScreen/components/SubmitButton.tsx" timestamp="1504087780923">
+        <mark key="[" line="15" column="56" />
+        <mark key="]" line="15" column="66" />
+        <mark key="^" line="15" column="66" />
+        <mark key="." line="15" column="66" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/rootContext.ts" timestamp="1483792981818">
         <mark key="[" line="2" column="16" />
@@ -6018,6 +6018,7 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/node_modules/react-native-elements/src/buttons/Button.js" timestamp="1504087733166" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo/src/api/mobxFirebaseStore/index.ts" timestamp="1489329179305">
         <mark key="[" line="89" column="2" />
         <mark key="]" line="89" column="11" />
@@ -6794,46 +6795,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>paddingRight</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>paddingRight</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXJWaWV3U3R5bGU9e3sgbWFyZ2luOiAwLCBwYWRkaW5nOiAwIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25TdHlsZT17eyBtYXJnaW46IDAsIG1hcmdpbkxlZnQ6IDAsIHBhZGRpbmdSaWdodDogMCB9fQo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBibGFuaz17dHJ1ZX0K</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXJWaWV3U3R5bGU9e3sgbWFyZ2luOiAwIH19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b25TdHlsZT17eyBtYXJnaW5Ib3Jpem9udGFsOiAwIH19Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXJWaWV3U3R5bGU9e3sgbWFyZ2luSG9yaXpvbnRhbDogMCwgcGFkZGluZ0hvcml6b250YWw6IDAgfX0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBibGFuaz17dHJ1ZX0K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b25TdHlsZT17eyBtYXJnaW5Ib3Jpem9udGFsOiAwIH19Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb250YWluZXJWaWV3U3R5bGU9e3sgbWFyZ2luSG9yaXpvbnRhbDogMCwgcGFkZGluZ0hvcml6b250YWw6IDAgfX0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nUmlnaHQ9ezB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBibGFuaz17dHJ1ZX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nTGVmdD17MH0K</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nUmlnaHQ9ezB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nTGVmdD17MH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChwYWRkaW5nUmlnaHQpIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
     <search>
