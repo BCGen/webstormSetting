@@ -610,7 +610,6 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/authScreen/components/PasswordForgetButton.tsx" timestamp="1504027018422" />
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/user/model/index.ts" timestamp="1493481531037">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="20" />
@@ -671,7 +670,6 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/firebaseFunction/functions/package.json" timestamp="1504001503534" />
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/button/index.ts" timestamp="1502455312933">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="9" />
@@ -1424,6 +1422,11 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/App.js" timestamp="1504198857265">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/verificationScreen/components/EmailInput.tsx" timestamp="1503928252476">
         <mark key="[" line="48" column="42" />
         <mark key="]" line="48" column="43" />
@@ -1741,7 +1744,6 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/mobx/model/mobxMapModel.ts" timestamp="1503827935694" />
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/containers/custoemrAddForm/HeaderForm.tsx" timestamp="1494193896219">
         <mark key="[" line="32" column="33" />
         <mark key="]" line="32" column="33" />
@@ -5073,7 +5075,6 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/api/firebase/firebase.ts" timestamp="1504035157872" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/routers/screens/LoginScreen.tsx" timestamp="1484129105187">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="7" />
@@ -5734,7 +5735,6 @@
         <mark key="^" line="13" column="32" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/firebaseFunction/src/index.ts" timestamp="1504005315042" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/index.ts" timestamp="1501333248616">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="15" />
@@ -5849,7 +5849,6 @@
         <mark key="^" line="57" column="56" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/enterDetailScreen/components/NameInput.tsx" timestamp="1503842034643" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/node_modules/@types/@shoutem/ui/index.d.ts" timestamp="1481706520683">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="13" column="59" />
@@ -6018,7 +6017,6 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/node_modules/react-native-elements/src/buttons/Button.js" timestamp="1504087733166" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo/src/api/mobxFirebaseStore/index.ts" timestamp="1489329179305">
         <mark key="[" line="89" column="2" />
         <mark key="]" line="89" column="11" />
@@ -6481,7 +6479,7 @@
         <mark key="." line="34" column="27" />
         <mark key="^" line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/package.json" timestamp="1503239790142">
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/package.json" timestamp="1504197886243">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
@@ -6794,8 +6792,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/bitbucket/projecta/src/screens/initScreen/InitScreen.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>paddingRight</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnJvbSAnLi9zdG9yeWJvb2snOwo=</text>
       </register>
       <register name="-" type="4">
         <text>paddingRight</text>
@@ -6810,31 +6808,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXJWaWV3U3R5bGU9e3sgbWFyZ2luOiAwIH19Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnJvbSAnLi9zdG9yeWJvb2snOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBibGFuaz17dHJ1ZX0K</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXJWaWV3U3R5bGU9e3sgbWFyZ2luOiAwIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b25TdHlsZT17eyBtYXJnaW5Ib3Jpem9udGFsOiAwIH19Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXJWaWV3U3R5bGU9e3sgbWFyZ2luSG9yaXpvbnRhbDogMCwgcGFkZGluZ0hvcml6b250YWw6IDAgfX0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBibGFuaz17dHJ1ZX0K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b25TdHlsZT17eyBtYXJnaW5Ib3Jpem9udGFsOiAwIH19Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb250YWluZXJWaWV3U3R5bGU9e3sgbWFyZ2luSG9yaXpvbnRhbDogMCwgcGFkZGluZ0hvcml6b250YWw6IDAgfX0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nUmlnaHQ9ezB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBibGFuaz17dHJ1ZX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nTGVmdD17MH0K</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nUmlnaHQ9ezB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nTGVmdD17MH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
