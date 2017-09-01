@@ -670,11 +670,17 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/button/index.ts" timestamp="1502455312933">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="9" />
-        <mark key="^" line="5" column="50" />
-        <mark key="." line="5" column="9" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/button/Button.tsx" timestamp="1504279759625">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/button/index.ts" timestamp="1504279770560">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/Button/Button.tsx" timestamp="1485072384441">
         <mark key="[" line="12" column="25" />
@@ -2241,10 +2247,11 @@
         <mark key="^" line="27" column="51" />
         <mark key="." line="27" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/button/OutlineButton.tsx" timestamp="1504271684693">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/button/OutlineButton.tsx" timestamp="1504279807068">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="68" />
+        <mark key="." line="6" column="68" />
+        <mark key="^" line="6" column="68" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/utils/localization/index.ts" timestamp="1484151693735">
         <mark key="[" line="1" column="27" />
@@ -6795,10 +6802,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>Props</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>Props</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6810,31 +6817,41 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNhYmxlZFN0eWxlPXt0aGlzLmRpc2FibGVkU3R5bGUoKX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZENvbG9yOiAncmVkJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB7IGJhY2tncm91bmRDb2xvcjogQ09MT1IuV0hJVEVfRElTQUJMRV9PUl9ISU5UIH07Cg==</text>
+      <register name="3" type="4">
+        <text>interface Props extends ButtonProperties {
+
+  backgroundColor?: string;
+  blank?: boolean;
+  borderColor?: string;
+  borderWidth?: number;
+  disabledColor?: string;
+  fontSize?: FontSizeType | number;
+  marginLeft?: number;
+  marginRight?: number;
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiwge30K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2Rpc2FibGVkU3R5bGUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaXNWYWxpZCB9ID0gdGhpcy5wcm9wcy5hdXRoU3RvcmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaXNWYWxpZCB9ID0gdGhpcy5wcm9wcy5hdXRoU3RvcmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdIb3Jpem9udGFsOiAxNSwK</text>
+        <text encoding="base64">ICAgICAgICBkaXNhYmxlZFN0eWxlPXt0aGlzLmRpc2FibGVkU3R5bGUoKX0K</text>
       </register>
     </registers>
     <search>
