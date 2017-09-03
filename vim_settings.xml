@@ -4194,11 +4194,11 @@
         <mark key="." line="16" column="83" />
         <mark key="^" line="16" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/components/common/AnimatableView.tsx" timestamp="1504443153812">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="5" column="8" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/components/common/AnimatableView.tsx" timestamp="1504456011200">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/auth/authStore.ts" timestamp="1501608288163">
         <mark key="[" line="160" column="41" />
@@ -5838,6 +5838,12 @@
         <mark key="^" line="13" column="32" />
         <mark key="." line="13" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/typings/react-native-animatable.d.ts" timestamp="1504456681389">
+        <mark key="[" line="59" column="29" />
+        <mark key="]" line="59" column="29" />
+        <mark key="." line="59" column="29" />
+        <mark key="^" line="59" column="29" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/components/common/index.ts" timestamp="1501333248616">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="15" />
@@ -6781,6 +6787,7 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="66" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/typings/react-native-material-buttons.d.ts" timestamp="1504455768859" />
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/actions/screens.ts" timestamp="1503408201070">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -6922,10 +6929,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6937,31 +6944,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3R5bGVTaGVldCwgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
+        <text encoding="base64">ICAgIHwgJ2xpbmVhcicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgIHwnZWFzZS1vdXQnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgIGRlbGF5PzogbnVtYmVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXc+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ZXhwb3J0IHR5cGUgQW5pbWF0aW9uVHlwZQogID0gJ2ZhZGVJbicKICB8ICdmYWRlT3V0JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbmltYXRpb246IEFuaW1hdGlvblR5cGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY2hpbGRyZW4gfSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">ICAgIGFuaW1hdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAnd2FpdGluZ0ZvckF1dGgnIHwK</text>
+        <text encoding="base64">ICBleHBvcnQgVmlldyBleHRlbmQK</text>
       </register>
     </registers>
     <search>
