@@ -2061,7 +2061,7 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/components/common/AnimatableNavView.tsx" timestamp="1504431525802">
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/components/common/AnimatableNavView.tsx" timestamp="1504442858076">
         <mark key="[" line="22" column="44" />
         <mark key="]" line="22" column="53" />
         <mark key="." line="22" column="53" />
@@ -4194,6 +4194,12 @@
         <mark key="." line="16" column="83" />
         <mark key="^" line="16" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/components/common/AnimatableView.tsx" timestamp="1504443012746">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/store/auth/authStore.ts" timestamp="1501608288163">
         <mark key="[" line="160" column="41" />
         <mark key="]" line="160" column="41" />
@@ -4465,11 +4471,11 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/authScreen/components/AnimationContainer.tsx" timestamp="1504438594874">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
-        <mark key="^" line="33" column="20" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/authScreen/components/AnimationContainer.tsx" timestamp="1504442678587">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Starter-Kit/dva_starter_kit/src/router.tsx" timestamp="1482694335433">
         <mark key="[" line="17" column="25" />
@@ -5779,7 +5785,7 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="153" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/authScreen/AuthScreen.tsx" timestamp="1504431700645">
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/authScreen/AuthScreen.tsx" timestamp="1504442673922">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -6916,10 +6922,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>AnimatableView</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>AnimatableView</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6931,28 +6937,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnd2FpdGluZ0ZvckF1dGgnIHwK</text>
+        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">J3dhaXRpbmdGb3JBdXRoJyB8Cg==</text>
+        <text encoding="base64">ICAgICAgPFZpZXc+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAnd2FpdGluZ0ZvckF1dGgnIHwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBbmltYXRhYmxlCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgY2hpbGRyZW4gfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAnd2FpdGluZ0ZvckF1dGgnIHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L0FuaW1hdGFibGVOYXZWaWV3Pgo=</text>
+        <text encoding="base64">J3dhaXRpbmdGb3JBdXRoJyB8Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFN1Ym1pdEJ1dHRvbiAvPgo=</text>
+        <text encoding="base64">ICAnd2FpdGluZ0ZvckF1dGgnIHwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
