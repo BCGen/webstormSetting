@@ -992,7 +992,11 @@
         <mark key="." line="14" column="63" />
         <mark key="^" line="14" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/api/store/themeStore.ts" timestamp="1504631449284" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/api/store/themeStore.ts" timestamp="1504634618029">
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/.gitignore" timestamp="1500992469383">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="1" column="6" />
@@ -5969,7 +5973,7 @@
         <mark key="." line="64" column="27" />
         <mark key="^" line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/constants/color.ts" timestamp="1504631714985" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/constants/color.ts" timestamp="1504634526533" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/api/validation/index.ts" timestamp="1495874472286">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="28" />
@@ -6975,8 +6979,8 @@
       <jump line="152" column="0" filename="$USER_HOME$/Documents/bitbucket/project-a/src/components/common/AnimatableNavView.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0ICAK</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -6991,31 +6995,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFRpdGxlIGZyb20gJy4vVGl0bGUnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGluamVjdCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IFRpdGxlIGZyb20gJy4vVGl0bGUnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGluamVjdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFByb3BzIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3PiAK</text>
+        <text encoding="base64">aW50ZXJmYWNlIFByb3BzIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9WaWV3PiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgPFZpZXc+Cg==</text>
       </register>
     </registers>
     <search>
