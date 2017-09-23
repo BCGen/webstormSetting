@@ -4,6 +4,16 @@
     <keyboard-shortcut first-keystroke="alt 7" />
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt v" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt z" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt c" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
