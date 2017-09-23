@@ -14,9 +14,6 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt c" />
   </action>
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="alt f3" />
-  </action>
   <action id="JS.TypeScript.Compile">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
