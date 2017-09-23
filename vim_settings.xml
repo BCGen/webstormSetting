@@ -5185,11 +5185,11 @@
         <mark key="^" line="62" column="33" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/stores/customerStore/index.ts" timestamp="1506172131298">
-        <mark key="[" line="61" column="22" />
-        <mark key="]" line="61" column="22" />
-        <mark key="." line="61" column="22" />
-        <mark key="^" line="61" column="22" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/stores/customerStore/index.ts" timestamp="1506173681563">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/store/index.ts" timestamp="1503258634636">
         <mark key="[" line="48" column="26" />
@@ -6974,47 +6974,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/bitbucket/project-a/src/components/common/Container.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>option</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgY3VycmVudFVzZXJTdG9yZSB9IGZyb20gJy4uLyc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>option</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXNlciAhPT0gdW5kZWZpbmVkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncycpOwo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3VycmVudFVzZXJTdG9yZSB9IGZyb20gJy4uLyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3VycmVudFVzZXJTdG9yZSB9IGZyb20gJy4uLy4uL3N0b3Jlcyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3VycmVudFVzZXJTdG9yZSB9IGZyb20gJy4uLyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgY3VycmVudFVzZXJTdG9yZSB9IGZyb20gJy4uLyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IC8vIHJldHVybiAoCiAgICAvLyAgIDxUZXh0SW5wdXQKICAgIC8vICAgICBibHVyT25TdWJtaXQ9e2ZhbHNlfQogICAgLy8gICAgIHBsYWNlaG9sZGVyPXsnvdC/6aRKpLquZSd9CiAgICAvLyAgICAgYXV0b0ZvY3VzPXt0cnVlfQogICAgLy8gICAgIG11bHRpbGluZT17dHJ1ZX0KICAgIC8vICAgICB2YWx1ZT17cmVjb3JkID8gcmVjb3JkIS5jb250ZW50IDogJyd9CiAgICAvLyAgICAgb25DaGFuZ2VUZXh0PXt0aGlzLl9vbkNoYW5nZVRleHR9CiAgICAvLyAgICAgdW5kZXJsaW5lQ29sb3JBbmRyb2lkPXsndHJhbnNwYXJlbnQnfQogICAgLy8gICAvPgogICAgLy8gKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBibHVyT25TdWJtaXQ9e2ZhbHNlfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtdWx0aWxpbmU9e3RydWV9Cg==</text>
+        <text encoding="base64">ICAgICAgcGF0aCAgICAgICAgIDogJ2N1c3RvbWVycycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb25Db250ZW50U2l6ZUNoYW5nZSwK</text>
+        <text encoding="base64">ICAgICAgbmFtZSAgICAgICAgIDogJ2N1c3RvbWVyU3RvcmUnLAo=</text>
       </register>
     </registers>
     <search>
