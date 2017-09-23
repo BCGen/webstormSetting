@@ -4647,11 +4647,11 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/stores/currentUserStore/index.ts" timestamp="1506166094861">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="23" />
-        <mark key="." line="45" column="23" />
-        <mark key="^" line="45" column="23" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/stores/currentUserStore/index.ts" timestamp="1506168876743">
+        <mark key="[" line="60" column="6" />
+        <mark key="]" line="63" column="6" />
+        <mark key="." line="63" column="6" />
+        <mark key="^" line="63" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/components/common/modal/Alert.tsx" timestamp="1502532287074">
         <mark key="[" line="39" column="40" />
@@ -6958,11 +6958,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/bitbucket/project-a/src/components/common/Container.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -6974,31 +6974,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wZXJtaXNzaW9uKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25vJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9pc1N1YnNjcmliZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3llcycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9pc1N1YnNjcmliZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmN1cnJlbnRVc2VyKSB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGlmICh0aGlzLl9pc1N1YnNjcmliZSkgewogICAgICAgICAgdGhpcy51bnN1YnNjcmliZSgpOwogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
