@@ -1072,11 +1072,11 @@
         <mark key="^" line="14" column="69" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePickerList.tsx" timestamp="1506255888765">
-        <mark key="[" line="35" column="52" />
-        <mark key="]" line="35" column="52" />
-        <mark key="." line="35" column="52" />
-        <mark key="^" line="35" column="52" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePickerList.tsx" timestamp="1506256406182">
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+        <mark key="^" line="38" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/LoginScreen.tsx" timestamp="1501610618648">
         <mark key="[" line="23" column="5" />
@@ -1618,11 +1618,11 @@
         <mark key="^" line="113" column="15" />
         <mark key="." line="113" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/SettingScreen.tsx" timestamp="1506254315981">
-        <mark key="[" line="24" column="51" />
-        <mark key="]" line="24" column="54" />
-        <mark key="." line="24" column="54" />
-        <mark key="^" line="24" column="54" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/SettingScreen.tsx" timestamp="1506257612071">
+        <mark key="[" line="35" column="114" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/demo/src/constants/store.ts" timestamp="1489331046728">
         <mark key="[" line="2" column="50" />
@@ -2962,11 +2962,11 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePickerItem.tsx" timestamp="1506255388465">
-        <mark key="[" line="37" column="43" />
-        <mark key="]" line="37" column="46" />
-        <mark key="." line="37" column="46" />
-        <mark key="^" line="37" column="46" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePickerItem.tsx" timestamp="1506256385526">
+        <mark key="[" line="22" column="80" />
+        <mark key="]" line="22" column="80" />
+        <mark key="." line="22" column="80" />
+        <mark key="^" line="23" column="99" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/firebaseFunction/functions/tsconfig.json" timestamp="1504005632525">
         <mark key="[" line="15" column="3" />
@@ -3861,13 +3861,13 @@
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePicker.tsx" timestamp="1506254242837">
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePicker.tsx" timestamp="1506257516459">
         <mark key="'" line="12" column="0" />
         <mark key="i" line="26" column="3" />
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="19" column="54" />
-        <mark key="." line="18" column="17" />
+        <mark key="[" line="19" column="63" />
+        <mark key="]" line="19" column="63" />
+        <mark key="^" line="19" column="64" />
+        <mark key="." line="19" column="63" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/angular2-react-native-seed/src/hello.ts" timestamp="1483611410178">
         <mark key="[" line="12" column="4" />
@@ -6051,7 +6051,7 @@
         <mark key="." line="64" column="27" />
         <mark key="^" line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/constants/color.ts" timestamp="1506246093675" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/constants/color.ts" timestamp="1506256177625" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/api/validation/index.ts" timestamp="1495874472286">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="28" />
@@ -7055,47 +7055,47 @@
       <jump line="46" column="25" filename="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePickerList.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Q29udGFpbmVyIHN0eWxlPXt7IGJvcmRlckJvdHRvbVdpZHRoOiA1LCBib3JkZXJUb3BXaWR0aDogNSwgYm9yZGVyQ29sb3I6IHRoaXMucHJvcHMudGhlbWVTdG9yZSEudGhlbWVDb2xvci5kZWVwIH19Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8L0NvbnRhaW5lcj4K</text>
+        <text encoding="base64">ICAgIC8vIHRhYkJhckljb246ICh7IGZvY3VzZWQsIHRpbnRDb2xvciB9KSA9PiA8SW9uaWNvbnMgbmFtZT17J2lvcy1zZXR0aW5ncyd9IHNpemU9ezMwfSBjb2xvcj17dGludENvbG9yfSAvPiwK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9Db250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Q29udGFpbmVyIHN0eWxlPXt7IGJvcmRlckJvdHRvbVdpZHRoOiA1LCBib3JkZXJUb3BXaWR0aDogNSwgYm9yZGVyQ29sb3I6IHRoaXMucHJvcHMudGhlbWVTdG9yZSEudGhlbWVDb2xvci5kZWVwIH19Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPENvbnRhaW5lciBibGFuaz17dHJ1ZX0gc3R5bGU9e3sgYm9yZGVyV2lkdGg6IDEwLCBib3JkZXJDb2xvcjogdGhpcy5wcm9wcy50aGVtZVN0b3JlIS50aGVtZUNvbG9yLmxpZ2h0IH19Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKjwvQ29udGFpbmVyPiovfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKjxDb250YWluZXIgYmxhbms9e3RydWV9IHRoZW1lPXsnbWFpbid9PiovfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT17eyBtYXJnaW46IDEgfX0K</text>
+        <text encoding="base64">ICAgIHRhYkJhckljb246ICh7IGZvY3VzZWQsIHRpbnRDb2xvciB9KSA9PiA8SW9uaWNvbnMgbmFtZT17J2lvcy1zZXR0aW5ncyd9IHNpemU9ezMwfSBjb2xvcj17dGhpcy5wfSAvPiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT17eyBib3JkZXJXaWR0aDogMiB9fQo=</text>
+        <text encoding="base64">ICAgIGhlYWRlciAgICA6IG51bGwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6IENPTE9SW2BMSUdIVF8ke2NvbG9yVHlwZX1gXSwgfX0K</text>
+        <text encoding="base64">ICAgICAgPC9Db250YWluZXI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbnRhaW5lcgo=</text>
+        <text encoding="base64">ICAgICAgPENvbnRhaW5lciBibGFuaz17dHJ1ZX0gcGFkZGluZz17MTV9IHRoZW1lPXsnbWFpbid9Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT17eyBmbGV4OiAxLCBiYWNrZ3JvdW5kQ29sb3I6ICdyZWQnIH19Cg==</text>
+        <text encoding="base64">ICAgICAgPC9Db250YWluZXI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPENvbnRhaW5lciBibGFuaz17dHJ1ZX0gc3R5bGU9e3sgYm9yZGVyV2lkdGg6IDEsIGJvcmRlckNvbG9yOiAnI2ZmZicgfX0+Cg==</text>
       </register>
     </registers>
     <search>
