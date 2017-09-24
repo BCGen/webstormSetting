@@ -1072,11 +1072,11 @@
         <mark key="^" line="14" column="69" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePickerList.tsx" timestamp="1506244553953">
-        <mark key="[" line="36" column="41" />
-        <mark key="]" line="36" column="44" />
-        <mark key="." line="36" column="44" />
-        <mark key="^" line="36" column="44" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePickerList.tsx" timestamp="1506245824518">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="36" column="36" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/LoginScreen.tsx" timestamp="1501610618648">
         <mark key="[" line="23" column="5" />
@@ -2962,6 +2962,11 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePickerItem.tsx" timestamp="1506246245406">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/bitbucket/firebaseFunction/functions/tsconfig.json" timestamp="1504005632525">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="15" column="3" />
@@ -3189,11 +3194,11 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePickerModal.tsx" timestamp="1506244581877">
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="24" />
-        <mark key="." line="22" column="24" />
-        <mark key="^" line="22" column="24" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/settingScreen/components/ThemePickerModal.tsx" timestamp="1506246019029">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="20" column="26" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/store/userStore.ts" timestamp="1487957403737">
         <mark key="[" line="135" column="0" />
@@ -6045,6 +6050,7 @@
         <mark key="." line="64" column="27" />
         <mark key="^" line="62" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/constants/color.ts" timestamp="1506246093675" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/api/validation/index.ts" timestamp="1495874472286">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="28" />
@@ -7049,46 +7055,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgZGF0YSAKCg==</text>
+        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Props</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXt7YmFja2dyb3VuZENvbG9yOiB0aGlzLnByb3BzLnRoZW1lU3RvcmUhLnRoZW1lQ29sb3IubGlnaHR9fQo=</text>
+        <text encoding="base64">ICB7a2V5OiAnVEVBTCd9LAo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZGF0YSAKCg==</text>
+        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3PiAK</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3tiYWNrZ3JvdW5kQ29sb3I6IENPTE9SW2NvbG9yTmFtZV19fT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXc+Cg==</text>
+        <text encoding="base64">aW1wb3J0IFZpZXcgPSBBbmltYXRlZC5WaWV3Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJJdGVtPXsoeyBpdGVtIH0pID0+IDxUZXh0PntpdGVtLmtleX08L1RleHQ+fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFByb3BzIHsK</text>
+        <text encoding="base64">QGluamVjdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8TGFiZWw+PC9MYWJlbD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD4hISE8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Y29sb3JOYW1lfQo=</text>
       </register>
     </registers>
     <search>
