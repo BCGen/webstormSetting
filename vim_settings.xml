@@ -6444,12 +6444,11 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/CustomerAddScreen.tsx" timestamp="1506794280581">
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/CustomerAddScreen.tsx" timestamp="1506799902399">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="15" column="53" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/dashboard_android/src/components/Common/index.ts" timestamp="1481808938476">
         <mark key="[" line="1" column="28" />
@@ -7664,8 +7663,8 @@
       <jump line="68" column="13" filename="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/components/ContactListItem.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Props</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L0NvbnRhaW5lcj4K</text>
       </register>
       <register name="-" type="4">
         <text>Props</text>
@@ -7680,33 +7679,33 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L0NvbnRhaW5lcj4K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8Q29udGFpbmVyPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8L1Njcm9sbFZpZXc+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8U2Nyb2xsVmlldyBrZXlib2FyZFNob3VsZFBlcnNpc3RUYXBzPXsnYWx3YXlzJ30+Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>interface Props extends StoreProperties {
   itemName: 'email' | 'fax' | 'phone';
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB7Lyo8Q29udGFjdExpc3QgaXRlbU5hbWU9eydmYXgnfSAvPiovfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8Q29udGFjdExpc3QgaXRlbU5hbWU9eydwaG9uZSd9IC8+Ki99Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldGNpb246IAo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8Q29udGFjdExpc3QgaXRlbU5hbWU9eydwaG9uZSd9IC8+Ki99Cg==</text>
       </register>
     </registers>
     <search>
