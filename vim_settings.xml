@@ -4062,11 +4062,11 @@
         <mark key="^" line="5" column="58" />
         <mark key="." line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/components/ContactListItem.tsx" timestamp="1507039367990">
-        <mark key="[" line="52" column="22" />
-        <mark key="]" line="52" column="24" />
-        <mark key="." line="52" column="24" />
-        <mark key="^" line="52" column="24" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/components/ContactListItem.tsx" timestamp="1507041690747">
+        <mark key="[" line="155" column="29" />
+        <mark key="]" line="155" column="39" />
+        <mark key="." line="155" column="39" />
+        <mark key="^" line="155" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/index.ts" timestamp="1495126702765">
         <mark key="[" line="25" column="12" />
@@ -5176,12 +5176,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/stores/statusStore/index.ts" timestamp="1507039128020">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="26" column="18" />
-        <mark key="." line="26" column="18" />
-        <mark key="^" line="26" column="18" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/stores/statusStore/index.ts" timestamp="1507041658941">
+        <mark key="'" line="183" column="0" />
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="47" />
+        <mark key="." line="30" column="47" />
+        <mark key="^" line="30" column="47" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/navigation/RootNavigation.tsx" timestamp="1484643480999">
         <mark key="[" line="10" column="0" />
@@ -7683,46 +7683,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>handled</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>handled</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyQWRkSW5kZXgudmlld09mZnNldCA9IDEwMDsK</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVyQWRkSW5kZXgubmFtZSA9ICd2YWx1ZSc7Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsYXk9e2RlbGF5IHx8IDEwMH0K</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVyQWRkSW5kZXgudmlld09mZnNldCA9IDA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VjdGlvbkluZGV4KTsK</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVyQWRkSW5kZXgudmlld09mZnNldCA9IDE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbUluZGV4KTsK</text>
+        <text encoding="base64">ICBuYW1lOiAnY29udGFjdE5hbWUnIHwgJ3ZhbHVlJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZpZXdPZmZzZXQgIDogMjAwLAo=</text>
+        <text encoding="base64">ICAgIGtleTogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLl9zZWN0aW9uUmVmLnNjcm8K</text>
+        <text encoding="base64">ICBzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMucHJvcHMuc3RhdHVzU3RvcmUhLmN1KSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXk9e2RlbGF5IHx8IDEwMH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VjdGlvbkluZGV4KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbUluZGV4KTsK</text>
       </register>
     </registers>
     <search>
