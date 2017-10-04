@@ -2558,12 +2558,12 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/components/ContactList.tsx" timestamp="1507105662071">
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/components/ContactList.tsx" timestamp="1507107060006">
         <mark key="'" line="10" column="7" />
-        <mark key="[" line="38" column="41" />
-        <mark key="]" line="38" column="41" />
-        <mark key="." line="38" column="41" />
-        <mark key="^" line="38" column="41" />
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="39" column="37" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo-a/src/components/common/index.ts" timestamp="1486576673360">
         <mark key="[" line="5" column="25" />
@@ -4062,9 +4062,11 @@
         <mark key="^" line="5" column="58" />
         <mark key="." line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/components/ContactListItem.tsx" timestamp="1507106133323">
-        <mark key="[" line="208" column="12" />
-        <mark key="]" line="208" column="16" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/components/ContactListItem.tsx" timestamp="1507107690720">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="^" line="196" column="3" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/store/index.ts" timestamp="1495126702765">
         <mark key="[" line="25" column="12" />
@@ -4551,7 +4553,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507034627709">
+      <file name="/Dummy.txt" timestamp="1507107388956">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -5505,11 +5507,11 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/components/ContactListFooter.tsx" timestamp="1507105737808">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="34" column="53" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/components/ContactListFooter.tsx" timestamp="1507107158991">
+        <mark key="[" line="35" column="48" />
+        <mark key="]" line="35" column="48" />
+        <mark key="^" line="35" column="48" />
+        <mark key="." line="35" column="48" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/demo/src/components/loginForm/selectors.ts" timestamp="1482980604690">
         <mark key="[" line="10" column="3" />
@@ -7681,46 +7683,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuX2lzQ29udGFjdE5hbWVJbnB1dE9wZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGN1c3RvbWVyQWRkSW5kZXgudmlld09mZnNldCA9IDIwMDsK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRhY3RBcnJheVtpbmRleF0uZGF0YS5sZW5ndGgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGluZGV4ID0gY3VzdG9tZXJBZGRJbmRleC5zZWN0aW9uSW5kZXghOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29udGFjdEFycmF5W2luZGV4XS5kYXRhLmxlbmd0aCAtIDEpIHsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29udGFjdEFycmF5W2luZGV4XS5kYXRhLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChsZXQgaSA9IGMpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW5kZXggPSBjdXN0b21lckFkZEluZGV4LnNlY3Rpb25JbmRleCE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYXJyYXkK</text>
+        <text encoding="base64">ICAgICAgY29ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGl0ZW1JbmRleCA9IGN1c3RvbWVyQWRkU3RvcmUhW2Ake2l0ZW1OYW1lfUFycmF5YF0ubGVuZ3RoIC0gMTsK</text>
+        <text encoding="base64">ICAgICAgY29udGFjdEFycmF5W10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGl0ZW1JbmRleCA9IGN1c3RvbWVyQWRkU3RvcmUhW2Ake2l0ZW1OYW1lfUFycmF5YF0ubGVuZ3RoIC0gMTsK</text>
+        <text encoding="base64">ICAgICAgY29udGFjdEFycmF5Lmxlbmd0aAo=</text>
       </register>
     </registers>
     <search>
