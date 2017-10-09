@@ -1307,7 +1307,7 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/components/theme/OutlineButton.tsx" timestamp="1506438742394">
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/components/theme/OutlineButton.tsx" timestamp="1507552743272">
         <mark key="[" line="26" column="73" />
         <mark key="]" line="26" column="73" />
         <mark key="." line="26" column="73" />
@@ -4029,11 +4029,12 @@
         <mark key="." line="40" column="48" />
         <mark key="^" line="40" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/components/ContactAddButton.tsx" timestamp="1507533907978">
-        <mark key="'" line="5" column="8" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerAddScreen/components/ContactAddButton.tsx" timestamp="1507552980008">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/registerForm/DisplayPasswordCheckbox.tsx" timestamp="1495893673108">
         <mark key="[" line="15" column="62" />
@@ -7593,10 +7594,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>TouchableWithoutFeedback</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>TouchableWithoutFeedback</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -7608,31 +7609,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgPC9Ub3VjaGFibGVXaXRob3V0RmVlZGJhY2s+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyAgIHRoaXMuaXNOZWVkU2Nyb2xsID0gdmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBzZXRJc05lZWRTY3JvbGwgPSAodmFsdWU6IGJvb2xlYW4pID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgIGJvcmRlckNvbG9yPXtDT0xPUi5UUkFOU1BBUkVOVH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBAYWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJvcmRlcldpZHRoPXsxfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJvcmRlclJhZGl1cz17NX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJvcmRlckNvbG9yPXt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2Nyb2xsJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmlld09mZnNldCAgOiB0aGlzLmZvY3VzSW5wdXROYW1lID09PSAnY29udGFjdE5hbWUnID8gMSA6IDAsCg==</text>
+        <text encoding="base64">ICAvLyB9Cg==</text>
       </register>
     </registers>
     <search>
