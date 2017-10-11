@@ -152,11 +152,11 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1507736973227">
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="11" />
-        <mark key="^" line="20" column="11" />
-        <mark key="." line="20" column="11" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1507738706670">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="8" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/.babelrc" timestamp="1501531809776">
         <mark key="[" line="2" column="31" />
@@ -3598,7 +3598,6 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/dist/Qx.js" timestamp="1507734573172" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/RouterEx.tsx" timestamp="1484067195783">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="20" />
@@ -6062,6 +6061,9 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/android/app/build.gradle" timestamp="1507738515308">
+        <mark key="[" line="148" column="54" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/tsconfig.json" timestamp="1484260989869">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -6224,11 +6226,11 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/android/build.gradle" timestamp="1507737202722">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="8" column="8" />
-        <mark key="^" line="8" column="56" />
-        <mark key="." line="8" column="8" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/android/build.gradle" timestamp="1507738191755">
+        <mark key="[" line="7" column="56" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="9" column="8" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/recordListScreen/component/recordItem/DateLabel.tsx" timestamp="1501056030287">
         <mark key="[" line="42" column="32" />
@@ -6785,6 +6787,12 @@
         <mark key="]" line="2" column="30" />
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/android/app/src/main/java/com/projecta/MainApplication.java" timestamp="1507738583355">
+        <mark key="[" line="6" column="66" />
+        <mark key="]" line="6" column="66" />
+        <mark key="^" line="6" column="86" />
+        <mark key="." line="6" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/header/AlertIcon.tsx" timestamp="1494749655379">
         <mark key="[" line="18" column="14" />
@@ -7761,11 +7769,11 @@
       <jump line="4" column="5" filename="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerListScreen/components/InfoIcon.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L1RleHQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -7789,19 +7797,19 @@
         <text encoding="base64">ICAgICAgICA8L1RleHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdldCBzdGFydGVkLCBlZGl0IEFwcC5qcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIFRvIGdldCBzdGFydGVkLCBlZGl0IEFwcC5qcwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmluc3RydWN0aW9uc30+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGkgPSBmaXJlYmFzZS5maXJlc3RvcmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICA8L1RleHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpcmViYXNlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIFdlbGNvbWUgdG8gUmVhY3QgTmF0aXZlIQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLndlbGNvbWV9Pgo=</text>
       </register>
     </registers>
     <search>
