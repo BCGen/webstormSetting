@@ -152,10 +152,10 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1507726742341">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1507734565531">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/.babelrc" timestamp="1501531809776">
         <mark key="[" line="2" column="31" />
@@ -3597,6 +3597,7 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/dist/Qx.js" timestamp="1507734573172" />
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/RouterEx.tsx" timestamp="1484067195783">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="20" />
@@ -7487,7 +7488,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/package.json" timestamp="1507727897262" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/PasswordCheckedInput.tsx" timestamp="1501510651611">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="64" />
@@ -7748,11 +7748,11 @@
       <jump line="4" column="5" filename="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerListScreen/components/InfoIcon.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>yourappname</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L1RleHQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>yourappname</text>
+        <text>Welcome</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -7764,31 +7764,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICA8L1RleHQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgImJ1bmRsZUlkZW50aWZpZXIiOiAiY29tLnlvdXJjb21wYW55LnlvdXJhcHBuYW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICB0byBSZWFjdCBOYXRpdmUhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJpb3MiOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLndlbGNvbWV9Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW5qZWN0LCBvYnNlcnZlciB9IGZyb20gJ21vYngtcmVhY3QvbmF0aXZlJzsK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QG9ic2VydmVyCg==</text>
+        <text encoding="base64">ICAgICAgImJ1bmRsZUlkZW50aWZpZXIiOiAiY29tLnlvdXJjb21wYW55LnlvdXJhcHBuYW1lIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGluamVjdCgpCg==</text>
+        <text encoding="base64">ICAgICJpb3MiOiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIFYgZXh0ZW5kcyAK</text>
+        <text encoding="base64">aW1wb3J0IHsgaW5qZWN0LCBvYnNlcnZlciB9IGZyb20gJ21vYngtcmVhY3QvbmF0aXZlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QG9ic2VydmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
+        <text encoding="base64">QGluamVjdCgpCg==</text>
       </register>
     </registers>
     <search>
