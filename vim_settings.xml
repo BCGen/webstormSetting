@@ -152,6 +152,11 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1507726742341">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/.babelrc" timestamp="1501531809776">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="30" />
@@ -7725,8 +7730,8 @@
       <jump line="4" column="5" filename="$USER_HOME$/Documents/bitbucket/project-a/src/screens/customerListScreen/components/InfoIcon.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -7744,28 +7749,32 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAvLyBmaXJlc3RvcmUoKS5jb2xsZWN0aW9uKCd1c2VycycpLmdldCgpCiAgICAgIC8vICAgLnRoZW4ocXVlcnlTbmFwc2hvdCA9PiB7CiAgICAgIC8vICAgICBjb25zb2xlLmxvZygnc3VjY2Vzc2Z1bCcpOwogICAgICAvLyAgICAgY29uc29sZS5sb2cocXVlcnlTbmFwc2hvdCk7CiAgICAgIC8vICAgfSkKICAgICAgLy8gICAuY2F0Y2goKCkgPT4gewogICAgICAvLyAgIGNvbnNvbGUubG9nKCdmYWlsJyk7CiAgICAgIC8vICAgfSk7</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGZpcmViYXNlQXBwID0gZmlyZWJhc2U7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBmaXJzdDogJ0FkYScsCiAgICAgICAgbGFzdCA6ICdMb3ZlbGFjZScsCiAgICAgICAgYm9ybjogMTgxNQ==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSgnZmlyZWJhc2UvZmlyZXN0b3JlJyk7Cg==</text>
+      <register name="3" type="4">
+        <text>/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ * @flow
+ */</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZmlyZWJhc2UgZnJvbSAnZmlyZWJhc2UnOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAvLyBmaXJlc3RvcmUoKS5jb2xsZWN0aW9uKCd1c2VycycpLmdldCgpCiAgICAgIC8vICAgLnRoZW4ocXVlcnlTbmFwc2hvdCA9PiB7CiAgICAgIC8vICAgICBjb25zb2xlLmxvZygnc3VjY2Vzc2Z1bCcpOwogICAgICAvLyAgICAgY29uc29sZS5sb2cocXVlcnlTbmFwc2hvdCk7CiAgICAgIC8vICAgfSkKICAgICAgLy8gICAuY2F0Y2goKCkgPT4gewogICAgICAvLyAgIGNvbnNvbGUubG9nKCdmYWlsJyk7CiAgICAgIC8vICAgfSk7</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGZpcmViYXNlQXBwID0gZmlyZWJhc2U7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgOwo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICBmaXJzdDogJ0FkYScsCiAgICAgICAgbGFzdCA6ICdMb3ZlbGFjZScsCiAgICAgICAgYm9ybjogMTgxNQ==</text>
       </register>
     </registers>
     <search>
