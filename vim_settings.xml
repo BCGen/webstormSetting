@@ -1508,11 +1508,11 @@
         <mark key="." line="53" column="26" />
         <mark key="^" line="53" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/initScreen/InitScreen.tsx" timestamp="1507835415371">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="13" />
-        <mark key="." line="27" column="13" />
-        <mark key="^" line="27" column="13" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/initScreen/InitScreen.tsx" timestamp="1507840054442">
+        <mark key="[" line="88" column="3" />
+        <mark key="]" line="88" column="3" />
+        <mark key="." line="88" column="3" />
+        <mark key="^" line="40" column="33" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/api/firebase/index.ts" timestamp="1485213273291">
         <mark key="[" line="3" column="15" />
@@ -4033,6 +4033,12 @@
         <mark key="^" line="106" column="41" />
         <mark key="." line="106" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/dist/screens/initScreen/InitScreen.js" timestamp="1507839625240">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/Projects/untitled/index.android.js" timestamp="1482428555472">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="11" />
@@ -4644,7 +4650,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507831007545">
+      <file name="/Dummy.txt" timestamp="1507839878926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -7918,11 +7924,11 @@
       <jump line="25" column="8" filename="$USER_HOME$/Documents/bitbucket/projectA/src/screens/authScreen/components/PasswordForgetButton.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>firebaseApp</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -7934,31 +7940,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAnaCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnvdC1eavhJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAge3RoaXMucHJvcHMuc3RhdHVzU3RvcmUhLmZpcmViYXNlU3RhdHVzfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmaXJlYmFzZS5hcHAoKS5hdXRoKCkuCg==</text>
+        <text encoding="base64">ICBAYXV0b2JpbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZmlyZWJhc2VDdXJyZW50VXNlciB9IGZyb20gJy4uL2FwaS9maXJlYmFzZS9maXJlYmFzZSc7Cg==</text>
+        <text encoding="base64">ICBAYXV0b2JpbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZmlyZWJhc2VBcHAgfSBmcm9tICcuLi9hcGkvZmlyZWJhc2UvY29uZmlnJzsK</text>
+        <text encoding="base64">ICBAYXV0b2JpbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAYXV0b2JpbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbW9kZSB9ID0gdGhpcy5wcm9wcy5hdXRoU3RvcmUhOwo=</text>
+        <text encoding="base64">aW1vcHJ0IHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnp9GwT7FLvVgnOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
     </registers>
     <search>
@@ -8045,6 +8051,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
