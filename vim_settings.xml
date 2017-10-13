@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/node_modules/react-native-firebase/index.d.ts" timestamp="1507882471116" />
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/loginScreen/component/form/index.ts" timestamp="1495470435094">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="15" />
@@ -1508,11 +1509,11 @@
         <mark key="." line="53" column="26" />
         <mark key="^" line="53" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/initScreen/InitScreen.tsx" timestamp="1507880987901">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="3" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/initScreen/InitScreen.tsx" timestamp="1507882431544">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/api/firebase/index.ts" timestamp="1485213273291">
         <mark key="[" line="3" column="15" />
@@ -7925,7 +7926,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZpcmViYXNlLmEK</text>
       </register>
       <register name="-" type="4">
         <text>add</text>
@@ -7940,25 +7941,25 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZpcmViYXNlLmEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignIScpOwo=</text>
+        <text encoding="base64">ICAgIGZpcmViYXNlLm9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnaCc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignIScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3RoaXMucHJvcHMuc3RhdHVzU3RvcmUhLmZpcmViYXNlU3RhdHVzfQo=</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAYXV0b2JpbmQK</text>
+        <text encoding="base64">ICAgIHJldHVybiAnaCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAYXV0b2JpbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAge3RoaXMucHJvcHMuc3RhdHVzU3RvcmUhLmZpcmViYXNlU3RhdHVzfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBAYXV0b2JpbmQK</text>
