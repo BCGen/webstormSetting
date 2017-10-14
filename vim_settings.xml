@@ -1508,12 +1508,12 @@
         <mark key="." line="53" column="26" />
         <mark key="^" line="53" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/initScreen/InitScreen.tsx" timestamp="1507986077557">
-        <mark key="[" line="75" column="28" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/initScreen/InitScreen.tsx" timestamp="1507987314117">
         <mark key="k" line="64" column="3" />
-        <mark key="]" line="75" column="27" />
-        <mark key="." line="75" column="27" />
-        <mark key="^" line="75" column="27" />
+        <mark key="[" line="69" column="18" />
+        <mark key="]" line="69" column="17" />
+        <mark key="." line="69" column="17" />
+        <mark key="^" line="69" column="17" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/api/firebase/index.ts" timestamp="1485213273291">
         <mark key="[" line="3" column="15" />
@@ -7922,11 +7922,11 @@
       <jump line="25" column="8" filename="$USER_HOME$/Documents/bitbucket/projectA/src/screens/authScreen/components/PasswordForgetButton.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcG9wdWxhdGlvbjogdGhpcy5pKyssCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>cities</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -7938,31 +7938,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgcG9wdWxhdGlvbjogdGhpcy5pKyssCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4oJ0Vycm9yIGdldHRpbmcgZG9jdW1lbnQ6JywgZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVycm9yID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4oJ0Vycm9yIGdldHRpbmcgZG9jdW1lbnQ6JywgZXJyb3IpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVycm9yID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUud2Fybihkb2MuaWQsICcgPT4gJywgZG9jLmRhdGEoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeVNuYXBzaG90LmZvckVhY2goZG9jID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUud2Fybihkb2MuaWQsICcgPT4gJywgZG9jLmRhdGEoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4ocXVlcnlTbmFwc2hvdCA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeVNuYXBzaG90LmZvckVhY2goZG9jID0+IHsK</text>
       </register>
     </registers>
     <search>
