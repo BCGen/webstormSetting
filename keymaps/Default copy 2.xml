@@ -16,8 +16,10 @@
   </action>
   <action id="Flutter.Toolbar.ReloadAction">
     <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
-    <keyboard-shortcut first-keystroke="alt c" />
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="JS.TypeScript.Compile">
+    <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt d" />
