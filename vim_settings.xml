@@ -153,11 +153,11 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1508756015112">
-        <mark key="[" line="120" column="18" />
-        <mark key="]" line="120" column="38" />
-        <mark key="." line="120" column="38" />
-        <mark key="^" line="120" column="38" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1508758709901">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="62" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/.babelrc" timestamp="1501531809776">
         <mark key="[" line="2" column="31" />
@@ -2560,10 +2560,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/android/settings.gradle" timestamp="1508742372165">
-        <mark key="[" line="4" column="128" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/android/settings.gradle" timestamp="1508757652609">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="12" column="135" />
+        <mark key="." line="12" column="135" />
+        <mark key="^" line="12" column="135" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/stores/model/user.ts" timestamp="1504032898143">
         <mark key="[" line="36" column="23" />
@@ -3093,7 +3094,7 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/react-native-navigation-bootstrap-master/app.js" timestamp="1508744234664">
+      <file name="$USER_HOME$/Documents/bitbucket/react-native-navigation-bootstrap-master/app.js" timestamp="1508757420819">
         <mark key="[" line="57" column="17" />
         <mark key="]" line="57" column="17" />
         <mark key="." line="57" column="17" />
@@ -6040,10 +6041,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/android/app/build.gradle" timestamp="1508743769438">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/android/app/build.gradle" timestamp="1508757695337">
+        <mark key="[" line="155" column="20" />
+        <mark key="]" line="155" column="20" />
+        <mark key="." line="155" column="20" />
+        <mark key="^" line="155" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/tsconfig.json" timestamp="1484260989869">
         <mark key="[" line="1" column="0" />
@@ -6771,11 +6773,11 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/android/app/src/main/java/com/projecta/MainApplication.java" timestamp="1508744789295">
-        <mark key="[" line="37" column="3" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/android/app/src/main/java/com/projecta/MainApplication.java" timestamp="1508757722609">
+        <mark key="[" line="7" column="66" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bitbucket/demo/src/components/common/header/AlertIcon.tsx" timestamp="1494749655379">
         <mark key="[" line="18" column="14" />
@@ -7782,8 +7784,8 @@
       <jump line="25" column="8" filename="$USER_HOME$/Documents/bitbucket/projectA/src/screens/authScreen/components/PasswordForgetButton.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsYWJlbDogJ1NldHRpbmcnLAo=</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -7798,31 +7800,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbDogJ1NldHRpbmcnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbDogJ0hvbWUnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbDogJ0hvbWUnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gVXNhZ2UgZXhhbXBsZQo=</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZTogJ1NjcmVlbiBUd28nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZTogJ1NjcmVlbiBPbmUnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZTogJ1NjcmVlbiBPbmUnLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gfSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHsKICAgICAgICBsYWJlbDogJ21haW4nLAogICAgICAgIHNjcmVlbnM6ICdyZWFjdC1uYXRpdmUtbmF2aWdhdGlvbi1ib290c3RyYXAnLAogICAgICAgIGljb246IGljb24uY3JlYXRlLAogICAgICAgIHRpdGxlOiAnTWFpbicKICAgICAgfSw=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICB9KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncHJlcGFyZUljb25zJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgIHJlc29sdmUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
