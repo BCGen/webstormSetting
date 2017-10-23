@@ -158,11 +158,11 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1508762183435">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="62" column="16" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1508764131493">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="28" column="40" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/.babelrc" timestamp="1501531809776">
         <mark key="[" line="2" column="31" />
@@ -3174,7 +3174,7 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/react-native-navigation-bootstrap-master/app.js" timestamp="1508761008931">
+      <file name="$USER_HOME$/Documents/bitbucket/react-native-navigation-bootstrap-master/app.js" timestamp="1508763226686">
         <mark key="[" line="57" column="17" />
         <mark key="]" line="57" column="17" />
         <mark key="." line="57" column="17" />
@@ -7990,46 +7990,84 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcz86IHN0cmluZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>CustomerListScreen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uIHRpdGxlPXsnUHJlc3MnfSBvblByZXNzPXsoKSA9PiB0aGlzLnByb3BzLm5hdmlnYXRvci5wdXNoKHsKICAgICAgICAgIHNjcmVlbjogJ2N1c3RvbWVyTGlzdFNjcmVlbicsIHRpdGxlOiAnISEnCiAgICAgICAgfSl9IC8+Cg==</text>
+        <text encoding="base64">Y29uc3QgRmlyc3RSb3V0ZSA9ICgpID0+IDxDdXN0b21lckxpc3RTY3JlZW4gLz47Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcz86IHN0cmluZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbDogJ1NldHRpbmcnLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y2xhc3MgcmVhY3RfbmF0aXZlX25hdmlnYXRpb25fYm9vdHN0cmFwIGV4dGVuZHMgQ29tcG9uZW50IHsKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8VmlldyBzdHlsZT17eyBmbGV4OiAxIH19PgogICAgICAgIHsvKjxCdXR0b24gdGl0bGU9eydQeHJlc3MnfSBvblByZXNzPXsoKSA9PiB0aGlzLnByb3BzLm5hdmlnYXRvci5wdXNoKHsqL30KICAgICAgICAgIHsvKnNjcmVlbjogU0NSRUVOUy5jdXN0b21lckxpc3RTY3JlZW4sIHRpdGxlOiAnISEnKi99CiAgICAgICAgey8qfSl9IC8+Ki99CiAgICAgICAgey8qPEJ1dHRvbiB0aXRsZT17J1ByZXNzJ30gb25QcmVzcz17KCkgPT4gdGhpcy5wcm9wcy5uYXZpZ2F0b3IucHVzaCh7Ki99CiAgICAgICAgICB7LypzY3JlZW46ICd0YWInLCB0aXRsZTogJyEhJyovfQogICAgICAgIHsvKn0pfSAvPiovfQogICAgICA8L1ZpZXc+CiAgICApOwogIH0KfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbDogJ0hvbWUnLAo=</text>
+        <text encoding="base64">TmF2aWdhdGlvbi5yZWdpc3RlckNvbXBvbmVudCgncmVhY3QtbmF0aXZlLW5hdmlnYXRpb24tYm9vdHN0cmFwJywgKCkgPT4gcmVhY3RfbmF0aXZlX25hdmlnYXRpb25fYm9vdHN0cmFwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbDogJ0hvbWUnLAo=</text>
+        <text encoding="base64">Ly8gTmF2aWdhdGlvbi5yZWdpc3RlckNvbXBvbmVudChTQ1JFRU5TLnNldHRpbmdTY3JlZW4sICgpID0+IHNjcmVlbnMuc2V0dGluZ1NjcmVlbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZTogJ1NjcmVlbiBUd28nLAo=</text>
+        <text encoding="base64">Ly8gTmF2aWdhdGlvbi5yZWdpc3RlckNvbXBvbmVudChTQ1JFRU5TLmN1c3RvbWVyTGlzdFNjcmVlbiwgKCkgPT4gc2NyZWVucy5jdXN0b21lckxpc3RTY3JlZW4pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZTogJ1NjcmVlbiBPbmUnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZTogJ1NjcmVlbiBPbmUnLAo=</text>
+      <register name="7" type="4">
+        <text>// async function prepareIcons() {
+//
+//   const icons = await Promise.all([
+//     Icon.getImageSource('ios-home', 30),
+//     Icon.getImageSource('ios-search', 30),
+//     Icon.getImageSource('ios-add-circle', 60),
+//     Icon.getImageSource('ios-heart', 30),
+//     Icon.getImageSource('ios-person', 30),
+//   ]);
+//
+//   const [home, explore, create, notifications, profile] = icons;
+//
+//   return { home, explore, create, notifications, profile };
+// }
+//
+// async function start() {
+//   const icons = await prepareIcons();
+//   Navigation.startTabBasedApp({
+//     tabs: [
+//       {
+//         screen: 'react-native-navigation-bootstrap',
+//         icon: icons.home,
+//         title: 'Screen One',
+//       },
+//       {
+//         screen: SCREENS.customerListScreen,
+//         icon: icons.home,
+//         title: 'Screen One',
+//       },
+//       {
+//         screen: SCREENS.settingScreen,
+//         icon: icons.profile,
+//         title: 'Screen Two',
+//       },
+//     ],
+//   });
+// }
+//
+// start();</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHsKICAgICAgICBsYWJlbDogJ21haW4nLAogICAgICAgIHNjcmVlbnM6ICdyZWFjdC1uYXRpdmUtbmF2aWdhdGlvbi1ib290c3RyYXAnLAogICAgICAgIGljb246IGljb24uY3JlYXRlLAogICAgICAgIHRpdGxlOiAnTWFpbicKICAgICAgfSw=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgU2Vjb25kUm91dGUgPSAoKSA9PiA8VmlldyBzdHlsZT17eyBmbGV4OiAxLCBiYWNrZ3JvdW5kQ29sb3I6ICcjNjczYWI3JyB9fSAvPjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncHJlcGFyZUljb25zJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEN1c3RvbWVyTGlzdFNjcmVlbiBmcm9tICcuL2Rpc3Qvc2NyZWVucy9jdXN0b21lckxpc3RTY3JlZW4nOwo=</text>
       </register>
     </registers>
     <search>
