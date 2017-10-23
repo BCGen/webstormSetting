@@ -158,8 +158,11 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1508744415941">
-        <mark key="^" line="12" column="8" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1508747825945">
+        <mark key="[" line="72" column="76" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/.babelrc" timestamp="1501531809776">
         <mark key="[" line="2" column="31" />
@@ -2841,7 +2844,7 @@
         <mark key="^" line="63" column="14" />
         <mark key="." line="59" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/index.ts" timestamp="1508693776281">
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/index.ts" timestamp="1508747784013">
         <mark key="[" line="13" column="6" />
         <mark key="]" line="13" column="6" />
         <mark key="^" line="49" column="2" />
@@ -7990,23 +7993,23 @@
       <jump line="25" column="8" filename="$USER_HOME$/Documents/bitbucket/projectA/src/screens/authScreen/components/PasswordForgetButton.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOnJlYWN0LW5hdGl2ZS1uYXZpZ2F0aW9uIikK</text>
+      <register name="&quot;" type="4">
+        <text>customerListScreen</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>customerListScreen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignIScpCg==</text>
+        <text encoding="base64">TmF2aWdhdGlvbi5yZWdlbmVyYXRvclJ1bnRpbWUoJ2N1c3RvbWVyTGlzdFNjcmVlbicsICgpID0+IHNjcmVlbnMuY3VzdG9tZXJMaXN0U2NyZWVuKTsK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOnJlYWN0LW5hdGl2ZS1uYXZpZ2F0aW9uIikK</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJycK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOnJlYWN0LW5hdGl2ZS1uYXZpZ2F0aW9uIikK</text>
@@ -8015,22 +8018,22 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOnJlYWN0LW5hdGl2ZS1uYXZpZ2F0aW9uIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOnJlYWN0LW5hdGl2ZS1uYXZpZ2F0aW9uIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogIi4uLy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUvcmVhY3QuZ3JhZGxlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5zb2xvYWRlci5Tb0xvYWRlcjsK</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogIi4uLy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUvcmVhY3QuZ3JhZGxlIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5zaGVsbC5NYWluUmVhY3RQYWNrYWdlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5zb2xvYWRlci5Tb0xvYWRlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5SZWFjdE5hdGl2ZUhvc3Q7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5zaGVsbC5NYWluUmVhY3RQYWNrYWdlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5SZWFjdFBhY2thZ2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5SZWFjdE5hdGl2ZUhvc3Q7Cg==</text>
       </register>
     </registers>
     <search>
