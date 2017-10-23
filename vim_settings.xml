@@ -158,11 +158,11 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1508764131493">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="28" column="40" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/App.js" timestamp="1508767543289">
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="51" />
+        <mark key="^" line="62" column="51" />
+        <mark key="." line="62" column="51" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/.babelrc" timestamp="1501531809776">
         <mark key="[" line="2" column="31" />
@@ -2844,11 +2844,10 @@
         <mark key="^" line="63" column="14" />
         <mark key="." line="59" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/index.ts" timestamp="1508747784013">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="6" />
-        <mark key="^" line="49" column="2" />
-        <mark key="." line="13" column="6" />
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/index.ts" timestamp="1508766562416">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Bitbucket/projecta/src/screen/reportAddScreen/component/Input.tsx" timestamp="1501262696400">
         <mark key="[" line="21" column="0" />
@@ -6473,6 +6472,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/mainScreen/index.ts" timestamp="1508766953248">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/components/common/MainLayout.tsx" timestamp="1484688024807">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
@@ -7627,6 +7632,12 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="33" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/bitbucket/projectA/src/screens/mainScreen/index.tsx" timestamp="1508767463825">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="32" />
+        <mark key="." line="44" column="32" />
+        <mark key="^" line="44" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/bitbucket/projecta/src/screens/customerListScreen/CustomerListScreen.tsx" timestamp="1503286293528">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="80" />
@@ -7989,11 +8000,11 @@
       <jump line="25" column="8" filename="$USER_HOME$/Documents/bitbucket/projectA/src/screens/authScreen/components/PasswordForgetButton.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TabViewExample</text>
       </register>
       <register name="-" type="4">
-        <text>CustomerListScreen</text>
+        <text>TabViewExample</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -8005,69 +8016,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJycK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y2xhc3MgcmVhY3RfbmF0aXZlX25hdmlnYXRpb25fYm9vdHN0cmFwIGV4dGVuZHMgQ29tcG9uZW50IHsKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8VmlldyBzdHlsZT17eyBmbGV4OiAxIH19PgogICAgICAgIHsvKjxCdXR0b24gdGl0bGU9eydQeHJlc3MnfSBvblByZXNzPXsoKSA9PiB0aGlzLnByb3BzLm5hdmlnYXRvci5wdXNoKHsqL30KICAgICAgICAgIHsvKnNjcmVlbjogU0NSRUVOUy5jdXN0b21lckxpc3RTY3JlZW4sIHRpdGxlOiAnISEnKi99CiAgICAgICAgey8qfSl9IC8+Ki99CiAgICAgICAgey8qPEJ1dHRvbiB0aXRsZT17J1ByZXNzJ30gb25QcmVzcz17KCkgPT4gdGhpcy5wcm9wcy5uYXZpZ2F0b3IucHVzaCh7Ki99CiAgICAgICAgICB7LypzY3JlZW46ICd0YWInLCB0aXRsZTogJyEhJyovfQogICAgICAgIHsvKn0pfSAvPiovfQogICAgICA8L1ZpZXc+CiAgICApOwogIH0KfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TmF2aWdhdGlvbi5yZWdpc3RlckNvbXBvbmVudCgncmVhY3QtbmF0aXZlLW5hdmlnYXRpb24tYm9vdHN0cmFwJywgKCkgPT4gcmVhY3RfbmF0aXZlX25hdmlnYXRpb25fYm9vdHN0cmFwKTsK</text>
+        <text encoding="base64">ICAgICAgICBvbkluZGV4Q2hhbmdlPXt0aGlzLl9vbkluZGV4Q2hhbmdlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gTmF2aWdhdGlvbi5yZWdpc3RlckNvbXBvbmVudChTQ1JFRU5TLnNldHRpbmdTY3JlZW4sICgpID0+IHNjcmVlbnMuc2V0dGluZ1NjcmVlbik7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gTmF2aWdhdGlvbi5yZWdpc3RlckNvbXBvbmVudChTQ1JFRU5TLmN1c3RvbWVyTGlzdFNjcmVlbiwgKCkgPT4gc2NyZWVucy5jdXN0b21lckxpc3RTY3JlZW4pOwo=</text>
+        <text encoding="base64">ICBAb2JzZXJ2ZXIge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0ZSA9IHsK</text>
       </register>
-      <register name="7" type="4">
-        <text>// async function prepareIcons() {
-//
-//   const icons = await Promise.all([
-//     Icon.getImageSource('ios-home', 30),
-//     Icon.getImageSource('ios-search', 30),
-//     Icon.getImageSource('ios-add-circle', 60),
-//     Icon.getImageSource('ios-heart', 30),
-//     Icon.getImageSource('ios-person', 30),
-//   ]);
-//
-//   const [home, explore, create, notifications, profile] = icons;
-//
-//   return { home, explore, create, notifications, profile };
-// }
-//
-// async function start() {
-//   const icons = await prepareIcons();
-//   Navigation.startTabBasedApp({
-//     tabs: [
-//       {
-//         screen: 'react-native-navigation-bootstrap',
-//         icon: icons.home,
-//         title: 'Screen One',
-//       },
-//       {
-//         screen: SCREENS.customerListScreen,
-//         icon: icons.home,
-//         title: 'Screen One',
-//       },
-//       {
-//         screen: SCREENS.settingScreen,
-//         icon: icons.profile,
-//         title: 'Screen Two',
-//       },
-//     ],
-//   });
-// }
-//
-// start();</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgU2Vjb25kUm91dGUgPSAoKSA9PiA8VmlldyBzdHlsZT17eyBmbGV4OiAxLCBiYWNrZ3JvdW5kQ29sb3I6ICcjNjczYWI3JyB9fSAvPjsK</text>
+        <text encoding="base64">ICAgIGluZGV4OiAwLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEN1c3RvbWVyTGlzdFNjcmVlbiBmcm9tICcuL2Rpc3Qvc2NyZWVucy9jdXN0b21lckxpc3RTY3JlZW4nOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnOwo=</text>
       </register>
     </registers>
     <search>
