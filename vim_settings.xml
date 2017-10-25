@@ -4319,11 +4319,11 @@
         <mark key="." line="17" column="74" />
         <mark key="^" line="17" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/mst-todo/src/App.tsx" timestamp="1508931023763">
-        <mark key="[" line="43" column="3" />
-        <mark key="]" line="44" column="1" />
-        <mark key="." line="44" column="1" />
-        <mark key="^" line="44" column="1" />
+      <file name="$USER_HOME$/Documents/bitbucket/mst-todo/src/App.tsx" timestamp="1508933215483">
+        <mark key="[" line="68" column="22" />
+        <mark key="]" line="68" column="21" />
+        <mark key="." line="68" column="21" />
+        <mark key="^" line="68" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/utils/localization/constants.ts" timestamp="1484151711662">
         <mark key="[" line="1" column="29" />
@@ -8016,11 +8016,11 @@
       <jump line="25" column="8" filename="$USER_HOME$/Documents/bitbucket/projectA/src/screens/authScreen/components/PasswordForgetButton.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -8032,31 +8032,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIDxUb2RvQ291bnRlclZpZXcgc3RvcmU9e3Byb3BzLnN0b3JlfSAvPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBqamsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVuZGVyKDxBcHBWaWV3IHN0b3JlPXtzdG9yZX0gLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICBqamsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0Cg==</text>
+        <text encoding="base64">cmVuZGVyKDxBcHBWaWV3IHN0b3JlPXtzdG9yZX0gLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly8gYXV0b3J1bigoKSA9PiB7CiAgICAvLwogICAgLy8gICBpZiAodGhpcy5wZXJtaXNzaW9uID09PSAnc3VwZXInKSB7CiAgICAvLyAgICAgY3VzdG9tZXJTdG9yZS5zdWJzY3JpYmUoKTsKICAgIC8vICAgfSBlbHNlIGlmICh0aGlzLnBlcm1pc3Npb24gPT09ICdub3JtYWwnKSB7CiAgICAvLwogICAgLy8gICB9CiAgICAvLyB9KTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNDUkVFTlNzPSB7Cg==</text>
+        <text encoding="base64">ZXhwb3J0Cg==</text>
       </register>
     </registers>
     <search>
