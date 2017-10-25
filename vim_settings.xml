@@ -4319,11 +4319,11 @@
         <mark key="." line="17" column="74" />
         <mark key="^" line="17" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/bitbucket/mst-todo/src/App.tsx" timestamp="1508933215483">
-        <mark key="[" line="68" column="22" />
-        <mark key="]" line="68" column="21" />
-        <mark key="." line="68" column="21" />
-        <mark key="^" line="68" column="21" />
+      <file name="$USER_HOME$/Documents/bitbucket/mst-todo/src/App.tsx" timestamp="1508935917098">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+        <mark key="." line="33" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/GitHub/exponent/phone-demo/src/utils/localization/constants.ts" timestamp="1484151711662">
         <mark key="[" line="1" column="29" />
@@ -8017,10 +8017,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRcPg==</text>
@@ -8032,31 +8032,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxUb2RvQ291bnRlclZpZXcgc3RvcmU9e3Byb3BzLnN0b3JlfSAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dmFyIGN1cnJlbnRGcmFtZSA9IC0xOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3Qgc3RhdGVzID0gW107Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBqamsK</text>
+        <text encoding="base64">Ly8gICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVuZGVyKDxBcHBWaWV3IHN0b3JlPXtzdG9yZX0gLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykpOwo=</text>
+        <text encoding="base64">Ly8gICAgIHN0YXRlcy5wdXNoKHNuYXBzaG90KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">Ly8gICAgIGN1cnJlbnRGcmFtZSsrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0Cg==</text>
+        <text encoding="base64">Ly8gICBpZiAoY3VycmVudEZyYW1lID09PSBzdGF0ZXMubGVuZ3RoIC0gMSkgewo=</text>
       </register>
     </registers>
     <search>
